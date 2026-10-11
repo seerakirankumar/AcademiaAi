@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import math
+from decimal import Decimal
 from datetime import date, datetime
 from typing import Any, Iterable
 
@@ -14,6 +15,8 @@ def is_missing(value: Any) -> bool:
     """True for None / NaN / pd.NA / NaT (i.e. 'no data')."""
     if value is None or value is pd.NA or value is pd.NaT:
         return True
+    if isinstance(value, Decimal):
+        return not value.is_finite()
     if isinstance(value, (float, np.floating)):
         return not math.isfinite(float(value))
     return False
