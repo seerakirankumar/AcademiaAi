@@ -1,0 +1,501 @@
+Student ID,Student Name,Academic Year,Eligible for Placement?,Aptitude Assessment Score (%),Coding Assessment Score (%),Mock Interviews Completed,Resume Assessment Score (%),Communication and Interview Score (%),Overall Placement Readiness Score (%),Current Placement Status
+STU20260001,Neha Singh,2026-2027,Not Yet Eligible,77.1,68.1,1,43.4,60.7,56.3,Not Placed / Not Yet Placed
+STU20260002,Aditya Devi,2026-2027,Not Yet Eligible,43.7,31.2,4,42.1,63.8,49.0,Not Placed / Not Yet Placed
+STU20260003,Naveen Mishra,2026-2027,Yes,57.1,66.4,3,87.7,41.7,63.5,Not Placed / Not Yet Placed
+STU20260004,Neha Gupta,2026-2027,Not Yet Eligible,86.2,51.1,4,52.0,55.8,66.3,Not Placed / Not Yet Placed
+STU20260005,Harsha Naidu,2026-2027,Yes,70.7,46.1,1,72.0,42.5,50.6,Not Placed / Not Yet Placed
+STU20260006,Sandeep Joshi,2026-2027,Not Yet Eligible,20.5,48.3,4,60.5,45.3,49.2,Not Placed / Not Yet Placed
+STU20260007,Varun Iyer,2026-2027,Yes,97.5,43.1,3,60.2,81.8,66.5,Not Placed / Not Yet Placed
+STU20260008,Nandini Joshi,2026-2027,Not Yet Eligible,70.5,36.8,2,75.9,55.4,53.6,Not Placed / Not Yet Placed
+STU20260009,Diya Varma,2026-2027,Yes,15.3,40.6,2,60.3,36.1,36.7,Not Placed / Not Yet Placed
+STU20260010,Meera Chowdary,2026-2027,Yes,60.8,47.7,5,40.8,65.1,62.1,Not Placed / Not Yet Placed
+STU20260011,Sandeep Rao,2026-2027,Not Yet Eligible,52.8,32.6,5,62.9,60.4,58.4,Not Placed / Not Yet Placed
+STU20260012,Ananya Rao,2026-2027,Not Yet Eligible,60.8,65.6,4,56.2,91.2,68.4,Not Placed / Not Yet Placed
+STU20260013,Nandini Jain,2026-2027,Not Yet Eligible,24.9,86.2,2,50.6,42.8,52.0,Not Placed / Not Yet Placed
+STU20260014,Meera Goud,2026-2027,Not Yet Eligible,52.7,49.9,4,57.4,74.9,60.2,Not Placed / Not Yet Placed
+STU20260015,Rohan Mishra,2026-2027,Yes,76.7,28.9,4,48.0,30.4,54.1,Not Placed / Not Yet Placed
+STU20260016,Madhavi Mishra,2026-2027,Yes,68.5,43.6,2,67.5,36.7,52.0,Not Placed / Not Yet Placed
+STU20260017,Srinivas Kumar,2026-2027,Yes,26.7,14.9,3,51.4,50.7,35.9,Not Placed / Not Yet Placed
+STU20260018,Priya Naidu,2026-2027,Yes,41.6,83.4,2,31.8,52.1,53.4,Not Placed / Not Yet Placed
+STU20260019,Kavya Sahu,2026-2027,Yes,45.9,72.3,3,57.4,76.8,61.5,Not Placed / Not Yet Placed
+STU20260020,Teja Prasad,2026-2027,Yes,38.9,58.5,4,38.7,55.3,54.6,Not Placed / Not Yet Placed
+STU20260021,Vijay Khan,2026-2027,Not Yet Eligible,60.2,52.8,3,49.9,72.7,57.6,Not Placed / Not Yet Placed
+STU20260022,Vijay Yadav,2026-2027,Not Yet Eligible,47.7,31.9,5,66.0,16.7,53.0,Not Placed / Not Yet Placed
+STU20260023,Kavya Goud,2026-2027,Yes,59.2,52.2,5,41.7,70.9,63.8,Not Placed / Not Yet Placed
+STU20260024,Pranav Yadav,2026-2027,Yes,63.0,40.9,3,31.7,88.4,53.6,Not Placed / Not Yet Placed
+STU20260025,Nandini Reddy,2026-2027,Not Yet Eligible,46.7,36.3,3,82.0,83.8,55.2,Not Placed / Not Yet Placed
+STU20260026,Sanjana Shetty,2026-2027,Yes,49.3,40.8,2,75.3,57.5,49.6,Not Placed / Not Yet Placed
+STU20260027,Manoj Naidu,2026-2027,Yes,50.3,26.3,3,46.0,41.2,43.5,Not Placed / Not Yet Placed
+STU20260028,Akshara Devi,2026-2027,Yes,69.9,10.0,3,56.2,33.0,44.2,Not Placed / Not Yet Placed
+STU20260029,Avani Yadav,2026-2027,Not Yet Eligible,41.4,0.0,1,35.9,37.8,23.5,Not Placed / Not Yet Placed
+STU20260030,Srinivas Yadav,2026-2027,Yes,37.3,70.0,2,69.1,45.5,53.3,Not Placed / Not Yet Placed
+STU20260031,Sanjana Khan,2026-2027,Not Yet Eligible,56.2,49.9,3,52.0,37.4,52.6,Not Placed / Not Yet Placed
+STU20260032,Teja Varma,2026-2027,Yes,45.5,2.6,2,32.0,57.9,30.7,Not Placed / Not Yet Placed
+STU20260033,Harsha Yadav,2026-2027,Yes,42.4,80.5,3,85.8,42.4,63.9,Not Placed / Not Yet Placed
+STU20260034,Mohan Das,2026-2027,Not Yet Eligible,67.8,92.4,4,54.7,70.4,75.9,Not Placed / Not Yet Placed
+STU20260035,Arjun Mohanty,2026-2027,Yes,72.8,27.7,2,52.1,36.7,46.0,Not Placed / Not Yet Placed
+STU20260036,Manoj Goud,2026-2027,Yes,45.0,71.7,4,57.8,45.1,62.0,Not Placed / Not Yet Placed
+STU20260037,Ananya Reddy,2026-2027,Not Yet Eligible,64.4,50.1,3,62.5,56.0,58.1,Not Placed / Not Yet Placed
+STU20260038,Anil Patel,2026-2027,Yes,95.8,42.5,3,83.6,48.2,66.1,Not Placed / Not Yet Placed
+STU20260039,Abhinav Jain,2026-2027,Yes,70.2,70.1,5,55.7,64.7,73.4,Not Placed / Not Yet Placed
+STU20260040,Chaitanya Kumar,2026-2027,Not Yet Eligible,65.9,39.6,4,42.5,79.4,58.7,Not Placed / Not Yet Placed
+STU20260041,Kavya Patel,2026-2027,Yes,79.6,44.9,0,81.5,50.1,50.6,Not Placed / Not Yet Placed
+STU20260042,Varun Jain,2026-2027,Not Yet Eligible,58.6,43.8,2,63.0,55.1,50.7,Not Placed / Not Yet Placed
+STU20260043,Sneha Goud,2026-2027,Not Yet Eligible,47.6,76.0,3,34.4,62.0,58.1,Not Placed / Not Yet Placed
+STU20260044,Anil Mohanty,2026-2027,Not Yet Eligible,83.9,34.6,3,30.8,52.3,53.2,Not Placed / Not Yet Placed
+STU20260045,Aditya Iyer,2026-2027,Not Yet Eligible,42.1,59.0,3,53.4,80.9,56.3,Not Placed / Not Yet Placed
+STU20260046,Kiran Mishra,2026-2027,Yes,39.9,53.5,1,50.2,38.5,41.4,Not Placed / Not Yet Placed
+STU20260047,Tarun Shetty,2026-2027,Not Yet Eligible,28.1,35.2,3,46.7,43.7,41.0,Not Placed / Not Yet Placed
+STU20260048,Dev Khan,2026-2027,Yes,51.5,30.8,1,33.9,40.9,35.3,Not Placed / Not Yet Placed
+STU20260049,Krishna Reddy,2026-2027,Yes,9.8,39.9,2,49.3,34.3,33.2,Not Placed / Not Yet Placed
+STU20260050,Aadhya Jain,2026-2027,Not Yet Eligible,74.7,65.0,2,66.2,43.9,60.5,Not Placed / Not Yet Placed
+STU20260051,Teja Pillai,2026-2027,Not Yet Eligible,77.6,51.7,3,62.5,55.5,61.8,Not Placed / Not Yet Placed
+STU20260052,Siddharth Sharma,2026-2027,Not Yet Eligible,76.1,81.7,3,42.1,45.1,66.4,Not Placed / Not Yet Placed
+STU20260053,Dev Patel,2026-2027,Yes,42.5,40.0,2,58.5,57.4,45.1,Not Placed / Not Yet Placed
+STU20260054,Aarav Naidu,2026-2027,Not Yet Eligible,62.8,50.1,3,78.3,36.4,58.1,Not Placed / Not Yet Placed
+STU20260055,Tarun Jain,2026-2027,Yes,58.6,79.4,2,65.4,43.9,60.7,Not Placed / Not Yet Placed
+STU20260056,Divya Kashyap,2026-2027,Not Yet Eligible,55.8,51.0,3,59.6,43.5,54.5,Not Placed / Not Yet Placed
+STU20260057,Sandeep Verma,2026-2027,Yes,18.5,32.1,1,63.8,1.7,28.0,Not Placed / Not Yet Placed
+STU20260058,Vijay Khan,2026-2027,Yes,56.5,35.7,3,52.0,36.7,48.3,Not Placed / Not Yet Placed
+STU20260059,Sai Sahu,2026-2027,Yes,53.7,48.9,2,40.5,20.1,44.2,Not Placed / Not Yet Placed
+STU20260060,Kiran Joshi,2026-2027,Yes,28.1,53.5,4,54.3,80.9,55.3,Not Placed / Not Yet Placed
+STU20260061,Riya Iyer,2026-2027,Yes,47.1,43.2,4,47.3,68.4,54.7,Not Placed / Not Yet Placed
+STU20260062,Charan Devi,2026-2027,Yes,48.7,31.3,3,54.8,19.3,43.7,Not Placed / Not Yet Placed
+STU20260063,Sneha Shetty,2026-2027,Yes,86.1,61.4,3,33.6,72.8,64.3,Not Placed / Not Yet Placed
+STU20260064,Divya Babu,2026-2027,Yes,70.6,79.5,4,65.1,44.4,71.7,Not Placed / Not Yet Placed
+STU20260065,Akshara Devi,2026-2027,Not Yet Eligible,51.6,96.8,3,50.0,42.1,65.7,Not Placed / Not Yet Placed
+STU20260066,Pranav Devi,2026-2027,Yes,57.9,56.3,3,69.5,80.7,61.8,Not Placed / Not Yet Placed
+STU20260067,Gowtham Kashyap,2026-2027,Not Yet Eligible,61.9,50.9,3,60.0,76.2,59.4,Not Placed / Not Yet Placed
+STU20260068,Ananya Chowdary,2026-2027,Yes,46.9,77.5,5,55.4,87.3,72.0,Not Placed / Not Yet Placed
+STU20260069,Pranav Joshi,2026-2027,Yes,61.2,26.9,3,34.0,54.3,45.9,Not Placed / Not Yet Placed
+STU20260070,Sandeep Singh,2026-2027,Yes,73.2,28.4,3,48.1,26.4,48.7,Not Placed / Not Yet Placed
+STU20260071,Akshara Singh,2026-2027,Yes,82.5,43.7,2,92.2,63.6,61.9,Not Placed / Not Yet Placed
+STU20260072,Anil Devi,2026-2027,Yes,43.1,37.3,3,58.3,42.8,47.0,Not Placed / Not Yet Placed
+STU20260073,Sneha Prasad,2026-2027,Not Yet Eligible,52.6,32.5,0,69.1,55.2,38.8,Not Placed / Not Yet Placed
+STU20260074,Nikhil Jain,2026-2027,Yes,28.8,58.6,5,25.5,64.1,55.0,Not Placed / Not Yet Placed
+STU20260075,Harsha Joshi,2026-2027,Yes,20.1,9.3,3,52.8,50.3,32.8,Not Placed / Not Yet Placed
+STU20260076,Aadhya Babu,2026-2027,Not Yet Eligible,58.9,51.6,3,74.8,48.0,58.2,Not Placed / Not Yet Placed
+STU20260077,Srinivas Goud,2026-2027,Yes,73.8,58.1,2,54.0,29.1,54.9,Not Placed / Not Yet Placed
+STU20260078,Gowtham Pillai,2026-2027,Yes,57.8,61.3,3,65.4,36.5,58.3,Not Placed / Not Yet Placed
+STU20260079,Avani Singh,2026-2027,Yes,57.3,50.6,3,54.6,25.1,52.2,Not Placed / Not Yet Placed
+STU20260080,Srinivas Verma,2026-2027,Not Yet Eligible,45.7,46.0,2,95.9,31.7,50.8,Not Placed / Not Yet Placed
+STU20260081,Naveen Gupta,2026-2027,Yes,18.3,34.8,1,65.1,69.0,35.7,Not Placed / Not Yet Placed
+STU20260082,Teja Kumar,2026-2027,Yes,91.7,62.6,2,49.6,52.5,62.4,Not Placed / Not Yet Placed
+STU20260083,Krishna Raju,2026-2027,Yes,46.5,67.8,1,25.3,22.9,42.0,Not Placed / Not Yet Placed
+STU20260084,Yamini Sharma,2026-2027,Yes,83.4,56.1,3,48.9,78.8,64.9,Not Placed / Not Yet Placed
+STU20260085,Aadhya Iyer,2026-2027,Yes,40.2,40.7,3,35.8,19.9,41.6,Not Placed / Not Yet Placed
+STU20260086,Madhavi Patel,2026-2027,Yes,35.4,87.5,1,62.8,36.6,52.2,Not Placed / Not Yet Placed
+STU20260087,Varun Das,2026-2027,Not Yet Eligible,50.6,53.3,3,100.0,57.2,61.4,Not Placed / Not Yet Placed
+STU20260088,Aadhya Reddy,2026-2027,Yes,81.0,51.3,4,65.5,69.3,68.4,Not Placed / Not Yet Placed
+STU20260089,Priya Reddy,2026-2027,Not Yet Eligible,60.9,46.3,3,46.6,19.1,50.0,Not Placed / Not Yet Placed
+STU20260090,Lakshmi Verma,2026-2027,Yes,42.9,41.5,3,75.7,74.2,53.9,Not Placed / Not Yet Placed
+STU20260091,Teja Murthy,2026-2027,Yes,43.2,90.0,3,65.4,51.3,64.7,Not Placed / Not Yet Placed
+STU20260092,Keerthi Rao,2026-2027,Yes,39.8,46.6,2,60.0,34.5,44.4,Not Placed / Not Yet Placed
+STU20260093,Yamini Kashyap,2026-2027,Not Yet Eligible,12.6,38.1,3,51.3,40.7,38.4,Not Placed / Not Yet Placed
+STU20260094,Madhavi Devi,2026-2027,Not Yet Eligible,77.7,56.8,5,18.7,59.9,65.3,Not Placed / Not Yet Placed
+STU20260095,Madhavi Sharma,2026-2027,Not Yet Eligible,96.7,80.4,3,53.4,63.5,74.7,Not Placed / Not Yet Placed
+STU20260096,Aditya Shetty,2026-2027,Yes,14.4,48.8,2,21.0,56.1,35.0,Not Placed / Not Yet Placed
+STU20260097,Ananya Verma,2026-2027,Yes,29.2,44.8,1,46.3,34.9,35.2,Not Placed / Not Yet Placed
+STU20260098,Aarav Khan,2026-2027,Yes,73.1,50.9,3,22.4,73.4,56.2,Not Placed / Not Yet Placed
+STU20260099,Pooja Goud,2026-2027,Yes,19.3,58.3,3,73.5,85.4,53.9,Not Placed / Not Yet Placed
+STU20260100,Pooja Sharma,2026-2027,Yes,34.2,64.8,1,48.4,18.3,41.1,Not Placed / Not Yet Placed
+STU20260101,Riya Rao,2026-2027,Yes,71.0,55.7,3,58.0,60.9,61.2,Not Placed / Not Yet Placed
+STU20260102,Akshara Joshi,2026-2027,Yes,37.3,60.3,3,57.3,55.0,53.5,Not Placed / Not Yet Placed
+STU20260103,Sai Gupta,2026-2027,Not Yet Eligible,66.2,63.0,3,25.5,59.7,57.3,Not Placed / Not Yet Placed
+STU20260104,Kiran Rao,2026-2027,Not Yet Eligible,30.5,41.6,3,31.8,56.6,42.5,Not Placed / Not Yet Placed
+STU20260105,Madhavi Khan,2026-2027,Yes,42.9,13.7,0,42.1,49.7,26.1,Not Placed / Not Yet Placed
+STU20260106,Kavya Das,2026-2027,Not Yet Eligible,35.6,29.7,1,60.0,41.3,34.9,Not Placed / Not Yet Placed
+STU20260107,Akshara Sharma,2026-2027,Not Yet Eligible,92.0,62.2,4,53.2,63.8,72.0,Not Placed / Not Yet Placed
+STU20260108,Krishna Raju,2026-2027,Yes,60.1,60.9,2,67.5,48.9,56.3,Not Placed / Not Yet Placed
+STU20260109,Sneha Singh,2026-2027,Yes,66.8,78.2,1,59.6,58.5,58.9,Not Placed / Not Yet Placed
+STU20260110,Meera Devi,2026-2027,Not Yet Eligible,87.0,64.9,2,85.0,86.4,70.6,Not Placed / Not Yet Placed
+STU20260111,Ishaan Naidu,2026-2027,Yes,55.7,77.2,2,37.0,59.5,56.6,Not Placed / Not Yet Placed
+STU20260112,Pooja Murthy,2026-2027,Not Yet Eligible,24.7,48.9,2,90.8,18.6,44.3,Not Placed / Not Yet Placed
+STU20260113,Kavya Rao,2026-2027,Yes,43.8,73.8,3,73.7,56.6,61.8,Not Placed / Not Yet Placed
+STU20260114,Abhinav Gupta,2026-2027,Yes,46.8,53.4,3,37.8,59.2,51.3,Not Placed / Not Yet Placed
+STU20260115,Kavya Singh,2026-2027,Yes,33.3,43.8,4,65.0,54.8,52.7,Not Placed / Not Yet Placed
+STU20260116,Sandeep Shetty,2026-2027,Not Yet Eligible,37.2,6.4,3,83.8,70.3,42.8,Not Placed / Not Yet Placed
+STU20260117,Krishna Jain,2026-2027,Yes,34.5,57.7,1,24.0,24.4,36.0,Not Placed / Not Yet Placed
+STU20260118,Nikhil Devi,2026-2027,Not Yet Eligible,66.8,68.0,1,68.8,26.7,54.1,Not Placed / Not Yet Placed
+STU20260119,Vijay Joshi,2026-2027,Yes,14.5,43.3,2,32.6,9.6,30.5,Not Placed / Not Yet Placed
+STU20260120,Sneha Khan,2026-2027,Yes,59.9,36.9,5,100.0,49.3,66.0,Not Placed / Not Yet Placed
+STU20260121,Siddharth Murthy,2026-2027,Yes,57.3,14.1,3,51.3,35.5,41.8,Not Placed / Not Yet Placed
+STU20260122,Teja Kashyap,2026-2027,Yes,55.3,69.1,2,73.9,60.9,59.7,Not Placed / Not Yet Placed
+STU20260123,Priya Yadav,2026-2027,Not Yet Eligible,56.7,48.0,4,55.9,61.7,59.1,Not Placed / Not Yet Placed
+STU20260124,Kavya Naidu,2026-2027,Yes,48.6,64.6,3,18.8,66.0,53.0,Not Placed / Not Yet Placed
+STU20260125,Kiran Sahu,2026-2027,Not Yet Eligible,73.2,64.3,1,69.7,22.5,54.3,Not Placed / Not Yet Placed
+STU20260126,Meera Naidu,2026-2027,Yes,72.6,45.1,3,60.3,63.5,59.1,Not Placed / Not Yet Placed
+STU20260127,Harsha Sahu,2026-2027,Yes,16.5,16.6,2,43.1,91.6,32.7,Not Placed / Not Yet Placed
+STU20260128,Tarun Mishra,2026-2027,Yes,38.9,71.1,1,66.3,49.2,49.9,Not Placed / Not Yet Placed
+STU20260129,Vijay Verma,2026-2027,Not Yet Eligible,41.4,39.4,2,44.1,57.9,42.6,Not Placed / Not Yet Placed
+STU20260130,Akshara Mohanty,2026-2027,Not Yet Eligible,88.0,41.1,4,63.1,50.9,64.9,Not Placed / Not Yet Placed
+STU20260131,Sandeep Joshi,2026-2027,Yes,39.8,56.5,5,100.0,40.2,65.9,Not Placed / Not Yet Placed
+STU20260132,Ananya Sahu,2026-2027,Yes,76.9,93.3,4,58.9,49.0,76.9,Not Placed / Not Yet Placed
+STU20260133,Nandini Prasad,2026-2027,Not Yet Eligible,19.3,46.7,3,80.7,39.2,46.9,Not Placed / Not Yet Placed
+STU20260134,Krishna Pillai,2026-2027,Yes,40.9,50.2,4,87.0,67.7,61.1,Not Placed / Not Yet Placed
+STU20260135,Gowtham Murthy,2026-2027,Yes,53.5,33.2,5,48.7,93.1,60.0,Not Placed / Not Yet Placed
+STU20260136,Chaitanya Das,2026-2027,Not Yet Eligible,67.5,29.6,4,94.0,52.3,61.1,Not Placed / Not Yet Placed
+STU20260137,Sanjana Yadav,2026-2027,Yes,80.0,76.0,3,90.1,53.0,73.6,Not Placed / Not Yet Placed
+STU20260138,Meera Devi,2026-2027,Yes,47.5,31.8,2,40.7,73.1,42.8,Not Placed / Not Yet Placed
+STU20260139,Aarav Khan,2026-2027,Not Yet Eligible,62.4,69.1,4,74.7,24.9,66.0,Not Placed / Not Yet Placed
+STU20260140,Kiran Joshi,2026-2027,Not Yet Eligible,33.8,47.6,3,49.5,82.0,50.4,Not Placed / Not Yet Placed
+STU20260141,Anil Chowdary,2026-2027,Yes,68.4,70.5,3,74.1,61.5,67.5,Not Placed / Not Yet Placed
+STU20260142,Riya Prasad,2026-2027,Yes,60.6,64.8,2,65.0,79.2,60.3,Not Placed / Not Yet Placed
+STU20260143,Chaitanya Varma,2026-2027,Not Yet Eligible,38.0,28.9,5,31.6,57.5,48.6,Not Placed / Not Yet Placed
+STU20260144,Aarav Prasad,2026-2027,Yes,56.9,55.1,3,59.0,57.6,57.4,Not Placed / Not Yet Placed
+STU20260145,Varun Joshi,2026-2027,Not Yet Eligible,60.4,53.8,3,38.0,38.7,52.8,Not Placed / Not Yet Placed
+STU20260146,Pooja Naidu,2026-2027,Not Yet Eligible,56.4,71.2,2,89.7,44.2,61.3,Not Placed / Not Yet Placed
+STU20260147,Diya Gupta,2026-2027,Not Yet Eligible,50.3,15.2,3,41.9,58.5,41.3,Not Placed / Not Yet Placed
+STU20260148,Aadhya Murthy,2026-2027,Not Yet Eligible,57.2,41.8,1,50.4,25.0,40.9,Not Placed / Not Yet Placed
+STU20260149,Nikhil Sahu,2026-2027,Not Yet Eligible,47.6,60.4,4,18.5,82.1,57.0,Not Placed / Not Yet Placed
+STU20260150,Varun Khan,2026-2027,Not Yet Eligible,41.2,50.1,4,22.8,59.2,50.7,Not Placed / Not Yet Placed
+STU20260151,Chaitanya Prasad,2026-2027,Yes,69.7,75.5,3,81.9,0.0,64.3,Not Placed / Not Yet Placed
+STU20260152,Sanjana Kumar,2026-2027,Not Yet Eligible,72.2,3.6,3,69.0,50.3,46.5,Not Placed / Not Yet Placed
+STU20260153,Teja Goud,2026-2027,Not Yet Eligible,50.1,68.3,4,42.4,43.1,59.7,Not Placed / Not Yet Placed
+STU20260154,Riya Yadav,2026-2027,Yes,22.9,12.3,1,29.5,35.0,21.3,Not Placed / Not Yet Placed
+STU20260155,Keerthi Goud,2026-2027,Yes,76.9,32.5,3,63.5,55.0,56.0,Not Placed / Not Yet Placed
+STU20260156,Sneha Jain,2026-2027,Yes,32.8,60.8,3,59.1,42.8,51.6,Not Placed / Not Yet Placed
+STU20260157,Kiran Sharma,2026-2027,Yes,62.5,37.8,2,45.8,44.2,46.2,Not Placed / Not Yet Placed
+STU20260158,Charan Gupta,2026-2027,Yes,32.0,84.9,2,45.5,40.6,52.4,Not Placed / Not Yet Placed
+STU20260159,Chaitanya Singh,2026-2027,Yes,22.5,53.7,3,56.7,62.6,48.5,Not Placed / Not Yet Placed
+STU20260160,Abhinav Reddy,2026-2027,Yes,43.9,38.8,3,23.4,65.8,44.7,Not Placed / Not Yet Placed
+STU20260161,Meera Jain,2026-2027,Not Yet Eligible,33.8,1.3,1,43.5,20.9,21.5,Not Placed / Not Yet Placed
+STU20260162,Charan Mishra,2026-2027,Yes,38.6,36.9,3,36.2,62.5,44.4,Not Placed / Not Yet Placed
+STU20260163,Deepika Rao,2026-2027,Yes,81.0,24.5,4,50.8,9.3,52.2,Not Placed / Not Yet Placed
+STU20260164,Nikhil Murthy,2026-2027,Yes,36.8,34.6,2,35.1,54.1,38.3,Not Placed / Not Yet Placed
+STU20260165,Aadhya Patel,2026-2027,Yes,36.1,47.9,2,25.0,10.5,36.2,Not Placed / Not Yet Placed
+STU20260166,Avani Pillai,2026-2027,Not Yet Eligible,70.7,68.1,4,59.4,68.1,69.8,Not Placed / Not Yet Placed
+STU20260167,Manoj Khan,2026-2027,Not Yet Eligible,71.0,74.0,5,48.5,83.8,75.6,Not Placed / Not Yet Placed
+STU20260168,Riya Joshi,2026-2027,Yes,44.4,51.4,3,40.1,45.9,49.1,Not Placed / Not Yet Placed
+STU20260169,Pranav Mohanty,2026-2027,Not Yet Eligible,86.3,62.6,2,85.5,31.5,64.3,Not Placed / Not Yet Placed
+STU20260170,Vijay Reddy,2026-2027,Yes,19.1,37.1,1,6.4,27.5,23.6,Not Placed / Not Yet Placed
+STU20260171,Arjun Joshi,2026-2027,Yes,47.4,72.3,3,38.3,67.7,58.1,Not Placed / Not Yet Placed
+STU20260172,Priya Gupta,2026-2027,Not Yet Eligible,44.6,44.6,3,49.2,42.9,48.2,Not Placed / Not Yet Placed
+STU20260173,Diya Patel,2026-2027,Yes,89.8,60.5,3,73.8,55.9,69.3,Not Placed / Not Yet Placed
+STU20260174,Charan Nair,2026-2027,Yes,75.8,32.6,3,34.3,33.6,49.2,Not Placed / Not Yet Placed
+STU20260175,Sanjana Varma,2026-2027,Yes,29.0,34.8,3,23.0,44.4,37.6,Not Placed / Not Yet Placed
+STU20260176,Tarun Naidu,2026-2027,Yes,49.3,33.4,2,46.3,57.2,43.0,Not Placed / Not Yet Placed
+STU20260177,Sandeep Reddy,2026-2027,Yes,41.7,24.9,2,71.4,36.3,40.2,Not Placed / Not Yet Placed
+STU20260178,Kiran Sharma,2026-2027,Yes,28.2,16.0,2,58.5,21.2,30.7,Not Placed / Not Yet Placed
+STU20260179,Siddharth Devi,2026-2027,Not Yet Eligible,40.2,56.7,3,38.5,59.3,50.8,Not Placed / Not Yet Placed
+STU20260180,Varun Sharma,2026-2027,Yes,41.5,36.4,2,62.7,28.6,41.6,Not Placed / Not Yet Placed
+STU20260181,Tarun Kashyap,2026-2027,Yes,43.1,60.6,2,48.5,76.5,51.9,Not Placed / Not Yet Placed
+STU20260182,Sneha Reddy,2026-2027,Yes,67.5,47.2,2,36.9,29.4,47.5,Not Placed / Not Yet Placed
+STU20260183,Pooja Chowdary,2026-2027,Yes,11.0,66.4,2,30.3,26.8,37.9,Not Placed / Not Yet Placed
+STU20260184,Varun Reddy,2026-2027,Yes,52.3,58.2,1,59.4,29.1,46.3,Not Placed / Not Yet Placed
+STU20260185,Meera Kashyap,2026-2027,Not Yet Eligible,67.1,56.2,2,64.3,30.3,54.3,Not Placed / Not Yet Placed
+STU20260186,Ishaan Gupta,2026-2027,Not Yet Eligible,67.1,78.2,5,81.4,45.5,77.0,Not Placed / Not Yet Placed
+STU20260187,Naveen Reddy,2026-2027,Yes,67.0,74.6,3,67.1,10.8,62.3,Not Placed / Not Yet Placed
+STU20260188,Deepika Verma,2026-2027,Yes,56.0,16.8,3,66.7,48.5,45.9,Not Placed / Not Yet Placed
+STU20260189,Charan Mishra,2026-2027,Not Yet Eligible,26.0,45.3,2,56.7,47.7,41.3,Not Placed / Not Yet Placed
+STU20260190,Meera Mishra,2026-2027,Yes,41.1,31.5,2,50.4,45.4,39.8,Not Placed / Not Yet Placed
+STU20260191,Sanjana Goud,2026-2027,Not Yet Eligible,57.9,35.1,5,55.2,76.4,60.9,Not Placed / Not Yet Placed
+STU20260192,Pranav Yadav,2026-2027,Yes,29.4,42.4,2,8.3,73.7,36.7,Not Placed / Not Yet Placed
+STU20260193,Diya Shetty,2026-2027,Not Yet Eligible,79.7,51.0,3,76.5,50.0,63.7,Not Placed / Not Yet Placed
+STU20260194,Riya Murthy,2026-2027,Yes,55.9,60.5,4,66.4,64.3,64.5,Not Placed / Not Yet Placed
+STU20260195,Ananya Kashyap,2026-2027,Not Yet Eligible,81.0,74.0,4,24.3,26.5,64.7,Not Placed / Not Yet Placed
+STU20260196,Tarun Goud,2026-2027,Not Yet Eligible,46.1,26.3,2,73.0,72.8,45.7,Not Placed / Not Yet Placed
+STU20260197,Keerthi Singh,2026-2027,Not Yet Eligible,46.9,53.1,1,41.8,48.9,42.8,Not Placed / Not Yet Placed
+STU20260198,Sneha Jain,2026-2027,Yes,68.1,74.9,1,61.8,30.9,55.8,Not Placed / Not Yet Placed
+STU20260199,Charan Murthy,2026-2027,Yes,51.2,35.8,3,27.5,67.3,46.4,Not Placed / Not Yet Placed
+STU20260200,Ishaan Chowdary,2026-2027,Not Yet Eligible,65.9,40.5,3,43.6,46.5,51.8,Not Placed / Not Yet Placed
+STU20260201,Akshara Babu,2026-2027,Yes,62.7,48.4,3,22.5,33.2,48.9,Not Placed / Not Yet Placed
+STU20260202,Abhinav Rao,2026-2027,Yes,40.0,17.1,2,32.1,46.6,32.6,Not Placed / Not Yet Placed
+STU20260203,Akshara Yadav,2026-2027,Yes,64.2,62.5,2,54.5,47.1,55.7,Not Placed / Not Yet Placed
+STU20260204,Varun Reddy,2026-2027,Not Yet Eligible,86.1,74.8,4,55.5,28.6,71.1,Not Placed / Not Yet Placed
+STU20260205,Neha Das,2026-2027,Not Yet Eligible,59.1,31.1,1,65.7,32.6,41.2,Not Placed / Not Yet Placed
+STU20260206,Avani Raju,2026-2027,Yes,20.0,63.2,2,66.6,2.4,42.2,Not Placed / Not Yet Placed
+STU20260207,Naveen Raju,2026-2027,Yes,48.8,20.1,5,49.3,65.3,52.2,Not Placed / Not Yet Placed
+STU20260208,Kiran Joshi,2026-2027,Not Yet Eligible,85.4,68.0,3,87.1,54.5,72.3,Not Placed / Not Yet Placed
+STU20260209,Diya Das,2026-2027,Not Yet Eligible,38.6,45.8,1,47.8,45.9,39.2,Not Placed / Not Yet Placed
+STU20260210,Abhinav Verma,2026-2027,Yes,51.1,29.0,3,31.0,51.6,43.3,Not Placed / Not Yet Placed
+STU20260211,Pranav Chowdary,2026-2027,Yes,49.1,69.8,4,82.8,60.8,67.7,Not Placed / Not Yet Placed
+STU20260212,Nikhil Rao,2026-2027,Yes,47.3,31.1,2,36.7,62.9,41.0,Not Placed / Not Yet Placed
+STU20260213,Rahul Jain,2026-2027,Not Yet Eligible,46.9,70.1,1,44.2,30.4,46.4,Not Placed / Not Yet Placed
+STU20260214,Meera Sharma,2026-2027,Not Yet Eligible,60.3,52.2,1,34.0,51.7,45.0,Not Placed / Not Yet Placed
+STU20260215,Keerthi Pillai,2026-2027,Yes,36.9,30.5,1,66.9,20.9,34.5,Not Placed / Not Yet Placed
+STU20260216,Mohan Goud,2026-2027,Not Yet Eligible,22.9,25.5,1,37.0,33.4,26.2,Not Placed / Not Yet Placed
+STU20260217,Pooja Gupta,2026-2027,Yes,55.8,44.5,4,100.0,57.6,64.0,Not Placed / Not Yet Placed
+STU20260218,Nikhil Mishra,2026-2027,Not Yet Eligible,39.2,54.4,2,0.0,11.3,35.3,Not Placed / Not Yet Placed
+STU20260219,Madhavi Joshi,2026-2027,Yes,45.4,51.1,4,43.2,55.1,54.7,Not Placed / Not Yet Placed
+STU20260220,Aditya Prasad,2026-2027,Yes,53.9,95.1,3,50.6,24.3,64.0,Not Placed / Not Yet Placed
+STU20260221,Neha Varma,2026-2027,Yes,53.7,23.9,2,47.8,72.1,43.0,Not Placed / Not Yet Placed
+STU20260222,Ishaan Reddy,2026-2027,Not Yet Eligible,69.7,73.4,2,39.5,29.5,56.3,Not Placed / Not Yet Placed
+STU20260223,Aarav Iyer,2026-2027,Yes,32.7,18.9,3,59.0,69.8,41.7,Not Placed / Not Yet Placed
+STU20260224,Ishaan Patel,2026-2027,Not Yet Eligible,42.9,0.0,0,42.1,48.4,21.9,Not Placed / Not Yet Placed
+STU20260225,Harsha Yadav,2026-2027,Not Yet Eligible,57.6,58.2,2,68.8,31.1,53.3,Not Placed / Not Yet Placed
+STU20260226,Nandini Murthy,2026-2027,Yes,66.0,28.5,3,65.3,69.9,53.8,Not Placed / Not Yet Placed
+STU20260227,Teja Singh,2026-2027,Not Yet Eligible,58.4,34.2,3,29.3,20.4,43.3,Not Placed / Not Yet Placed
+STU20260228,Mohan Mohanty,2026-2027,Yes,66.8,39.7,2,71.5,44.2,51.8,Not Placed / Not Yet Placed
+STU20260229,Aadhya Iyer,2026-2027,Yes,64.2,92.3,4,62.4,62.0,75.3,Not Placed / Not Yet Placed
+STU20260230,Divya Das,2026-2027,Not Yet Eligible,60.1,19.4,3,70.3,76.7,51.1,Not Placed / Not Yet Placed
+STU20260231,Dev Nair,2026-2027,Not Yet Eligible,27.0,45.5,5,58.6,73.7,56.6,Not Placed / Not Yet Placed
+STU20260232,Divya Shetty,2026-2027,Yes,83.2,66.9,2,41.8,42.5,59.4,Not Placed / Not Yet Placed
+STU20260233,Gowtham Shetty,2026-2027,Yes,43.8,35.3,3,75.4,82.9,53.1,Not Placed / Not Yet Placed
+STU20260234,Naveen Mohanty,2026-2027,Not Yet Eligible,64.2,82.3,2,51.4,43.0,60.8,Not Placed / Not Yet Placed
+STU20260235,Priya Mohanty,2026-2027,Not Yet Eligible,80.7,44.3,3,44.3,63.3,58.4,Not Placed / Not Yet Placed
+STU20260236,Siddharth Chowdary,2026-2027,Not Yet Eligible,39.4,70.9,2,56.5,27.4,50.3,Not Placed / Not Yet Placed
+STU20260237,Deepika Joshi,2026-2027,Yes,45.0,25.4,3,76.0,33.9,45.7,Not Placed / Not Yet Placed
+STU20260238,Yamini Varma,2026-2027,Yes,58.9,40.6,1,34.8,3.2,36.4,Not Placed / Not Yet Placed
+STU20260239,Sanjana Gupta,2026-2027,Yes,79.5,64.2,2,57.7,42.2,60.0,Not Placed / Not Yet Placed
+STU20260240,Manoj Mishra,2026-2027,Not Yet Eligible,79.9,42.3,3,16.6,30.5,50.2,Not Placed / Not Yet Placed
+STU20260241,Vijay Khan,2026-2027,Yes,60.5,50.3,3,34.3,35.1,50.9,Not Placed / Not Yet Placed
+STU20260242,Sneha Murthy,2026-2027,Not Yet Eligible,31.4,85.7,3,50.9,42.6,57.5,Not Placed / Not Yet Placed
+STU20260243,Rohan Khan,2026-2027,Not Yet Eligible,68.7,100.0,3,64.4,35.3,72.4,Not Placed / Not Yet Placed
+STU20260244,Manoj Babu,2026-2027,Yes,80.4,42.8,4,68.0,30.4,62.2,Not Placed / Not Yet Placed
+STU20260245,Teja Sharma,2026-2027,Yes,68.2,60.1,3,50.2,73.1,61.9,Not Placed / Not Yet Placed
+STU20260246,Sneha Mohanty,2026-2027,Yes,63.5,97.4,5,68.4,71.7,82.5,Placed
+STU20260247,Divya Mohanty,2026-2027,Not Yet Eligible,53.6,59.9,3,38.8,12.4,50.4,Not Placed / Not Yet Placed
+STU20260248,Yamini Singh,2026-2027,Yes,98.5,77.4,2,39.1,29.1,64.6,Not Placed / Not Yet Placed
+STU20260249,Madhavi Mishra,2026-2027,Not Yet Eligible,48.1,66.8,3,45.9,45.8,55.5,Not Placed / Not Yet Placed
+STU20260250,Madhavi Reddy,2026-2027,Yes,73.9,13.3,3,50.8,78.9,50.0,Not Placed / Not Yet Placed
+STU20260251,Sai Prasad,2026-2027,Not Yet Eligible,55.5,47.9,2,49.9,47.4,48.5,Not Placed / Not Yet Placed
+STU20260252,Nikhil Jain,2026-2027,Yes,91.2,40.3,3,100.0,68.5,68.7,Not Placed / Not Yet Placed
+STU20260253,Rahul Sahu,2026-2027,Yes,56.8,26.5,2,48.5,36.4,41.0,Not Placed / Not Yet Placed
+STU20260254,Kavya Babu,2026-2027,Not Yet Eligible,81.2,67.3,4,61.7,54.0,71.1,Not Placed / Not Yet Placed
+STU20260255,Lakshmi Gupta,2026-2027,Yes,39.1,82.5,3,61.8,54.7,61.3,Not Placed / Not Yet Placed
+STU20260256,Harsha Goud,2026-2027,Yes,46.7,14.9,2,25.8,45.0,32.5,Not Placed / Not Yet Placed
+STU20260257,Anil Verma,2026-2027,Yes,41.1,55.0,3,48.9,23.8,48.5,Not Placed / Not Yet Placed
+STU20260258,Meera Devi,2026-2027,Yes,40.3,21.0,1,59.6,77.3,37.0,Not Placed / Not Yet Placed
+STU20260259,Sandeep Kashyap,2026-2027,Not Yet Eligible,43.9,21.5,2,52.5,42.4,37.5,Not Placed / Not Yet Placed
+STU20260260,Kavya Devi,2026-2027,Yes,66.6,53.7,4,39.7,51.9,59.9,Not Placed / Not Yet Placed
+STU20260261,Abhinav Rao,2026-2027,Yes,59.5,28.2,3,72.3,46.7,50.9,Not Placed / Not Yet Placed
+STU20260262,Sandeep Khan,2026-2027,Yes,38.9,28.3,3,95.7,45.7,49.1,Not Placed / Not Yet Placed
+STU20260263,Pooja Nair,2026-2027,Yes,48.4,20.0,1,44.9,51.5,34.0,Not Placed / Not Yet Placed
+STU20260264,Veda Shetty,2026-2027,Not Yet Eligible,48.8,61.8,2,78.0,15.4,52.0,Not Placed / Not Yet Placed
+STU20260265,Neha Das,2026-2027,Yes,31.5,46.0,0,49.6,0.0,29.1,Not Placed / Not Yet Placed
+STU20260266,Aarav Shetty,2026-2027,Yes,60.2,45.6,2,63.8,59.2,52.2,Not Placed / Not Yet Placed
+STU20260267,Sai Singh,2026-2027,Yes,49.7,54.4,2,64.2,40.4,50.4,Not Placed / Not Yet Placed
+STU20260268,Meera Rao,2026-2027,Yes,33.9,28.6,0,78.6,38.0,32.7,Not Placed / Not Yet Placed
+STU20260269,Manoj Shetty,2026-2027,Yes,74.7,75.3,3,47.0,51.8,65.5,Not Placed / Not Yet Placed
+STU20260270,Srinivas Goud,2026-2027,Not Yet Eligible,39.8,70.8,2,67.8,46.1,53.9,Not Placed / Not Yet Placed
+STU20260271,Pranav Babu,2026-2027,Not Yet Eligible,55.5,30.1,3,48.2,50.6,47.2,Not Placed / Not Yet Placed
+STU20260272,Harsha Jain,2026-2027,Not Yet Eligible,67.4,41.2,2,72.9,53.8,53.5,Not Placed / Not Yet Placed
+STU20260273,Deepika Patel,2026-2027,Yes,33.6,60.3,2,99.8,7.9,50.2,Not Placed / Not Yet Placed
+STU20260274,Aadhya Singh,2026-2027,Not Yet Eligible,7.0,51.9,2,63.1,47.1,39.5,Not Placed / Not Yet Placed
+STU20260275,Siddharth Jain,2026-2027,Not Yet Eligible,28.1,58.6,2,54.2,42.4,45.0,Not Placed / Not Yet Placed
+STU20260276,Avani Joshi,2026-2027,Yes,82.7,81.6,5,54.6,62.2,79.6,Not Placed / Not Yet Placed
+STU20260277,Arjun Kashyap,2026-2027,Yes,83.6,42.5,3,43.6,46.1,56.8,Not Placed / Not Yet Placed
+STU20260278,Avani Joshi,2026-2027,Yes,70.5,84.0,2,49.5,74.0,65.7,Not Placed / Not Yet Placed
+STU20260279,Teja Mohanty,2026-2027,Not Yet Eligible,46.6,25.7,0,38.6,16.0,26.8,Not Placed / Not Yet Placed
+STU20260280,Tarun Devi,2026-2027,Not Yet Eligible,48.4,57.0,2,23.0,64.9,47.2,Not Placed / Not Yet Placed
+STU20260281,Vijay Singh,2026-2027,Not Yet Eligible,58.5,21.3,3,4.2,63.4,40.0,Not Placed / Not Yet Placed
+STU20260282,Charan Kashyap,2026-2027,Yes,47.6,69.4,2,47.9,57.5,53.7,Not Placed / Not Yet Placed
+STU20260283,Sanjana Jain,2026-2027,Yes,95.0,76.4,3,48.3,70.7,73.0,Internship
+STU20260284,Ananya Prasad,2026-2027,Not Yet Eligible,69.0,53.7,4,79.1,79.0,69.1,Not Placed / Not Yet Placed
+STU20260285,Divya Varma,2026-2027,Yes,76.8,51.3,3,24.5,39.3,54.2,Not Placed / Not Yet Placed
+STU20260286,Rohan Jain,2026-2027,Yes,58.6,31.7,3,17.8,64.9,45.3,Not Placed / Not Yet Placed
+STU20260287,Srinivas Rao,2026-2027,Not Yet Eligible,47.2,37.5,4,85.1,31.9,55.0,Not Placed / Not Yet Placed
+STU20260288,Naveen Das,2026-2027,Yes,61.0,28.2,2,70.2,48.4,47.1,Not Placed / Not Yet Placed
+STU20260289,Harsha Joshi,2026-2027,Not Yet Eligible,55.2,12.2,1,67.6,2.1,31.8,Not Placed / Not Yet Placed
+STU20260290,Bhavana Raju,2026-2027,Yes,53.0,40.6,1,68.3,35.2,43.2,Not Placed / Not Yet Placed
+STU20260291,Sneha Das,2026-2027,Yes,76.8,56.4,1,54.9,45.8,52.9,Not Placed / Not Yet Placed
+STU20260292,Harsha Gupta,2026-2027,Not Yet Eligible,39.2,49.6,2,19.5,51.1,40.7,Not Placed / Not Yet Placed
+STU20260293,Keerthi Rao,2026-2027,Yes,78.6,95.0,3,100.0,68.6,82.0,Not Placed / Not Yet Placed
+STU20260294,Aadhya Chowdary,2026-2027,Yes,60.2,75.6,2,80.7,18.9,59.7,Not Placed / Not Yet Placed
+STU20260295,Avani Khan,2026-2027,Not Yet Eligible,100.0,54.2,3,100.0,61.8,74.4,Not Placed / Not Yet Placed
+STU20260296,Pranav Rao,2026-2027,Not Yet Eligible,47.2,35.4,4,36.9,61.0,50.1,Not Placed / Not Yet Placed
+STU20260297,Nandini Verma,2026-2027,Yes,77.7,29.0,5,77.2,70.9,66.8,Not Placed / Not Yet Placed
+STU20260298,Neha Das,2026-2027,Yes,21.1,56.6,3,37.1,33.3,43.1,Not Placed / Not Yet Placed
+STU20260299,Veda Mishra,2026-2027,Not Yet Eligible,47.5,61.8,1,42.9,5.0,41.4,Not Placed / Not Yet Placed
+STU20260300,Dev Sahu,2026-2027,Yes,61.5,82.9,4,69.9,56.8,72.4,Not Placed / Not Yet Placed
+STU20260301,Keerthi Yadav,2026-2027,Yes,78.4,50.9,5,92.7,76.6,76.4,Not Placed / Not Yet Placed
+STU20260302,Riya Patel,2026-2027,Yes,39.2,77.6,3,69.6,64.2,61.9,Not Placed / Not Yet Placed
+STU20260303,Vijay Gupta,2026-2027,Yes,64.5,45.4,3,39.4,29.5,50.6,Not Placed / Not Yet Placed
+STU20260304,Naveen Iyer,2026-2027,Yes,63.3,50.7,5,77.5,34.2,66.1,Not Placed / Not Yet Placed
+STU20260305,Neha Nair,2026-2027,Yes,73.9,54.8,2,51.3,34.4,54.0,Not Placed / Not Yet Placed
+STU20260306,Pranav Nair,2026-2027,Yes,62.6,52.9,2,31.3,55.6,49.8,Not Placed / Not Yet Placed
+STU20260307,Chaitanya Reddy,2026-2027,Yes,57.0,81.7,2,29.6,52.3,56.4,Not Placed / Not Yet Placed
+STU20260308,Veda Gupta,2026-2027,Not Yet Eligible,58.8,38.9,2,31.0,58.3,44.8,Not Placed / Not Yet Placed
+STU20260309,Ananya Murthy,2026-2027,Not Yet Eligible,88.5,44.7,3,69.6,46.0,62.6,Not Placed / Not Yet Placed
+STU20260310,Kavya Prasad,2026-2027,Not Yet Eligible,66.7,34.5,4,66.2,56.4,58.6,Not Placed / Not Yet Placed
+STU20260311,Keerthi Naidu,2026-2027,Yes,59.0,40.1,5,62.5,65.9,62.8,Not Placed / Not Yet Placed
+STU20260312,Kavya Joshi,2026-2027,Not Yet Eligible,73.0,36.2,2,30.4,38.1,45.5,Not Placed / Not Yet Placed
+STU20260313,Krishna Sahu,2026-2027,Yes,35.8,7.3,0,79.1,25.6,25.6,Not Placed / Not Yet Placed
+STU20260314,Naveen Goud,2026-2027,Not Yet Eligible,73.1,53.8,3,77.7,66.9,64.8,Not Placed / Not Yet Placed
+STU20260315,Krishna Reddy,2026-2027,Yes,26.7,48.7,3,45.1,51.6,45.2,Not Placed / Not Yet Placed
+STU20260316,Siddharth Babu,2026-2027,Not Yet Eligible,56.7,30.7,3,41.6,55.1,47.1,Not Placed / Not Yet Placed
+STU20260317,Varun Chowdary,2026-2027,Not Yet Eligible,55.7,37.6,2,94.3,56.2,53.0,Not Placed / Not Yet Placed
+STU20260318,Keerthi Kashyap,2026-2027,Yes,26.4,52.8,3,85.9,60.7,53.4,Not Placed / Not Yet Placed
+STU20260319,Aditya Babu,2026-2027,Not Yet Eligible,73.9,56.4,5,60.1,83.0,72.7,Not Placed / Not Yet Placed
+STU20260320,Lakshmi Prasad,2026-2027,Yes,61.8,57.2,4,74.7,39.3,63.7,Not Placed / Not Yet Placed
+STU20260321,Manoj Patel,2026-2027,Yes,12.9,32.7,1,38.3,13.2,24.1,Not Placed / Not Yet Placed
+STU20260322,Srinivas Joshi,2026-2027,Not Yet Eligible,51.3,22.4,0,62.5,4.9,29.4,Not Placed / Not Yet Placed
+STU20260323,Arjun Devi,2026-2027,Yes,53.5,40.7,2,68.2,22.0,46.0,Not Placed / Not Yet Placed
+STU20260324,Deepika Jain,2026-2027,Yes,62.4,75.3,4,59.5,67.4,69.9,Not Placed / Not Yet Placed
+STU20260325,Gowtham Pillai,2026-2027,Not Yet Eligible,60.9,31.3,2,25.7,30.2,39.5,Not Placed / Not Yet Placed
+STU20260326,Riya Jain,2026-2027,Yes,66.0,34.3,3,58.4,37.7,51.3,Not Placed / Not Yet Placed
+STU20260327,Sneha Jain,2026-2027,Not Yet Eligible,57.9,48.9,1,45.8,35.4,43.6,Not Placed / Not Yet Placed
+STU20260328,Kavya Khan,2026-2027,Not Yet Eligible,65.4,32.6,1,55.4,27.7,41.2,Not Placed / Not Yet Placed
+STU20260329,Diya Verma,2026-2027,Not Yet Eligible,61.6,34.6,1,33.9,25.2,37.4,Not Placed / Not Yet Placed
+STU20260330,Divya Naidu,2026-2027,Not Yet Eligible,64.1,40.9,5,69.8,100.0,68.8,Not Placed / Not Yet Placed
+STU20260331,Kiran Gupta,2026-2027,Yes,47.9,69.1,4,0.0,45.4,53.3,Not Placed / Not Yet Placed
+STU20260332,Neha Kumar,2026-2027,Not Yet Eligible,39.3,74.1,2,25.4,63.9,50.3,Not Placed / Not Yet Placed
+STU20260333,Naveen Kashyap,2026-2027,Yes,66.7,57.2,1,26.0,0.0,41.7,Not Placed / Not Yet Placed
+STU20260334,Kavya Rao,2026-2027,Not Yet Eligible,45.3,61.3,4,49.3,88.3,61.9,Not Placed / Not Yet Placed
+STU20260335,Madhavi Verma,2026-2027,Yes,54.8,25.3,0,36.9,21.0,28.9,Not Placed / Not Yet Placed
+STU20260336,Pranav Babu,2026-2027,Not Yet Eligible,52.6,54.5,0,54.0,19.9,39.6,Not Placed / Not Yet Placed
+STU20260337,Anil Reddy,2026-2027,Not Yet Eligible,92.1,61.7,4,77.9,36.5,72.9,Not Placed / Not Yet Placed
+STU20260338,Naveen Babu,2026-2027,Not Yet Eligible,55.2,65.5,2,49.3,46.2,53.5,Not Placed / Not Yet Placed
+STU20260339,Veda Babu,2026-2027,Yes,65.4,56.0,2,92.2,15.4,56.5,Not Placed / Not Yet Placed
+STU20260340,Ananya Murthy,2026-2027,Yes,30.1,26.2,2,64.2,52.9,38.3,Not Placed / Not Yet Placed
+STU20260341,Veda Babu,2026-2027,Yes,63.2,53.1,4,34.8,63.3,59.3,Not Placed / Not Yet Placed
+STU20260342,Pranav Mishra,2026-2027,Not Yet Eligible,25.1,21.7,1,43.8,18.1,25.2,Not Placed / Not Yet Placed
+STU20260343,Sandeep Sahu,2026-2027,Yes,80.0,46.3,3,65.4,49.0,60.6,Not Placed / Not Yet Placed
+STU20260344,Riya Murthy,2026-2027,Not Yet Eligible,43.4,36.3,3,33.0,36.5,42.3,Not Placed / Not Yet Placed
+STU20260345,Mohan Khan,2026-2027,Yes,58.2,76.1,4,48.0,60.7,66.7,Not Placed / Not Yet Placed
+STU20260346,Krishna Shetty,2026-2027,Not Yet Eligible,36.3,57.7,3,34.0,35.1,47.0,Not Placed / Not Yet Placed
+STU20260347,Aarav Sahu,2026-2027,Yes,69.5,31.6,4,79.6,77.5,62.5,Not Placed / Not Yet Placed
+STU20260348,Avani Kumar,2026-2027,Yes,21.1,32.7,2,61.0,48.3,37.1,Not Placed / Not Yet Placed
+STU20260349,Rahul Mishra,2026-2027,Yes,60.1,26.7,4,34.4,45.7,48.8,Not Placed / Not Yet Placed
+STU20260350,Anil Iyer,2026-2027,Yes,35.0,70.4,4,83.9,67.2,65.2,Not Placed / Not Yet Placed
+STU20260351,Meera Raju,2026-2027,Yes,47.6,14.0,3,46.3,39.7,39.0,Not Placed / Not Yet Placed
+STU20260352,Chaitanya Sharma,2026-2027,Yes,60.2,78.5,4,98.8,65.2,75.9,Not Placed / Not Yet Placed
+STU20260353,Ananya Kashyap,2026-2027,Yes,82.0,41.4,4,72.5,69.0,66.7,Not Placed / Not Yet Placed
+STU20260354,Keerthi Sahu,2026-2027,Yes,33.7,49.7,2,45.5,20.9,40.2,Not Placed / Not Yet Placed
+STU20260355,Dev Patel,2026-2027,Not Yet Eligible,38.4,38.9,3,62.4,85.2,51.1,Not Placed / Not Yet Placed
+STU20260356,Sai Pillai,2026-2027,Not Yet Eligible,54.1,58.7,3,62.1,62.3,58.7,Not Placed / Not Yet Placed
+STU20260357,Bhavana Kumar,2026-2027,Not Yet Eligible,33.0,46.8,3,53.0,42.7,46.5,Not Placed / Not Yet Placed
+STU20260358,Teja Naidu,2026-2027,Yes,20.1,48.4,2,38.8,23.0,35.7,Not Placed / Not Yet Placed
+STU20260359,Chaitanya Sahu,2026-2027,Not Yet Eligible,46.5,58.9,2,93.6,47.2,56.1,Not Placed / Not Yet Placed
+STU20260360,Avani Joshi,2026-2027,Yes,76.2,94.1,4,43.8,46.9,74.5,Not Placed / Not Yet Placed
+STU20260361,Akshara Khan,2026-2027,Yes,38.0,42.6,3,47.6,28.7,44.3,Not Placed / Not Yet Placed
+STU20260362,Arjun Devi,2026-2027,Yes,60.1,80.7,3,54.8,60.7,65.5,Not Placed / Not Yet Placed
+STU20260363,Anil Sahu,2026-2027,Yes,56.0,78.9,2,79.4,39.3,61.5,Not Placed / Not Yet Placed
+STU20260364,Harsha Khan,2026-2027,Yes,36.7,26.4,2,78.4,32.4,40.1,Not Placed / Not Yet Placed
+STU20260365,Kavya Rao,2026-2027,Not Yet Eligible,38.9,50.3,1,48.1,8.1,36.8,Not Placed / Not Yet Placed
+STU20260366,Pooja Gupta,2026-2027,Yes,61.3,77.5,3,64.0,40.6,64.3,Not Placed / Not Yet Placed
+STU20260367,Teja Naidu,2026-2027,Not Yet Eligible,48.9,73.1,3,60.9,61.0,61.4,Not Placed / Not Yet Placed
+STU20260368,Krishna Gupta,2026-2027,Not Yet Eligible,42.7,53.8,3,53.5,30.8,49.9,Not Placed / Not Yet Placed
+STU20260369,Aarav Verma,2026-2027,Not Yet Eligible,34.0,41.2,2,32.9,41.8,38.0,Not Placed / Not Yet Placed
+STU20260370,Srinivas Verma,2026-2027,Yes,40.2,62.3,1,44.7,15.2,41.0,Not Placed / Not Yet Placed
+STU20260371,Naveen Iyer,2026-2027,Not Yet Eligible,44.2,43.2,5,57.1,42.7,56.8,Not Placed / Not Yet Placed
+STU20260372,Akshara Murthy,2026-2027,Yes,32.8,35.1,2,43.2,7.9,34.0,Not Placed / Not Yet Placed
+STU20260373,Kavya Verma,2026-2027,Yes,26.6,63.6,2,65.8,69.2,50.5,Not Placed / Not Yet Placed
+STU20260374,Harsha Naidu,2026-2027,Yes,56.2,61.1,3,90.0,78.6,65.8,Not Placed / Not Yet Placed
+STU20260375,Vijay Naidu,2026-2027,Not Yet Eligible,68.9,18.2,2,57.8,68.8,46.2,Not Placed / Not Yet Placed
+STU20260376,Srinivas Mohanty,2026-2027,Not Yet Eligible,76.9,23.4,2,48.7,30.6,44.6,Not Placed / Not Yet Placed
+STU20260377,Kavya Das,2026-2027,Yes,24.4,47.3,3,75.0,53.6,48.9,Not Placed / Not Yet Placed
+STU20260378,Sanjana Babu,2026-2027,Not Yet Eligible,51.7,64.5,5,33.7,65.9,63.9,Not Placed / Not Yet Placed
+STU20260379,Keerthi Prasad,2026-2027,Not Yet Eligible,69.1,23.2,3,19.5,52.8,44.5,Not Placed / Not Yet Placed
+STU20260380,Sneha Khan,2026-2027,Yes,45.3,44.8,3,31.2,64.1,47.9,Not Placed / Not Yet Placed
+STU20260381,Charan Singh,2026-2027,Yes,44.4,80.9,5,54.7,58.9,69.5,Not Placed / Not Yet Placed
+STU20260382,Nandini Raju,2026-2027,Not Yet Eligible,56.6,31.8,3,60.6,57.9,50.6,Not Placed / Not Yet Placed
+STU20260383,Krishna Rao,2026-2027,Yes,39.9,61.4,5,72.9,57.6,65.1,Not Placed / Not Yet Placed
+STU20260384,Mohan Murthy,2026-2027,Yes,51.1,66.8,2,68.5,46.9,55.8,Not Placed / Not Yet Placed
+STU20260385,Arjun Gupta,2026-2027,Yes,69.5,55.3,3,28.8,79.2,58.2,Not Placed / Not Yet Placed
+STU20260386,Akshara Iyer,2026-2027,Not Yet Eligible,76.1,22.9,3,63.5,19.2,49.3,Not Placed / Not Yet Placed
+STU20260387,Charan Reddy,2026-2027,Not Yet Eligible,58.3,69.2,0,62.0,64.2,51.1,Not Placed / Not Yet Placed
+STU20260388,Ananya Devi,2026-2027,Yes,34.9,51.4,0,30.9,16.2,30.4,Not Placed / Not Yet Placed
+STU20260389,Meera Rao,2026-2027,Yes,59.1,71.9,4,90.3,79.9,73.9,Not Placed / Not Yet Placed
+STU20260390,Meera Yadav,2026-2027,Yes,63.8,50.7,1,51.2,44.8,47.3,Not Placed / Not Yet Placed
+STU20260391,Yamini Singh,2026-2027,Yes,59.8,43.7,3,65.5,25.1,52.4,Not Placed / Not Yet Placed
+STU20260392,Ananya Kumar,2026-2027,Yes,45.4,30.6,2,44.8,77.7,43.0,Not Placed / Not Yet Placed
+STU20260393,Tarun Khan,2026-2027,Yes,59.8,59.4,3,58.9,57.1,59.3,Not Placed / Not Yet Placed
+STU20260394,Rohan Kashyap,2026-2027,Not Yet Eligible,45.2,54.2,2,51.4,54.7,48.7,Not Placed / Not Yet Placed
+STU20260395,Akshara Goud,2026-2027,Yes,59.9,19.9,2,51.6,62.5,42.9,Not Placed / Not Yet Placed
+STU20260396,Aadhya Sharma,2026-2027,Not Yet Eligible,56.6,18.6,3,54.3,51.2,45.0,Not Placed / Not Yet Placed
+STU20260397,Priya Sharma,2026-2027,Yes,45.6,5.3,2,46.0,67.3,34.6,Not Placed / Not Yet Placed
+STU20260398,Madhavi Pillai,2026-2027,Yes,74.0,54.8,4,50.5,70.7,65.6,Not Placed / Not Yet Placed
+STU20260399,Keerthi Goud,2026-2027,Not Yet Eligible,0.0,14.7,3,27.1,44.6,24.9,Not Placed / Not Yet Placed
+STU20260400,Dev Joshi,2026-2027,Not Yet Eligible,55.7,22.5,2,68.9,35.3,42.5,Not Placed / Not Yet Placed
+STU20260401,Naveen Naidu,2026-2027,Not Yet Eligible,73.6,56.0,3,70.4,61.8,63.9,Not Placed / Not Yet Placed
+STU20260402,Aditya Rao,2026-2027,Yes,59.9,64.4,4,30.0,52.9,60.1,Not Placed / Not Yet Placed
+STU20260403,Aditya Jain,2026-2027,Yes,71.2,50.8,1,49.4,32.7,47.7,Not Placed / Not Yet Placed
+STU20260404,Krishna Murthy,2026-2027,Yes,85.6,67.3,2,42.7,48.9,60.9,Not Placed / Not Yet Placed
+STU20260405,Nikhil Naidu,2026-2027,Not Yet Eligible,74.6,64.3,3,46.6,61.7,63.1,Not Placed / Not Yet Placed
+STU20260406,Avani Shetty,2026-2027,Not Yet Eligible,49.8,0.0,2,30.6,45.9,29.6,Not Placed / Not Yet Placed
+STU20260407,Srinivas Kashyap,2026-2027,Not Yet Eligible,49.9,43.9,4,54.6,64.2,56.3,Not Placed / Not Yet Placed
+STU20260408,Chaitanya Murthy,2026-2027,Yes,17.4,29.1,3,73.7,53.6,41.5,Not Placed / Not Yet Placed
+STU20260409,Yamini Kashyap,2026-2027,Not Yet Eligible,57.1,57.2,3,78.2,51.5,60.3,Not Placed / Not Yet Placed
+STU20260410,Meera Joshi,2026-2027,Yes,56.7,46.5,3,34.1,53.2,50.6,Not Placed / Not Yet Placed
+STU20260411,Aditya Varma,2026-2027,Yes,65.2,84.8,4,37.9,44.5,67.9,Not Placed / Not Yet Placed
+STU20260412,Srinivas Verma,2026-2027,Yes,21.4,67.3,3,51.4,71.1,52.4,Not Placed / Not Yet Placed
+STU20260413,Rohan Jain,2026-2027,Not Yet Eligible,53.4,95.5,3,54.3,39.6,66.1,Not Placed / Not Yet Placed
+STU20260414,Nandini Naidu,2026-2027,Not Yet Eligible,22.3,32.7,0,25.4,52.1,24.4,Not Placed / Not Yet Placed
+STU20260415,Dev Yadav,2026-2027,Yes,86.5,32.6,2,56.7,44.9,52.4,Not Placed / Not Yet Placed
+STU20260416,Harsha Naidu,2026-2027,Not Yet Eligible,25.4,5.0,1,70.4,47.6,27.2,Not Placed / Not Yet Placed
+STU20260417,Aditya Yadav,2026-2027,Not Yet Eligible,36.7,8.3,3,44.2,49.6,35.3,Not Placed / Not Yet Placed
+STU20260418,Naveen Devi,2026-2027,Yes,74.5,86.2,1,30.1,6.8,53.7,Not Placed / Not Yet Placed
+STU20260419,Ananya Jain,2026-2027,Not Yet Eligible,97.6,67.4,4,93.2,53.3,79.9,Not Placed / Not Yet Placed
+STU20260420,Manoj Gupta,2026-2027,Yes,25.5,17.9,4,38.2,55.1,39.0,Not Placed / Not Yet Placed
+STU20260421,Sneha Varma,2026-2027,Not Yet Eligible,36.7,45.4,3,91.7,55.5,54.1,Not Placed / Not Yet Placed
+STU20260422,Kavya Devi,2026-2027,Yes,55.5,56.6,0,37.2,35.2,40.0,Not Placed / Not Yet Placed
+STU20260423,Naveen Raju,2026-2027,Yes,84.0,99.9,3,51.2,24.6,73.1,Not Placed / Not Yet Placed
+STU20260424,Rohan Patel,2026-2027,Yes,49.0,45.2,0,31.9,28.9,33.5,Not Placed / Not Yet Placed
+STU20260425,Lakshmi Nair,2026-2027,Yes,59.0,24.8,1,24.4,45.9,34.5,Not Placed / Not Yet Placed
+STU20260426,Srinivas Das,2026-2027,Not Yet Eligible,44.6,47.7,1,67.9,66.3,46.3,Not Placed / Not Yet Placed
+STU20260427,Srinivas Joshi,2026-2027,Not Yet Eligible,63.0,17.8,2,35.5,50.2,39.4,Not Placed / Not Yet Placed
+STU20260428,Srinivas Yadav,2026-2027,Yes,57.5,60.2,5,57.9,59.3,67.1,Not Placed / Not Yet Placed
+STU20260429,Sneha Jain,2026-2027,Yes,68.4,68.0,4,23.3,35.9,60.6,Not Placed / Not Yet Placed
+STU20260430,Varun Murthy,2026-2027,Not Yet Eligible,69.1,22.7,4,86.2,58.1,58.8,Not Placed / Not Yet Placed
+STU20260431,Siddharth Rao,2026-2027,Yes,58.4,9.6,1,66.5,37.5,35.2,Not Placed / Not Yet Placed
+STU20260432,Varun Iyer,2026-2027,Yes,66.0,84.3,4,70.0,63.3,74.6,Not Placed / Not Yet Placed
+STU20260433,Nandini Joshi,2026-2027,Yes,34.1,78.8,2,24.5,51.1,48.9,Not Placed / Not Yet Placed
+STU20260434,Madhavi Mishra,2026-2027,Not Yet Eligible,48.6,56.1,2,52.1,54.4,50.2,Not Placed / Not Yet Placed
+STU20260435,Kiran Reddy,2026-2027,Yes,83.9,56.8,3,61.1,58.9,65.1,Not Placed / Not Yet Placed
+STU20260436,Ishaan Devi,2026-2027,Yes,28.3,26.5,2,34.8,31.3,31.4,Not Placed / Not Yet Placed
+STU20260437,Priya Verma,2026-2027,Not Yet Eligible,68.2,54.7,4,52.1,49.7,62.3,Not Placed / Not Yet Placed
+STU20260438,Srinivas Pillai,2026-2027,Not Yet Eligible,64.8,61.6,3,46.4,85.7,62.2,Not Placed / Not Yet Placed
+STU20260439,Meera Jain,2026-2027,Not Yet Eligible,66.6,61.0,3,34.9,48.5,57.0,Not Placed / Not Yet Placed
+STU20260440,Arjun Nair,2026-2027,Yes,67.1,36.4,3,51.8,74.9,55.0,Not Placed / Not Yet Placed
+STU20260441,Teja Chowdary,2026-2027,Not Yet Eligible,52.4,55.2,2,56.6,56.2,51.8,Not Placed / Not Yet Placed
+STU20260442,Deepika Sharma,2026-2027,Yes,47.1,55.7,4,88.7,38.9,61.7,Not Placed / Not Yet Placed
+STU20260443,Madhavi Iyer,2026-2027,Yes,47.4,49.5,4,38.3,44.7,52.9,Not Placed / Not Yet Placed
+STU20260444,Arjun Pillai,2026-2027,Yes,36.4,37.1,1,62.3,46.0,38.2,Not Placed / Not Yet Placed
+STU20260445,Madhavi Gupta,2026-2027,Yes,67.5,99.5,1,71.1,55.7,67.0,Not Placed / Not Yet Placed
+STU20260446,Divya Joshi,2026-2027,Yes,40.4,27.6,2,30.0,27.1,33.6,Not Placed / Not Yet Placed
+STU20260447,Riya Das,2026-2027,Yes,64.3,57.6,2,49.5,57.0,54.5,Not Placed / Not Yet Placed
+STU20260448,Aarav Chowdary,2026-2027,Yes,61.9,63.9,2,100.0,48.5,62.5,Not Placed / Not Yet Placed
+STU20260449,Manoj Joshi,2026-2027,Yes,33.2,39.4,1,32.8,31.4,32.2,Not Placed / Not Yet Placed
+STU20260450,Nikhil Joshi,2026-2027,Not Yet Eligible,69.0,70.3,3,31.7,47.9,59.9,Not Placed / Not Yet Placed
+STU20260451,Arjun Kumar,2026-2027,Yes,86.9,90.7,5,78.2,64.3,87.1,Placed
+STU20260452,Anil Gupta,2026-2027,Not Yet Eligible,41.7,80.2,4,73.7,89.2,70.5,Not Placed / Not Yet Placed
+STU20260453,Deepika Prasad,2026-2027,Not Yet Eligible,61.8,32.1,5,75.0,80.8,64.4,Not Placed / Not Yet Placed
+STU20260454,Chaitanya Kashyap,2026-2027,Yes,32.6,21.6,1,60.3,28.4,30.5,Not Placed / Not Yet Placed
+STU20260455,Naveen Goud,2026-2027,Not Yet Eligible,76.2,14.1,2,61.7,51.2,45.6,Not Placed / Not Yet Placed
+STU20260456,Sanjana Jain,2026-2027,Yes,38.6,18.8,2,29.7,49.8,32.7,Not Placed / Not Yet Placed
+STU20260457,Pranav Jain,2026-2027,Yes,51.4,55.3,4,78.8,57.6,63.0,Not Placed / Not Yet Placed
+STU20260458,Pranav Raju,2026-2027,Yes,60.4,37.3,2,40.7,58.0,46.2,Not Placed / Not Yet Placed
+STU20260459,Anil Nair,2026-2027,Yes,82.5,49.8,1,62.3,36.8,52.6,Not Placed / Not Yet Placed
+STU20260460,Naveen Kashyap,2026-2027,Not Yet Eligible,36.1,55.7,3,42.3,46.9,48.8,Not Placed / Not Yet Placed
+STU20260461,Aadhya Das,2026-2027,Not Yet Eligible,69.8,56.4,2,30.6,34.9,50.4,Not Placed / Not Yet Placed
+STU20260462,Neha Varma,2026-2027,Yes,63.4,43.4,5,71.6,68.6,66.5,Not Placed / Not Yet Placed
+STU20260463,Krishna Jain,2026-2027,Yes,35.8,63.4,1,21.8,7.1,36.0,Not Placed / Not Yet Placed
+STU20260464,Manoj Iyer,2026-2027,Yes,53.7,43.6,2,66.0,68.5,51.2,Not Placed / Not Yet Placed
+STU20260465,Teja Babu,2026-2027,Not Yet Eligible,27.5,50.2,3,80.1,65.1,52.5,Not Placed / Not Yet Placed
+STU20260466,Riya Jain,2026-2027,Not Yet Eligible,60.2,72.8,2,59.3,59.9,59.8,Not Placed / Not Yet Placed
+STU20260467,Rahul Babu,2026-2027,Yes,61.6,41.1,1,18.4,16.1,36.1,Not Placed / Not Yet Placed
+STU20260468,Priya Gupta,2026-2027,Not Yet Eligible,16.0,47.9,3,37.4,60.0,42.0,Not Placed / Not Yet Placed
+STU20260469,Charan Singh,2026-2027,Yes,51.7,54.9,1,36.7,22.6,41.1,Not Placed / Not Yet Placed
+STU20260470,Riya Babu,2026-2027,Yes,35.3,33.0,2,44.3,53.1,38.7,Not Placed / Not Yet Placed
+STU20260471,Dev Raju,2026-2027,Yes,58.8,59.1,3,46.9,27.3,54.2,Not Placed / Not Yet Placed
+STU20260472,Sai Das,2026-2027,Yes,79.9,50.6,3,80.6,51.2,64.4,Not Placed / Not Yet Placed
+STU20260473,Dev Verma,2026-2027,Not Yet Eligible,40.8,28.8,0,31.0,56.4,29.1,Not Placed / Not Yet Placed
+STU20260474,Aadhya Chowdary,2026-2027,Yes,67.7,27.7,1,60.1,55.4,43.8,Not Placed / Not Yet Placed
+STU20260475,Neha Sharma,2026-2027,Not Yet Eligible,49.8,37.0,4,37.5,70.7,52.2,Not Placed / Not Yet Placed
+STU20260476,Abhinav Varma,2026-2027,Not Yet Eligible,60.2,26.9,3,60.3,58.4,50.0,Not Placed / Not Yet Placed
+STU20260477,Avani Mishra,2026-2027,Yes,81.8,69.3,5,65.0,82.5,79.2,Placed
+STU20260478,Varun Babu,2026-2027,Yes,65.6,59.8,2,35.7,26.1,50.3,Not Placed / Not Yet Placed
+STU20260479,Anil Gupta,2026-2027,Yes,56.6,41.9,5,54.9,72.5,62.2,Not Placed / Not Yet Placed
+STU20260480,Srinivas Kashyap,2026-2027,Yes,30.1,37.9,1,75.4,16.9,35.9,Not Placed / Not Yet Placed
+STU20260481,Gowtham Mohanty,2026-2027,Not Yet Eligible,74.2,41.0,5,93.2,52.0,70.0,Not Placed / Not Yet Placed
+STU20260482,Aadhya Nair,2026-2027,Yes,42.8,38.4,3,48.2,81.4,49.6,Not Placed / Not Yet Placed
+STU20260483,Riya Goud,2026-2027,Yes,42.8,64.4,4,2.3,62.4,52.6,Not Placed / Not Yet Placed
+STU20260484,Riya Prasad,2026-2027,Not Yet Eligible,24.8,67.4,3,73.8,51.0,54.6,Not Placed / Not Yet Placed
+STU20260485,Meera Singh,2026-2027,Yes,41.2,53.9,2,82.3,16.0,48.4,Not Placed / Not Yet Placed
+STU20260486,Lakshmi Devi,2026-2027,Yes,39.9,50.2,2,63.6,9.0,43.5,Not Placed / Not Yet Placed
+STU20260487,Teja Mishra,2026-2027,Not Yet Eligible,48.7,51.2,1,44.5,53.3,43.5,Not Placed / Not Yet Placed
+STU20260488,Aditya Patel,2026-2027,Yes,27.8,72.1,2,63.1,21.6,48.2,Not Placed / Not Yet Placed
+STU20260489,Deepika Rao,2026-2027,Yes,45.8,50.6,3,81.1,39.3,54.7,Not Placed / Not Yet Placed
+STU20260490,Aadhya Varma,2026-2027,Not Yet Eligible,57.9,16.6,4,51.1,50.9,48.2,Not Placed / Not Yet Placed
+STU20260491,Akshara Das,2026-2027,Not Yet Eligible,38.9,53.3,0,7.4,43.5,31.2,Not Placed / Not Yet Placed
+STU20260492,Rahul Babu,2026-2027,Yes,33.5,22.2,3,46.3,52.8,39.3,Not Placed / Not Yet Placed
+STU20260493,Deepika Sahu,2026-2027,Not Yet Eligible,59.1,55.5,3,53.3,15.2,52.9,Not Placed / Not Yet Placed
+STU20260494,Pooja Goud,2026-2027,Yes,90.7,75.3,4,39.5,55.1,72.7,Not Placed / Not Yet Placed
+STU20260495,Sanjana Murthy,2026-2027,Not Yet Eligible,61.4,48.5,3,15.1,8.1,45.0,Not Placed / Not Yet Placed
+STU20260496,Meera Prasad,2026-2027,Not Yet Eligible,56.4,48.2,2,49.1,49.7,48.9,Not Placed / Not Yet Placed
+STU20260497,Harsha Khan,2026-2027,Not Yet Eligible,66.6,48.2,4,86.6,43.9,64.5,Not Placed / Not Yet Placed
+STU20260498,Srinivas Prasad,2026-2027,Not Yet Eligible,39.3,31.8,1,81.2,46.6,40.2,Not Placed / Not Yet Placed
+STU20260499,Aadhya Gupta,2026-2027,Not Yet Eligible,66.8,45.2,3,56.6,28.5,53.6,Not Placed / Not Yet Placed
+STU20260500,Tarun Pillai,2026-2027,Not Yet Eligible,36.0,51.6,3,35.4,50.6,46.9,Not Placed / Not Yet Placed

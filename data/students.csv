@@ -1,0 +1,502 @@
+student_id,student_name,department,year_of_study,section,admission_year,student_email
+STU20260001,Neha Singh,Mechanical Engineering,1,C,2026,acd20260001@students.academia-demo.edu
+STU20260002,Aditya Devi,Computer Science and Engineering,2,B,2025,acd20260002@students.academia-demo.edu
+STU20260003,Naveen Mishra,Artificial Intelligence and Machine Learning,3,B,2024,acd20260003@students.academia-demo.edu
+STU20260004,Neha Gupta,Electronics and Communication Engineering,1,C,2026,acd20260004@students.academia-demo.edu
+STU20260005,Harsha Naidu,Artificial Intelligence and Machine Learning,3,B,2024,acd20260005@students.academia-demo.edu
+STU20260006,Sandeep Joshi,Information Technology,1,A,2026,acd20260006@students.academia-demo.edu
+STU20260007,Varun Iyer,Artificial Intelligence and Machine Learning,3,B,2024,acd20260007@students.academia-demo.edu
+STU20260008,Nandini Joshi,Electronics and Communication Engineering,2,C,2025,acd20260008@students.academia-demo.edu
+STU20260009,Diya Varma,Computer Science and Engineering,3,B,2024,acd20260009@students.academia-demo.edu
+STU20260010,Meera Chowdary,Mechanical Engineering,4,A,2023,acd20260010@students.academia-demo.edu
+STU20260011,Sandeep Rao,Information Technology,1,C,2026,acd20260011@students.academia-demo.edu
+STU20260012,Ananya Rao,Computer Science and Engineering,2,B,2025,acd20260012@students.academia-demo.edu
+STU20260013,Nandini Jain,Computer Science and Engineering,1,B,2026,acd20260013@students.academia-demo.edu
+STU20260014,Meera Goud,Electrical and Electronics Engineering,2,A,2025,acd20260014@students.academia-demo.edu
+STU20260015,Rohan Mishra,Electronics and Communication Engineering,3,A,2024,acd20260015@students.academia-demo.edu
+STU20260016,Madhavi Mishra,Electronics and Communication Engineering,4,C,2023,acd20260016@students.academia-demo.edu
+STU20260017,Srinivas Kumar,Electronics and Communication Engineering,4,C,2023,acd20260017@students.academia-demo.edu
+STU20260018,Priya Naidu,Information Technology,4,C,2023,acd20260018@students.academia-demo.edu
+STU20260019,Kavya Sahu,Electronics and Communication Engineering,3,A,2024,acd20260019@students.academia-demo.edu
+STU20260020,Teja Prasad,Electronics and Communication Engineering,3,B,2024,acd20260020@students.academia-demo.edu
+STU20260021,Vijay Khan,Computer Science and Engineering,1,C,2026,acd20260021@students.academia-demo.edu
+STU20260022,Vijay Yadav,Computer Science and Engineering,1,C,2026,acd20260022@students.academia-demo.edu
+STU20260023,Kavya Goud,Computer Science and Engineering,4,C,2023,acd20260023@students.academia-demo.edu
+STU20260024,Pranav Yadav,Electronics and Communication Engineering,3,A,2024,acd20260024@students.academia-demo.edu
+STU20260025,Nandini Reddy,Artificial Intelligence and Machine Learning,1,B,2026,acd20260025@students.academia-demo.edu
+STU20260026,Sanjana Shetty,Electrical and Electronics Engineering,4,C,2023,acd20260026@students.academia-demo.edu
+STU20260027,Manoj Naidu,Electrical and Electronics Engineering,3,A,2024,acd20260027@students.academia-demo.edu
+STU20260028,Akshara Devi,Computer Science and Engineering,4,C,2023,acd20260028@students.academia-demo.edu
+STU20260029,Avani Yadav,Mechanical Engineering,2,A,2025,acd20260029@students.academia-demo.edu
+STU20260030,Srinivas Yadav,Artificial Intelligence and Machine Learning,4,C,2023,acd20260030@students.academia-demo.edu
+STU20260031,Sanjana Khan,Computer Science and Engineering,2,B,2025,acd20260031@students.academia-demo.edu
+STU20260032,Teja Varma,Electronics and Communication Engineering,3,C,2024,acd20260032@students.academia-demo.edu
+STU20260033,Harsha Yadav,Information Technology,4,C,2023,acd20260033@students.academia-demo.edu
+STU20260034,Mohan Das,Artificial Intelligence and Machine Learning,2,A,2025,acd20260034@students.academia-demo.edu
+STU20260035,Arjun Mohanty,Computer Science and Engineering,4,B,2023,acd20260035@students.academia-demo.edu
+STU20260036,Manoj Goud,Information Technology,4,B,2023,acd20260036@students.academia-demo.edu
+STU20260037,Ananya Reddy,Electronics and Communication Engineering,2,C,2025,acd20260037@students.academia-demo.edu
+STU20260038,Anil Patel,Artificial Intelligence and Machine Learning,3,A,2024,acd20260038@students.academia-demo.edu
+STU20260039,Abhinav Jain,Mechanical Engineering,4,B,2023,acd20260039@students.academia-demo.edu
+STU20260040,Chaitanya Kumar,Mechanical Engineering,2,A,2025,acd20260040@students.academia-demo.edu
+STU20260041,Kavya Patel,Electrical and Electronics Engineering,4,C,2023,acd20260041@students.academia-demo.edu
+STU20260042,Varun Jain,Electronics and Communication Engineering,2,C,2025,acd20260042@students.academia-demo.edu
+STU20260043,Sneha Goud,Civil Engineering,1,A,2026,acd20260043@students.academia-demo.edu
+STU20260044,Anil Mohanty,Electrical and Electronics Engineering,2,C,2025,acd20260044@students.academia-demo.edu
+STU20260045,Aditya Iyer,Computer Science and Engineering,2,A,2025,acd20260045@students.academia-demo.edu
+STU20260046,Kiran Mishra,Civil Engineering,4,A,2023,acd20260046@students.academia-demo.edu
+STU20260047,Tarun Shetty,Electronics and Communication Engineering,2,C,2025,acd20260047@students.academia-demo.edu
+STU20260048,Dev Khan,Mechanical Engineering,4,C,2023,acd20260048@students.academia-demo.edu
+STU20260049,Krishna Reddy,Information Technology,3,A,2024,acd20260049@students.academia-demo.edu
+STU20260050,Aadhya Jain,Artificial Intelligence and Machine Learning,2,B,2025,acd20260050@students.academia-demo.edu
+STU20260051,Teja Pillai,Information Technology,1,B,2026,acd20260051@students.academia-demo.edu
+STU20260052,Siddharth Sharma,Computer Science and Engineering,2,A,2025,acd20260052@students.academia-demo.edu
+STU20260053,Dev Patel,Artificial Intelligence and Machine Learning,3,B,2024,acd20260053@students.academia-demo.edu
+STU20260054,Aarav Naidu,Electronics and Communication Engineering,2,C,2025,acd20260054@students.academia-demo.edu
+STU20260055,Tarun Jain,Artificial Intelligence and Machine Learning,3,C,2024,acd20260055@students.academia-demo.edu
+STU20260056,Divya Kashyap,Computer Science and Engineering,1,B,2026,acd20260056@students.academia-demo.edu
+STU20260057,Sandeep Verma,Computer Science and Engineering,3,A,2024,acd20260057@students.academia-demo.edu
+STU20260058,Vijay Khan,Artificial Intelligence and Machine Learning,4,C,2023,acd20260058@students.academia-demo.edu
+STU20260059,Sai Sahu,Artificial Intelligence and Machine Learning,3,C,2024,acd20260059@students.academia-demo.edu
+STU20260060,Kiran Joshi,Information Technology,4,B,2023,acd20260060@students.academia-demo.edu
+STU20260061,Riya Iyer,Computer Science and Engineering,3,B,2024,acd20260061@students.academia-demo.edu
+STU20260062,Charan Devi,Computer Science and Engineering,4,A,2023,acd20260062@students.academia-demo.edu
+STU20260063,Sneha Shetty,Information Technology,4,A,2023,acd20260063@students.academia-demo.edu
+STU20260064,Divya Babu,Electronics and Communication Engineering,3,B,2024,acd20260064@students.academia-demo.edu
+STU20260065,Akshara Devi,Electronics and Communication Engineering,1,C,2026,acd20260065@students.academia-demo.edu
+STU20260066,Pranav Devi,Artificial Intelligence and Machine Learning,3,A,2024,acd20260066@students.academia-demo.edu
+STU20260067,Gowtham Kashyap,Information Technology,2,C,2025,acd20260067@students.academia-demo.edu
+STU20260068,Ananya Chowdary,Electrical and Electronics Engineering,3,B,2024,acd20260068@students.academia-demo.edu
+STU20260069,Pranav Joshi,Artificial Intelligence and Machine Learning,3,A,2024,acd20260069@students.academia-demo.edu
+STU20260070,Sandeep Singh,Mechanical Engineering,4,C,2023,acd20260070@students.academia-demo.edu
+STU20260071,Akshara Singh,Electrical and Electronics Engineering,3,B,2024,acd20260071@students.academia-demo.edu
+STU20260072,Anil Devi,Artificial Intelligence and Machine Learning,4,C,2023,acd20260072@students.academia-demo.edu
+STU20260073,Sneha Prasad,Electrical and Electronics Engineering,2,B,2025,acd20260073@students.academia-demo.edu
+STU20260074,Nikhil Jain,Electronics and Communication Engineering,3,A,2024,acd20260074@students.academia-demo.edu
+STU20260075,Harsha Joshi,Electronics and Communication Engineering,4,B,2023,acd20260075@students.academia-demo.edu
+STU20260076,Aadhya Babu,Artificial Intelligence and Machine Learning,2,A,2025,acd20260076@students.academia-demo.edu
+STU20260077,Srinivas Goud,Artificial Intelligence and Machine Learning,3,B,2024,acd20260077@students.academia-demo.edu
+STU20260078,Gowtham Pillai,Artificial Intelligence and Machine Learning,4,A,2023,acd20260078@students.academia-demo.edu
+STU20260079,Avani Singh,Electronics and Communication Engineering,3,B,2024,acd20260079@students.academia-demo.edu
+STU20260080,Srinivas Verma,Computer Science and Engineering,2,A,2025,acd20260080@students.academia-demo.edu
+STU20260081,Naveen Gupta,Artificial Intelligence and Machine Learning,4,B,2023,acd20260081@students.academia-demo.edu
+STU20260082,Teja Kumar,Artificial Intelligence and Machine Learning,3,B,2024,acd20260082@students.academia-demo.edu
+STU20260083,Krishna Raju,Information Technology,3,B,2024,acd20260083@students.academia-demo.edu
+STU20260084,Yamini Sharma,Mechanical Engineering,4,B,2023,acd20260084@students.academia-demo.edu
+STU20260085,Aadhya Iyer,Artificial Intelligence and Machine Learning,4,B,2023,acd20260085@students.academia-demo.edu
+STU20260086,Madhavi Patel,Information Technology,3,B,2024,acd20260086@students.academia-demo.edu
+STU20260087,Varun Das,Mechanical Engineering,1,B,2026,acd20260087@students.academia-demo.edu
+STU20260088,Aadhya Reddy,Civil Engineering,3,A,2024,acd20260088@students.academia-demo.edu
+STU20260089,Priya Reddy,Artificial Intelligence and Machine Learning,2,C,2025,acd20260089@students.academia-demo.edu
+STU20260090,Lakshmi Verma,Mechanical Engineering,3,B,2024,acd20260090@students.academia-demo.edu
+STU20260091,Teja Murthy,Artificial Intelligence and Machine Learning,3,A,2024,acd20260091@students.academia-demo.edu
+STU20260092,Keerthi Rao,Civil Engineering,3,C,2024,acd20260092@students.academia-demo.edu
+STU20260093,Yamini Kashyap,Electronics and Communication Engineering,1,C,2026,acd20260093@students.academia-demo.edu
+STU20260094,Madhavi Devi,Artificial Intelligence and Machine Learning,2,B,2025,acd20260094@students.academia-demo.edu
+STU20260095,Madhavi Sharma,Computer Science and Engineering,1,C,2026,acd20260095@students.academia-demo.edu
+STU20260096,Aditya Shetty,Computer Science and Engineering,4,A,2023,acd20260096@students.academia-demo.edu
+STU20260097,Ananya Verma,Artificial Intelligence and Machine Learning,3,C,2024,acd20260097@students.academia-demo.edu
+STU20260098,Aarav Khan,Information Technology,3,B,2024,acd20260098@students.academia-demo.edu
+STU20260099,Pooja Goud,Artificial Intelligence and Machine Learning,3,B,2024,acd20260099@students.academia-demo.edu
+STU20260100,Pooja Sharma,Electronics and Communication Engineering,3,A,2024,acd20260100@students.academia-demo.edu
+STU20260101,Riya Rao,Artificial Intelligence and Machine Learning,3,A,2024,acd20260101@students.academia-demo.edu
+STU20260102,Akshara Joshi,Information Technology,4,B,2023,acd20260102@students.academia-demo.edu
+STU20260103,Sai Gupta,Information Technology,2,A,2025,acd20260103@students.academia-demo.edu
+STU20260104,Kiran Rao,Information Technology,1,C,2026,acd20260104@students.academia-demo.edu
+STU20260105,Madhavi Khan,Electrical and Electronics Engineering,4,A,2023,acd20260105@students.academia-demo.edu
+STU20260106,Kavya Das,Artificial Intelligence and Machine Learning,2,C,2025,acd20260106@students.academia-demo.edu
+STU20260107,Akshara Sharma,Electrical and Electronics Engineering,2,C,2025,acd20260107@students.academia-demo.edu
+STU20260108,Krishna Raju,Information Technology,3,A,2024,acd20260108@students.academia-demo.edu
+STU20260109,Sneha Singh,Civil Engineering,4,C,2023,acd20260109@students.academia-demo.edu
+STU20260110,Meera Devi,Civil Engineering,2,C,2025,acd20260110@students.academia-demo.edu
+STU20260111,Ishaan Naidu,Computer Science and Engineering,4,B,2023,acd20260111@students.academia-demo.edu
+STU20260112,Pooja Murthy,Electronics and Communication Engineering,2,C,2025,acd20260112@students.academia-demo.edu
+STU20260113,Kavya Rao,Civil Engineering,3,C,2024,acd20260113@students.academia-demo.edu
+STU20260114,Abhinav Gupta,Artificial Intelligence and Machine Learning,3,B,2024,acd20260114@students.academia-demo.edu
+STU20260115,Kavya Singh,Civil Engineering,4,B,2023,acd20260115@students.academia-demo.edu
+STU20260116,Sandeep Shetty,Computer Science and Engineering,1,A,2026,acd20260116@students.academia-demo.edu
+STU20260117,Krishna Jain,Electrical and Electronics Engineering,3,A,2024,acd20260117@students.academia-demo.edu
+STU20260118,Nikhil Devi,Electrical and Electronics Engineering,1,A,2026,acd20260118@students.academia-demo.edu
+STU20260119,Vijay Joshi,Civil Engineering,4,A,2023,acd20260119@students.academia-demo.edu
+STU20260120,Sneha Khan,Mechanical Engineering,3,B,2024,acd20260120@students.academia-demo.edu
+STU20260121,Siddharth Murthy,Artificial Intelligence and Machine Learning,4,A,2023,acd20260121@students.academia-demo.edu
+STU20260122,Teja Kashyap,Electronics and Communication Engineering,3,B,2024,acd20260122@students.academia-demo.edu
+STU20260123,Priya Yadav,Mechanical Engineering,2,A,2025,acd20260123@students.academia-demo.edu
+STU20260124,Kavya Naidu,Information Technology,4,B,2023,acd20260124@students.academia-demo.edu
+STU20260125,Kiran Sahu,Artificial Intelligence and Machine Learning,1,B,2026,acd20260125@students.academia-demo.edu
+STU20260126,Meera Naidu,Artificial Intelligence and Machine Learning,4,B,2023,acd20260126@students.academia-demo.edu
+STU20260127,Harsha Sahu,Computer Science and Engineering,4,A,2023,acd20260127@students.academia-demo.edu
+STU20260128,Tarun Mishra,Electrical and Electronics Engineering,3,B,2024,acd20260128@students.academia-demo.edu
+STU20260129,Vijay Verma,Electronics and Communication Engineering,1,B,2026,acd20260129@students.academia-demo.edu
+STU20260130,Akshara Mohanty,Computer Science and Engineering,2,B,2025,acd20260130@students.academia-demo.edu
+STU20260131,Sandeep Joshi,Artificial Intelligence and Machine Learning,3,C,2024,acd20260131@students.academia-demo.edu
+STU20260132,Ananya Sahu,Information Technology,4,A,2023,acd20260132@students.academia-demo.edu
+STU20260133,Nandini Prasad,Civil Engineering,2,B,2025,acd20260133@students.academia-demo.edu
+STU20260134,Krishna Pillai,Electrical and Electronics Engineering,4,B,2023,acd20260134@students.academia-demo.edu
+STU20260135,Gowtham Murthy,Computer Science and Engineering,4,A,2023,acd20260135@students.academia-demo.edu
+STU20260136,Chaitanya Das,Computer Science and Engineering,1,A,2026,acd20260136@students.academia-demo.edu
+STU20260137,Sanjana Yadav,Artificial Intelligence and Machine Learning,4,C,2023,acd20260137@students.academia-demo.edu
+STU20260138,Meera Devi,Computer Science and Engineering,4,C,2023,acd20260138@students.academia-demo.edu
+STU20260139,Aarav Khan,Electronics and Communication Engineering,1,A,2026,acd20260139@students.academia-demo.edu
+STU20260140,Kiran Joshi,Computer Science and Engineering,1,B,2026,acd20260140@students.academia-demo.edu
+STU20260141,Anil Chowdary,Computer Science and Engineering,3,C,2024,acd20260141@students.academia-demo.edu
+STU20260142,Riya Prasad,Artificial Intelligence and Machine Learning,4,A,2023,acd20260142@students.academia-demo.edu
+STU20260143,Chaitanya Varma,Electrical and Electronics Engineering,2,B,2025,acd20260143@students.academia-demo.edu
+STU20260144,Aarav Prasad,Civil Engineering,3,B,2024,acd20260144@students.academia-demo.edu
+STU20260145,Varun Joshi,Information Technology,1,A,2026,acd20260145@students.academia-demo.edu
+STU20260146,Pooja Naidu,Mechanical Engineering,1,A,2026,acd20260146@students.academia-demo.edu
+STU20260147,Diya Gupta,Artificial Intelligence and Machine Learning,1,B,2026,acd20260147@students.academia-demo.edu
+STU20260148,Aadhya Murthy,Artificial Intelligence and Machine Learning,1,C,2026,acd20260148@students.academia-demo.edu
+STU20260149,Nikhil Sahu,Artificial Intelligence and Machine Learning,2,A,2025,acd20260149@students.academia-demo.edu
+STU20260150,Varun Khan,Electrical and Electronics Engineering,2,A,2025,acd20260150@students.academia-demo.edu
+STU20260151,Chaitanya Prasad,Mechanical Engineering,3,A,2024,acd20260151@students.academia-demo.edu
+STU20260152,Sanjana Kumar,Artificial Intelligence and Machine Learning,2,B,2025,acd20260152@students.academia-demo.edu
+STU20260153,Teja Goud,Mechanical Engineering,2,B,2025,acd20260153@students.academia-demo.edu
+STU20260154,Riya Yadav,Information Technology,3,C,2024,acd20260154@students.academia-demo.edu
+STU20260155,Keerthi Goud,Electronics and Communication Engineering,4,C,2023,acd20260155@students.academia-demo.edu
+STU20260156,Sneha Jain,Artificial Intelligence and Machine Learning,4,A,2023,acd20260156@students.academia-demo.edu
+STU20260157,Kiran Sharma,Electronics and Communication Engineering,3,A,2024,acd20260157@students.academia-demo.edu
+STU20260158,Charan Gupta,Artificial Intelligence and Machine Learning,4,B,2023,acd20260158@students.academia-demo.edu
+STU20260159,Chaitanya Singh,Mechanical Engineering,3,B,2024,acd20260159@students.academia-demo.edu
+STU20260160,Abhinav Reddy,Civil Engineering,3,C,2024,acd20260160@students.academia-demo.edu
+STU20260161,Meera Jain,Artificial Intelligence and Machine Learning,2,A,2025,acd20260161@students.academia-demo.edu
+STU20260162,Charan Mishra,Electrical and Electronics Engineering,3,A,2024,acd20260162@students.academia-demo.edu
+STU20260163,Deepika Rao,Mechanical Engineering,4,C,2023,acd20260163@students.academia-demo.edu
+STU20260164,Nikhil Murthy,Electrical and Electronics Engineering,3,B,2024,acd20260164@students.academia-demo.edu
+STU20260165,Aadhya Patel,Electrical and Electronics Engineering,4,C,2023,acd20260165@students.academia-demo.edu
+STU20260166,Avani Pillai,Computer Science and Engineering,1,A,2026,acd20260166@students.academia-demo.edu
+STU20260167,Manoj Khan,Computer Science and Engineering,1,C,2026,acd20260167@students.academia-demo.edu
+STU20260168,Riya Joshi,Electrical and Electronics Engineering,4,A,2023,acd20260168@students.academia-demo.edu
+STU20260169,Pranav Mohanty,Mechanical Engineering,2,C,2025,acd20260169@students.academia-demo.edu
+STU20260170,Vijay Reddy,Electrical and Electronics Engineering,3,B,2024,acd20260170@students.academia-demo.edu
+STU20260171,Arjun Joshi,Computer Science and Engineering,4,B,2023,acd20260171@students.academia-demo.edu
+STU20260172,Priya Gupta,Information Technology,2,C,2025,acd20260172@students.academia-demo.edu
+STU20260173,Diya Patel,Electronics and Communication Engineering,4,C,2023,acd20260173@students.academia-demo.edu
+STU20260174,Charan Nair,Information Technology,4,B,2023,acd20260174@students.academia-demo.edu
+STU20260175,Sanjana Varma,Electronics and Communication Engineering,3,C,2024,acd20260175@students.academia-demo.edu
+STU20260176,Tarun Naidu,Information Technology,4,C,2023,acd20260176@students.academia-demo.edu
+STU20260177,Sandeep Reddy,Information Technology,4,A,2023,acd20260177@students.academia-demo.edu
+STU20260178,Kiran Sharma,Computer Science and Engineering,3,A,2024,acd20260178@students.academia-demo.edu
+STU20260179,Siddharth Devi,Electronics and Communication Engineering,1,B,2026,acd20260179@students.academia-demo.edu
+STU20260180,Varun Sharma,Computer Science and Engineering,4,C,2023,acd20260180@students.academia-demo.edu
+STU20260181,Tarun Kashyap,Computer Science and Engineering,3,A,2024,acd20260181@students.academia-demo.edu
+STU20260182,Sneha Reddy,Artificial Intelligence and Machine Learning,3,C,2024,acd20260182@students.academia-demo.edu
+STU20260183,Pooja Chowdary,Civil Engineering,4,B,2023,acd20260183@students.academia-demo.edu
+STU20260184,Varun Reddy,Computer Science and Engineering,3,B,2024,acd20260184@students.academia-demo.edu
+STU20260185,Meera Kashyap,Artificial Intelligence and Machine Learning,1,B,2026,acd20260185@students.academia-demo.edu
+STU20260186,Ishaan Gupta,Mechanical Engineering,2,B,2025,acd20260186@students.academia-demo.edu
+STU20260187,Naveen Reddy,Mechanical Engineering,4,C,2023,acd20260187@students.academia-demo.edu
+STU20260188,Deepika Verma,Artificial Intelligence and Machine Learning,3,A,2024,acd20260188@students.academia-demo.edu
+STU20260189,Charan Mishra,Computer Science and Engineering,2,A,2025,acd20260189@students.academia-demo.edu
+STU20260190,Meera Mishra,Electronics and Communication Engineering,3,C,2024,acd20260190@students.academia-demo.edu
+STU20260191,Sanjana Goud,Electronics and Communication Engineering,2,B,2025,acd20260191@students.academia-demo.edu
+STU20260192,Pranav Yadav,Artificial Intelligence and Machine Learning,3,C,2024,acd20260192@students.academia-demo.edu
+STU20260193,Diya Shetty,Artificial Intelligence and Machine Learning,2,B,2025,acd20260193@students.academia-demo.edu
+STU20260194,Riya Murthy,Computer Science and Engineering,3,C,2024,acd20260194@students.academia-demo.edu
+STU20260195,Ananya Kashyap,Information Technology,2,C,2025,acd20260195@students.academia-demo.edu
+STU20260196,Tarun Goud,Computer Science and Engineering,2,C,2025,acd20260196@students.academia-demo.edu
+STU20260197,Keerthi Singh,Information Technology,1,A,2026,acd20260197@students.academia-demo.edu
+STU20260198,Sneha Jain,Computer Science and Engineering,4,B,2023,acd20260198@students.academia-demo.edu
+STU20260199,Charan Murthy,Artificial Intelligence and Machine Learning,3,B,2024,acd20260199@students.academia-demo.edu
+STU20260200,Ishaan Chowdary,Civil Engineering,2,C,2025,acd20260200@students.academia-demo.edu
+STU20260201,Akshara Babu,Artificial Intelligence and Machine Learning,4,A,2023,acd20260201@students.academia-demo.edu
+STU20260202,Abhinav Rao,Information Technology,3,B,2024,acd20260202@students.academia-demo.edu
+STU20260203,Akshara Yadav,Mechanical Engineering,3,A,2024,acd20260203@students.academia-demo.edu
+STU20260204,Varun Reddy,Electronics and Communication Engineering,2,B,2025,acd20260204@students.academia-demo.edu
+STU20260205,Neha Das,Electronics and Communication Engineering,1,A,2026,acd20260205@students.academia-demo.edu
+STU20260206,Avani Raju,Electrical and Electronics Engineering,4,B,2023,acd20260206@students.academia-demo.edu
+STU20260207,Naveen Raju,Electrical and Electronics Engineering,3,A,2024,acd20260207@students.academia-demo.edu
+STU20260208,Kiran Joshi,Computer Science and Engineering,1,A,2026,acd20260208@students.academia-demo.edu
+STU20260209,Diya Das,Artificial Intelligence and Machine Learning,1,A,2026,acd20260209@students.academia-demo.edu
+STU20260210,Abhinav Verma,Artificial Intelligence and Machine Learning,3,A,2024,acd20260210@students.academia-demo.edu
+STU20260211,Pranav Chowdary,Computer Science and Engineering,4,B,2023,acd20260211@students.academia-demo.edu
+STU20260212,Nikhil Rao,Electrical and Electronics Engineering,3,A,2024,acd20260212@students.academia-demo.edu
+STU20260213,Rahul Jain,Information Technology,2,B,2025,acd20260213@students.academia-demo.edu
+STU20260214,Meera Sharma,Electronics and Communication Engineering,1,C,2026,acd20260214@students.academia-demo.edu
+STU20260215,Keerthi Pillai,Mechanical Engineering,3,A,2024,acd20260215@students.academia-demo.edu
+STU20260216,Mohan Goud,Information Technology,1,C,2026,acd20260216@students.academia-demo.edu
+STU20260217,Pooja Gupta,Artificial Intelligence and Machine Learning,3,A,2024,acd20260217@students.academia-demo.edu
+STU20260218,Nikhil Mishra,Electrical and Electronics Engineering,2,C,2025,acd20260218@students.academia-demo.edu
+STU20260219,Madhavi Joshi,Mechanical Engineering,4,B,2023,acd20260219@students.academia-demo.edu
+STU20260220,Aditya Prasad,Electrical and Electronics Engineering,3,C,2024,acd20260220@students.academia-demo.edu
+STU20260221,Neha Varma,Artificial Intelligence and Machine Learning,3,A,2024,acd20260221@students.academia-demo.edu
+STU20260222,Ishaan Reddy,Artificial Intelligence and Machine Learning,1,A,2026,acd20260222@students.academia-demo.edu
+STU20260223,Aarav Iyer,Electronics and Communication Engineering,4,C,2023,acd20260223@students.academia-demo.edu
+STU20260224,Ishaan Patel,Artificial Intelligence and Machine Learning,1,C,2026,acd20260224@students.academia-demo.edu
+STU20260225,Harsha Yadav,Computer Science and Engineering,2,B,2025,acd20260225@students.academia-demo.edu
+STU20260226,Nandini Murthy,Information Technology,3,B,2024,acd20260226@students.academia-demo.edu
+STU20260227,Teja Singh,Electronics and Communication Engineering,1,C,2026,acd20260227@students.academia-demo.edu
+STU20260228,Mohan Mohanty,Artificial Intelligence and Machine Learning,4,A,2023,acd20260228@students.academia-demo.edu
+STU20260229,Aadhya Iyer,Artificial Intelligence and Machine Learning,4,C,2023,acd20260229@students.academia-demo.edu
+STU20260230,Divya Das,Information Technology,1,C,2026,acd20260230@students.academia-demo.edu
+STU20260231,Dev Nair,Information Technology,2,A,2025,acd20260231@students.academia-demo.edu
+STU20260232,Divya Shetty,Computer Science and Engineering,3,A,2024,acd20260232@students.academia-demo.edu
+STU20260233,Gowtham Shetty,Electronics and Communication Engineering,3,A,2024,acd20260233@students.academia-demo.edu
+STU20260234,Naveen Mohanty,Computer Science and Engineering,1,A,2026,acd20260234@students.academia-demo.edu
+STU20260235,Priya Mohanty,Mechanical Engineering,2,B,2025,acd20260235@students.academia-demo.edu
+STU20260236,Siddharth Chowdary,Electrical and Electronics Engineering,2,A,2025,acd20260236@students.academia-demo.edu
+STU20260237,Deepika Joshi,Mechanical Engineering,4,C,2023,acd20260237@students.academia-demo.edu
+STU20260238,Yamini Varma,Computer Science and Engineering,3,C,2024,acd20260238@students.academia-demo.edu
+STU20260239,Sanjana Gupta,Information Technology,3,B,2024,acd20260239@students.academia-demo.edu
+STU20260240,Manoj Mishra,Computer Science and Engineering,1,C,2026,acd20260240@students.academia-demo.edu
+STU20260241,Vijay Khan,Artificial Intelligence and Machine Learning,4,B,2023,acd20260241@students.academia-demo.edu
+STU20260242,Sneha Murthy,Artificial Intelligence and Machine Learning,2,C,2025,acd20260242@students.academia-demo.edu
+STU20260243,Rohan Khan,Computer Science and Engineering,2,B,2025,acd20260243@students.academia-demo.edu
+STU20260244,Manoj Babu,Mechanical Engineering,3,A,2024,acd20260244@students.academia-demo.edu
+STU20260245,Teja Sharma,Artificial Intelligence and Machine Learning,3,B,2024,acd20260245@students.academia-demo.edu
+STU20260246,Sneha Mohanty,Computer Science and Engineering,4,A,2023,acd20260246@students.academia-demo.edu
+STU20260247,Divya Mohanty,Computer Science and Engineering,2,C,2025,acd20260247@students.academia-demo.edu
+STU20260248,Yamini Singh,Electrical and Electronics Engineering,3,C,2024,acd20260248@students.academia-demo.edu
+STU20260249,Madhavi Mishra,Information Technology,2,C,2025,acd20260249@students.academia-demo.edu
+STU20260250,Madhavi Reddy,Mechanical Engineering,3,C,2024,acd20260250@students.academia-demo.edu
+STU20260251,Sai Prasad,Electronics and Communication Engineering,2,B,2025,acd20260251@students.academia-demo.edu
+STU20260252,Nikhil Jain,Electrical and Electronics Engineering,4,A,2023,acd20260252@students.academia-demo.edu
+STU20260253,Rahul Sahu,Computer Science and Engineering,4,B,2023,acd20260253@students.academia-demo.edu
+STU20260254,Kavya Babu,Civil Engineering,2,C,2025,acd20260254@students.academia-demo.edu
+STU20260255,Lakshmi Gupta,Information Technology,4,C,2023,acd20260255@students.academia-demo.edu
+STU20260256,Harsha Goud,Electronics and Communication Engineering,3,B,2024,acd20260256@students.academia-demo.edu
+STU20260257,Anil Verma,Electronics and Communication Engineering,3,A,2024,acd20260257@students.academia-demo.edu
+STU20260258,Meera Devi,Electrical and Electronics Engineering,3,A,2024,acd20260258@students.academia-demo.edu
+STU20260259,Sandeep Kashyap,Computer Science and Engineering,2,C,2025,acd20260259@students.academia-demo.edu
+STU20260260,Kavya Devi,Computer Science and Engineering,4,C,2023,acd20260260@students.academia-demo.edu
+STU20260261,Abhinav Rao,Electrical and Electronics Engineering,4,C,2023,acd20260261@students.academia-demo.edu
+STU20260262,Sandeep Khan,Electrical and Electronics Engineering,3,C,2024,acd20260262@students.academia-demo.edu
+STU20260263,Pooja Nair,Civil Engineering,4,A,2023,acd20260263@students.academia-demo.edu
+STU20260264,Veda Shetty,Information Technology,2,C,2025,acd20260264@students.academia-demo.edu
+STU20260265,Neha Das,Computer Science and Engineering,3,A,2024,acd20260265@students.academia-demo.edu
+STU20260266,Aarav Shetty,Electrical and Electronics Engineering,4,B,2023,acd20260266@students.academia-demo.edu
+STU20260267,Sai Singh,Information Technology,4,B,2023,acd20260267@students.academia-demo.edu
+STU20260268,Meera Rao,Computer Science and Engineering,4,A,2023,acd20260268@students.academia-demo.edu
+STU20260269,Manoj Shetty,Artificial Intelligence and Machine Learning,3,C,2024,acd20260269@students.academia-demo.edu
+STU20260270,Srinivas Goud,Computer Science and Engineering,1,B,2026,acd20260270@students.academia-demo.edu
+STU20260271,Pranav Babu,Electronics and Communication Engineering,1,B,2026,acd20260271@students.academia-demo.edu
+STU20260272,Harsha Jain,Electronics and Communication Engineering,2,C,2025,acd20260272@students.academia-demo.edu
+STU20260273,Deepika Patel,Artificial Intelligence and Machine Learning,4,B,2023,acd20260273@students.academia-demo.edu
+STU20260274,Aadhya Singh,Electrical and Electronics Engineering,2,A,2025,acd20260274@students.academia-demo.edu
+STU20260275,Siddharth Jain,Artificial Intelligence and Machine Learning,2,B,2025,acd20260275@students.academia-demo.edu
+STU20260276,Avani Joshi,Information Technology,3,B,2024,acd20260276@students.academia-demo.edu
+STU20260277,Arjun Kashyap,Computer Science and Engineering,4,A,2023,acd20260277@students.academia-demo.edu
+STU20260278,Avani Joshi,Electronics and Communication Engineering,4,B,2023,acd20260278@students.academia-demo.edu
+STU20260279,Teja Mohanty,Electrical and Electronics Engineering,2,C,2025,acd20260279@students.academia-demo.edu
+STU20260280,Tarun Devi,Artificial Intelligence and Machine Learning,2,A,2025,acd20260280@students.academia-demo.edu
+STU20260281,Vijay Singh,Computer Science and Engineering,2,C,2025,acd20260281@students.academia-demo.edu
+STU20260282,Charan Kashyap,Information Technology,3,B,2024,acd20260282@students.academia-demo.edu
+STU20260283,Sanjana Jain,Electronics and Communication Engineering,3,C,2024,acd20260283@students.academia-demo.edu
+STU20260284,Ananya Prasad,Information Technology,2,B,2025,acd20260284@students.academia-demo.edu
+STU20260285,Divya Varma,Mechanical Engineering,3,C,2024,acd20260285@students.academia-demo.edu
+STU20260286,Rohan Jain,Computer Science and Engineering,3,C,2024,acd20260286@students.academia-demo.edu
+STU20260287,Srinivas Rao,Electronics and Communication Engineering,1,C,2026,acd20260287@students.academia-demo.edu
+STU20260288,Naveen Das,Computer Science and Engineering,4,C,2023,acd20260288@students.academia-demo.edu
+STU20260289,Harsha Joshi,Computer Science and Engineering,1,B,2026,acd20260289@students.academia-demo.edu
+STU20260290,Bhavana Raju,Electrical and Electronics Engineering,4,A,2023,acd20260290@students.academia-demo.edu
+STU20260291,Sneha Das,Computer Science and Engineering,3,C,2024,acd20260291@students.academia-demo.edu
+STU20260292,Harsha Gupta,Computer Science and Engineering,1,B,2026,acd20260292@students.academia-demo.edu
+STU20260293,Keerthi Rao,Computer Science and Engineering,4,B,2023,acd20260293@students.academia-demo.edu
+STU20260294,Aadhya Chowdary,Artificial Intelligence and Machine Learning,3,A,2024,acd20260294@students.academia-demo.edu
+STU20260295,Avani Khan,Mechanical Engineering,2,C,2025,acd20260295@students.academia-demo.edu
+STU20260296,Pranav Rao,Computer Science and Engineering,1,B,2026,acd20260296@students.academia-demo.edu
+STU20260297,Nandini Verma,Artificial Intelligence and Machine Learning,3,A,2024,acd20260297@students.academia-demo.edu
+STU20260298,Neha Das,Mechanical Engineering,3,B,2024,acd20260298@students.academia-demo.edu
+STU20260299,Veda Mishra,Mechanical Engineering,2,B,2025,acd20260299@students.academia-demo.edu
+STU20260300,Dev Sahu,Artificial Intelligence and Machine Learning,4,B,2023,acd20260300@students.academia-demo.edu
+STU20260301,Keerthi Yadav,Mechanical Engineering,4,A,2023,acd20260301@students.academia-demo.edu
+STU20260302,Riya Patel,Computer Science and Engineering,4,A,2023,acd20260302@students.academia-demo.edu
+STU20260303,Vijay Gupta,Information Technology,4,A,2023,acd20260303@students.academia-demo.edu
+STU20260304,Naveen Iyer,Artificial Intelligence and Machine Learning,3,A,2024,acd20260304@students.academia-demo.edu
+STU20260305,Neha Nair,Computer Science and Engineering,3,B,2024,acd20260305@students.academia-demo.edu
+STU20260306,Pranav Nair,Artificial Intelligence and Machine Learning,4,A,2023,acd20260306@students.academia-demo.edu
+STU20260307,Chaitanya Reddy,Electronics and Communication Engineering,4,B,2023,acd20260307@students.academia-demo.edu
+STU20260308,Veda Gupta,Artificial Intelligence and Machine Learning,2,C,2025,acd20260308@students.academia-demo.edu
+STU20260309,Ananya Murthy,Information Technology,1,A,2026,acd20260309@students.academia-demo.edu
+STU20260310,Kavya Prasad,Artificial Intelligence and Machine Learning,2,A,2025,acd20260310@students.academia-demo.edu
+STU20260311,Keerthi Naidu,Computer Science and Engineering,4,A,2023,acd20260311@students.academia-demo.edu
+STU20260312,Kavya Joshi,Information Technology,2,B,2025,acd20260312@students.academia-demo.edu
+STU20260313,Krishna Sahu,Computer Science and Engineering,3,C,2024,acd20260313@students.academia-demo.edu
+STU20260314,Naveen Goud,Information Technology,1,A,2026,acd20260314@students.academia-demo.edu
+STU20260315,Krishna Reddy,Mechanical Engineering,3,A,2024,acd20260315@students.academia-demo.edu
+STU20260316,Siddharth Babu,Artificial Intelligence and Machine Learning,2,B,2025,acd20260316@students.academia-demo.edu
+STU20260317,Varun Chowdary,Artificial Intelligence and Machine Learning,2,B,2025,acd20260317@students.academia-demo.edu
+STU20260318,Keerthi Kashyap,Information Technology,3,A,2024,acd20260318@students.academia-demo.edu
+STU20260319,Aditya Babu,Electrical and Electronics Engineering,1,C,2026,acd20260319@students.academia-demo.edu
+STU20260320,Lakshmi Prasad,Computer Science and Engineering,3,B,2024,acd20260320@students.academia-demo.edu
+STU20260321,Manoj Patel,Artificial Intelligence and Machine Learning,3,C,2024,acd20260321@students.academia-demo.edu
+STU20260322,Srinivas Joshi,Computer Science and Engineering,2,A,2025,acd20260322@students.academia-demo.edu
+STU20260323,Arjun Devi,Electrical and Electronics Engineering,4,C,2023,acd20260323@students.academia-demo.edu
+STU20260324,Deepika Jain,Computer Science and Engineering,3,A,2024,acd20260324@students.academia-demo.edu
+STU20260325,Gowtham Pillai,Electronics and Communication Engineering,2,C,2025,acd20260325@students.academia-demo.edu
+STU20260326,Riya Jain,Artificial Intelligence and Machine Learning,3,B,2024,acd20260326@students.academia-demo.edu
+STU20260327,Sneha Jain,Computer Science and Engineering,1,C,2026,acd20260327@students.academia-demo.edu
+STU20260328,Kavya Khan,Mechanical Engineering,1,C,2026,acd20260328@students.academia-demo.edu
+STU20260329,Diya Verma,Information Technology,2,B,2025,acd20260329@students.academia-demo.edu
+STU20260330,Divya Naidu,Electronics and Communication Engineering,1,B,2026,acd20260330@students.academia-demo.edu
+STU20260331,Kiran Gupta,Electronics and Communication Engineering,3,A,2024,acd20260331@students.academia-demo.edu
+STU20260332,Neha Kumar,Electronics and Communication Engineering,2,C,2025,acd20260332@students.academia-demo.edu
+STU20260333,Naveen Kashyap,Computer Science and Engineering,4,B,2023,acd20260333@students.academia-demo.edu
+STU20260334,Kavya Rao,Computer Science and Engineering,1,B,2026,acd20260334@students.academia-demo.edu
+STU20260335,Madhavi Verma,Electronics and Communication Engineering,3,C,2024,acd20260335@students.academia-demo.edu
+STU20260336,Pranav Babu,Information Technology,1,C,2026,acd20260336@students.academia-demo.edu
+STU20260337,Anil Reddy,Artificial Intelligence and Machine Learning,2,A,2025,acd20260337@students.academia-demo.edu
+STU20260338,Naveen Babu,Artificial Intelligence and Machine Learning,2,B,2025,acd20260338@students.academia-demo.edu
+STU20260339,Veda Babu,Artificial Intelligence and Machine Learning,4,C,2023,acd20260339@students.academia-demo.edu
+STU20260340,Ananya Murthy,Information Technology,3,B,2024,acd20260340@students.academia-demo.edu
+STU20260341,Veda Babu,Artificial Intelligence and Machine Learning,3,C,2024,acd20260341@students.academia-demo.edu
+STU20260342,Pranav Mishra,Computer Science and Engineering,1,A,2026,acd20260342@students.academia-demo.edu
+STU20260343,Sandeep Sahu,Electronics and Communication Engineering,4,B,2023,acd20260343@students.academia-demo.edu
+STU20260344,Riya Murthy,Artificial Intelligence and Machine Learning,2,C,2025,acd20260344@students.academia-demo.edu
+STU20260345,Mohan Khan,Electrical and Electronics Engineering,4,C,2023,acd20260345@students.academia-demo.edu
+STU20260346,Krishna Shetty,Civil Engineering,2,B,2025,acd20260346@students.academia-demo.edu
+STU20260347,Aarav Sahu,Electronics and Communication Engineering,3,B,2024,acd20260347@students.academia-demo.edu
+STU20260348,Avani Kumar,Artificial Intelligence and Machine Learning,4,A,2023,acd20260348@students.academia-demo.edu
+STU20260349,Rahul Mishra,Information Technology,3,A,2024,acd20260349@students.academia-demo.edu
+STU20260350,Anil Iyer,Artificial Intelligence and Machine Learning,4,C,2023,acd20260350@students.academia-demo.edu
+STU20260351,Meera Raju,Mechanical Engineering,4,B,2023,acd20260351@students.academia-demo.edu
+STU20260352,Chaitanya Sharma,Mechanical Engineering,3,A,2024,acd20260352@students.academia-demo.edu
+STU20260353,Ananya Kashyap,Information Technology,4,B,2023,acd20260353@students.academia-demo.edu
+STU20260354,Keerthi Sahu,Artificial Intelligence and Machine Learning,3,C,2024,acd20260354@students.academia-demo.edu
+STU20260355,Dev Patel,Artificial Intelligence and Machine Learning,1,B,2026,acd20260355@students.academia-demo.edu
+STU20260356,Sai Pillai,Electronics and Communication Engineering,1,A,2026,acd20260356@students.academia-demo.edu
+STU20260357,Bhavana Kumar,Electrical and Electronics Engineering,1,A,2026,acd20260357@students.academia-demo.edu
+STU20260358,Teja Naidu,Computer Science and Engineering,3,C,2024,acd20260358@students.academia-demo.edu
+STU20260359,Chaitanya Sahu,Artificial Intelligence and Machine Learning,2,B,2025,acd20260359@students.academia-demo.edu
+STU20260360,Avani Joshi,Computer Science and Engineering,4,C,2023,acd20260360@students.academia-demo.edu
+STU20260361,Akshara Khan,Electrical and Electronics Engineering,3,B,2024,acd20260361@students.academia-demo.edu
+STU20260362,Arjun Devi,Civil Engineering,4,C,2023,acd20260362@students.academia-demo.edu
+STU20260363,Anil Sahu,Computer Science and Engineering,4,B,2023,acd20260363@students.academia-demo.edu
+STU20260364,Harsha Khan,Information Technology,4,B,2023,acd20260364@students.academia-demo.edu
+STU20260365,Kavya Rao,Mechanical Engineering,2,C,2025,acd20260365@students.academia-demo.edu
+STU20260366,Pooja Gupta,Electrical and Electronics Engineering,3,A,2024,acd20260366@students.academia-demo.edu
+STU20260367,Teja Naidu,Information Technology,1,B,2026,acd20260367@students.academia-demo.edu
+STU20260368,Krishna Gupta,Information Technology,1,C,2026,acd20260368@students.academia-demo.edu
+STU20260369,Aarav Verma,Information Technology,2,C,2025,acd20260369@students.academia-demo.edu
+STU20260370,Srinivas Verma,Computer Science and Engineering,3,A,2024,acd20260370@students.academia-demo.edu
+STU20260371,Naveen Iyer,Electrical and Electronics Engineering,1,B,2026,acd20260371@students.academia-demo.edu
+STU20260372,Akshara Murthy,Computer Science and Engineering,3,A,2024,acd20260372@students.academia-demo.edu
+STU20260373,Kavya Verma,Computer Science and Engineering,3,A,2024,acd20260373@students.academia-demo.edu
+STU20260374,Harsha Naidu,Computer Science and Engineering,4,C,2023,acd20260374@students.academia-demo.edu
+STU20260375,Vijay Naidu,Artificial Intelligence and Machine Learning,2,C,2025,acd20260375@students.academia-demo.edu
+STU20260376,Srinivas Mohanty,Information Technology,1,A,2026,acd20260376@students.academia-demo.edu
+STU20260377,Kavya Das,Information Technology,3,B,2024,acd20260377@students.academia-demo.edu
+STU20260378,Sanjana Babu,Artificial Intelligence and Machine Learning,2,B,2025,acd20260378@students.academia-demo.edu
+STU20260379,Keerthi Prasad,Artificial Intelligence and Machine Learning,1,A,2026,acd20260379@students.academia-demo.edu
+STU20260380,Sneha Khan,Electronics and Communication Engineering,4,A,2023,acd20260380@students.academia-demo.edu
+STU20260381,Charan Singh,Civil Engineering,3,C,2024,acd20260381@students.academia-demo.edu
+STU20260382,Nandini Raju,Information Technology,2,C,2025,acd20260382@students.academia-demo.edu
+STU20260383,Krishna Rao,Information Technology,3,B,2024,acd20260383@students.academia-demo.edu
+STU20260384,Mohan Murthy,Information Technology,4,B,2023,acd20260384@students.academia-demo.edu
+STU20260385,Arjun Gupta,Electronics and Communication Engineering,3,B,2024,acd20260385@students.academia-demo.edu
+STU20260386,Akshara Iyer,Information Technology,2,B,2025,acd20260386@students.academia-demo.edu
+STU20260387,Charan Reddy,Computer Science and Engineering,2,C,2025,acd20260387@students.academia-demo.edu
+STU20260388,Ananya Devi,Electronics and Communication Engineering,4,A,2023,acd20260388@students.academia-demo.edu
+STU20260389,Meera Rao,Artificial Intelligence and Machine Learning,3,B,2024,acd20260389@students.academia-demo.edu
+STU20260390,Meera Yadav,Artificial Intelligence and Machine Learning,3,A,2024,acd20260390@students.academia-demo.edu
+STU20260391,Yamini Singh,Artificial Intelligence and Machine Learning,4,A,2023,acd20260391@students.academia-demo.edu
+STU20260392,Ananya Kumar,Computer Science and Engineering,4,C,2023,acd20260392@students.academia-demo.edu
+STU20260393,Tarun Khan,Artificial Intelligence and Machine Learning,3,C,2024,acd20260393@students.academia-demo.edu
+STU20260394,Rohan Kashyap,Computer Science and Engineering,2,B,2025,acd20260394@students.academia-demo.edu
+STU20260395,Akshara Goud,Electrical and Electronics Engineering,3,C,2024,acd20260395@students.academia-demo.edu
+STU20260396,Aadhya Sharma,Information Technology,2,C,2025,acd20260396@students.academia-demo.edu
+STU20260397,Priya Sharma,Mechanical Engineering,3,A,2024,acd20260397@students.academia-demo.edu
+STU20260398,Madhavi Pillai,Artificial Intelligence and Machine Learning,4,B,2023,acd20260398@students.academia-demo.edu
+STU20260399,Keerthi Goud,Civil Engineering,1,A,2026,acd20260399@students.academia-demo.edu
+STU20260400,Dev Joshi,Electronics and Communication Engineering,2,A,2025,acd20260400@students.academia-demo.edu
+STU20260401,Naveen Naidu,Artificial Intelligence and Machine Learning,2,A,2025,acd20260401@students.academia-demo.edu
+STU20260402,Aditya Rao,Computer Science and Engineering,4,A,2023,acd20260402@students.academia-demo.edu
+STU20260403,Aditya Jain,Civil Engineering,4,A,2023,acd20260403@students.academia-demo.edu
+STU20260404,Krishna Murthy,Artificial Intelligence and Machine Learning,4,C,2023,acd20260404@students.academia-demo.edu
+STU20260405,Nikhil Naidu,Computer Science and Engineering,2,A,2025,acd20260405@students.academia-demo.edu
+STU20260406,Avani Shetty,Computer Science and Engineering,1,A,2026,acd20260406@students.academia-demo.edu
+STU20260407,Srinivas Kashyap,Artificial Intelligence and Machine Learning,1,A,2026,acd20260407@students.academia-demo.edu
+STU20260408,Chaitanya Murthy,Artificial Intelligence and Machine Learning,3,B,2024,acd20260408@students.academia-demo.edu
+STU20260409,Yamini Kashyap,Electronics and Communication Engineering,1,A,2026,acd20260409@students.academia-demo.edu
+STU20260410,Meera Joshi,Electrical and Electronics Engineering,3,B,2024,acd20260410@students.academia-demo.edu
+STU20260411,Aditya Varma,Information Technology,3,B,2024,acd20260411@students.academia-demo.edu
+STU20260412,Srinivas Verma,Artificial Intelligence and Machine Learning,3,A,2024,acd20260412@students.academia-demo.edu
+STU20260413,Rohan Jain,Mechanical Engineering,2,B,2025,acd20260413@students.academia-demo.edu
+STU20260414,Nandini Naidu,Mechanical Engineering,1,B,2026,acd20260414@students.academia-demo.edu
+STU20260415,Dev Yadav,Information Technology,3,C,2024,acd20260415@students.academia-demo.edu
+STU20260416,Harsha Naidu,Artificial Intelligence and Machine Learning,2,C,2025,acd20260416@students.academia-demo.edu
+STU20260417,Aditya Yadav,Computer Science and Engineering,2,B,2025,acd20260417@students.academia-demo.edu
+STU20260418,Naveen Devi,Electrical and Electronics Engineering,4,A,2023,acd20260418@students.academia-demo.edu
+STU20260419,Ananya Jain,Information Technology,2,A,2025,acd20260419@students.academia-demo.edu
+STU20260420,Manoj Gupta,Computer Science and Engineering,4,C,2023,acd20260420@students.academia-demo.edu
+STU20260421,Sneha Varma,Artificial Intelligence and Machine Learning,2,C,2025,acd20260421@students.academia-demo.edu
+STU20260422,Kavya Devi,Information Technology,3,B,2024,acd20260422@students.academia-demo.edu
+STU20260423,Naveen Raju,Computer Science and Engineering,3,A,2024,acd20260423@students.academia-demo.edu
+STU20260424,Rohan Patel,Electronics and Communication Engineering,3,C,2024,acd20260424@students.academia-demo.edu
+STU20260425,Lakshmi Nair,Electrical and Electronics Engineering,3,C,2024,acd20260425@students.academia-demo.edu
+STU20260426,Srinivas Das,Mechanical Engineering,1,C,2026,acd20260426@students.academia-demo.edu
+STU20260427,Srinivas Joshi,Electronics and Communication Engineering,2,A,2025,acd20260427@students.academia-demo.edu
+STU20260428,Srinivas Yadav,Information Technology,3,B,2024,acd20260428@students.academia-demo.edu
+STU20260429,Sneha Jain,Civil Engineering,4,B,2023,acd20260429@students.academia-demo.edu
+STU20260430,Varun Murthy,Mechanical Engineering,1,C,2026,acd20260430@students.academia-demo.edu
+STU20260431,Siddharth Rao,Artificial Intelligence and Machine Learning,3,C,2024,acd20260431@students.academia-demo.edu
+STU20260432,Varun Iyer,Artificial Intelligence and Machine Learning,4,C,2023,acd20260432@students.academia-demo.edu
+STU20260433,Nandini Joshi,Electronics and Communication Engineering,4,A,2023,acd20260433@students.academia-demo.edu
+STU20260434,Madhavi Mishra,Electrical and Electronics Engineering,2,B,2025,acd20260434@students.academia-demo.edu
+STU20260435,Kiran Reddy,Electrical and Electronics Engineering,4,A,2023,acd20260435@students.academia-demo.edu
+STU20260436,Ishaan Devi,Electrical and Electronics Engineering,3,A,2024,acd20260436@students.academia-demo.edu
+STU20260437,Priya Verma,Computer Science and Engineering,2,A,2025,acd20260437@students.academia-demo.edu
+STU20260438,Srinivas Pillai,Information Technology,1,A,2026,acd20260438@students.academia-demo.edu
+STU20260439,Meera Jain,Computer Science and Engineering,2,C,2025,acd20260439@students.academia-demo.edu
+STU20260440,Arjun Nair,Computer Science and Engineering,4,A,2023,acd20260440@students.academia-demo.edu
+STU20260441,Teja Chowdary,Electronics and Communication Engineering,2,A,2025,acd20260441@students.academia-demo.edu
+STU20260442,Deepika Sharma,Mechanical Engineering,4,B,2023,acd20260442@students.academia-demo.edu
+STU20260443,Madhavi Iyer,Electrical and Electronics Engineering,3,C,2024,acd20260443@students.academia-demo.edu
+STU20260444,Arjun Pillai,Artificial Intelligence and Machine Learning,4,B,2023,acd20260444@students.academia-demo.edu
+STU20260445,Madhavi Gupta,Electronics and Communication Engineering,3,C,2024,acd20260445@students.academia-demo.edu
+STU20260446,Divya Joshi,Civil Engineering,3,C,2024,acd20260446@students.academia-demo.edu
+STU20260447,Riya Das,Electronics and Communication Engineering,3,B,2024,acd20260447@students.academia-demo.edu
+STU20260448,Aarav Chowdary,Information Technology,3,C,2024,acd20260448@students.academia-demo.edu
+STU20260449,Manoj Joshi,Electronics and Communication Engineering,3,B,2024,acd20260449@students.academia-demo.edu
+STU20260450,Nikhil Joshi,Artificial Intelligence and Machine Learning,1,A,2026,acd20260450@students.academia-demo.edu
+STU20260451,Arjun Kumar,Computer Science and Engineering,4,B,2023,acd20260451@students.academia-demo.edu
+STU20260452,Anil Gupta,Computer Science and Engineering,2,C,2025,acd20260452@students.academia-demo.edu
+STU20260453,Deepika Prasad,Artificial Intelligence and Machine Learning,2,A,2025,acd20260453@students.academia-demo.edu
+STU20260454,Chaitanya Kashyap,Electrical and Electronics Engineering,4,B,2023,acd20260454@students.academia-demo.edu
+STU20260455,Naveen Goud,Artificial Intelligence and Machine Learning,2,A,2025,acd20260455@students.academia-demo.edu
+STU20260456,Sanjana Jain,Electrical and Electronics Engineering,4,C,2023,acd20260456@students.academia-demo.edu
+STU20260457,Pranav Jain,Artificial Intelligence and Machine Learning,4,A,2023,acd20260457@students.academia-demo.edu
+STU20260458,Pranav Raju,Computer Science and Engineering,3,C,2024,acd20260458@students.academia-demo.edu
+STU20260459,Anil Nair,Electronics and Communication Engineering,3,B,2024,acd20260459@students.academia-demo.edu
+STU20260460,Naveen Kashyap,Information Technology,2,A,2025,acd20260460@students.academia-demo.edu
+STU20260461,Aadhya Das,Artificial Intelligence and Machine Learning,1,B,2026,acd20260461@students.academia-demo.edu
+STU20260462,Neha Varma,Civil Engineering,3,C,2024,acd20260462@students.academia-demo.edu
+STU20260463,Krishna Jain,Electrical and Electronics Engineering,4,A,2023,acd20260463@students.academia-demo.edu
+STU20260464,Manoj Iyer,Mechanical Engineering,4,A,2023,acd20260464@students.academia-demo.edu
+STU20260465,Teja Babu,Mechanical Engineering,2,A,2025,acd20260465@students.academia-demo.edu
+STU20260466,Riya Jain,Computer Science and Engineering,2,B,2025,acd20260466@students.academia-demo.edu
+STU20260467,Rahul Babu,Information Technology,4,B,2023,acd20260467@students.academia-demo.edu
+STU20260468,Priya Gupta,Civil Engineering,2,B,2025,acd20260468@students.academia-demo.edu
+STU20260469,Charan Singh,Mechanical Engineering,4,B,2023,acd20260469@students.academia-demo.edu
+STU20260470,Riya Babu,Electronics and Communication Engineering,3,B,2024,acd20260470@students.academia-demo.edu
+STU20260471,Dev Raju,Computer Science and Engineering,4,B,2023,acd20260471@students.academia-demo.edu
+STU20260472,Sai Das,Electronics and Communication Engineering,3,C,2024,acd20260472@students.academia-demo.edu
+STU20260473,Dev Verma,Artificial Intelligence and Machine Learning,1,A,2026,acd20260473@students.academia-demo.edu
+STU20260474,Aadhya Chowdary,Artificial Intelligence and Machine Learning,4,A,2023,acd20260474@students.academia-demo.edu
+STU20260475,Neha Sharma,Information Technology,2,A,2025,acd20260475@students.academia-demo.edu
+STU20260476,Abhinav Varma,Electronics and Communication Engineering,1,B,2026,acd20260476@students.academia-demo.edu
+STU20260477,Avani Mishra,Artificial Intelligence and Machine Learning,4,B,2023,acd20260477@students.academia-demo.edu
+STU20260478,Varun Babu,Artificial Intelligence and Machine Learning,4,B,2023,acd20260478@students.academia-demo.edu
+STU20260479,Anil Gupta,Information Technology,4,C,2023,acd20260479@students.academia-demo.edu
+STU20260480,Srinivas Kashyap,Computer Science and Engineering,4,B,2023,acd20260480@students.academia-demo.edu
+STU20260481,Gowtham Mohanty,Computer Science and Engineering,1,A,2026,acd20260481@students.academia-demo.edu
+STU20260482,Aadhya Nair,Mechanical Engineering,3,B,2024,acd20260482@students.academia-demo.edu
+STU20260483,Riya Goud,Electronics and Communication Engineering,3,B,2024,acd20260483@students.academia-demo.edu
+STU20260484,Riya Prasad,Computer Science and Engineering,2,B,2025,acd20260484@students.academia-demo.edu
+STU20260485,Meera Singh,Artificial Intelligence and Machine Learning,3,B,2024,acd20260485@students.academia-demo.edu
+STU20260486,Lakshmi Devi,Artificial Intelligence and Machine Learning,3,A,2024,acd20260486@students.academia-demo.edu
+STU20260487,Teja Mishra,Civil Engineering,2,B,2025,acd20260487@students.academia-demo.edu
+STU20260488,Aditya Patel,Electronics and Communication Engineering,4,C,2023,acd20260488@students.academia-demo.edu
+STU20260489,Deepika Rao,Computer Science and Engineering,4,A,2023,acd20260489@students.academia-demo.edu
+STU20260490,Aadhya Varma,Electrical and Electronics Engineering,2,C,2025,acd20260490@students.academia-demo.edu
+STU20260491,Akshara Das,Computer Science and Engineering,2,B,2025,acd20260491@students.academia-demo.edu
+STU20260492,Rahul Babu,Information Technology,4,B,2023,acd20260492@students.academia-demo.edu
+STU20260493,Deepika Sahu,Electronics and Communication Engineering,1,C,2026,acd20260493@students.academia-demo.edu
+STU20260494,Pooja Goud,Information Technology,4,A,2023,acd20260494@students.academia-demo.edu
+STU20260495,Sanjana Murthy,Computer Science and Engineering,2,C,2025,acd20260495@students.academia-demo.edu
+STU20260496,Meera Prasad,Mechanical Engineering,2,B,2025,acd20260496@students.academia-demo.edu
+STU20260497,Harsha Khan,Electronics and Communication Engineering,2,B,2025,acd20260497@students.academia-demo.edu
+STU20260498,Srinivas Prasad,Computer Science and Engineering,2,A,2025,acd20260498@students.academia-demo.edu
+STU20260499,Aadhya Gupta,Electronics and Communication Engineering,1,A,2026,acd20260499@students.academia-demo.edu
+STU20260500,Tarun Pillai,Computer Science and Engineering,2,A,2025,acd20260500@students.academia-demo.edu
+STU20260501,dj tillu,Civil Engineering,1,A,2026,tillu90@gmail.com

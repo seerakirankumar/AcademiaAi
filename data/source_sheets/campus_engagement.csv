@@ -1,0 +1,1464 @@
+Student Name,Engagement Record ID,Student ID,Activity Type,Activity Name,Participation Role or Level,Hours Contributed,Academic Year,Participation Verified?
+Neha Singh,ENG000001,STU20260001,Event participation,College Fest,Organizer,18.9,2026-2027,Yes
+Neha Singh,ENG000002,STU20260001,Competition,Coding Contest,Organizer,4.1,2026-2027,No
+Neha Singh,ENG000003,STU20260001,Research,Research Group,Active Contributor,31.5,2026-2027,Yes
+Neha Singh,ENG000004,STU20260001,Certification,Certification,Organizer,22.4,2026-2027,No
+Aditya Devi,ENG000005,STU20260002,Volunteering,Volunteer Program,Participant,30.4,2026-2027,No
+Aditya Devi,ENG000006,STU20260002,Project contribution,Open Source Contribution,Active Contributor,24.3,2026-2027,No
+Aditya Devi,ENG000007,STU20260002,Workshop,Technical Workshop,Active Contributor,12.8,2026-2027,No
+Aditya Devi,ENG000008,STU20260002,Event participation,College Fest,Active Contributor,17.9,2026-2027,Yes
+Aditya Devi,ENG000009,STU20260002,Participation,Hackathon,Participant,3.7,2026-2027,Yes
+Aditya Devi,ENG000010,STU20260002,Competition,Coding Contest,Participant,9.1,2026-2027,Yes
+Naveen Mishra,ENG000011,STU20260003,Volunteering,Volunteer Program,Participant,33.2,2026-2027,No
+Naveen Mishra,ENG000012,STU20260003,Event participation,College Fest,Organizer,30.1,2026-2027,No
+Neha Gupta,ENG000013,STU20260004,Club membership,Sports Club,Participant,16.4,2026-2027,Yes
+Neha Gupta,ENG000014,STU20260004,Workshop,Technical Workshop,Participant,35.9,2026-2027,Yes
+Harsha Naidu,ENG000015,STU20260005,Competition,Coding Contest,Participant,12.1,2026-2027,Yes
+Harsha Naidu,ENG000016,STU20260005,Project contribution,Open Source Contribution,Active Contributor,23.2,2026-2027,Yes
+Harsha Naidu,ENG000017,STU20260005,Certification,Certification,Organizer,11.6,2026-2027,Yes
+Varun Iyer,ENG000018,STU20260007,Event participation,College Fest,Participant,20.3,2026-2027,No
+Nandini Joshi,ENG000019,STU20260008,Competition,Coding Contest,Organizer,18.5,2026-2027,No
+Nandini Joshi,ENG000020,STU20260008,Club membership,Technical Club,Active Contributor,20.3,2026-2027,No
+Nandini Joshi,ENG000021,STU20260008,Certification,Certification,Participant,30.3,2026-2027,No
+Nandini Joshi,ENG000022,STU20260008,Volunteering,Volunteer Program,Participant,31.8,2026-2027,No
+Diya Varma,ENG000023,STU20260009,Research,Research Group,Participant,27.8,2026-2027,Yes
+Meera Chowdary,ENG000024,STU20260010,Research,Research Group,Active Contributor,16.2,2026-2027,No
+Meera Chowdary,ENG000025,STU20260010,Certification,Certification,Active Contributor,10.9,2026-2027,Yes
+Meera Chowdary,ENG000026,STU20260010,Volunteering,Volunteer Program,Participant,27.9,2026-2027,Yes
+Meera Chowdary,ENG000027,STU20260010,Club membership,Technical Club,Active Contributor,17.6,2026-2027,Yes
+Meera Chowdary,ENG000028,STU20260010,Event participation,College Fest,Participant,17.3,2026-2027,Yes
+Meera Chowdary,ENG000029,STU20260010,Participation,Hackathon,Active Contributor,20.9,2026-2027,No
+Sandeep Rao,ENG000030,STU20260011,Certification,Certification,Organizer,4.9,2026-2027,Yes
+Sandeep Rao,ENG000031,STU20260011,Club membership,Technical Club,Organizer,6.1,2026-2027,Yes
+Nandini Jain,ENG000032,STU20260013,Club membership,Sports Club,Active Contributor,16.0,2026-2027,No
+Nandini Jain,ENG000033,STU20260013,Certification,Certification,Participant,13.8,2026-2027,No
+Nandini Jain,ENG000034,STU20260013,Participation,Hackathon,Organizer,16.8,2026-2027,Yes
+Nandini Jain,ENG000035,STU20260013,Workshop,Technical Workshop,Organizer,32.9,2026-2027,No
+Nandini Jain,ENG000036,STU20260013,Club membership,Technical Club,Participant,15.1,2026-2027,No
+Meera Goud,ENG000037,STU20260014,Research,Research Group,Active Contributor,16.5,2026-2027,Yes
+Rohan Mishra,ENG000038,STU20260015,Research,Research Group,Participant,5.8,2026-2027,No
+Rohan Mishra,ENG000039,STU20260015,Club membership,Technical Club,Organizer,14.3,2026-2027,No
+Rohan Mishra,ENG000040,STU20260015,Competition,Coding Contest,Organizer,12.0,2026-2027,No
+Rohan Mishra,ENG000041,STU20260015,Project contribution,Open Source Contribution,Participant,10.6,2026-2027,Yes
+Rohan Mishra,ENG000042,STU20260015,Certification,Certification,Active Contributor,2.3,2026-2027,No
+Rohan Mishra,ENG000043,STU20260015,Club membership,Sports Club,Active Contributor,7.0,2026-2027,Yes
+Madhavi Mishra,ENG000044,STU20260016,Event participation,College Fest,Participant,24.3,2026-2027,Yes
+Madhavi Mishra,ENG000045,STU20260016,Project contribution,Open Source Contribution,Organizer,28.1,2026-2027,Yes
+Madhavi Mishra,ENG000046,STU20260016,Club membership,Technical Club,Organizer,6.1,2026-2027,Yes
+Madhavi Mishra,ENG000047,STU20260016,Workshop,Technical Workshop,Organizer,28.5,2026-2027,Yes
+Madhavi Mishra,ENG000048,STU20260016,Club membership,Sports Club,Active Contributor,7.7,2026-2027,Yes
+Madhavi Mishra,ENG000049,STU20260016,Participation,Hackathon,Participant,19.4,2026-2027,Yes
+Srinivas Kumar,ENG000050,STU20260017,Club membership,Technical Club,Organizer,19.3,2026-2027,Yes
+Srinivas Kumar,ENG000051,STU20260017,Volunteering,Volunteer Program,Organizer,9.2,2026-2027,No
+Srinivas Kumar,ENG000052,STU20260017,Event participation,College Fest,Participant,13.3,2026-2027,No
+Priya Naidu,ENG000053,STU20260018,Certification,Certification,Active Contributor,3.9,2026-2027,No
+Priya Naidu,ENG000054,STU20260018,Project contribution,Open Source Contribution,Active Contributor,10.3,2026-2027,Yes
+Kavya Sahu,ENG000055,STU20260019,Competition,Coding Contest,Participant,15.0,2026-2027,No
+Kavya Sahu,ENG000056,STU20260019,Club membership,Technical Club,Active Contributor,26.0,2026-2027,Yes
+Kavya Sahu,ENG000057,STU20260019,Certification,Certification,Participant,23.5,2026-2027,Yes
+Kavya Sahu,ENG000058,STU20260019,Volunteering,Volunteer Program,Organizer,12.8,2026-2027,Yes
+Vijay Yadav,ENG000059,STU20260022,Participation,Hackathon,Active Contributor,23.9,2026-2027,No
+Vijay Yadav,ENG000060,STU20260022,Club membership,Sports Club,Active Contributor,28.4,2026-2027,Yes
+Vijay Yadav,ENG000061,STU20260022,Event participation,College Fest,Active Contributor,7.2,2026-2027,No
+Vijay Yadav,ENG000062,STU20260022,Competition,Coding Contest,Active Contributor,14.5,2026-2027,Yes
+Vijay Yadav,ENG000063,STU20260022,Project contribution,Open Source Contribution,Active Contributor,13.5,2026-2027,No
+Kavya Goud,ENG000064,STU20260023,Volunteering,Volunteer Program,Participant,15.7,2026-2027,Yes
+Kavya Goud,ENG000065,STU20260023,Certification,Certification,Active Contributor,35.9,2026-2027,No
+Kavya Goud,ENG000066,STU20260023,Club membership,Sports Club,Organizer,2.9,2026-2027,No
+Kavya Goud,ENG000067,STU20260023,Participation,Hackathon,Organizer,16.6,2026-2027,Yes
+Kavya Goud,ENG000068,STU20260023,Club membership,Technical Club,Organizer,15.2,2026-2027,No
+Pranav Yadav,ENG000069,STU20260024,Volunteering,Volunteer Program,Organizer,4.1,2026-2027,No
+Pranav Yadav,ENG000070,STU20260024,Event participation,College Fest,Active Contributor,13.5,2026-2027,Yes
+Pranav Yadav,ENG000071,STU20260024,Competition,Coding Contest,Active Contributor,35.1,2026-2027,No
+Pranav Yadav,ENG000072,STU20260024,Certification,Certification,Active Contributor,23.9,2026-2027,Yes
+Pranav Yadav,ENG000073,STU20260024,Club membership,Technical Club,Organizer,9.4,2026-2027,Yes
+Nandini Reddy,ENG000074,STU20260025,Project contribution,Open Source Contribution,Active Contributor,19.0,2026-2027,No
+Sanjana Shetty,ENG000075,STU20260026,Event participation,College Fest,Organizer,25.8,2026-2027,No
+Sanjana Shetty,ENG000076,STU20260026,Volunteering,Volunteer Program,Active Contributor,16.8,2026-2027,Yes
+Sanjana Shetty,ENG000077,STU20260026,Project contribution,Open Source Contribution,Participant,18.7,2026-2027,No
+Sanjana Shetty,ENG000078,STU20260026,Club membership,Technical Club,Organizer,13.1,2026-2027,No
+Akshara Devi,ENG000079,STU20260028,Project contribution,Open Source Contribution,Participant,3.4,2026-2027,Yes
+Akshara Devi,ENG000080,STU20260028,Certification,Certification,Participant,11.0,2026-2027,No
+Akshara Devi,ENG000081,STU20260028,Participation,Hackathon,Active Contributor,18.3,2026-2027,Yes
+Avani Yadav,ENG000082,STU20260029,Workshop,Technical Workshop,Active Contributor,25.0,2026-2027,Yes
+Avani Yadav,ENG000083,STU20260029,Volunteering,Volunteer Program,Participant,32.5,2026-2027,Yes
+Avani Yadav,ENG000084,STU20260029,Club membership,Sports Club,Active Contributor,7.2,2026-2027,Yes
+Avani Yadav,ENG000085,STU20260029,Research,Research Group,Organizer,17.9,2026-2027,Yes
+Avani Yadav,ENG000086,STU20260029,Event participation,College Fest,Active Contributor,18.0,2026-2027,No
+Avani Yadav,ENG000087,STU20260029,Project contribution,Open Source Contribution,Organizer,35.8,2026-2027,No
+Srinivas Yadav,ENG000088,STU20260030,Participation,Hackathon,Participant,30.7,2026-2027,No
+Srinivas Yadav,ENG000089,STU20260030,Club membership,Technical Club,Organizer,29.7,2026-2027,No
+Srinivas Yadav,ENG000090,STU20260030,Workshop,Technical Workshop,Active Contributor,16.9,2026-2027,Yes
+Srinivas Yadav,ENG000091,STU20260030,Research,Research Group,Participant,10.1,2026-2027,Yes
+Harsha Yadav,ENG000092,STU20260033,Event participation,College Fest,Active Contributor,28.5,2026-2027,Yes
+Harsha Yadav,ENG000093,STU20260033,Competition,Coding Contest,Participant,25.0,2026-2027,No
+Harsha Yadav,ENG000094,STU20260033,Research,Research Group,Organizer,11.0,2026-2027,No
+Harsha Yadav,ENG000095,STU20260033,Workshop,Technical Workshop,Active Contributor,22.5,2026-2027,No
+Harsha Yadav,ENG000096,STU20260033,Club membership,Sports Club,Organizer,5.8,2026-2027,Yes
+Arjun Mohanty,ENG000097,STU20260035,Certification,Certification,Participant,15.8,2026-2027,Yes
+Arjun Mohanty,ENG000098,STU20260035,Club membership,Technical Club,Organizer,22.2,2026-2027,No
+Arjun Mohanty,ENG000099,STU20260035,Research,Research Group,Participant,17.8,2026-2027,No
+Arjun Mohanty,ENG000100,STU20260035,Participation,Hackathon,Active Contributor,11.0,2026-2027,No
+Manoj Goud,ENG000101,STU20260036,Club membership,Technical Club,Organizer,11.1,2026-2027,No
+Manoj Goud,ENG000102,STU20260036,Volunteering,Volunteer Program,Organizer,33.1,2026-2027,No
+Manoj Goud,ENG000103,STU20260036,Competition,Coding Contest,Participant,4.6,2026-2027,No
+Ananya Reddy,ENG000104,STU20260037,Competition,Coding Contest,Active Contributor,32.4,2026-2027,Yes
+Anil Patel,ENG000105,STU20260038,Project contribution,Open Source Contribution,Active Contributor,31.6,2026-2027,Yes
+Chaitanya Kumar,ENG000106,STU20260040,Certification,Certification,Active Contributor,24.0,2026-2027,No
+Chaitanya Kumar,ENG000107,STU20260040,Participation,Hackathon,Participant,10.7,2026-2027,No
+Chaitanya Kumar,ENG000108,STU20260040,Project contribution,Open Source Contribution,Participant,24.7,2026-2027,Yes
+Chaitanya Kumar,ENG000109,STU20260040,Research,Research Group,Participant,31.3,2026-2027,No
+Chaitanya Kumar,ENG000110,STU20260040,Workshop,Technical Workshop,Active Contributor,3.6,2026-2027,No
+Chaitanya Kumar,ENG000111,STU20260040,Volunteering,Volunteer Program,Participant,27.0,2026-2027,No
+Kavya Patel,ENG000112,STU20260041,Club membership,Technical Club,Organizer,6.6,2026-2027,Yes
+Kavya Patel,ENG000113,STU20260041,Certification,Certification,Organizer,19.6,2026-2027,No
+Kavya Patel,ENG000114,STU20260041,Event participation,College Fest,Active Contributor,9.0,2026-2027,No
+Kavya Patel,ENG000115,STU20260041,Volunteering,Volunteer Program,Active Contributor,33.2,2026-2027,No
+Kavya Patel,ENG000116,STU20260041,Competition,Coding Contest,Organizer,15.2,2026-2027,Yes
+Kavya Patel,ENG000117,STU20260041,Club membership,Sports Club,Organizer,35.8,2026-2027,No
+Varun Jain,ENG000118,STU20260042,Volunteering,Volunteer Program,Active Contributor,2.1,2026-2027,No
+Sneha Goud,ENG000119,STU20260043,Event participation,College Fest,Organizer,19.0,2026-2027,Yes
+Anil Mohanty,ENG000120,STU20260044,Volunteering,Volunteer Program,Active Contributor,4.8,2026-2027,Yes
+Anil Mohanty,ENG000121,STU20260044,Certification,Certification,Active Contributor,35.8,2026-2027,Yes
+Anil Mohanty,ENG000122,STU20260044,Project contribution,Open Source Contribution,Participant,25.9,2026-2027,No
+Anil Mohanty,ENG000123,STU20260044,Event participation,College Fest,Active Contributor,25.9,2026-2027,Yes
+Anil Mohanty,ENG000124,STU20260044,Competition,Coding Contest,Participant,31.5,2026-2027,No
+Aditya Iyer,ENG000125,STU20260045,Project contribution,Open Source Contribution,Participant,11.1,2026-2027,No
+Aditya Iyer,ENG000126,STU20260045,Participation,Hackathon,Active Contributor,32.6,2026-2027,No
+Aditya Iyer,ENG000127,STU20260045,Research,Research Group,Participant,24.0,2026-2027,Yes
+Aditya Iyer,ENG000128,STU20260045,Certification,Certification,Organizer,22.4,2026-2027,Yes
+Kiran Mishra,ENG000129,STU20260046,Participation,Hackathon,Participant,16.7,2026-2027,Yes
+Kiran Mishra,ENG000130,STU20260046,Project contribution,Open Source Contribution,Participant,26.8,2026-2027,Yes
+Kiran Mishra,ENG000131,STU20260046,Certification,Certification,Organizer,35.2,2026-2027,Yes
+Kiran Mishra,ENG000132,STU20260046,Workshop,Technical Workshop,Participant,3.7,2026-2027,No
+Kiran Mishra,ENG000133,STU20260046,Club membership,Sports Club,Organizer,11.6,2026-2027,No
+Tarun Shetty,ENG000134,STU20260047,Certification,Certification,Active Contributor,8.4,2026-2027,No
+Tarun Shetty,ENG000135,STU20260047,Competition,Coding Contest,Active Contributor,18.0,2026-2027,No
+Dev Khan,ENG000136,STU20260048,Research,Research Group,Participant,17.5,2026-2027,No
+Dev Khan,ENG000137,STU20260048,Club membership,Technical Club,Organizer,33.9,2026-2027,Yes
+Krishna Reddy,ENG000138,STU20260049,Club membership,Sports Club,Participant,4.1,2026-2027,Yes
+Krishna Reddy,ENG000139,STU20260049,Project contribution,Open Source Contribution,Organizer,17.3,2026-2027,Yes
+Krishna Reddy,ENG000140,STU20260049,Research,Research Group,Participant,30.8,2026-2027,Yes
+Krishna Reddy,ENG000141,STU20260049,Competition,Coding Contest,Participant,25.3,2026-2027,No
+Aadhya Jain,ENG000142,STU20260050,Research,Research Group,Organizer,18.6,2026-2027,Yes
+Aadhya Jain,ENG000143,STU20260050,Event participation,College Fest,Participant,32.6,2026-2027,No
+Aadhya Jain,ENG000144,STU20260050,Certification,Certification,Active Contributor,11.1,2026-2027,Yes
+Aadhya Jain,ENG000145,STU20260050,Participation,Hackathon,Participant,6.5,2026-2027,No
+Teja Pillai,ENG000146,STU20260051,Club membership,Sports Club,Organizer,32.5,2026-2027,No
+Dev Patel,ENG000147,STU20260053,Volunteering,Volunteer Program,Organizer,31.7,2026-2027,Yes
+Dev Patel,ENG000148,STU20260053,Research,Research Group,Organizer,7.0,2026-2027,No
+Aarav Naidu,ENG000149,STU20260054,Workshop,Technical Workshop,Organizer,28.7,2026-2027,No
+Aarav Naidu,ENG000150,STU20260054,Club membership,Technical Club,Organizer,28.7,2026-2027,No
+Aarav Naidu,ENG000151,STU20260054,Participation,Hackathon,Active Contributor,28.7,2026-2027,No
+Aarav Naidu,ENG000152,STU20260054,Project contribution,Open Source Contribution,Participant,18.6,2026-2027,No
+Aarav Naidu,ENG000153,STU20260054,Volunteering,Volunteer Program,Active Contributor,11.7,2026-2027,Yes
+Tarun Jain,ENG000154,STU20260055,Club membership,Technical Club,Active Contributor,2.1,2026-2027,Yes
+Tarun Jain,ENG000155,STU20260055,Project contribution,Open Source Contribution,Active Contributor,6.0,2026-2027,No
+Tarun Jain,ENG000156,STU20260055,Workshop,Technical Workshop,Active Contributor,28.5,2026-2027,No
+Tarun Jain,ENG000157,STU20260055,Competition,Coding Contest,Participant,5.1,2026-2027,No
+Divya Kashyap,ENG000158,STU20260056,Club membership,Technical Club,Participant,16.1,2026-2027,No
+Sandeep Verma,ENG000159,STU20260057,Project contribution,Open Source Contribution,Participant,23.1,2026-2027,Yes
+Sandeep Verma,ENG000160,STU20260057,Event participation,College Fest,Active Contributor,31.5,2026-2027,Yes
+Sandeep Verma,ENG000161,STU20260057,Competition,Coding Contest,Organizer,32.7,2026-2027,No
+Sandeep Verma,ENG000162,STU20260057,Research,Research Group,Active Contributor,8.1,2026-2027,No
+Kiran Joshi,ENG000163,STU20260060,Project contribution,Open Source Contribution,Organizer,30.3,2026-2027,No
+Kiran Joshi,ENG000164,STU20260060,Event participation,College Fest,Organizer,34.3,2026-2027,Yes
+Charan Devi,ENG000165,STU20260062,Workshop,Technical Workshop,Participant,32.4,2026-2027,No
+Charan Devi,ENG000166,STU20260062,Club membership,Sports Club,Organizer,2.0,2026-2027,Yes
+Charan Devi,ENG000167,STU20260062,Volunteering,Volunteer Program,Organizer,20.6,2026-2027,Yes
+Charan Devi,ENG000168,STU20260062,Event participation,College Fest,Organizer,10.2,2026-2027,Yes
+Charan Devi,ENG000169,STU20260062,Participation,Hackathon,Organizer,25.9,2026-2027,No
+Charan Devi,ENG000170,STU20260062,Competition,Coding Contest,Active Contributor,24.4,2026-2027,No
+Divya Babu,ENG000171,STU20260064,Event participation,College Fest,Active Contributor,17.4,2026-2027,Yes
+Divya Babu,ENG000172,STU20260064,Participation,Hackathon,Organizer,30.4,2026-2027,No
+Divya Babu,ENG000173,STU20260064,Volunteering,Volunteer Program,Active Contributor,2.9,2026-2027,No
+Divya Babu,ENG000174,STU20260064,Competition,Coding Contest,Organizer,4.8,2026-2027,No
+Akshara Devi,ENG000175,STU20260065,Project contribution,Open Source Contribution,Active Contributor,34.1,2026-2027,No
+Akshara Devi,ENG000176,STU20260065,Club membership,Sports Club,Organizer,4.7,2026-2027,No
+Akshara Devi,ENG000177,STU20260065,Research,Research Group,Organizer,20.0,2026-2027,No
+Akshara Devi,ENG000178,STU20260065,Volunteering,Volunteer Program,Active Contributor,30.9,2026-2027,Yes
+Pranav Devi,ENG000179,STU20260066,Project contribution,Open Source Contribution,Active Contributor,32.8,2026-2027,Yes
+Pranav Devi,ENG000180,STU20260066,Competition,Coding Contest,Participant,13.8,2026-2027,Yes
+Pranav Devi,ENG000181,STU20260066,Research,Research Group,Active Contributor,30.8,2026-2027,No
+Pranav Devi,ENG000182,STU20260066,Volunteering,Volunteer Program,Participant,13.5,2026-2027,No
+Gowtham Kashyap,ENG000183,STU20260067,Volunteering,Volunteer Program,Organizer,25.7,2026-2027,Yes
+Gowtham Kashyap,ENG000184,STU20260067,Research,Research Group,Organizer,12.9,2026-2027,Yes
+Gowtham Kashyap,ENG000185,STU20260067,Club membership,Technical Club,Active Contributor,16.0,2026-2027,No
+Gowtham Kashyap,ENG000186,STU20260067,Competition,Coding Contest,Active Contributor,8.8,2026-2027,No
+Gowtham Kashyap,ENG000187,STU20260067,Certification,Certification,Participant,13.7,2026-2027,No
+Ananya Chowdary,ENG000188,STU20260068,Certification,Certification,Organizer,2.6,2026-2027,Yes
+Ananya Chowdary,ENG000189,STU20260068,Competition,Coding Contest,Participant,7.1,2026-2027,Yes
+Pranav Joshi,ENG000190,STU20260069,Workshop,Technical Workshop,Organizer,7.4,2026-2027,Yes
+Pranav Joshi,ENG000191,STU20260069,Club membership,Sports Club,Organizer,17.5,2026-2027,No
+Pranav Joshi,ENG000192,STU20260069,Volunteering,Volunteer Program,Participant,3.5,2026-2027,No
+Sandeep Singh,ENG000193,STU20260070,Certification,Certification,Active Contributor,30.6,2026-2027,No
+Sandeep Singh,ENG000194,STU20260070,Project contribution,Open Source Contribution,Participant,27.8,2026-2027,Yes
+Sandeep Singh,ENG000195,STU20260070,Participation,Hackathon,Participant,27.6,2026-2027,Yes
+Sandeep Singh,ENG000196,STU20260070,Club membership,Sports Club,Participant,14.2,2026-2027,Yes
+Akshara Singh,ENG000197,STU20260071,Workshop,Technical Workshop,Active Contributor,14.5,2026-2027,Yes
+Akshara Singh,ENG000198,STU20260071,Event participation,College Fest,Participant,12.7,2026-2027,No
+Akshara Singh,ENG000199,STU20260071,Volunteering,Volunteer Program,Active Contributor,24.7,2026-2027,Yes
+Akshara Singh,ENG000200,STU20260071,Club membership,Sports Club,Participant,35.5,2026-2027,No
+Akshara Singh,ENG000201,STU20260071,Research,Research Group,Organizer,27.1,2026-2027,Yes
+Anil Devi,ENG000202,STU20260072,Event participation,College Fest,Organizer,35.6,2026-2027,No
+Anil Devi,ENG000203,STU20260072,Competition,Coding Contest,Active Contributor,31.6,2026-2027,No
+Anil Devi,ENG000204,STU20260072,Volunteering,Volunteer Program,Participant,15.6,2026-2027,No
+Anil Devi,ENG000205,STU20260072,Workshop,Technical Workshop,Active Contributor,21.1,2026-2027,Yes
+Anil Devi,ENG000206,STU20260072,Club membership,Sports Club,Participant,14.0,2026-2027,No
+Sneha Prasad,ENG000207,STU20260073,Project contribution,Open Source Contribution,Active Contributor,13.1,2026-2027,Yes
+Sneha Prasad,ENG000208,STU20260073,Club membership,Technical Club,Organizer,2.9,2026-2027,Yes
+Sneha Prasad,ENG000209,STU20260073,Participation,Hackathon,Organizer,35.3,2026-2027,No
+Sneha Prasad,ENG000210,STU20260073,Competition,Coding Contest,Active Contributor,32.6,2026-2027,No
+Sneha Prasad,ENG000211,STU20260073,Research,Research Group,Organizer,4.9,2026-2027,No
+Sneha Prasad,ENG000212,STU20260073,Club membership,Sports Club,Participant,25.3,2026-2027,No
+Harsha Joshi,ENG000213,STU20260075,Participation,Hackathon,Organizer,15.8,2026-2027,Yes
+Harsha Joshi,ENG000214,STU20260075,Certification,Certification,Active Contributor,15.8,2026-2027,No
+Harsha Joshi,ENG000215,STU20260075,Event participation,College Fest,Participant,27.9,2026-2027,Yes
+Harsha Joshi,ENG000216,STU20260075,Competition,Coding Contest,Organizer,34.9,2026-2027,Yes
+Aadhya Babu,ENG000217,STU20260076,Club membership,Technical Club,Organizer,30.1,2026-2027,No
+Aadhya Babu,ENG000218,STU20260076,Workshop,Technical Workshop,Active Contributor,12.6,2026-2027,No
+Srinivas Goud,ENG000219,STU20260077,Certification,Certification,Active Contributor,27.9,2026-2027,No
+Srinivas Goud,ENG000220,STU20260077,Volunteering,Volunteer Program,Organizer,35.8,2026-2027,Yes
+Gowtham Pillai,ENG000221,STU20260078,Certification,Certification,Organizer,29.1,2026-2027,No
+Gowtham Pillai,ENG000222,STU20260078,Competition,Coding Contest,Participant,34.4,2026-2027,No
+Gowtham Pillai,ENG000223,STU20260078,Workshop,Technical Workshop,Organizer,15.6,2026-2027,No
+Gowtham Pillai,ENG000224,STU20260078,Research,Research Group,Organizer,9.0,2026-2027,Yes
+Avani Singh,ENG000225,STU20260079,Competition,Coding Contest,Organizer,32.7,2026-2027,No
+Naveen Gupta,ENG000226,STU20260081,Competition,Coding Contest,Participant,6.7,2026-2027,No
+Naveen Gupta,ENG000227,STU20260081,Project contribution,Open Source Contribution,Organizer,24.8,2026-2027,Yes
+Naveen Gupta,ENG000228,STU20260081,Club membership,Sports Club,Participant,15.5,2026-2027,Yes
+Naveen Gupta,ENG000229,STU20260081,Volunteering,Volunteer Program,Active Contributor,25.9,2026-2027,No
+Teja Kumar,ENG000230,STU20260082,Participation,Hackathon,Active Contributor,3.6,2026-2027,No
+Teja Kumar,ENG000231,STU20260082,Club membership,Sports Club,Active Contributor,33.5,2026-2027,Yes
+Krishna Raju,ENG000232,STU20260083,Competition,Coding Contest,Active Contributor,6.6,2026-2027,No
+Krishna Raju,ENG000233,STU20260083,Research,Research Group,Participant,30.8,2026-2027,Yes
+Krishna Raju,ENG000234,STU20260083,Participation,Hackathon,Organizer,4.7,2026-2027,No
+Krishna Raju,ENG000235,STU20260083,Certification,Certification,Active Contributor,16.0,2026-2027,Yes
+Krishna Raju,ENG000236,STU20260083,Club membership,Sports Club,Active Contributor,22.3,2026-2027,No
+Yamini Sharma,ENG000237,STU20260084,Research,Research Group,Active Contributor,25.7,2026-2027,Yes
+Yamini Sharma,ENG000238,STU20260084,Workshop,Technical Workshop,Organizer,17.4,2026-2027,No
+Yamini Sharma,ENG000239,STU20260084,Competition,Coding Contest,Participant,9.3,2026-2027,No
+Aadhya Iyer,ENG000240,STU20260085,Research,Research Group,Active Contributor,19.6,2026-2027,No
+Aadhya Iyer,ENG000241,STU20260085,Workshop,Technical Workshop,Organizer,16.8,2026-2027,No
+Aadhya Iyer,ENG000242,STU20260085,Event participation,College Fest,Organizer,19.2,2026-2027,No
+Aadhya Iyer,ENG000243,STU20260085,Volunteering,Volunteer Program,Active Contributor,7.6,2026-2027,No
+Aadhya Iyer,ENG000244,STU20260085,Club membership,Technical Club,Active Contributor,10.9,2026-2027,Yes
+Aadhya Iyer,ENG000245,STU20260085,Participation,Hackathon,Active Contributor,2.2,2026-2027,No
+Madhavi Patel,ENG000246,STU20260086,Participation,Hackathon,Organizer,26.8,2026-2027,No
+Varun Das,ENG000247,STU20260087,Club membership,Technical Club,Participant,8.9,2026-2027,Yes
+Varun Das,ENG000248,STU20260087,Club membership,Sports Club,Participant,29.2,2026-2027,No
+Varun Das,ENG000249,STU20260087,Research,Research Group,Organizer,6.7,2026-2027,No
+Varun Das,ENG000250,STU20260087,Participation,Hackathon,Organizer,6.9,2026-2027,Yes
+Aadhya Reddy,ENG000251,STU20260088,Research,Research Group,Organizer,2.5,2026-2027,Yes
+Priya Reddy,ENG000252,STU20260089,Research,Research Group,Participant,25.6,2026-2027,No
+Priya Reddy,ENG000253,STU20260089,Volunteering,Volunteer Program,Active Contributor,6.0,2026-2027,No
+Priya Reddy,ENG000254,STU20260089,Project contribution,Open Source Contribution,Organizer,21.6,2026-2027,No
+Priya Reddy,ENG000255,STU20260089,Event participation,College Fest,Participant,4.8,2026-2027,No
+Priya Reddy,ENG000256,STU20260089,Competition,Coding Contest,Organizer,11.8,2026-2027,Yes
+Lakshmi Verma,ENG000257,STU20260090,Club membership,Technical Club,Organizer,35.1,2026-2027,No
+Lakshmi Verma,ENG000258,STU20260090,Volunteering,Volunteer Program,Participant,33.1,2026-2027,No
+Lakshmi Verma,ENG000259,STU20260090,Event participation,College Fest,Participant,25.4,2026-2027,No
+Lakshmi Verma,ENG000260,STU20260090,Competition,Coding Contest,Active Contributor,28.3,2026-2027,Yes
+Lakshmi Verma,ENG000261,STU20260090,Project contribution,Open Source Contribution,Participant,4.9,2026-2027,Yes
+Lakshmi Verma,ENG000262,STU20260090,Club membership,Sports Club,Active Contributor,33.3,2026-2027,Yes
+Teja Murthy,ENG000263,STU20260091,Event participation,College Fest,Organizer,6.7,2026-2027,No
+Teja Murthy,ENG000264,STU20260091,Workshop,Technical Workshop,Active Contributor,13.5,2026-2027,Yes
+Teja Murthy,ENG000265,STU20260091,Competition,Coding Contest,Organizer,27.8,2026-2027,Yes
+Teja Murthy,ENG000266,STU20260091,Club membership,Sports Club,Participant,30.9,2026-2027,Yes
+Teja Murthy,ENG000267,STU20260091,Certification,Certification,Active Contributor,22.9,2026-2027,No
+Keerthi Rao,ENG000268,STU20260092,Competition,Coding Contest,Participant,34.2,2026-2027,Yes
+Keerthi Rao,ENG000269,STU20260092,Certification,Certification,Participant,11.6,2026-2027,No
+Yamini Kashyap,ENG000270,STU20260093,Club membership,Sports Club,Active Contributor,31.6,2026-2027,No
+Yamini Kashyap,ENG000271,STU20260093,Volunteering,Volunteer Program,Organizer,19.3,2026-2027,Yes
+Yamini Kashyap,ENG000272,STU20260093,Project contribution,Open Source Contribution,Organizer,23.3,2026-2027,Yes
+Yamini Kashyap,ENG000273,STU20260093,Certification,Certification,Participant,20.7,2026-2027,No
+Madhavi Devi,ENG000274,STU20260094,Certification,Certification,Organizer,33.1,2026-2027,No
+Madhavi Devi,ENG000275,STU20260094,Club membership,Sports Club,Active Contributor,5.8,2026-2027,Yes
+Madhavi Devi,ENG000276,STU20260094,Club membership,Technical Club,Active Contributor,30.7,2026-2027,Yes
+Madhavi Sharma,ENG000277,STU20260095,Club membership,Technical Club,Active Contributor,4.5,2026-2027,No
+Madhavi Sharma,ENG000278,STU20260095,Project contribution,Open Source Contribution,Participant,7.3,2026-2027,Yes
+Madhavi Sharma,ENG000279,STU20260095,Participation,Hackathon,Participant,31.8,2026-2027,Yes
+Aditya Shetty,ENG000280,STU20260096,Club membership,Sports Club,Active Contributor,25.9,2026-2027,No
+Aditya Shetty,ENG000281,STU20260096,Research,Research Group,Participant,35.2,2026-2027,Yes
+Aditya Shetty,ENG000282,STU20260096,Event participation,College Fest,Participant,24.8,2026-2027,Yes
+Ananya Verma,ENG000283,STU20260097,Club membership,Technical Club,Participant,30.6,2026-2027,Yes
+Ananya Verma,ENG000284,STU20260097,Volunteering,Volunteer Program,Organizer,6.7,2026-2027,Yes
+Aarav Khan,ENG000285,STU20260098,Club membership,Technical Club,Organizer,11.7,2026-2027,No
+Aarav Khan,ENG000286,STU20260098,Competition,Coding Contest,Participant,35.4,2026-2027,Yes
+Pooja Goud,ENG000287,STU20260099,Certification,Certification,Participant,6.9,2026-2027,No
+Pooja Goud,ENG000288,STU20260099,Club membership,Sports Club,Active Contributor,7.6,2026-2027,No
+Pooja Goud,ENG000289,STU20260099,Competition,Coding Contest,Participant,4.8,2026-2027,Yes
+Pooja Goud,ENG000290,STU20260099,Event participation,College Fest,Active Contributor,26.1,2026-2027,No
+Pooja Goud,ENG000291,STU20260099,Workshop,Technical Workshop,Participant,11.5,2026-2027,No
+Pooja Goud,ENG000292,STU20260099,Participation,Hackathon,Organizer,25.9,2026-2027,No
+Pooja Sharma,ENG000293,STU20260100,Club membership,Sports Club,Participant,10.2,2026-2027,No
+Riya Rao,ENG000294,STU20260101,Research,Research Group,Active Contributor,24.9,2026-2027,No
+Riya Rao,ENG000295,STU20260101,Event participation,College Fest,Participant,12.6,2026-2027,No
+Riya Rao,ENG000296,STU20260101,Workshop,Technical Workshop,Organizer,12.6,2026-2027,No
+Riya Rao,ENG000297,STU20260101,Club membership,Sports Club,Active Contributor,11.7,2026-2027,No
+Riya Rao,ENG000298,STU20260101,Certification,Certification,Participant,2.7,2026-2027,No
+Akshara Joshi,ENG000299,STU20260102,Participation,Hackathon,Active Contributor,2.1,2026-2027,Yes
+Akshara Joshi,ENG000300,STU20260102,Volunteering,Volunteer Program,Active Contributor,21.3,2026-2027,Yes
+Akshara Joshi,ENG000301,STU20260102,Club membership,Sports Club,Active Contributor,8.5,2026-2027,No
+Akshara Joshi,ENG000302,STU20260102,Club membership,Technical Club,Participant,26.9,2026-2027,No
+Sai Gupta,ENG000303,STU20260103,Workshop,Technical Workshop,Participant,27.3,2026-2027,Yes
+Sai Gupta,ENG000304,STU20260103,Event participation,College Fest,Participant,8.4,2026-2027,Yes
+Sai Gupta,ENG000305,STU20260103,Volunteering,Volunteer Program,Organizer,29.5,2026-2027,No
+Sai Gupta,ENG000306,STU20260103,Research,Research Group,Participant,13.1,2026-2027,No
+Kiran Rao,ENG000307,STU20260104,Research,Research Group,Organizer,33.1,2026-2027,Yes
+Kiran Rao,ENG000308,STU20260104,Certification,Certification,Organizer,5.0,2026-2027,No
+Kiran Rao,ENG000309,STU20260104,Volunteering,Volunteer Program,Participant,20.3,2026-2027,Yes
+Kiran Rao,ENG000310,STU20260104,Club membership,Sports Club,Active Contributor,15.1,2026-2027,No
+Kiran Rao,ENG000311,STU20260104,Competition,Coding Contest,Organizer,26.3,2026-2027,Yes
+Madhavi Khan,ENG000312,STU20260105,Project contribution,Open Source Contribution,Participant,14.1,2026-2027,No
+Kavya Das,ENG000313,STU20260106,Research,Research Group,Active Contributor,21.5,2026-2027,No
+Kavya Das,ENG000314,STU20260106,Volunteering,Volunteer Program,Organizer,8.9,2026-2027,Yes
+Akshara Sharma,ENG000315,STU20260107,Participation,Hackathon,Organizer,21.3,2026-2027,Yes
+Akshara Sharma,ENG000316,STU20260107,Club membership,Technical Club,Organizer,6.4,2026-2027,No
+Akshara Sharma,ENG000317,STU20260107,Research,Research Group,Participant,28.0,2026-2027,Yes
+Akshara Sharma,ENG000318,STU20260107,Certification,Certification,Participant,10.9,2026-2027,No
+Krishna Raju,ENG000319,STU20260108,Volunteering,Volunteer Program,Participant,28.7,2026-2027,Yes
+Krishna Raju,ENG000320,STU20260108,Research,Research Group,Participant,24.4,2026-2027,Yes
+Krishna Raju,ENG000321,STU20260108,Workshop,Technical Workshop,Organizer,25.3,2026-2027,Yes
+Krishna Raju,ENG000322,STU20260108,Project contribution,Open Source Contribution,Participant,14.9,2026-2027,Yes
+Sneha Singh,ENG000323,STU20260109,Club membership,Technical Club,Participant,35.1,2026-2027,No
+Sneha Singh,ENG000324,STU20260109,Workshop,Technical Workshop,Participant,3.8,2026-2027,Yes
+Sneha Singh,ENG000325,STU20260109,Certification,Certification,Participant,14.8,2026-2027,No
+Sneha Singh,ENG000326,STU20260109,Event participation,College Fest,Active Contributor,28.5,2026-2027,Yes
+Sneha Singh,ENG000327,STU20260109,Research,Research Group,Organizer,19.4,2026-2027,Yes
+Meera Devi,ENG000328,STU20260110,Club membership,Sports Club,Active Contributor,24.7,2026-2027,No
+Meera Devi,ENG000329,STU20260110,Certification,Certification,Organizer,19.8,2026-2027,Yes
+Meera Devi,ENG000330,STU20260110,Volunteering,Volunteer Program,Participant,26.0,2026-2027,Yes
+Meera Devi,ENG000331,STU20260110,Participation,Hackathon,Active Contributor,25.1,2026-2027,No
+Ishaan Naidu,ENG000332,STU20260111,Project contribution,Open Source Contribution,Active Contributor,30.8,2026-2027,Yes
+Ishaan Naidu,ENG000333,STU20260111,Competition,Coding Contest,Participant,9.7,2026-2027,Yes
+Ishaan Naidu,ENG000334,STU20260111,Research,Research Group,Organizer,31.4,2026-2027,Yes
+Ishaan Naidu,ENG000335,STU20260111,Club membership,Sports Club,Organizer,8.9,2026-2027,No
+Ishaan Naidu,ENG000336,STU20260111,Workshop,Technical Workshop,Active Contributor,2.8,2026-2027,Yes
+Ishaan Naidu,ENG000337,STU20260111,Certification,Certification,Active Contributor,4.0,2026-2027,Yes
+Pooja Murthy,ENG000338,STU20260112,Club membership,Sports Club,Active Contributor,22.4,2026-2027,No
+Pooja Murthy,ENG000339,STU20260112,Club membership,Technical Club,Participant,15.0,2026-2027,No
+Pooja Murthy,ENG000340,STU20260112,Research,Research Group,Organizer,24.9,2026-2027,No
+Pooja Murthy,ENG000341,STU20260112,Project contribution,Open Source Contribution,Organizer,15.9,2026-2027,Yes
+Kavya Rao,ENG000342,STU20260113,Research,Research Group,Active Contributor,14.2,2026-2027,No
+Kavya Rao,ENG000343,STU20260113,Certification,Certification,Active Contributor,7.4,2026-2027,Yes
+Kavya Rao,ENG000344,STU20260113,Event participation,College Fest,Organizer,8.1,2026-2027,Yes
+Kavya Rao,ENG000345,STU20260113,Club membership,Sports Club,Organizer,11.2,2026-2027,Yes
+Kavya Rao,ENG000346,STU20260113,Club membership,Technical Club,Active Contributor,17.1,2026-2027,No
+Kavya Singh,ENG000347,STU20260115,Volunteering,Volunteer Program,Active Contributor,11.8,2026-2027,No
+Kavya Singh,ENG000348,STU20260115,Workshop,Technical Workshop,Organizer,13.0,2026-2027,Yes
+Kavya Singh,ENG000349,STU20260115,Club membership,Technical Club,Active Contributor,10.1,2026-2027,Yes
+Kavya Singh,ENG000350,STU20260115,Club membership,Sports Club,Organizer,21.3,2026-2027,Yes
+Krishna Jain,ENG000351,STU20260117,Volunteering,Volunteer Program,Active Contributor,26.9,2026-2027,Yes
+Krishna Jain,ENG000352,STU20260117,Workshop,Technical Workshop,Active Contributor,27.7,2026-2027,No
+Krishna Jain,ENG000353,STU20260117,Certification,Certification,Active Contributor,33.4,2026-2027,No
+Krishna Jain,ENG000354,STU20260117,Competition,Coding Contest,Active Contributor,3.8,2026-2027,No
+Krishna Jain,ENG000355,STU20260117,Research,Research Group,Participant,34.3,2026-2027,No
+Nikhil Devi,ENG000356,STU20260118,Event participation,College Fest,Active Contributor,4.5,2026-2027,No
+Nikhil Devi,ENG000357,STU20260118,Club membership,Technical Club,Participant,18.7,2026-2027,No
+Sneha Khan,ENG000358,STU20260120,Volunteering,Volunteer Program,Active Contributor,16.9,2026-2027,Yes
+Sneha Khan,ENG000359,STU20260120,Project contribution,Open Source Contribution,Active Contributor,13.0,2026-2027,No
+Sneha Khan,ENG000360,STU20260120,Club membership,Technical Club,Participant,32.8,2026-2027,No
+Sneha Khan,ENG000361,STU20260120,Club membership,Sports Club,Participant,13.8,2026-2027,No
+Sneha Khan,ENG000362,STU20260120,Research,Research Group,Participant,22.1,2026-2027,No
+Siddharth Murthy,ENG000363,STU20260121,Club membership,Technical Club,Active Contributor,14.7,2026-2027,No
+Teja Kashyap,ENG000364,STU20260122,Volunteering,Volunteer Program,Active Contributor,23.6,2026-2027,No
+Teja Kashyap,ENG000365,STU20260122,Club membership,Technical Club,Participant,6.8,2026-2027,No
+Teja Kashyap,ENG000366,STU20260122,Competition,Coding Contest,Participant,4.6,2026-2027,No
+Priya Yadav,ENG000367,STU20260123,Project contribution,Open Source Contribution,Participant,12.5,2026-2027,Yes
+Priya Yadav,ENG000368,STU20260123,Competition,Coding Contest,Organizer,7.5,2026-2027,No
+Priya Yadav,ENG000369,STU20260123,Participation,Hackathon,Participant,6.5,2026-2027,Yes
+Priya Yadav,ENG000370,STU20260123,Club membership,Technical Club,Participant,20.2,2026-2027,No
+Priya Yadav,ENG000371,STU20260123,Certification,Certification,Participant,5.0,2026-2027,Yes
+Priya Yadav,ENG000372,STU20260123,Volunteering,Volunteer Program,Participant,14.6,2026-2027,No
+Kavya Naidu,ENG000373,STU20260124,Certification,Certification,Active Contributor,14.9,2026-2027,No
+Kavya Naidu,ENG000374,STU20260124,Volunteering,Volunteer Program,Organizer,7.0,2026-2027,Yes
+Kiran Sahu,ENG000375,STU20260125,Club membership,Sports Club,Organizer,7.1,2026-2027,Yes
+Kiran Sahu,ENG000376,STU20260125,Participation,Hackathon,Organizer,26.2,2026-2027,Yes
+Kiran Sahu,ENG000377,STU20260125,Volunteering,Volunteer Program,Participant,8.0,2026-2027,Yes
+Kiran Sahu,ENG000378,STU20260125,Event participation,College Fest,Active Contributor,33.6,2026-2027,Yes
+Kiran Sahu,ENG000379,STU20260125,Workshop,Technical Workshop,Organizer,7.5,2026-2027,Yes
+Meera Naidu,ENG000380,STU20260126,Club membership,Sports Club,Active Contributor,22.4,2026-2027,Yes
+Meera Naidu,ENG000381,STU20260126,Volunteering,Volunteer Program,Participant,3.8,2026-2027,Yes
+Meera Naidu,ENG000382,STU20260126,Event participation,College Fest,Participant,23.7,2026-2027,No
+Harsha Sahu,ENG000383,STU20260127,Club membership,Sports Club,Active Contributor,25.3,2026-2027,Yes
+Tarun Mishra,ENG000384,STU20260128,Club membership,Technical Club,Organizer,7.6,2026-2027,No
+Tarun Mishra,ENG000385,STU20260128,Project contribution,Open Source Contribution,Active Contributor,5.0,2026-2027,No
+Tarun Mishra,ENG000386,STU20260128,Participation,Hackathon,Organizer,10.6,2026-2027,Yes
+Tarun Mishra,ENG000387,STU20260128,Volunteering,Volunteer Program,Organizer,8.3,2026-2027,Yes
+Tarun Mishra,ENG000388,STU20260128,Competition,Coding Contest,Active Contributor,26.5,2026-2027,Yes
+Vijay Verma,ENG000389,STU20260129,Volunteering,Volunteer Program,Active Contributor,7.6,2026-2027,No
+Akshara Mohanty,ENG000390,STU20260130,Club membership,Sports Club,Active Contributor,11.5,2026-2027,Yes
+Akshara Mohanty,ENG000391,STU20260130,Research,Research Group,Participant,12.7,2026-2027,No
+Akshara Mohanty,ENG000392,STU20260130,Competition,Coding Contest,Active Contributor,17.9,2026-2027,No
+Akshara Mohanty,ENG000393,STU20260130,Club membership,Technical Club,Active Contributor,22.1,2026-2027,Yes
+Ananya Sahu,ENG000394,STU20260132,Competition,Coding Contest,Active Contributor,10.7,2026-2027,No
+Ananya Sahu,ENG000395,STU20260132,Club membership,Sports Club,Participant,17.4,2026-2027,No
+Ananya Sahu,ENG000396,STU20260132,Participation,Hackathon,Organizer,19.5,2026-2027,Yes
+Ananya Sahu,ENG000397,STU20260132,Certification,Certification,Active Contributor,21.2,2026-2027,Yes
+Ananya Sahu,ENG000398,STU20260132,Club membership,Technical Club,Active Contributor,3.5,2026-2027,Yes
+Ananya Sahu,ENG000399,STU20260132,Project contribution,Open Source Contribution,Active Contributor,26.8,2026-2027,No
+Nandini Prasad,ENG000400,STU20260133,Workshop,Technical Workshop,Active Contributor,4.6,2026-2027,No
+Nandini Prasad,ENG000401,STU20260133,Project contribution,Open Source Contribution,Participant,32.8,2026-2027,No
+Nandini Prasad,ENG000402,STU20260133,Certification,Certification,Organizer,19.2,2026-2027,Yes
+Gowtham Murthy,ENG000403,STU20260135,Participation,Hackathon,Active Contributor,18.5,2026-2027,Yes
+Chaitanya Das,ENG000404,STU20260136,Event participation,College Fest,Active Contributor,6.1,2026-2027,Yes
+Chaitanya Das,ENG000405,STU20260136,Participation,Hackathon,Organizer,35.3,2026-2027,No
+Chaitanya Das,ENG000406,STU20260136,Volunteering,Volunteer Program,Participant,23.1,2026-2027,Yes
+Chaitanya Das,ENG000407,STU20260136,Competition,Coding Contest,Participant,24.1,2026-2027,Yes
+Chaitanya Das,ENG000408,STU20260136,Project contribution,Open Source Contribution,Active Contributor,10.1,2026-2027,Yes
+Sanjana Yadav,ENG000409,STU20260137,Volunteering,Volunteer Program,Active Contributor,15.7,2026-2027,Yes
+Sanjana Yadav,ENG000410,STU20260137,Participation,Hackathon,Active Contributor,34.2,2026-2027,No
+Sanjana Yadav,ENG000411,STU20260137,Certification,Certification,Active Contributor,25.9,2026-2027,No
+Sanjana Yadav,ENG000412,STU20260137,Competition,Coding Contest,Participant,12.0,2026-2027,Yes
+Meera Devi,ENG000413,STU20260138,Club membership,Sports Club,Organizer,23.1,2026-2027,Yes
+Meera Devi,ENG000414,STU20260138,Competition,Coding Contest,Participant,3.3,2026-2027,No
+Meera Devi,ENG000415,STU20260138,Participation,Hackathon,Participant,33.8,2026-2027,Yes
+Meera Devi,ENG000416,STU20260138,Event participation,College Fest,Active Contributor,35.2,2026-2027,No
+Meera Devi,ENG000417,STU20260138,Club membership,Technical Club,Organizer,24.7,2026-2027,Yes
+Aarav Khan,ENG000418,STU20260139,Event participation,College Fest,Active Contributor,30.3,2026-2027,Yes
+Aarav Khan,ENG000419,STU20260139,Club membership,Sports Club,Organizer,7.7,2026-2027,No
+Kiran Joshi,ENG000420,STU20260140,Participation,Hackathon,Participant,35.6,2026-2027,Yes
+Kiran Joshi,ENG000421,STU20260140,Volunteering,Volunteer Program,Participant,35.4,2026-2027,No
+Anil Chowdary,ENG000422,STU20260141,Workshop,Technical Workshop,Organizer,3.1,2026-2027,Yes
+Anil Chowdary,ENG000423,STU20260141,Research,Research Group,Participant,31.7,2026-2027,No
+Anil Chowdary,ENG000424,STU20260141,Volunteering,Volunteer Program,Organizer,33.4,2026-2027,No
+Anil Chowdary,ENG000425,STU20260141,Participation,Hackathon,Organizer,8.7,2026-2027,No
+Anil Chowdary,ENG000426,STU20260141,Competition,Coding Contest,Participant,17.7,2026-2027,No
+Anil Chowdary,ENG000427,STU20260141,Club membership,Technical Club,Organizer,26.5,2026-2027,No
+Riya Prasad,ENG000428,STU20260142,Research,Research Group,Participant,25.0,2026-2027,No
+Riya Prasad,ENG000429,STU20260142,Workshop,Technical Workshop,Active Contributor,6.7,2026-2027,Yes
+Chaitanya Varma,ENG000430,STU20260143,Research,Research Group,Organizer,11.8,2026-2027,Yes
+Chaitanya Varma,ENG000431,STU20260143,Club membership,Sports Club,Participant,22.2,2026-2027,No
+Aarav Prasad,ENG000432,STU20260144,Certification,Certification,Participant,12.1,2026-2027,Yes
+Pooja Naidu,ENG000433,STU20260146,Club membership,Technical Club,Active Contributor,3.3,2026-2027,No
+Pooja Naidu,ENG000434,STU20260146,Workshop,Technical Workshop,Organizer,35.7,2026-2027,No
+Pooja Naidu,ENG000435,STU20260146,Volunteering,Volunteer Program,Participant,24.6,2026-2027,No
+Pooja Naidu,ENG000436,STU20260146,Event participation,College Fest,Participant,27.1,2026-2027,No
+Pooja Naidu,ENG000437,STU20260146,Certification,Certification,Organizer,6.0,2026-2027,No
+Diya Gupta,ENG000438,STU20260147,Workshop,Technical Workshop,Organizer,13.1,2026-2027,Yes
+Diya Gupta,ENG000439,STU20260147,Event participation,College Fest,Organizer,22.2,2026-2027,Yes
+Diya Gupta,ENG000440,STU20260147,Research,Research Group,Participant,31.5,2026-2027,Yes
+Diya Gupta,ENG000441,STU20260147,Participation,Hackathon,Participant,15.0,2026-2027,Yes
+Varun Khan,ENG000442,STU20260150,Event participation,College Fest,Active Contributor,14.7,2026-2027,No
+Varun Khan,ENG000443,STU20260150,Participation,Hackathon,Active Contributor,32.8,2026-2027,Yes
+Varun Khan,ENG000444,STU20260150,Workshop,Technical Workshop,Organizer,31.1,2026-2027,Yes
+Varun Khan,ENG000445,STU20260150,Volunteering,Volunteer Program,Active Contributor,16.6,2026-2027,Yes
+Varun Khan,ENG000446,STU20260150,Competition,Coding Contest,Organizer,8.8,2026-2027,Yes
+Varun Khan,ENG000447,STU20260150,Research,Research Group,Organizer,19.4,2026-2027,No
+Sanjana Kumar,ENG000448,STU20260152,Volunteering,Volunteer Program,Organizer,24.2,2026-2027,Yes
+Teja Goud,ENG000449,STU20260153,Event participation,College Fest,Organizer,20.1,2026-2027,No
+Teja Goud,ENG000450,STU20260153,Participation,Hackathon,Participant,19.1,2026-2027,No
+Teja Goud,ENG000451,STU20260153,Workshop,Technical Workshop,Active Contributor,35.2,2026-2027,Yes
+Teja Goud,ENG000452,STU20260153,Club membership,Sports Club,Active Contributor,18.7,2026-2027,Yes
+Riya Yadav,ENG000453,STU20260154,Event participation,College Fest,Organizer,3.9,2026-2027,Yes
+Riya Yadav,ENG000454,STU20260154,Competition,Coding Contest,Active Contributor,14.3,2026-2027,No
+Riya Yadav,ENG000455,STU20260154,Workshop,Technical Workshop,Active Contributor,2.1,2026-2027,Yes
+Riya Yadav,ENG000456,STU20260154,Research,Research Group,Participant,16.4,2026-2027,No
+Riya Yadav,ENG000457,STU20260154,Participation,Hackathon,Participant,12.0,2026-2027,No
+Sneha Jain,ENG000458,STU20260156,Competition,Coding Contest,Active Contributor,31.1,2026-2027,No
+Kiran Sharma,ENG000459,STU20260157,Competition,Coding Contest,Organizer,17.3,2026-2027,No
+Kiran Sharma,ENG000460,STU20260157,Project contribution,Open Source Contribution,Active Contributor,25.9,2026-2027,Yes
+Kiran Sharma,ENG000461,STU20260157,Club membership,Sports Club,Organizer,33.2,2026-2027,Yes
+Kiran Sharma,ENG000462,STU20260157,Event participation,College Fest,Participant,19.1,2026-2027,Yes
+Kiran Sharma,ENG000463,STU20260157,Certification,Certification,Participant,12.6,2026-2027,No
+Charan Gupta,ENG000464,STU20260158,Workshop,Technical Workshop,Participant,29.1,2026-2027,Yes
+Chaitanya Singh,ENG000465,STU20260159,Competition,Coding Contest,Organizer,11.1,2026-2027,No
+Chaitanya Singh,ENG000466,STU20260159,Project contribution,Open Source Contribution,Participant,10.4,2026-2027,No
+Chaitanya Singh,ENG000467,STU20260159,Event participation,College Fest,Active Contributor,25.5,2026-2027,Yes
+Chaitanya Singh,ENG000468,STU20260159,Club membership,Technical Club,Participant,9.1,2026-2027,Yes
+Meera Jain,ENG000469,STU20260161,Event participation,College Fest,Organizer,9.9,2026-2027,No
+Charan Mishra,ENG000470,STU20260162,Event participation,College Fest,Active Contributor,17.4,2026-2027,Yes
+Charan Mishra,ENG000471,STU20260162,Volunteering,Volunteer Program,Active Contributor,26.2,2026-2027,No
+Charan Mishra,ENG000472,STU20260162,Project contribution,Open Source Contribution,Participant,4.1,2026-2027,No
+Deepika Rao,ENG000473,STU20260163,Volunteering,Volunteer Program,Active Contributor,26.9,2026-2027,Yes
+Nikhil Murthy,ENG000474,STU20260164,Club membership,Technical Club,Active Contributor,32.7,2026-2027,No
+Aadhya Patel,ENG000475,STU20260165,Project contribution,Open Source Contribution,Organizer,7.8,2026-2027,Yes
+Aadhya Patel,ENG000476,STU20260165,Event participation,College Fest,Organizer,11.1,2026-2027,Yes
+Aadhya Patel,ENG000477,STU20260165,Certification,Certification,Active Contributor,20.7,2026-2027,Yes
+Avani Pillai,ENG000478,STU20260166,Club membership,Technical Club,Organizer,11.8,2026-2027,No
+Avani Pillai,ENG000479,STU20260166,Volunteering,Volunteer Program,Participant,16.9,2026-2027,No
+Manoj Khan,ENG000480,STU20260167,Workshop,Technical Workshop,Organizer,10.1,2026-2027,Yes
+Manoj Khan,ENG000481,STU20260167,Research,Research Group,Participant,8.9,2026-2027,Yes
+Manoj Khan,ENG000482,STU20260167,Club membership,Sports Club,Active Contributor,2.9,2026-2027,Yes
+Riya Joshi,ENG000483,STU20260168,Research,Research Group,Participant,18.5,2026-2027,No
+Riya Joshi,ENG000484,STU20260168,Club membership,Technical Club,Participant,26.3,2026-2027,Yes
+Riya Joshi,ENG000485,STU20260168,Competition,Coding Contest,Organizer,3.9,2026-2027,No
+Riya Joshi,ENG000486,STU20260168,Certification,Certification,Organizer,17.6,2026-2027,Yes
+Pranav Mohanty,ENG000487,STU20260169,Workshop,Technical Workshop,Active Contributor,33.0,2026-2027,Yes
+Pranav Mohanty,ENG000488,STU20260169,Volunteering,Volunteer Program,Active Contributor,22.0,2026-2027,Yes
+Vijay Reddy,ENG000489,STU20260170,Workshop,Technical Workshop,Participant,18.1,2026-2027,Yes
+Vijay Reddy,ENG000490,STU20260170,Club membership,Technical Club,Active Contributor,32.7,2026-2027,No
+Vijay Reddy,ENG000491,STU20260170,Competition,Coding Contest,Active Contributor,20.6,2026-2027,No
+Arjun Joshi,ENG000492,STU20260171,Project contribution,Open Source Contribution,Organizer,31.6,2026-2027,No
+Priya Gupta,ENG000493,STU20260172,Competition,Coding Contest,Organizer,18.4,2026-2027,No
+Priya Gupta,ENG000494,STU20260172,Club membership,Technical Club,Participant,15.1,2026-2027,Yes
+Priya Gupta,ENG000495,STU20260172,Volunteering,Volunteer Program,Active Contributor,29.1,2026-2027,No
+Priya Gupta,ENG000496,STU20260172,Certification,Certification,Participant,4.2,2026-2027,No
+Priya Gupta,ENG000497,STU20260172,Participation,Hackathon,Organizer,31.6,2026-2027,Yes
+Priya Gupta,ENG000498,STU20260172,Project contribution,Open Source Contribution,Organizer,34.5,2026-2027,No
+Diya Patel,ENG000499,STU20260173,Event participation,College Fest,Active Contributor,26.9,2026-2027,No
+Diya Patel,ENG000500,STU20260173,Workshop,Technical Workshop,Participant,32.9,2026-2027,No
+Diya Patel,ENG000501,STU20260173,Club membership,Sports Club,Organizer,6.1,2026-2027,No
+Diya Patel,ENG000502,STU20260173,Participation,Hackathon,Participant,16.8,2026-2027,Yes
+Diya Patel,ENG000503,STU20260173,Club membership,Technical Club,Organizer,16.2,2026-2027,No
+Charan Nair,ENG000504,STU20260174,Participation,Hackathon,Organizer,5.5,2026-2027,No
+Charan Nair,ENG000505,STU20260174,Workshop,Technical Workshop,Participant,12.9,2026-2027,Yes
+Charan Nair,ENG000506,STU20260174,Volunteering,Volunteer Program,Active Contributor,30.8,2026-2027,No
+Charan Nair,ENG000507,STU20260174,Certification,Certification,Participant,35.6,2026-2027,No
+Charan Nair,ENG000508,STU20260174,Competition,Coding Contest,Organizer,5.7,2026-2027,Yes
+Charan Nair,ENG000509,STU20260174,Research,Research Group,Active Contributor,21.7,2026-2027,No
+Sanjana Varma,ENG000510,STU20260175,Certification,Certification,Organizer,16.1,2026-2027,Yes
+Tarun Naidu,ENG000511,STU20260176,Research,Research Group,Organizer,17.2,2026-2027,No
+Tarun Naidu,ENG000512,STU20260176,Project contribution,Open Source Contribution,Organizer,18.3,2026-2027,Yes
+Tarun Naidu,ENG000513,STU20260176,Club membership,Technical Club,Participant,30.2,2026-2027,No
+Sandeep Reddy,ENG000514,STU20260177,Participation,Hackathon,Active Contributor,15.2,2026-2027,No
+Sandeep Reddy,ENG000515,STU20260177,Club membership,Technical Club,Active Contributor,25.5,2026-2027,Yes
+Sandeep Reddy,ENG000516,STU20260177,Event participation,College Fest,Organizer,23.3,2026-2027,No
+Sandeep Reddy,ENG000517,STU20260177,Research,Research Group,Active Contributor,19.9,2026-2027,Yes
+Sandeep Reddy,ENG000518,STU20260177,Competition,Coding Contest,Organizer,22.7,2026-2027,No
+Kiran Sharma,ENG000519,STU20260178,Project contribution,Open Source Contribution,Active Contributor,4.3,2026-2027,No
+Kiran Sharma,ENG000520,STU20260178,Research,Research Group,Organizer,6.6,2026-2027,No
+Kiran Sharma,ENG000521,STU20260178,Participation,Hackathon,Participant,5.0,2026-2027,No
+Kiran Sharma,ENG000522,STU20260178,Event participation,College Fest,Active Contributor,8.3,2026-2027,No
+Kiran Sharma,ENG000523,STU20260178,Club membership,Technical Club,Organizer,7.5,2026-2027,No
+Siddharth Devi,ENG000524,STU20260179,Volunteering,Volunteer Program,Active Contributor,25.7,2026-2027,No
+Siddharth Devi,ENG000525,STU20260179,Certification,Certification,Participant,16.8,2026-2027,No
+Siddharth Devi,ENG000526,STU20260179,Club membership,Technical Club,Active Contributor,30.8,2026-2027,Yes
+Varun Sharma,ENG000527,STU20260180,Event participation,College Fest,Participant,34.9,2026-2027,No
+Varun Sharma,ENG000528,STU20260180,Competition,Coding Contest,Participant,13.2,2026-2027,No
+Tarun Kashyap,ENG000529,STU20260181,Workshop,Technical Workshop,Organizer,9.2,2026-2027,Yes
+Tarun Kashyap,ENG000530,STU20260181,Club membership,Sports Club,Participant,4.7,2026-2027,Yes
+Tarun Kashyap,ENG000531,STU20260181,Competition,Coding Contest,Active Contributor,5.5,2026-2027,No
+Tarun Kashyap,ENG000532,STU20260181,Event participation,College Fest,Organizer,32.7,2026-2027,Yes
+Sneha Reddy,ENG000533,STU20260182,Certification,Certification,Participant,26.3,2026-2027,Yes
+Sneha Reddy,ENG000534,STU20260182,Project contribution,Open Source Contribution,Active Contributor,28.7,2026-2027,Yes
+Sneha Reddy,ENG000535,STU20260182,Club membership,Sports Club,Active Contributor,20.5,2026-2027,Yes
+Sneha Reddy,ENG000536,STU20260182,Event participation,College Fest,Organizer,2.5,2026-2027,No
+Sneha Reddy,ENG000537,STU20260182,Participation,Hackathon,Active Contributor,18.7,2026-2027,Yes
+Pooja Chowdary,ENG000538,STU20260183,Club membership,Technical Club,Active Contributor,6.3,2026-2027,Yes
+Pooja Chowdary,ENG000539,STU20260183,Project contribution,Open Source Contribution,Participant,10.8,2026-2027,No
+Varun Reddy,ENG000540,STU20260184,Participation,Hackathon,Active Contributor,17.6,2026-2027,No
+Varun Reddy,ENG000541,STU20260184,Volunteering,Volunteer Program,Active Contributor,8.9,2026-2027,Yes
+Naveen Reddy,ENG000542,STU20260187,Club membership,Sports Club,Organizer,9.6,2026-2027,No
+Deepika Verma,ENG000543,STU20260188,Event participation,College Fest,Active Contributor,23.4,2026-2027,Yes
+Charan Mishra,ENG000544,STU20260189,Volunteering,Volunteer Program,Organizer,12.5,2026-2027,Yes
+Charan Mishra,ENG000545,STU20260189,Club membership,Technical Club,Active Contributor,26.7,2026-2027,No
+Meera Mishra,ENG000546,STU20260190,Event participation,College Fest,Participant,19.4,2026-2027,No
+Meera Mishra,ENG000547,STU20260190,Research,Research Group,Organizer,8.1,2026-2027,No
+Meera Mishra,ENG000548,STU20260190,Participation,Hackathon,Participant,25.5,2026-2027,Yes
+Meera Mishra,ENG000549,STU20260190,Workshop,Technical Workshop,Organizer,30.3,2026-2027,No
+Meera Mishra,ENG000550,STU20260190,Certification,Certification,Organizer,2.2,2026-2027,Yes
+Sanjana Goud,ENG000551,STU20260191,Club membership,Sports Club,Organizer,21.1,2026-2027,Yes
+Sanjana Goud,ENG000552,STU20260191,Workshop,Technical Workshop,Active Contributor,24.3,2026-2027,No
+Sanjana Goud,ENG000553,STU20260191,Project contribution,Open Source Contribution,Participant,34.7,2026-2027,No
+Sanjana Goud,ENG000554,STU20260191,Research,Research Group,Organizer,29.5,2026-2027,No
+Pranav Yadav,ENG000555,STU20260192,Workshop,Technical Workshop,Participant,2.9,2026-2027,Yes
+Pranav Yadav,ENG000556,STU20260192,Volunteering,Volunteer Program,Organizer,32.6,2026-2027,Yes
+Pranav Yadav,ENG000557,STU20260192,Club membership,Technical Club,Active Contributor,2.4,2026-2027,No
+Diya Shetty,ENG000558,STU20260193,Volunteering,Volunteer Program,Participant,25.3,2026-2027,No
+Diya Shetty,ENG000559,STU20260193,Club membership,Sports Club,Active Contributor,13.2,2026-2027,No
+Diya Shetty,ENG000560,STU20260193,Research,Research Group,Organizer,11.6,2026-2027,No
+Riya Murthy,ENG000561,STU20260194,Research,Research Group,Active Contributor,4.1,2026-2027,No
+Riya Murthy,ENG000562,STU20260194,Participation,Hackathon,Organizer,2.8,2026-2027,No
+Riya Murthy,ENG000563,STU20260194,Event participation,College Fest,Active Contributor,15.4,2026-2027,No
+Riya Murthy,ENG000564,STU20260194,Club membership,Technical Club,Participant,26.5,2026-2027,Yes
+Riya Murthy,ENG000565,STU20260194,Volunteering,Volunteer Program,Active Contributor,25.0,2026-2027,No
+Ananya Kashyap,ENG000566,STU20260195,Research,Research Group,Active Contributor,2.2,2026-2027,Yes
+Ananya Kashyap,ENG000567,STU20260195,Club membership,Sports Club,Participant,21.4,2026-2027,No
+Ananya Kashyap,ENG000568,STU20260195,Project contribution,Open Source Contribution,Active Contributor,25.0,2026-2027,No
+Ananya Kashyap,ENG000569,STU20260195,Club membership,Technical Club,Participant,22.3,2026-2027,No
+Ananya Kashyap,ENG000570,STU20260195,Participation,Hackathon,Organizer,6.4,2026-2027,No
+Tarun Goud,ENG000571,STU20260196,Workshop,Technical Workshop,Participant,31.4,2026-2027,Yes
+Tarun Goud,ENG000572,STU20260196,Competition,Coding Contest,Active Contributor,24.4,2026-2027,No
+Tarun Goud,ENG000573,STU20260196,Club membership,Technical Club,Participant,3.2,2026-2027,No
+Tarun Goud,ENG000574,STU20260196,Volunteering,Volunteer Program,Active Contributor,27.1,2026-2027,No
+Tarun Goud,ENG000575,STU20260196,Research,Research Group,Organizer,7.6,2026-2027,Yes
+Tarun Goud,ENG000576,STU20260196,Participation,Hackathon,Participant,2.5,2026-2027,No
+Keerthi Singh,ENG000577,STU20260197,Event participation,College Fest,Participant,26.4,2026-2027,Yes
+Sneha Jain,ENG000578,STU20260198,Workshop,Technical Workshop,Active Contributor,29.5,2026-2027,No
+Sneha Jain,ENG000579,STU20260198,Club membership,Sports Club,Participant,31.0,2026-2027,Yes
+Sneha Jain,ENG000580,STU20260198,Research,Research Group,Organizer,22.9,2026-2027,Yes
+Sneha Jain,ENG000581,STU20260198,Participation,Hackathon,Organizer,35.2,2026-2027,No
+Charan Murthy,ENG000582,STU20260199,Volunteering,Volunteer Program,Organizer,7.0,2026-2027,Yes
+Charan Murthy,ENG000583,STU20260199,Participation,Hackathon,Organizer,8.1,2026-2027,Yes
+Charan Murthy,ENG000584,STU20260199,Certification,Certification,Active Contributor,20.1,2026-2027,No
+Ishaan Chowdary,ENG000585,STU20260200,Club membership,Technical Club,Participant,21.0,2026-2027,No
+Ishaan Chowdary,ENG000586,STU20260200,Club membership,Sports Club,Active Contributor,21.7,2026-2027,Yes
+Ishaan Chowdary,ENG000587,STU20260200,Project contribution,Open Source Contribution,Organizer,13.6,2026-2027,Yes
+Ishaan Chowdary,ENG000588,STU20260200,Workshop,Technical Workshop,Active Contributor,14.4,2026-2027,Yes
+Ishaan Chowdary,ENG000589,STU20260200,Competition,Coding Contest,Organizer,7.1,2026-2027,No
+Akshara Babu,ENG000590,STU20260201,Certification,Certification,Active Contributor,13.3,2026-2027,No
+Akshara Babu,ENG000591,STU20260201,Event participation,College Fest,Active Contributor,13.5,2026-2027,Yes
+Akshara Babu,ENG000592,STU20260201,Project contribution,Open Source Contribution,Active Contributor,2.3,2026-2027,No
+Akshara Babu,ENG000593,STU20260201,Club membership,Technical Club,Participant,32.0,2026-2027,Yes
+Abhinav Rao,ENG000594,STU20260202,Project contribution,Open Source Contribution,Active Contributor,2.2,2026-2027,No
+Abhinav Rao,ENG000595,STU20260202,Participation,Hackathon,Participant,35.0,2026-2027,No
+Akshara Yadav,ENG000596,STU20260203,Participation,Hackathon,Active Contributor,4.7,2026-2027,No
+Varun Reddy,ENG000597,STU20260204,Event participation,College Fest,Participant,18.8,2026-2027,Yes
+Varun Reddy,ENG000598,STU20260204,Competition,Coding Contest,Active Contributor,25.1,2026-2027,Yes
+Neha Das,ENG000599,STU20260205,Participation,Hackathon,Organizer,24.1,2026-2027,Yes
+Neha Das,ENG000600,STU20260205,Club membership,Technical Club,Organizer,8.5,2026-2027,Yes
+Neha Das,ENG000601,STU20260205,Research,Research Group,Organizer,34.3,2026-2027,Yes
+Neha Das,ENG000602,STU20260205,Workshop,Technical Workshop,Organizer,25.4,2026-2027,No
+Avani Raju,ENG000603,STU20260206,Competition,Coding Contest,Organizer,26.4,2026-2027,No
+Naveen Raju,ENG000604,STU20260207,Club membership,Sports Club,Organizer,2.4,2026-2027,Yes
+Naveen Raju,ENG000605,STU20260207,Workshop,Technical Workshop,Active Contributor,35.9,2026-2027,Yes
+Naveen Raju,ENG000606,STU20260207,Club membership,Technical Club,Active Contributor,4.8,2026-2027,No
+Kiran Joshi,ENG000607,STU20260208,Club membership,Technical Club,Participant,33.4,2026-2027,No
+Kiran Joshi,ENG000608,STU20260208,Volunteering,Volunteer Program,Participant,15.5,2026-2027,Yes
+Diya Das,ENG000609,STU20260209,Event participation,College Fest,Organizer,28.1,2026-2027,No
+Diya Das,ENG000610,STU20260209,Participation,Hackathon,Active Contributor,35.0,2026-2027,Yes
+Diya Das,ENG000611,STU20260209,Workshop,Technical Workshop,Organizer,22.7,2026-2027,Yes
+Diya Das,ENG000612,STU20260209,Club membership,Sports Club,Organizer,33.8,2026-2027,No
+Abhinav Verma,ENG000613,STU20260210,Club membership,Technical Club,Active Contributor,6.7,2026-2027,No
+Abhinav Verma,ENG000614,STU20260210,Event participation,College Fest,Participant,11.6,2026-2027,No
+Abhinav Verma,ENG000615,STU20260210,Participation,Hackathon,Organizer,32.0,2026-2027,Yes
+Abhinav Verma,ENG000616,STU20260210,Project contribution,Open Source Contribution,Active Contributor,13.1,2026-2027,No
+Abhinav Verma,ENG000617,STU20260210,Club membership,Sports Club,Organizer,23.0,2026-2027,Yes
+Pranav Chowdary,ENG000618,STU20260211,Volunteering,Volunteer Program,Organizer,22.9,2026-2027,No
+Pranav Chowdary,ENG000619,STU20260211,Club membership,Sports Club,Participant,10.1,2026-2027,No
+Pranav Chowdary,ENG000620,STU20260211,Club membership,Technical Club,Active Contributor,15.5,2026-2027,No
+Pranav Chowdary,ENG000621,STU20260211,Certification,Certification,Organizer,27.8,2026-2027,No
+Pranav Chowdary,ENG000622,STU20260211,Competition,Coding Contest,Participant,22.6,2026-2027,No
+Nikhil Rao,ENG000623,STU20260212,Volunteering,Volunteer Program,Organizer,22.8,2026-2027,No
+Nikhil Rao,ENG000624,STU20260212,Club membership,Sports Club,Organizer,23.2,2026-2027,No
+Nikhil Rao,ENG000625,STU20260212,Competition,Coding Contest,Organizer,2.5,2026-2027,Yes
+Nikhil Rao,ENG000626,STU20260212,Research,Research Group,Organizer,2.7,2026-2027,No
+Rahul Jain,ENG000627,STU20260213,Certification,Certification,Organizer,6.7,2026-2027,No
+Rahul Jain,ENG000628,STU20260213,Club membership,Sports Club,Participant,29.9,2026-2027,Yes
+Rahul Jain,ENG000629,STU20260213,Volunteering,Volunteer Program,Participant,13.0,2026-2027,No
+Meera Sharma,ENG000630,STU20260214,Workshop,Technical Workshop,Participant,24.5,2026-2027,Yes
+Meera Sharma,ENG000631,STU20260214,Research,Research Group,Participant,30.4,2026-2027,No
+Meera Sharma,ENG000632,STU20260214,Competition,Coding Contest,Organizer,27.5,2026-2027,Yes
+Meera Sharma,ENG000633,STU20260214,Volunteering,Volunteer Program,Organizer,35.4,2026-2027,No
+Meera Sharma,ENG000634,STU20260214,Event participation,College Fest,Participant,11.8,2026-2027,Yes
+Keerthi Pillai,ENG000635,STU20260215,Competition,Coding Contest,Active Contributor,4.2,2026-2027,Yes
+Keerthi Pillai,ENG000636,STU20260215,Project contribution,Open Source Contribution,Organizer,25.1,2026-2027,No
+Keerthi Pillai,ENG000637,STU20260215,Participation,Hackathon,Active Contributor,29.1,2026-2027,No
+Keerthi Pillai,ENG000638,STU20260215,Club membership,Technical Club,Active Contributor,28.2,2026-2027,No
+Mohan Goud,ENG000639,STU20260216,Certification,Certification,Active Contributor,34.2,2026-2027,Yes
+Mohan Goud,ENG000640,STU20260216,Club membership,Sports Club,Organizer,19.1,2026-2027,Yes
+Mohan Goud,ENG000641,STU20260216,Research,Research Group,Participant,33.4,2026-2027,No
+Mohan Goud,ENG000642,STU20260216,Competition,Coding Contest,Organizer,6.6,2026-2027,No
+Mohan Goud,ENG000643,STU20260216,Workshop,Technical Workshop,Active Contributor,25.6,2026-2027,No
+Nikhil Mishra,ENG000644,STU20260218,Volunteering,Volunteer Program,Participant,25.1,2026-2027,Yes
+Nikhil Mishra,ENG000645,STU20260218,Participation,Hackathon,Participant,2.8,2026-2027,Yes
+Madhavi Joshi,ENG000646,STU20260219,Research,Research Group,Organizer,2.7,2026-2027,No
+Madhavi Joshi,ENG000647,STU20260219,Participation,Hackathon,Organizer,25.6,2026-2027,Yes
+Madhavi Joshi,ENG000648,STU20260219,Workshop,Technical Workshop,Organizer,28.0,2026-2027,Yes
+Madhavi Joshi,ENG000649,STU20260219,Project contribution,Open Source Contribution,Organizer,4.6,2026-2027,No
+Neha Varma,ENG000650,STU20260221,Project contribution,Open Source Contribution,Active Contributor,23.0,2026-2027,Yes
+Ishaan Reddy,ENG000651,STU20260222,Workshop,Technical Workshop,Organizer,20.6,2026-2027,No
+Ishaan Reddy,ENG000652,STU20260222,Volunteering,Volunteer Program,Active Contributor,13.4,2026-2027,Yes
+Aarav Iyer,ENG000653,STU20260223,Club membership,Technical Club,Organizer,2.0,2026-2027,Yes
+Aarav Iyer,ENG000654,STU20260223,Research,Research Group,Participant,30.6,2026-2027,Yes
+Aarav Iyer,ENG000655,STU20260223,Workshop,Technical Workshop,Participant,17.1,2026-2027,Yes
+Ishaan Patel,ENG000656,STU20260224,Club membership,Technical Club,Participant,34.6,2026-2027,Yes
+Ishaan Patel,ENG000657,STU20260224,Competition,Coding Contest,Organizer,20.9,2026-2027,Yes
+Ishaan Patel,ENG000658,STU20260224,Certification,Certification,Organizer,7.4,2026-2027,Yes
+Ishaan Patel,ENG000659,STU20260224,Volunteering,Volunteer Program,Participant,2.7,2026-2027,No
+Ishaan Patel,ENG000660,STU20260224,Participation,Hackathon,Participant,5.9,2026-2027,Yes
+Harsha Yadav,ENG000661,STU20260225,Competition,Coding Contest,Active Contributor,31.8,2026-2027,No
+Harsha Yadav,ENG000662,STU20260225,Project contribution,Open Source Contribution,Participant,26.6,2026-2027,No
+Harsha Yadav,ENG000663,STU20260225,Club membership,Technical Club,Participant,6.4,2026-2027,No
+Harsha Yadav,ENG000664,STU20260225,Club membership,Sports Club,Active Contributor,2.7,2026-2027,No
+Harsha Yadav,ENG000665,STU20260225,Research,Research Group,Active Contributor,27.1,2026-2027,Yes
+Teja Singh,ENG000666,STU20260227,Competition,Coding Contest,Active Contributor,15.9,2026-2027,No
+Teja Singh,ENG000667,STU20260227,Certification,Certification,Active Contributor,12.1,2026-2027,Yes
+Aadhya Iyer,ENG000668,STU20260229,Project contribution,Open Source Contribution,Participant,5.2,2026-2027,Yes
+Aadhya Iyer,ENG000669,STU20260229,Research,Research Group,Participant,19.7,2026-2027,No
+Aadhya Iyer,ENG000670,STU20260229,Club membership,Technical Club,Active Contributor,2.3,2026-2027,Yes
+Divya Das,ENG000671,STU20260230,Research,Research Group,Participant,15.8,2026-2027,No
+Divya Das,ENG000672,STU20260230,Workshop,Technical Workshop,Active Contributor,19.0,2026-2027,No
+Divya Das,ENG000673,STU20260230,Volunteering,Volunteer Program,Active Contributor,33.6,2026-2027,Yes
+Divya Das,ENG000674,STU20260230,Event participation,College Fest,Participant,15.3,2026-2027,No
+Dev Nair,ENG000675,STU20260231,Project contribution,Open Source Contribution,Participant,11.1,2026-2027,Yes
+Dev Nair,ENG000676,STU20260231,Club membership,Sports Club,Active Contributor,23.2,2026-2027,No
+Dev Nair,ENG000677,STU20260231,Club membership,Technical Club,Participant,24.5,2026-2027,No
+Dev Nair,ENG000678,STU20260231,Certification,Certification,Active Contributor,35.0,2026-2027,Yes
+Divya Shetty,ENG000679,STU20260232,Club membership,Sports Club,Active Contributor,4.2,2026-2027,Yes
+Divya Shetty,ENG000680,STU20260232,Participation,Hackathon,Active Contributor,13.3,2026-2027,No
+Gowtham Shetty,ENG000681,STU20260233,Competition,Coding Contest,Participant,30.2,2026-2027,No
+Gowtham Shetty,ENG000682,STU20260233,Club membership,Technical Club,Participant,17.8,2026-2027,Yes
+Siddharth Chowdary,ENG000683,STU20260236,Participation,Hackathon,Active Contributor,23.4,2026-2027,Yes
+Siddharth Chowdary,ENG000684,STU20260236,Research,Research Group,Organizer,22.7,2026-2027,Yes
+Deepika Joshi,ENG000685,STU20260237,Club membership,Technical Club,Organizer,23.1,2026-2027,Yes
+Deepika Joshi,ENG000686,STU20260237,Competition,Coding Contest,Active Contributor,24.7,2026-2027,No
+Deepika Joshi,ENG000687,STU20260237,Participation,Hackathon,Active Contributor,31.3,2026-2027,No
+Deepika Joshi,ENG000688,STU20260237,Volunteering,Volunteer Program,Active Contributor,32.5,2026-2027,No
+Deepika Joshi,ENG000689,STU20260237,Research,Research Group,Organizer,16.7,2026-2027,No
+Yamini Varma,ENG000690,STU20260238,Club membership,Sports Club,Active Contributor,35.6,2026-2027,Yes
+Yamini Varma,ENG000691,STU20260238,Workshop,Technical Workshop,Participant,17.9,2026-2027,No
+Yamini Varma,ENG000692,STU20260238,Competition,Coding Contest,Participant,11.1,2026-2027,Yes
+Yamini Varma,ENG000693,STU20260238,Volunteering,Volunteer Program,Active Contributor,2.5,2026-2027,Yes
+Yamini Varma,ENG000694,STU20260238,Participation,Hackathon,Active Contributor,28.9,2026-2027,No
+Yamini Varma,ENG000695,STU20260238,Event participation,College Fest,Active Contributor,17.6,2026-2027,Yes
+Manoj Mishra,ENG000696,STU20260240,Club membership,Technical Club,Participant,33.6,2026-2027,No
+Manoj Mishra,ENG000697,STU20260240,Workshop,Technical Workshop,Organizer,11.1,2026-2027,Yes
+Vijay Khan,ENG000698,STU20260241,Event participation,College Fest,Participant,35.8,2026-2027,Yes
+Vijay Khan,ENG000699,STU20260241,Competition,Coding Contest,Active Contributor,14.7,2026-2027,No
+Sneha Murthy,ENG000700,STU20260242,Event participation,College Fest,Participant,26.6,2026-2027,No
+Sneha Murthy,ENG000701,STU20260242,Certification,Certification,Organizer,26.5,2026-2027,Yes
+Rohan Khan,ENG000702,STU20260243,Volunteering,Volunteer Program,Active Contributor,35.2,2026-2027,Yes
+Rohan Khan,ENG000703,STU20260243,Participation,Hackathon,Organizer,19.5,2026-2027,No
+Teja Sharma,ENG000704,STU20260245,Competition,Coding Contest,Organizer,33.0,2026-2027,Yes
+Sneha Mohanty,ENG000705,STU20260246,Volunteering,Volunteer Program,Active Contributor,19.4,2026-2027,No
+Sneha Mohanty,ENG000706,STU20260246,Competition,Coding Contest,Participant,28.6,2026-2027,No
+Sneha Mohanty,ENG000707,STU20260246,Club membership,Technical Club,Participant,24.8,2026-2027,Yes
+Sneha Mohanty,ENG000708,STU20260246,Project contribution,Open Source Contribution,Organizer,35.3,2026-2027,No
+Divya Mohanty,ENG000709,STU20260247,Volunteering,Volunteer Program,Organizer,15.4,2026-2027,No
+Divya Mohanty,ENG000710,STU20260247,Event participation,College Fest,Organizer,12.8,2026-2027,No
+Yamini Singh,ENG000711,STU20260248,Participation,Hackathon,Active Contributor,35.9,2026-2027,Yes
+Yamini Singh,ENG000712,STU20260248,Workshop,Technical Workshop,Active Contributor,3.2,2026-2027,Yes
+Yamini Singh,ENG000713,STU20260248,Competition,Coding Contest,Participant,19.5,2026-2027,Yes
+Yamini Singh,ENG000714,STU20260248,Certification,Certification,Organizer,20.1,2026-2027,No
+Madhavi Mishra,ENG000715,STU20260249,Event participation,College Fest,Organizer,32.4,2026-2027,No
+Madhavi Mishra,ENG000716,STU20260249,Certification,Certification,Organizer,9.8,2026-2027,No
+Madhavi Reddy,ENG000717,STU20260250,Research,Research Group,Organizer,32.5,2026-2027,Yes
+Madhavi Reddy,ENG000718,STU20260250,Workshop,Technical Workshop,Organizer,19.3,2026-2027,No
+Nikhil Jain,ENG000719,STU20260252,Certification,Certification,Organizer,28.7,2026-2027,Yes
+Nikhil Jain,ENG000720,STU20260252,Club membership,Technical Club,Participant,6.5,2026-2027,Yes
+Nikhil Jain,ENG000721,STU20260252,Event participation,College Fest,Organizer,22.6,2026-2027,No
+Nikhil Jain,ENG000722,STU20260252,Workshop,Technical Workshop,Organizer,23.7,2026-2027,Yes
+Nikhil Jain,ENG000723,STU20260252,Research,Research Group,Organizer,32.4,2026-2027,No
+Nikhil Jain,ENG000724,STU20260252,Project contribution,Open Source Contribution,Participant,23.6,2026-2027,No
+Rahul Sahu,ENG000725,STU20260253,Club membership,Technical Club,Organizer,10.6,2026-2027,Yes
+Kavya Babu,ENG000726,STU20260254,Project contribution,Open Source Contribution,Organizer,23.3,2026-2027,No
+Kavya Babu,ENG000727,STU20260254,Participation,Hackathon,Active Contributor,19.9,2026-2027,No
+Kavya Babu,ENG000728,STU20260254,Certification,Certification,Participant,24.2,2026-2027,Yes
+Kavya Babu,ENG000729,STU20260254,Workshop,Technical Workshop,Active Contributor,22.0,2026-2027,Yes
+Lakshmi Gupta,ENG000730,STU20260255,Certification,Certification,Participant,24.0,2026-2027,Yes
+Lakshmi Gupta,ENG000731,STU20260255,Club membership,Sports Club,Participant,6.5,2026-2027,No
+Lakshmi Gupta,ENG000732,STU20260255,Workshop,Technical Workshop,Organizer,2.2,2026-2027,Yes
+Lakshmi Gupta,ENG000733,STU20260255,Participation,Hackathon,Organizer,4.6,2026-2027,No
+Anil Verma,ENG000734,STU20260257,Club membership,Sports Club,Organizer,14.0,2026-2027,Yes
+Anil Verma,ENG000735,STU20260257,Workshop,Technical Workshop,Participant,19.5,2026-2027,Yes
+Meera Devi,ENG000736,STU20260258,Event participation,College Fest,Active Contributor,7.4,2026-2027,Yes
+Meera Devi,ENG000737,STU20260258,Volunteering,Volunteer Program,Active Contributor,34.3,2026-2027,No
+Sandeep Kashyap,ENG000738,STU20260259,Club membership,Sports Club,Active Contributor,9.6,2026-2027,No
+Sandeep Kashyap,ENG000739,STU20260259,Volunteering,Volunteer Program,Organizer,34.5,2026-2027,No
+Abhinav Rao,ENG000740,STU20260261,Workshop,Technical Workshop,Active Contributor,13.9,2026-2027,Yes
+Abhinav Rao,ENG000741,STU20260261,Certification,Certification,Active Contributor,29.9,2026-2027,Yes
+Abhinav Rao,ENG000742,STU20260261,Competition,Coding Contest,Active Contributor,35.3,2026-2027,Yes
+Pooja Nair,ENG000743,STU20260263,Workshop,Technical Workshop,Participant,8.0,2026-2027,No
+Pooja Nair,ENG000744,STU20260263,Club membership,Technical Club,Organizer,18.3,2026-2027,Yes
+Pooja Nair,ENG000745,STU20260263,Certification,Certification,Active Contributor,35.7,2026-2027,No
+Pooja Nair,ENG000746,STU20260263,Club membership,Sports Club,Participant,15.4,2026-2027,No
+Pooja Nair,ENG000747,STU20260263,Volunteering,Volunteer Program,Participant,17.7,2026-2027,Yes
+Pooja Nair,ENG000748,STU20260263,Project contribution,Open Source Contribution,Organizer,12.0,2026-2027,Yes
+Veda Shetty,ENG000749,STU20260264,Competition,Coding Contest,Organizer,12.9,2026-2027,No
+Neha Das,ENG000750,STU20260265,Event participation,College Fest,Participant,9.2,2026-2027,Yes
+Neha Das,ENG000751,STU20260265,Club membership,Technical Club,Organizer,13.8,2026-2027,Yes
+Neha Das,ENG000752,STU20260265,Certification,Certification,Active Contributor,13.3,2026-2027,No
+Sai Singh,ENG000753,STU20260267,Club membership,Sports Club,Organizer,31.1,2026-2027,Yes
+Meera Rao,ENG000754,STU20260268,Event participation,College Fest,Participant,19.3,2026-2027,No
+Manoj Shetty,ENG000755,STU20260269,Project contribution,Open Source Contribution,Participant,6.6,2026-2027,No
+Manoj Shetty,ENG000756,STU20260269,Volunteering,Volunteer Program,Organizer,9.7,2026-2027,No
+Manoj Shetty,ENG000757,STU20260269,Event participation,College Fest,Active Contributor,4.6,2026-2027,Yes
+Srinivas Goud,ENG000758,STU20260270,Workshop,Technical Workshop,Active Contributor,26.8,2026-2027,Yes
+Srinivas Goud,ENG000759,STU20260270,Project contribution,Open Source Contribution,Participant,8.3,2026-2027,Yes
+Srinivas Goud,ENG000760,STU20260270,Research,Research Group,Organizer,30.1,2026-2027,Yes
+Harsha Jain,ENG000761,STU20260272,Research,Research Group,Organizer,21.1,2026-2027,No
+Harsha Jain,ENG000762,STU20260272,Event participation,College Fest,Participant,21.6,2026-2027,No
+Harsha Jain,ENG000763,STU20260272,Volunteering,Volunteer Program,Participant,10.6,2026-2027,Yes
+Deepika Patel,ENG000764,STU20260273,Certification,Certification,Active Contributor,22.1,2026-2027,Yes
+Deepika Patel,ENG000765,STU20260273,Research,Research Group,Organizer,4.1,2026-2027,No
+Deepika Patel,ENG000766,STU20260273,Event participation,College Fest,Active Contributor,23.3,2026-2027,No
+Aadhya Singh,ENG000767,STU20260274,Volunteering,Volunteer Program,Active Contributor,3.8,2026-2027,Yes
+Aadhya Singh,ENG000768,STU20260274,Participation,Hackathon,Participant,22.5,2026-2027,No
+Aadhya Singh,ENG000769,STU20260274,Competition,Coding Contest,Organizer,25.7,2026-2027,No
+Siddharth Jain,ENG000770,STU20260275,Research,Research Group,Participant,2.8,2026-2027,No
+Siddharth Jain,ENG000771,STU20260275,Club membership,Sports Club,Organizer,32.4,2026-2027,No
+Siddharth Jain,ENG000772,STU20260275,Volunteering,Volunteer Program,Active Contributor,12.5,2026-2027,Yes
+Siddharth Jain,ENG000773,STU20260275,Certification,Certification,Organizer,22.7,2026-2027,Yes
+Siddharth Jain,ENG000774,STU20260275,Project contribution,Open Source Contribution,Active Contributor,32.3,2026-2027,No
+Siddharth Jain,ENG000775,STU20260275,Workshop,Technical Workshop,Organizer,12.2,2026-2027,No
+Avani Joshi,ENG000776,STU20260276,Competition,Coding Contest,Organizer,15.0,2026-2027,Yes
+Avani Joshi,ENG000777,STU20260276,Certification,Certification,Participant,29.1,2026-2027,Yes
+Avani Joshi,ENG000778,STU20260276,Club membership,Sports Club,Active Contributor,6.1,2026-2027,No
+Avani Joshi,ENG000779,STU20260276,Workshop,Technical Workshop,Active Contributor,31.2,2026-2027,No
+Avani Joshi,ENG000780,STU20260276,Event participation,College Fest,Participant,4.1,2026-2027,No
+Avani Joshi,ENG000781,STU20260276,Project contribution,Open Source Contribution,Active Contributor,8.5,2026-2027,No
+Arjun Kashyap,ENG000782,STU20260277,Project contribution,Open Source Contribution,Participant,18.3,2026-2027,No
+Arjun Kashyap,ENG000783,STU20260277,Certification,Certification,Organizer,17.2,2026-2027,No
+Arjun Kashyap,ENG000784,STU20260277,Research,Research Group,Organizer,16.5,2026-2027,Yes
+Arjun Kashyap,ENG000785,STU20260277,Competition,Coding Contest,Active Contributor,17.9,2026-2027,Yes
+Arjun Kashyap,ENG000786,STU20260277,Workshop,Technical Workshop,Active Contributor,6.1,2026-2027,Yes
+Arjun Kashyap,ENG000787,STU20260277,Volunteering,Volunteer Program,Participant,17.2,2026-2027,No
+Avani Joshi,ENG000788,STU20260278,Research,Research Group,Active Contributor,30.8,2026-2027,Yes
+Avani Joshi,ENG000789,STU20260278,Club membership,Technical Club,Active Contributor,11.2,2026-2027,Yes
+Avani Joshi,ENG000790,STU20260278,Volunteering,Volunteer Program,Active Contributor,17.9,2026-2027,No
+Avani Joshi,ENG000791,STU20260278,Club membership,Sports Club,Active Contributor,20.1,2026-2027,Yes
+Teja Mohanty,ENG000792,STU20260279,Research,Research Group,Organizer,13.2,2026-2027,No
+Teja Mohanty,ENG000793,STU20260279,Project contribution,Open Source Contribution,Organizer,12.7,2026-2027,Yes
+Teja Mohanty,ENG000794,STU20260279,Volunteering,Volunteer Program,Active Contributor,16.9,2026-2027,Yes
+Teja Mohanty,ENG000795,STU20260279,Event participation,College Fest,Participant,17.2,2026-2027,No
+Teja Mohanty,ENG000796,STU20260279,Participation,Hackathon,Participant,29.1,2026-2027,Yes
+Teja Mohanty,ENG000797,STU20260279,Workshop,Technical Workshop,Organizer,6.4,2026-2027,Yes
+Tarun Devi,ENG000798,STU20260280,Certification,Certification,Participant,11.8,2026-2027,No
+Tarun Devi,ENG000799,STU20260280,Participation,Hackathon,Participant,20.1,2026-2027,No
+Tarun Devi,ENG000800,STU20260280,Research,Research Group,Participant,33.4,2026-2027,No
+Tarun Devi,ENG000801,STU20260280,Project contribution,Open Source Contribution,Organizer,27.1,2026-2027,No
+Tarun Devi,ENG000802,STU20260280,Workshop,Technical Workshop,Active Contributor,12.0,2026-2027,Yes
+Vijay Singh,ENG000803,STU20260281,Participation,Hackathon,Participant,24.8,2026-2027,No
+Vijay Singh,ENG000804,STU20260281,Club membership,Sports Club,Organizer,32.1,2026-2027,No
+Charan Kashyap,ENG000805,STU20260282,Club membership,Sports Club,Organizer,17.1,2026-2027,Yes
+Charan Kashyap,ENG000806,STU20260282,Project contribution,Open Source Contribution,Organizer,8.0,2026-2027,Yes
+Charan Kashyap,ENG000807,STU20260282,Workshop,Technical Workshop,Organizer,10.2,2026-2027,Yes
+Ananya Prasad,ENG000808,STU20260284,Volunteering,Volunteer Program,Organizer,12.3,2026-2027,Yes
+Ananya Prasad,ENG000809,STU20260284,Project contribution,Open Source Contribution,Participant,22.5,2026-2027,No
+Ananya Prasad,ENG000810,STU20260284,Certification,Certification,Active Contributor,6.9,2026-2027,Yes
+Ananya Prasad,ENG000811,STU20260284,Club membership,Technical Club,Organizer,5.1,2026-2027,Yes
+Ananya Prasad,ENG000812,STU20260284,Workshop,Technical Workshop,Organizer,18.9,2026-2027,Yes
+Ananya Prasad,ENG000813,STU20260284,Event participation,College Fest,Participant,16.9,2026-2027,No
+Divya Varma,ENG000814,STU20260285,Volunteering,Volunteer Program,Participant,2.2,2026-2027,No
+Divya Varma,ENG000815,STU20260285,Research,Research Group,Participant,26.0,2026-2027,Yes
+Rohan Jain,ENG000816,STU20260286,Workshop,Technical Workshop,Organizer,18.9,2026-2027,No
+Rohan Jain,ENG000817,STU20260286,Project contribution,Open Source Contribution,Organizer,35.5,2026-2027,No
+Rohan Jain,ENG000818,STU20260286,Club membership,Technical Club,Active Contributor,5.1,2026-2027,No
+Rohan Jain,ENG000819,STU20260286,Volunteering,Volunteer Program,Organizer,3.6,2026-2027,No
+Rohan Jain,ENG000820,STU20260286,Club membership,Sports Club,Active Contributor,32.5,2026-2027,Yes
+Srinivas Rao,ENG000821,STU20260287,Research,Research Group,Participant,24.7,2026-2027,No
+Srinivas Rao,ENG000822,STU20260287,Club membership,Sports Club,Active Contributor,19.2,2026-2027,Yes
+Srinivas Rao,ENG000823,STU20260287,Workshop,Technical Workshop,Participant,16.0,2026-2027,No
+Srinivas Rao,ENG000824,STU20260287,Volunteering,Volunteer Program,Participant,34.3,2026-2027,No
+Naveen Das,ENG000825,STU20260288,Club membership,Sports Club,Active Contributor,8.0,2026-2027,Yes
+Naveen Das,ENG000826,STU20260288,Workshop,Technical Workshop,Active Contributor,31.6,2026-2027,Yes
+Naveen Das,ENG000827,STU20260288,Certification,Certification,Organizer,17.9,2026-2027,Yes
+Naveen Das,ENG000828,STU20260288,Project contribution,Open Source Contribution,Participant,2.1,2026-2027,No
+Naveen Das,ENG000829,STU20260288,Event participation,College Fest,Organizer,14.2,2026-2027,No
+Harsha Joshi,ENG000830,STU20260289,Volunteering,Volunteer Program,Active Contributor,9.6,2026-2027,Yes
+Harsha Joshi,ENG000831,STU20260289,Event participation,College Fest,Organizer,24.5,2026-2027,Yes
+Harsha Joshi,ENG000832,STU20260289,Club membership,Technical Club,Organizer,28.3,2026-2027,No
+Harsha Joshi,ENG000833,STU20260289,Competition,Coding Contest,Participant,11.5,2026-2027,Yes
+Harsha Joshi,ENG000834,STU20260289,Club membership,Sports Club,Participant,5.8,2026-2027,Yes
+Bhavana Raju,ENG000835,STU20260290,Volunteering,Volunteer Program,Participant,7.8,2026-2027,Yes
+Bhavana Raju,ENG000836,STU20260290,Club membership,Sports Club,Organizer,29.8,2026-2027,Yes
+Bhavana Raju,ENG000837,STU20260290,Competition,Coding Contest,Active Contributor,4.2,2026-2027,Yes
+Bhavana Raju,ENG000838,STU20260290,Event participation,College Fest,Organizer,24.4,2026-2027,No
+Bhavana Raju,ENG000839,STU20260290,Research,Research Group,Participant,25.8,2026-2027,Yes
+Sneha Das,ENG000840,STU20260291,Club membership,Technical Club,Participant,18.9,2026-2027,No
+Sneha Das,ENG000841,STU20260291,Project contribution,Open Source Contribution,Organizer,28.3,2026-2027,Yes
+Keerthi Rao,ENG000842,STU20260293,Project contribution,Open Source Contribution,Organizer,19.7,2026-2027,No
+Aadhya Chowdary,ENG000843,STU20260294,Workshop,Technical Workshop,Active Contributor,32.0,2026-2027,No
+Aadhya Chowdary,ENG000844,STU20260294,Volunteering,Volunteer Program,Active Contributor,13.4,2026-2027,No
+Pranav Rao,ENG000845,STU20260296,Event participation,College Fest,Participant,23.5,2026-2027,Yes
+Pranav Rao,ENG000846,STU20260296,Project contribution,Open Source Contribution,Active Contributor,3.1,2026-2027,No
+Pranav Rao,ENG000847,STU20260296,Participation,Hackathon,Organizer,14.9,2026-2027,No
+Pranav Rao,ENG000848,STU20260296,Competition,Coding Contest,Organizer,28.9,2026-2027,Yes
+Pranav Rao,ENG000849,STU20260296,Research,Research Group,Participant,15.5,2026-2027,Yes
+Nandini Verma,ENG000850,STU20260297,Workshop,Technical Workshop,Organizer,18.8,2026-2027,No
+Nandini Verma,ENG000851,STU20260297,Research,Research Group,Participant,13.2,2026-2027,No
+Nandini Verma,ENG000852,STU20260297,Event participation,College Fest,Active Contributor,19.1,2026-2027,Yes
+Nandini Verma,ENG000853,STU20260297,Certification,Certification,Organizer,19.9,2026-2027,Yes
+Nandini Verma,ENG000854,STU20260297,Club membership,Technical Club,Organizer,19.8,2026-2027,No
+Neha Das,ENG000855,STU20260298,Club membership,Sports Club,Participant,21.7,2026-2027,No
+Veda Mishra,ENG000856,STU20260299,Certification,Certification,Organizer,13.2,2026-2027,Yes
+Veda Mishra,ENG000857,STU20260299,Event participation,College Fest,Active Contributor,24.7,2026-2027,No
+Veda Mishra,ENG000858,STU20260299,Participation,Hackathon,Active Contributor,21.1,2026-2027,Yes
+Veda Mishra,ENG000859,STU20260299,Club membership,Sports Club,Active Contributor,23.2,2026-2027,No
+Veda Mishra,ENG000860,STU20260299,Competition,Coding Contest,Organizer,20.4,2026-2027,Yes
+Veda Mishra,ENG000861,STU20260299,Workshop,Technical Workshop,Participant,16.6,2026-2027,No
+Dev Sahu,ENG000862,STU20260300,Participation,Hackathon,Organizer,11.3,2026-2027,No
+Dev Sahu,ENG000863,STU20260300,Research,Research Group,Active Contributor,31.1,2026-2027,No
+Keerthi Yadav,ENG000864,STU20260301,Certification,Certification,Active Contributor,6.0,2026-2027,No
+Keerthi Yadav,ENG000865,STU20260301,Project contribution,Open Source Contribution,Participant,5.9,2026-2027,Yes
+Keerthi Yadav,ENG000866,STU20260301,Competition,Coding Contest,Participant,6.3,2026-2027,Yes
+Keerthi Yadav,ENG000867,STU20260301,Research,Research Group,Organizer,34.3,2026-2027,No
+Keerthi Yadav,ENG000868,STU20260301,Workshop,Technical Workshop,Organizer,16.0,2026-2027,Yes
+Riya Patel,ENG000869,STU20260302,Project contribution,Open Source Contribution,Organizer,15.2,2026-2027,No
+Riya Patel,ENG000870,STU20260302,Club membership,Technical Club,Participant,28.2,2026-2027,No
+Riya Patel,ENG000871,STU20260302,Participation,Hackathon,Organizer,21.3,2026-2027,No
+Riya Patel,ENG000872,STU20260302,Club membership,Sports Club,Participant,28.7,2026-2027,Yes
+Riya Patel,ENG000873,STU20260302,Certification,Certification,Participant,33.6,2026-2027,Yes
+Vijay Gupta,ENG000874,STU20260303,Workshop,Technical Workshop,Participant,3.2,2026-2027,Yes
+Vijay Gupta,ENG000875,STU20260303,Club membership,Sports Club,Organizer,9.8,2026-2027,No
+Vijay Gupta,ENG000876,STU20260303,Project contribution,Open Source Contribution,Participant,19.3,2026-2027,Yes
+Vijay Gupta,ENG000877,STU20260303,Participation,Hackathon,Participant,6.3,2026-2027,No
+Neha Nair,ENG000878,STU20260305,Certification,Certification,Participant,29.2,2026-2027,Yes
+Neha Nair,ENG000879,STU20260305,Participation,Hackathon,Participant,17.4,2026-2027,Yes
+Neha Nair,ENG000880,STU20260305,Workshop,Technical Workshop,Participant,13.5,2026-2027,No
+Pranav Nair,ENG000881,STU20260306,Event participation,College Fest,Participant,28.5,2026-2027,Yes
+Chaitanya Reddy,ENG000882,STU20260307,Club membership,Sports Club,Organizer,8.0,2026-2027,No
+Chaitanya Reddy,ENG000883,STU20260307,Certification,Certification,Organizer,17.2,2026-2027,No
+Chaitanya Reddy,ENG000884,STU20260307,Participation,Hackathon,Participant,4.1,2026-2027,Yes
+Veda Gupta,ENG000885,STU20260308,Participation,Hackathon,Participant,35.0,2026-2027,No
+Veda Gupta,ENG000886,STU20260308,Club membership,Sports Club,Participant,35.1,2026-2027,No
+Veda Gupta,ENG000887,STU20260308,Project contribution,Open Source Contribution,Active Contributor,34.6,2026-2027,Yes
+Veda Gupta,ENG000888,STU20260308,Competition,Coding Contest,Organizer,9.6,2026-2027,Yes
+Veda Gupta,ENG000889,STU20260308,Club membership,Technical Club,Participant,2.8,2026-2027,Yes
+Ananya Murthy,ENG000890,STU20260309,Certification,Certification,Participant,29.9,2026-2027,No
+Ananya Murthy,ENG000891,STU20260309,Club membership,Sports Club,Active Contributor,19.5,2026-2027,No
+Ananya Murthy,ENG000892,STU20260309,Project contribution,Open Source Contribution,Participant,32.2,2026-2027,Yes
+Kavya Prasad,ENG000893,STU20260310,Club membership,Sports Club,Participant,22.2,2026-2027,Yes
+Kavya Prasad,ENG000894,STU20260310,Participation,Hackathon,Organizer,35.4,2026-2027,Yes
+Keerthi Naidu,ENG000895,STU20260311,Competition,Coding Contest,Participant,35.7,2026-2027,No
+Keerthi Naidu,ENG000896,STU20260311,Club membership,Technical Club,Participant,7.4,2026-2027,No
+Kavya Joshi,ENG000897,STU20260312,Research,Research Group,Participant,10.5,2026-2027,No
+Kavya Joshi,ENG000898,STU20260312,Club membership,Sports Club,Active Contributor,9.9,2026-2027,No
+Kavya Joshi,ENG000899,STU20260312,Event participation,College Fest,Active Contributor,30.8,2026-2027,Yes
+Kavya Joshi,ENG000900,STU20260312,Certification,Certification,Participant,23.0,2026-2027,Yes
+Krishna Sahu,ENG000901,STU20260313,Participation,Hackathon,Organizer,35.0,2026-2027,Yes
+Krishna Sahu,ENG000902,STU20260313,Club membership,Sports Club,Active Contributor,6.9,2026-2027,No
+Krishna Sahu,ENG000903,STU20260313,Club membership,Technical Club,Participant,33.7,2026-2027,No
+Krishna Sahu,ENG000904,STU20260313,Volunteering,Volunteer Program,Organizer,20.8,2026-2027,Yes
+Krishna Sahu,ENG000905,STU20260313,Workshop,Technical Workshop,Participant,35.2,2026-2027,Yes
+Naveen Goud,ENG000906,STU20260314,Participation,Hackathon,Organizer,7.9,2026-2027,No
+Naveen Goud,ENG000907,STU20260314,Workshop,Technical Workshop,Participant,11.1,2026-2027,No
+Naveen Goud,ENG000908,STU20260314,Volunteering,Volunteer Program,Participant,11.3,2026-2027,Yes
+Naveen Goud,ENG000909,STU20260314,Club membership,Sports Club,Organizer,29.5,2026-2027,No
+Naveen Goud,ENG000910,STU20260314,Research,Research Group,Participant,6.7,2026-2027,Yes
+Naveen Goud,ENG000911,STU20260314,Project contribution,Open Source Contribution,Participant,30.8,2026-2027,Yes
+Krishna Reddy,ENG000912,STU20260315,Competition,Coding Contest,Participant,13.2,2026-2027,No
+Krishna Reddy,ENG000913,STU20260315,Certification,Certification,Active Contributor,2.2,2026-2027,Yes
+Krishna Reddy,ENG000914,STU20260315,Club membership,Technical Club,Organizer,29.6,2026-2027,No
+Krishna Reddy,ENG000915,STU20260315,Participation,Hackathon,Active Contributor,25.9,2026-2027,Yes
+Krishna Reddy,ENG000916,STU20260315,Volunteering,Volunteer Program,Participant,14.0,2026-2027,No
+Siddharth Babu,ENG000917,STU20260316,Certification,Certification,Active Contributor,2.2,2026-2027,Yes
+Siddharth Babu,ENG000918,STU20260316,Workshop,Technical Workshop,Active Contributor,27.6,2026-2027,No
+Siddharth Babu,ENG000919,STU20260316,Participation,Hackathon,Organizer,8.8,2026-2027,Yes
+Siddharth Babu,ENG000920,STU20260316,Competition,Coding Contest,Organizer,33.3,2026-2027,No
+Varun Chowdary,ENG000921,STU20260317,Club membership,Sports Club,Participant,30.1,2026-2027,Yes
+Varun Chowdary,ENG000922,STU20260317,Workshop,Technical Workshop,Organizer,29.3,2026-2027,No
+Varun Chowdary,ENG000923,STU20260317,Research,Research Group,Active Contributor,3.4,2026-2027,No
+Varun Chowdary,ENG000924,STU20260317,Project contribution,Open Source Contribution,Participant,7.0,2026-2027,Yes
+Keerthi Kashyap,ENG000925,STU20260318,Participation,Hackathon,Active Contributor,28.0,2026-2027,No
+Keerthi Kashyap,ENG000926,STU20260318,Project contribution,Open Source Contribution,Active Contributor,14.1,2026-2027,No
+Keerthi Kashyap,ENG000927,STU20260318,Competition,Coding Contest,Active Contributor,33.3,2026-2027,Yes
+Keerthi Kashyap,ENG000928,STU20260318,Workshop,Technical Workshop,Participant,29.0,2026-2027,Yes
+Aditya Babu,ENG000929,STU20260319,Competition,Coding Contest,Participant,8.0,2026-2027,Yes
+Aditya Babu,ENG000930,STU20260319,Workshop,Technical Workshop,Active Contributor,26.3,2026-2027,Yes
+Aditya Babu,ENG000931,STU20260319,Club membership,Sports Club,Participant,34.6,2026-2027,Yes
+Aditya Babu,ENG000932,STU20260319,Research,Research Group,Active Contributor,20.8,2026-2027,No
+Aditya Babu,ENG000933,STU20260319,Certification,Certification,Participant,6.8,2026-2027,No
+Aditya Babu,ENG000934,STU20260319,Volunteering,Volunteer Program,Active Contributor,25.1,2026-2027,No
+Lakshmi Prasad,ENG000935,STU20260320,Research,Research Group,Organizer,10.1,2026-2027,No
+Lakshmi Prasad,ENG000936,STU20260320,Participation,Hackathon,Active Contributor,12.0,2026-2027,Yes
+Lakshmi Prasad,ENG000937,STU20260320,Volunteering,Volunteer Program,Organizer,14.6,2026-2027,No
+Lakshmi Prasad,ENG000938,STU20260320,Project contribution,Open Source Contribution,Active Contributor,18.2,2026-2027,No
+Lakshmi Prasad,ENG000939,STU20260320,Club membership,Sports Club,Organizer,4.9,2026-2027,Yes
+Lakshmi Prasad,ENG000940,STU20260320,Certification,Certification,Organizer,34.9,2026-2027,No
+Manoj Patel,ENG000941,STU20260321,Volunteering,Volunteer Program,Participant,27.0,2026-2027,Yes
+Manoj Patel,ENG000942,STU20260321,Research,Research Group,Active Contributor,5.7,2026-2027,Yes
+Manoj Patel,ENG000943,STU20260321,Participation,Hackathon,Active Contributor,23.8,2026-2027,No
+Arjun Devi,ENG000944,STU20260323,Certification,Certification,Organizer,8.8,2026-2027,No
+Arjun Devi,ENG000945,STU20260323,Project contribution,Open Source Contribution,Participant,4.6,2026-2027,No
+Arjun Devi,ENG000946,STU20260323,Club membership,Technical Club,Active Contributor,6.5,2026-2027,Yes
+Arjun Devi,ENG000947,STU20260323,Workshop,Technical Workshop,Participant,33.8,2026-2027,No
+Arjun Devi,ENG000948,STU20260323,Research,Research Group,Organizer,7.9,2026-2027,No
+Deepika Jain,ENG000949,STU20260324,Workshop,Technical Workshop,Active Contributor,29.3,2026-2027,Yes
+Deepika Jain,ENG000950,STU20260324,Club membership,Sports Club,Active Contributor,24.4,2026-2027,Yes
+Deepika Jain,ENG000951,STU20260324,Volunteering,Volunteer Program,Organizer,20.3,2026-2027,No
+Deepika Jain,ENG000952,STU20260324,Club membership,Technical Club,Participant,20.3,2026-2027,Yes
+Deepika Jain,ENG000953,STU20260324,Research,Research Group,Participant,28.2,2026-2027,No
+Gowtham Pillai,ENG000954,STU20260325,Volunteering,Volunteer Program,Organizer,28.6,2026-2027,No
+Gowtham Pillai,ENG000955,STU20260325,Participation,Hackathon,Participant,8.5,2026-2027,No
+Gowtham Pillai,ENG000956,STU20260325,Competition,Coding Contest,Organizer,27.0,2026-2027,No
+Gowtham Pillai,ENG000957,STU20260325,Event participation,College Fest,Participant,33.4,2026-2027,Yes
+Riya Jain,ENG000958,STU20260326,Event participation,College Fest,Active Contributor,4.9,2026-2027,Yes
+Riya Jain,ENG000959,STU20260326,Competition,Coding Contest,Participant,3.3,2026-2027,No
+Riya Jain,ENG000960,STU20260326,Certification,Certification,Organizer,9.1,2026-2027,Yes
+Riya Jain,ENG000961,STU20260326,Club membership,Technical Club,Organizer,20.3,2026-2027,Yes
+Riya Jain,ENG000962,STU20260326,Club membership,Sports Club,Active Contributor,24.1,2026-2027,Yes
+Riya Jain,ENG000963,STU20260326,Volunteering,Volunteer Program,Active Contributor,10.0,2026-2027,No
+Sneha Jain,ENG000964,STU20260327,Participation,Hackathon,Participant,31.9,2026-2027,No
+Sneha Jain,ENG000965,STU20260327,Club membership,Sports Club,Participant,22.8,2026-2027,No
+Sneha Jain,ENG000966,STU20260327,Event participation,College Fest,Active Contributor,30.4,2026-2027,No
+Kavya Khan,ENG000967,STU20260328,Event participation,College Fest,Active Contributor,28.0,2026-2027,Yes
+Kavya Khan,ENG000968,STU20260328,Club membership,Sports Club,Active Contributor,17.3,2026-2027,Yes
+Diya Verma,ENG000969,STU20260329,Participation,Hackathon,Active Contributor,5.7,2026-2027,No
+Diya Verma,ENG000970,STU20260329,Club membership,Technical Club,Active Contributor,24.3,2026-2027,Yes
+Diya Verma,ENG000971,STU20260329,Volunteering,Volunteer Program,Participant,30.8,2026-2027,No
+Diya Verma,ENG000972,STU20260329,Competition,Coding Contest,Organizer,25.4,2026-2027,Yes
+Diya Verma,ENG000973,STU20260329,Research,Research Group,Organizer,25.9,2026-2027,No
+Diya Verma,ENG000974,STU20260329,Event participation,College Fest,Active Contributor,13.8,2026-2027,Yes
+Divya Naidu,ENG000975,STU20260330,Research,Research Group,Active Contributor,30.6,2026-2027,Yes
+Divya Naidu,ENG000976,STU20260330,Project contribution,Open Source Contribution,Active Contributor,7.0,2026-2027,No
+Divya Naidu,ENG000977,STU20260330,Event participation,College Fest,Participant,29.1,2026-2027,Yes
+Kiran Gupta,ENG000978,STU20260331,Participation,Hackathon,Organizer,32.5,2026-2027,No
+Kiran Gupta,ENG000979,STU20260331,Volunteering,Volunteer Program,Participant,34.5,2026-2027,No
+Kiran Gupta,ENG000980,STU20260331,Event participation,College Fest,Organizer,33.3,2026-2027,No
+Kiran Gupta,ENG000981,STU20260331,Competition,Coding Contest,Participant,10.0,2026-2027,Yes
+Naveen Kashyap,ENG000982,STU20260333,Certification,Certification,Active Contributor,34.5,2026-2027,Yes
+Naveen Kashyap,ENG000983,STU20260333,Project contribution,Open Source Contribution,Active Contributor,35.0,2026-2027,Yes
+Naveen Kashyap,ENG000984,STU20260333,Event participation,College Fest,Organizer,2.2,2026-2027,No
+Naveen Kashyap,ENG000985,STU20260333,Volunteering,Volunteer Program,Participant,10.3,2026-2027,Yes
+Naveen Kashyap,ENG000986,STU20260333,Participation,Hackathon,Organizer,24.7,2026-2027,Yes
+Kavya Rao,ENG000987,STU20260334,Club membership,Sports Club,Participant,20.6,2026-2027,Yes
+Kavya Rao,ENG000988,STU20260334,Competition,Coding Contest,Active Contributor,9.8,2026-2027,Yes
+Kavya Rao,ENG000989,STU20260334,Research,Research Group,Participant,7.1,2026-2027,No
+Madhavi Verma,ENG000990,STU20260335,Research,Research Group,Organizer,11.5,2026-2027,No
+Madhavi Verma,ENG000991,STU20260335,Project contribution,Open Source Contribution,Active Contributor,2.2,2026-2027,No
+Veda Babu,ENG000992,STU20260339,Certification,Certification,Organizer,23.8,2026-2027,Yes
+Veda Babu,ENG000993,STU20260339,Club membership,Sports Club,Organizer,22.1,2026-2027,Yes
+Veda Babu,ENG000994,STU20260339,Participation,Hackathon,Active Contributor,26.2,2026-2027,No
+Veda Babu,ENG000995,STU20260339,Club membership,Technical Club,Organizer,11.5,2026-2027,No
+Ananya Murthy,ENG000996,STU20260340,Certification,Certification,Active Contributor,18.8,2026-2027,No
+Ananya Murthy,ENG000997,STU20260340,Competition,Coding Contest,Participant,18.5,2026-2027,Yes
+Ananya Murthy,ENG000998,STU20260340,Club membership,Technical Club,Participant,19.7,2026-2027,Yes
+Veda Babu,ENG000999,STU20260341,Project contribution,Open Source Contribution,Organizer,5.9,2026-2027,Yes
+Veda Babu,ENG001000,STU20260341,Research,Research Group,Active Contributor,11.1,2026-2027,No
+Pranav Mishra,ENG001001,STU20260342,Workshop,Technical Workshop,Organizer,16.8,2026-2027,No
+Pranav Mishra,ENG001002,STU20260342,Certification,Certification,Active Contributor,29.8,2026-2027,No
+Sandeep Sahu,ENG001003,STU20260343,Workshop,Technical Workshop,Organizer,25.8,2026-2027,Yes
+Sandeep Sahu,ENG001004,STU20260343,Research,Research Group,Organizer,20.6,2026-2027,Yes
+Sandeep Sahu,ENG001005,STU20260343,Competition,Coding Contest,Active Contributor,20.1,2026-2027,Yes
+Sandeep Sahu,ENG001006,STU20260343,Event participation,College Fest,Participant,33.5,2026-2027,Yes
+Sandeep Sahu,ENG001007,STU20260343,Club membership,Sports Club,Organizer,16.1,2026-2027,Yes
+Riya Murthy,ENG001008,STU20260344,Workshop,Technical Workshop,Active Contributor,2.4,2026-2027,Yes
+Riya Murthy,ENG001009,STU20260344,Certification,Certification,Organizer,29.3,2026-2027,No
+Riya Murthy,ENG001010,STU20260344,Club membership,Technical Club,Organizer,5.1,2026-2027,Yes
+Riya Murthy,ENG001011,STU20260344,Competition,Coding Contest,Organizer,24.1,2026-2027,No
+Riya Murthy,ENG001012,STU20260344,Volunteering,Volunteer Program,Participant,22.3,2026-2027,Yes
+Mohan Khan,ENG001013,STU20260345,Competition,Coding Contest,Organizer,4.1,2026-2027,No
+Mohan Khan,ENG001014,STU20260345,Workshop,Technical Workshop,Participant,9.7,2026-2027,Yes
+Mohan Khan,ENG001015,STU20260345,Participation,Hackathon,Organizer,30.0,2026-2027,Yes
+Mohan Khan,ENG001016,STU20260345,Event participation,College Fest,Participant,25.7,2026-2027,Yes
+Krishna Shetty,ENG001017,STU20260346,Workshop,Technical Workshop,Participant,22.5,2026-2027,Yes
+Krishna Shetty,ENG001018,STU20260346,Event participation,College Fest,Active Contributor,18.5,2026-2027,No
+Krishna Shetty,ENG001019,STU20260346,Club membership,Sports Club,Participant,33.5,2026-2027,No
+Krishna Shetty,ENG001020,STU20260346,Certification,Certification,Organizer,3.2,2026-2027,No
+Krishna Shetty,ENG001021,STU20260346,Competition,Coding Contest,Active Contributor,32.8,2026-2027,Yes
+Krishna Shetty,ENG001022,STU20260346,Research,Research Group,Organizer,22.7,2026-2027,No
+Aarav Sahu,ENG001023,STU20260347,Project contribution,Open Source Contribution,Organizer,24.3,2026-2027,No
+Avani Kumar,ENG001024,STU20260348,Competition,Coding Contest,Organizer,23.3,2026-2027,Yes
+Avani Kumar,ENG001025,STU20260348,Club membership,Technical Club,Active Contributor,9.8,2026-2027,No
+Avani Kumar,ENG001026,STU20260348,Participation,Hackathon,Active Contributor,8.6,2026-2027,No
+Avani Kumar,ENG001027,STU20260348,Volunteering,Volunteer Program,Organizer,25.4,2026-2027,Yes
+Avani Kumar,ENG001028,STU20260348,Certification,Certification,Active Contributor,33.5,2026-2027,Yes
+Avani Kumar,ENG001029,STU20260348,Workshop,Technical Workshop,Participant,3.6,2026-2027,No
+Rahul Mishra,ENG001030,STU20260349,Participation,Hackathon,Participant,25.8,2026-2027,Yes
+Rahul Mishra,ENG001031,STU20260349,Volunteering,Volunteer Program,Participant,8.1,2026-2027,Yes
+Rahul Mishra,ENG001032,STU20260349,Certification,Certification,Participant,6.8,2026-2027,No
+Anil Iyer,ENG001033,STU20260350,Event participation,College Fest,Participant,13.1,2026-2027,Yes
+Anil Iyer,ENG001034,STU20260350,Club membership,Technical Club,Organizer,8.3,2026-2027,No
+Anil Iyer,ENG001035,STU20260350,Workshop,Technical Workshop,Active Contributor,24.4,2026-2027,Yes
+Anil Iyer,ENG001036,STU20260350,Volunteering,Volunteer Program,Active Contributor,26.2,2026-2027,No
+Anil Iyer,ENG001037,STU20260350,Certification,Certification,Organizer,30.5,2026-2027,No
+Meera Raju,ENG001038,STU20260351,Certification,Certification,Participant,22.0,2026-2027,No
+Chaitanya Sharma,ENG001039,STU20260352,Participation,Hackathon,Active Contributor,16.3,2026-2027,Yes
+Ananya Kashyap,ENG001040,STU20260353,Club membership,Technical Club,Organizer,33.2,2026-2027,No
+Keerthi Sahu,ENG001041,STU20260354,Club membership,Technical Club,Active Contributor,31.3,2026-2027,No
+Keerthi Sahu,ENG001042,STU20260354,Volunteering,Volunteer Program,Organizer,14.3,2026-2027,Yes
+Keerthi Sahu,ENG001043,STU20260354,Event participation,College Fest,Participant,10.9,2026-2027,No
+Keerthi Sahu,ENG001044,STU20260354,Participation,Hackathon,Organizer,23.8,2026-2027,No
+Dev Patel,ENG001045,STU20260355,Workshop,Technical Workshop,Participant,21.6,2026-2027,Yes
+Dev Patel,ENG001046,STU20260355,Event participation,College Fest,Participant,3.9,2026-2027,Yes
+Dev Patel,ENG001047,STU20260355,Club membership,Sports Club,Active Contributor,14.0,2026-2027,Yes
+Sai Pillai,ENG001048,STU20260356,Participation,Hackathon,Organizer,23.7,2026-2027,Yes
+Sai Pillai,ENG001049,STU20260356,Certification,Certification,Organizer,25.4,2026-2027,No
+Sai Pillai,ENG001050,STU20260356,Workshop,Technical Workshop,Organizer,33.1,2026-2027,Yes
+Sai Pillai,ENG001051,STU20260356,Event participation,College Fest,Active Contributor,30.2,2026-2027,Yes
+Sai Pillai,ENG001052,STU20260356,Volunteering,Volunteer Program,Organizer,30.4,2026-2027,Yes
+Bhavana Kumar,ENG001053,STU20260357,Club membership,Sports Club,Participant,25.5,2026-2027,Yes
+Teja Naidu,ENG001054,STU20260358,Club membership,Sports Club,Participant,29.9,2026-2027,No
+Teja Naidu,ENG001055,STU20260358,Certification,Certification,Organizer,23.5,2026-2027,No
+Teja Naidu,ENG001056,STU20260358,Event participation,College Fest,Organizer,27.4,2026-2027,No
+Teja Naidu,ENG001057,STU20260358,Competition,Coding Contest,Active Contributor,14.2,2026-2027,Yes
+Teja Naidu,ENG001058,STU20260358,Workshop,Technical Workshop,Active Contributor,25.7,2026-2027,No
+Teja Naidu,ENG001059,STU20260358,Research,Research Group,Organizer,35.1,2026-2027,No
+Chaitanya Sahu,ENG001060,STU20260359,Volunteering,Volunteer Program,Organizer,23.1,2026-2027,No
+Avani Joshi,ENG001061,STU20260360,Club membership,Sports Club,Active Contributor,31.6,2026-2027,No
+Harsha Khan,ENG001062,STU20260364,Club membership,Technical Club,Active Contributor,14.1,2026-2027,No
+Harsha Khan,ENG001063,STU20260364,Workshop,Technical Workshop,Organizer,3.7,2026-2027,No
+Harsha Khan,ENG001064,STU20260364,Event participation,College Fest,Active Contributor,26.0,2026-2027,No
+Harsha Khan,ENG001065,STU20260364,Participation,Hackathon,Active Contributor,4.2,2026-2027,Yes
+Harsha Khan,ENG001066,STU20260364,Research,Research Group,Active Contributor,3.4,2026-2027,No
+Harsha Khan,ENG001067,STU20260364,Project contribution,Open Source Contribution,Organizer,24.1,2026-2027,Yes
+Kavya Rao,ENG001068,STU20260365,Participation,Hackathon,Active Contributor,19.1,2026-2027,Yes
+Kavya Rao,ENG001069,STU20260365,Research,Research Group,Participant,32.3,2026-2027,No
+Kavya Rao,ENG001070,STU20260365,Certification,Certification,Participant,24.7,2026-2027,No
+Kavya Rao,ENG001071,STU20260365,Volunteering,Volunteer Program,Active Contributor,29.7,2026-2027,Yes
+Kavya Rao,ENG001072,STU20260365,Project contribution,Open Source Contribution,Participant,22.2,2026-2027,No
+Pooja Gupta,ENG001073,STU20260366,Competition,Coding Contest,Active Contributor,22.0,2026-2027,Yes
+Pooja Gupta,ENG001074,STU20260366,Participation,Hackathon,Active Contributor,27.9,2026-2027,Yes
+Pooja Gupta,ENG001075,STU20260366,Event participation,College Fest,Organizer,24.1,2026-2027,Yes
+Teja Naidu,ENG001076,STU20260367,Participation,Hackathon,Active Contributor,20.1,2026-2027,No
+Teja Naidu,ENG001077,STU20260367,Research,Research Group,Active Contributor,15.0,2026-2027,Yes
+Aarav Verma,ENG001078,STU20260369,Project contribution,Open Source Contribution,Organizer,11.2,2026-2027,No
+Aarav Verma,ENG001079,STU20260369,Event participation,College Fest,Active Contributor,30.4,2026-2027,Yes
+Srinivas Verma,ENG001080,STU20260370,Workshop,Technical Workshop,Active Contributor,31.5,2026-2027,No
+Srinivas Verma,ENG001081,STU20260370,Club membership,Sports Club,Active Contributor,26.8,2026-2027,No
+Naveen Iyer,ENG001082,STU20260371,Volunteering,Volunteer Program,Organizer,6.5,2026-2027,No
+Naveen Iyer,ENG001083,STU20260371,Club membership,Sports Club,Organizer,3.0,2026-2027,No
+Kavya Verma,ENG001084,STU20260373,Certification,Certification,Participant,8.1,2026-2027,Yes
+Kavya Verma,ENG001085,STU20260373,Project contribution,Open Source Contribution,Participant,21.3,2026-2027,Yes
+Kavya Verma,ENG001086,STU20260373,Club membership,Sports Club,Organizer,25.4,2026-2027,Yes
+Harsha Naidu,ENG001087,STU20260374,Volunteering,Volunteer Program,Active Contributor,15.5,2026-2027,Yes
+Harsha Naidu,ENG001088,STU20260374,Participation,Hackathon,Active Contributor,22.5,2026-2027,Yes
+Harsha Naidu,ENG001089,STU20260374,Event participation,College Fest,Active Contributor,18.7,2026-2027,Yes
+Harsha Naidu,ENG001090,STU20260374,Club membership,Sports Club,Active Contributor,9.0,2026-2027,Yes
+Harsha Naidu,ENG001091,STU20260374,Research,Research Group,Participant,19.8,2026-2027,No
+Harsha Naidu,ENG001092,STU20260374,Workshop,Technical Workshop,Participant,12.4,2026-2027,No
+Vijay Naidu,ENG001093,STU20260375,Research,Research Group,Organizer,17.3,2026-2027,No
+Vijay Naidu,ENG001094,STU20260375,Event participation,College Fest,Active Contributor,33.1,2026-2027,Yes
+Sanjana Babu,ENG001095,STU20260378,Club membership,Technical Club,Participant,8.1,2026-2027,No
+Sanjana Babu,ENG001096,STU20260378,Participation,Hackathon,Organizer,15.2,2026-2027,Yes
+Sanjana Babu,ENG001097,STU20260378,Event participation,College Fest,Active Contributor,20.8,2026-2027,No
+Keerthi Prasad,ENG001098,STU20260379,Research,Research Group,Organizer,20.3,2026-2027,Yes
+Keerthi Prasad,ENG001099,STU20260379,Club membership,Technical Club,Organizer,11.1,2026-2027,No
+Keerthi Prasad,ENG001100,STU20260379,Event participation,College Fest,Participant,7.8,2026-2027,No
+Keerthi Prasad,ENG001101,STU20260379,Certification,Certification,Participant,33.4,2026-2027,No
+Keerthi Prasad,ENG001102,STU20260379,Competition,Coding Contest,Active Contributor,7.2,2026-2027,No
+Sneha Khan,ENG001103,STU20260380,Competition,Coding Contest,Participant,32.4,2026-2027,No
+Sneha Khan,ENG001104,STU20260380,Certification,Certification,Active Contributor,9.4,2026-2027,Yes
+Sneha Khan,ENG001105,STU20260380,Event participation,College Fest,Organizer,32.5,2026-2027,No
+Sneha Khan,ENG001106,STU20260380,Club membership,Sports Club,Organizer,10.9,2026-2027,No
+Sneha Khan,ENG001107,STU20260380,Workshop,Technical Workshop,Participant,25.8,2026-2027,No
+Charan Singh,ENG001108,STU20260381,Event participation,College Fest,Participant,31.9,2026-2027,No
+Nandini Raju,ENG001109,STU20260382,Competition,Coding Contest,Organizer,12.4,2026-2027,Yes
+Nandini Raju,ENG001110,STU20260382,Project contribution,Open Source Contribution,Active Contributor,25.7,2026-2027,Yes
+Krishna Rao,ENG001111,STU20260383,Club membership,Sports Club,Organizer,24.7,2026-2027,No
+Krishna Rao,ENG001112,STU20260383,Club membership,Technical Club,Participant,3.9,2026-2027,No
+Krishna Rao,ENG001113,STU20260383,Event participation,College Fest,Organizer,20.3,2026-2027,No
+Krishna Rao,ENG001114,STU20260383,Workshop,Technical Workshop,Organizer,2.5,2026-2027,No
+Krishna Rao,ENG001115,STU20260383,Competition,Coding Contest,Active Contributor,21.3,2026-2027,No
+Mohan Murthy,ENG001116,STU20260384,Volunteering,Volunteer Program,Participant,20.0,2026-2027,No
+Mohan Murthy,ENG001117,STU20260384,Participation,Hackathon,Organizer,12.2,2026-2027,No
+Mohan Murthy,ENG001118,STU20260384,Club membership,Technical Club,Participant,24.4,2026-2027,No
+Mohan Murthy,ENG001119,STU20260384,Certification,Certification,Organizer,14.1,2026-2027,No
+Charan Reddy,ENG001120,STU20260387,Club membership,Technical Club,Active Contributor,3.2,2026-2027,Yes
+Charan Reddy,ENG001121,STU20260387,Certification,Certification,Organizer,19.0,2026-2027,Yes
+Charan Reddy,ENG001122,STU20260387,Research,Research Group,Active Contributor,4.2,2026-2027,No
+Ananya Devi,ENG001123,STU20260388,Certification,Certification,Participant,3.5,2026-2027,Yes
+Meera Rao,ENG001124,STU20260389,Club membership,Sports Club,Organizer,32.2,2026-2027,Yes
+Meera Rao,ENG001125,STU20260389,Certification,Certification,Active Contributor,26.7,2026-2027,No
+Yamini Singh,ENG001126,STU20260391,Participation,Hackathon,Active Contributor,34.4,2026-2027,Yes
+Yamini Singh,ENG001127,STU20260391,Club membership,Sports Club,Organizer,24.7,2026-2027,No
+Yamini Singh,ENG001128,STU20260391,Project contribution,Open Source Contribution,Organizer,15.0,2026-2027,Yes
+Yamini Singh,ENG001129,STU20260391,Workshop,Technical Workshop,Active Contributor,24.8,2026-2027,No
+Yamini Singh,ENG001130,STU20260391,Research,Research Group,Participant,15.9,2026-2027,No
+Ananya Kumar,ENG001131,STU20260392,Club membership,Sports Club,Participant,7.5,2026-2027,Yes
+Ananya Kumar,ENG001132,STU20260392,Research,Research Group,Organizer,14.3,2026-2027,Yes
+Ananya Kumar,ENG001133,STU20260392,Volunteering,Volunteer Program,Organizer,22.6,2026-2027,Yes
+Ananya Kumar,ENG001134,STU20260392,Competition,Coding Contest,Active Contributor,13.3,2026-2027,Yes
+Ananya Kumar,ENG001135,STU20260392,Certification,Certification,Organizer,14.1,2026-2027,Yes
+Tarun Khan,ENG001136,STU20260393,Workshop,Technical Workshop,Active Contributor,18.2,2026-2027,No
+Tarun Khan,ENG001137,STU20260393,Research,Research Group,Organizer,27.3,2026-2027,Yes
+Tarun Khan,ENG001138,STU20260393,Certification,Certification,Participant,27.7,2026-2027,Yes
+Tarun Khan,ENG001139,STU20260393,Competition,Coding Contest,Participant,14.7,2026-2027,No
+Tarun Khan,ENG001140,STU20260393,Club membership,Sports Club,Organizer,25.3,2026-2027,No
+Tarun Khan,ENG001141,STU20260393,Event participation,College Fest,Organizer,23.0,2026-2027,Yes
+Rohan Kashyap,ENG001142,STU20260394,Participation,Hackathon,Active Contributor,5.3,2026-2027,No
+Rohan Kashyap,ENG001143,STU20260394,Club membership,Technical Club,Participant,20.8,2026-2027,No
+Rohan Kashyap,ENG001144,STU20260394,Workshop,Technical Workshop,Organizer,25.1,2026-2027,Yes
+Rohan Kashyap,ENG001145,STU20260394,Research,Research Group,Organizer,29.0,2026-2027,Yes
+Akshara Goud,ENG001146,STU20260395,Competition,Coding Contest,Organizer,35.6,2026-2027,No
+Akshara Goud,ENG001147,STU20260395,Event participation,College Fest,Participant,7.9,2026-2027,Yes
+Akshara Goud,ENG001148,STU20260395,Research,Research Group,Organizer,5.5,2026-2027,Yes
+Akshara Goud,ENG001149,STU20260395,Club membership,Technical Club,Organizer,2.8,2026-2027,Yes
+Akshara Goud,ENG001150,STU20260395,Participation,Hackathon,Participant,34.4,2026-2027,No
+Aadhya Sharma,ENG001151,STU20260396,Research,Research Group,Participant,27.8,2026-2027,No
+Aadhya Sharma,ENG001152,STU20260396,Volunteering,Volunteer Program,Active Contributor,16.7,2026-2027,No
+Aadhya Sharma,ENG001153,STU20260396,Club membership,Technical Club,Active Contributor,13.3,2026-2027,No
+Aadhya Sharma,ENG001154,STU20260396,Certification,Certification,Organizer,17.9,2026-2027,Yes
+Priya Sharma,ENG001155,STU20260397,Volunteering,Volunteer Program,Active Contributor,26.8,2026-2027,Yes
+Priya Sharma,ENG001156,STU20260397,Event participation,College Fest,Active Contributor,23.5,2026-2027,Yes
+Priya Sharma,ENG001157,STU20260397,Project contribution,Open Source Contribution,Organizer,10.7,2026-2027,No
+Priya Sharma,ENG001158,STU20260397,Research,Research Group,Active Contributor,31.5,2026-2027,Yes
+Priya Sharma,ENG001159,STU20260397,Workshop,Technical Workshop,Participant,3.1,2026-2027,Yes
+Madhavi Pillai,ENG001160,STU20260398,Participation,Hackathon,Participant,33.8,2026-2027,Yes
+Madhavi Pillai,ENG001161,STU20260398,Club membership,Sports Club,Organizer,35.1,2026-2027,Yes
+Madhavi Pillai,ENG001162,STU20260398,Event participation,College Fest,Participant,12.7,2026-2027,No
+Keerthi Goud,ENG001163,STU20260399,Project contribution,Open Source Contribution,Organizer,14.6,2026-2027,No
+Keerthi Goud,ENG001164,STU20260399,Workshop,Technical Workshop,Organizer,24.0,2026-2027,Yes
+Dev Joshi,ENG001165,STU20260400,Project contribution,Open Source Contribution,Active Contributor,25.7,2026-2027,Yes
+Dev Joshi,ENG001166,STU20260400,Club membership,Technical Club,Active Contributor,25.7,2026-2027,Yes
+Dev Joshi,ENG001167,STU20260400,Certification,Certification,Participant,11.4,2026-2027,Yes
+Dev Joshi,ENG001168,STU20260400,Research,Research Group,Active Contributor,30.8,2026-2027,Yes
+Aditya Jain,ENG001169,STU20260403,Workshop,Technical Workshop,Organizer,27.9,2026-2027,Yes
+Aditya Jain,ENG001170,STU20260403,Competition,Coding Contest,Organizer,15.4,2026-2027,Yes
+Aditya Jain,ENG001171,STU20260403,Project contribution,Open Source Contribution,Organizer,32.0,2026-2027,Yes
+Aditya Jain,ENG001172,STU20260403,Participation,Hackathon,Participant,8.3,2026-2027,No
+Krishna Murthy,ENG001173,STU20260404,Club membership,Sports Club,Active Contributor,32.8,2026-2027,No
+Nikhil Naidu,ENG001174,STU20260405,Club membership,Technical Club,Active Contributor,33.4,2026-2027,No
+Nikhil Naidu,ENG001175,STU20260405,Competition,Coding Contest,Participant,31.3,2026-2027,Yes
+Nikhil Naidu,ENG001176,STU20260405,Event participation,College Fest,Organizer,14.4,2026-2027,Yes
+Nikhil Naidu,ENG001177,STU20260405,Certification,Certification,Participant,16.1,2026-2027,Yes
+Nikhil Naidu,ENG001178,STU20260405,Workshop,Technical Workshop,Active Contributor,23.1,2026-2027,No
+Avani Shetty,ENG001179,STU20260406,Project contribution,Open Source Contribution,Organizer,24.8,2026-2027,Yes
+Avani Shetty,ENG001180,STU20260406,Competition,Coding Contest,Participant,32.7,2026-2027,Yes
+Avani Shetty,ENG001181,STU20260406,Volunteering,Volunteer Program,Participant,8.0,2026-2027,Yes
+Chaitanya Murthy,ENG001182,STU20260408,Event participation,College Fest,Active Contributor,14.1,2026-2027,Yes
+Chaitanya Murthy,ENG001183,STU20260408,Volunteering,Volunteer Program,Participant,35.4,2026-2027,Yes
+Yamini Kashyap,ENG001184,STU20260409,Project contribution,Open Source Contribution,Organizer,27.3,2026-2027,No
+Yamini Kashyap,ENG001185,STU20260409,Event participation,College Fest,Active Contributor,17.8,2026-2027,Yes
+Yamini Kashyap,ENG001186,STU20260409,Workshop,Technical Workshop,Participant,19.1,2026-2027,No
+Yamini Kashyap,ENG001187,STU20260409,Participation,Hackathon,Participant,30.1,2026-2027,Yes
+Meera Joshi,ENG001188,STU20260410,Volunteering,Volunteer Program,Participant,21.3,2026-2027,Yes
+Meera Joshi,ENG001189,STU20260410,Club membership,Technical Club,Organizer,35.0,2026-2027,Yes
+Meera Joshi,ENG001190,STU20260410,Event participation,College Fest,Participant,4.7,2026-2027,Yes
+Meera Joshi,ENG001191,STU20260410,Club membership,Sports Club,Participant,25.2,2026-2027,Yes
+Meera Joshi,ENG001192,STU20260410,Project contribution,Open Source Contribution,Active Contributor,24.0,2026-2027,Yes
+Meera Joshi,ENG001193,STU20260410,Certification,Certification,Organizer,22.7,2026-2027,No
+Srinivas Verma,ENG001194,STU20260412,Project contribution,Open Source Contribution,Participant,8.1,2026-2027,Yes
+Rohan Jain,ENG001195,STU20260413,Research,Research Group,Participant,7.7,2026-2027,Yes
+Rohan Jain,ENG001196,STU20260413,Project contribution,Open Source Contribution,Organizer,29.5,2026-2027,No
+Rohan Jain,ENG001197,STU20260413,Club membership,Sports Club,Organizer,10.7,2026-2027,Yes
+Rohan Jain,ENG001198,STU20260413,Certification,Certification,Active Contributor,14.7,2026-2027,Yes
+Nandini Naidu,ENG001199,STU20260414,Workshop,Technical Workshop,Active Contributor,32.6,2026-2027,Yes
+Dev Yadav,ENG001200,STU20260415,Competition,Coding Contest,Organizer,20.1,2026-2027,Yes
+Dev Yadav,ENG001201,STU20260415,Event participation,College Fest,Organizer,7.4,2026-2027,No
+Harsha Naidu,ENG001202,STU20260416,Volunteering,Volunteer Program,Organizer,15.5,2026-2027,Yes
+Harsha Naidu,ENG001203,STU20260416,Competition,Coding Contest,Participant,4.7,2026-2027,No
+Harsha Naidu,ENG001204,STU20260416,Club membership,Sports Club,Organizer,24.0,2026-2027,Yes
+Aditya Yadav,ENG001205,STU20260417,Workshop,Technical Workshop,Active Contributor,30.9,2026-2027,Yes
+Aditya Yadav,ENG001206,STU20260417,Project contribution,Open Source Contribution,Organizer,27.6,2026-2027,Yes
+Aditya Yadav,ENG001207,STU20260417,Volunteering,Volunteer Program,Organizer,35.0,2026-2027,No
+Aditya Yadav,ENG001208,STU20260417,Competition,Coding Contest,Organizer,13.5,2026-2027,No
+Aditya Yadav,ENG001209,STU20260417,Club membership,Sports Club,Active Contributor,12.9,2026-2027,No
+Aditya Yadav,ENG001210,STU20260417,Certification,Certification,Organizer,9.2,2026-2027,No
+Naveen Devi,ENG001211,STU20260418,Research,Research Group,Participant,14.9,2026-2027,No
+Naveen Devi,ENG001212,STU20260418,Event participation,College Fest,Organizer,16.3,2026-2027,Yes
+Naveen Devi,ENG001213,STU20260418,Participation,Hackathon,Active Contributor,17.5,2026-2027,Yes
+Ananya Jain,ENG001214,STU20260419,Club membership,Technical Club,Participant,31.2,2026-2027,Yes
+Ananya Jain,ENG001215,STU20260419,Club membership,Sports Club,Active Contributor,16.6,2026-2027,No
+Manoj Gupta,ENG001216,STU20260420,Participation,Hackathon,Organizer,30.3,2026-2027,Yes
+Manoj Gupta,ENG001217,STU20260420,Workshop,Technical Workshop,Organizer,11.2,2026-2027,Yes
+Manoj Gupta,ENG001218,STU20260420,Club membership,Technical Club,Active Contributor,26.2,2026-2027,No
+Manoj Gupta,ENG001219,STU20260420,Research,Research Group,Participant,17.2,2026-2027,Yes
+Manoj Gupta,ENG001220,STU20260420,Certification,Certification,Organizer,23.7,2026-2027,Yes
+Sneha Varma,ENG001221,STU20260421,Volunteering,Volunteer Program,Active Contributor,16.7,2026-2027,No
+Sneha Varma,ENG001222,STU20260421,Club membership,Technical Club,Participant,13.5,2026-2027,No
+Kavya Devi,ENG001223,STU20260422,Volunteering,Volunteer Program,Active Contributor,25.0,2026-2027,No
+Kavya Devi,ENG001224,STU20260422,Certification,Certification,Active Contributor,23.0,2026-2027,Yes
+Kavya Devi,ENG001225,STU20260422,Research,Research Group,Participant,22.4,2026-2027,Yes
+Kavya Devi,ENG001226,STU20260422,Project contribution,Open Source Contribution,Active Contributor,20.9,2026-2027,Yes
+Naveen Raju,ENG001227,STU20260423,Volunteering,Volunteer Program,Active Contributor,27.0,2026-2027,No
+Rohan Patel,ENG001228,STU20260424,Competition,Coding Contest,Active Contributor,30.8,2026-2027,Yes
+Rohan Patel,ENG001229,STU20260424,Event participation,College Fest,Active Contributor,7.3,2026-2027,Yes
+Rohan Patel,ENG001230,STU20260424,Project contribution,Open Source Contribution,Participant,3.1,2026-2027,No
+Rohan Patel,ENG001231,STU20260424,Volunteering,Volunteer Program,Organizer,6.7,2026-2027,Yes
+Lakshmi Nair,ENG001232,STU20260425,Project contribution,Open Source Contribution,Participant,33.5,2026-2027,No
+Lakshmi Nair,ENG001233,STU20260425,Certification,Certification,Active Contributor,30.8,2026-2027,No
+Lakshmi Nair,ENG001234,STU20260425,Event participation,College Fest,Participant,28.0,2026-2027,No
+Lakshmi Nair,ENG001235,STU20260425,Workshop,Technical Workshop,Active Contributor,8.6,2026-2027,Yes
+Lakshmi Nair,ENG001236,STU20260425,Club membership,Technical Club,Participant,31.5,2026-2027,Yes
+Lakshmi Nair,ENG001237,STU20260425,Club membership,Sports Club,Organizer,4.7,2026-2027,Yes
+Srinivas Das,ENG001238,STU20260426,Club membership,Sports Club,Organizer,6.7,2026-2027,Yes
+Srinivas Das,ENG001239,STU20260426,Volunteering,Volunteer Program,Organizer,4.5,2026-2027,No
+Srinivas Das,ENG001240,STU20260426,Club membership,Technical Club,Active Contributor,28.4,2026-2027,Yes
+Srinivas Das,ENG001241,STU20260426,Event participation,College Fest,Organizer,6.6,2026-2027,No
+Srinivas Das,ENG001242,STU20260426,Participation,Hackathon,Active Contributor,9.3,2026-2027,Yes
+Srinivas Joshi,ENG001243,STU20260427,Certification,Certification,Active Contributor,30.9,2026-2027,Yes
+Srinivas Joshi,ENG001244,STU20260427,Volunteering,Volunteer Program,Active Contributor,34.2,2026-2027,Yes
+Srinivas Joshi,ENG001245,STU20260427,Club membership,Sports Club,Participant,23.6,2026-2027,Yes
+Srinivas Joshi,ENG001246,STU20260427,Competition,Coding Contest,Active Contributor,14.0,2026-2027,Yes
+Srinivas Joshi,ENG001247,STU20260427,Research,Research Group,Active Contributor,21.7,2026-2027,No
+Srinivas Joshi,ENG001248,STU20260427,Event participation,College Fest,Active Contributor,21.7,2026-2027,No
+Srinivas Yadav,ENG001249,STU20260428,Club membership,Sports Club,Participant,19.7,2026-2027,No
+Srinivas Yadav,ENG001250,STU20260428,Participation,Hackathon,Organizer,25.0,2026-2027,Yes
+Srinivas Yadav,ENG001251,STU20260428,Research,Research Group,Participant,5.8,2026-2027,No
+Sneha Jain,ENG001252,STU20260429,Workshop,Technical Workshop,Active Contributor,32.2,2026-2027,Yes
+Varun Murthy,ENG001253,STU20260430,Project contribution,Open Source Contribution,Participant,6.1,2026-2027,No
+Varun Murthy,ENG001254,STU20260430,Volunteering,Volunteer Program,Active Contributor,10.9,2026-2027,No
+Varun Murthy,ENG001255,STU20260430,Workshop,Technical Workshop,Participant,21.7,2026-2027,No
+Varun Murthy,ENG001256,STU20260430,Participation,Hackathon,Active Contributor,11.4,2026-2027,No
+Varun Iyer,ENG001257,STU20260432,Volunteering,Volunteer Program,Organizer,19.6,2026-2027,No
+Varun Iyer,ENG001258,STU20260432,Project contribution,Open Source Contribution,Organizer,5.4,2026-2027,No
+Varun Iyer,ENG001259,STU20260432,Club membership,Technical Club,Organizer,10.6,2026-2027,Yes
+Varun Iyer,ENG001260,STU20260432,Competition,Coding Contest,Organizer,30.3,2026-2027,Yes
+Varun Iyer,ENG001261,STU20260432,Event participation,College Fest,Active Contributor,25.3,2026-2027,No
+Nandini Joshi,ENG001262,STU20260433,Club membership,Technical Club,Active Contributor,30.9,2026-2027,Yes
+Nandini Joshi,ENG001263,STU20260433,Workshop,Technical Workshop,Organizer,8.6,2026-2027,Yes
+Nandini Joshi,ENG001264,STU20260433,Club membership,Sports Club,Active Contributor,7.0,2026-2027,No
+Nandini Joshi,ENG001265,STU20260433,Event participation,College Fest,Participant,2.1,2026-2027,No
+Kiran Reddy,ENG001266,STU20260435,Club membership,Technical Club,Organizer,29.8,2026-2027,No
+Kiran Reddy,ENG001267,STU20260435,Workshop,Technical Workshop,Participant,20.1,2026-2027,No
+Kiran Reddy,ENG001268,STU20260435,Research,Research Group,Organizer,19.7,2026-2027,Yes
+Kiran Reddy,ENG001269,STU20260435,Event participation,College Fest,Organizer,11.3,2026-2027,Yes
+Priya Verma,ENG001270,STU20260437,Workshop,Technical Workshop,Organizer,27.0,2026-2027,Yes
+Priya Verma,ENG001271,STU20260437,Volunteering,Volunteer Program,Participant,31.6,2026-2027,Yes
+Priya Verma,ENG001272,STU20260437,Project contribution,Open Source Contribution,Organizer,25.1,2026-2027,No
+Priya Verma,ENG001273,STU20260437,Event participation,College Fest,Active Contributor,21.9,2026-2027,No
+Priya Verma,ENG001274,STU20260437,Participation,Hackathon,Active Contributor,23.8,2026-2027,Yes
+Priya Verma,ENG001275,STU20260437,Research,Research Group,Active Contributor,18.5,2026-2027,Yes
+Srinivas Pillai,ENG001276,STU20260438,Volunteering,Volunteer Program,Participant,9.8,2026-2027,No
+Srinivas Pillai,ENG001277,STU20260438,Participation,Hackathon,Organizer,6.2,2026-2027,No
+Srinivas Pillai,ENG001278,STU20260438,Certification,Certification,Active Contributor,3.5,2026-2027,Yes
+Srinivas Pillai,ENG001279,STU20260438,Club membership,Technical Club,Participant,7.7,2026-2027,Yes
+Srinivas Pillai,ENG001280,STU20260438,Competition,Coding Contest,Participant,35.2,2026-2027,Yes
+Srinivas Pillai,ENG001281,STU20260438,Research,Research Group,Participant,8.8,2026-2027,Yes
+Meera Jain,ENG001282,STU20260439,Club membership,Technical Club,Active Contributor,22.1,2026-2027,Yes
+Meera Jain,ENG001283,STU20260439,Research,Research Group,Active Contributor,35.1,2026-2027,No
+Arjun Nair,ENG001284,STU20260440,Competition,Coding Contest,Participant,6.9,2026-2027,No
+Arjun Nair,ENG001285,STU20260440,Workshop,Technical Workshop,Organizer,35.7,2026-2027,Yes
+Arjun Nair,ENG001286,STU20260440,Participation,Hackathon,Participant,10.2,2026-2027,No
+Arjun Nair,ENG001287,STU20260440,Project contribution,Open Source Contribution,Active Contributor,10.5,2026-2027,Yes
+Arjun Nair,ENG001288,STU20260440,Club membership,Sports Club,Participant,24.8,2026-2027,No
+Teja Chowdary,ENG001289,STU20260441,Club membership,Technical Club,Organizer,16.0,2026-2027,Yes
+Teja Chowdary,ENG001290,STU20260441,Club membership,Sports Club,Participant,22.4,2026-2027,Yes
+Teja Chowdary,ENG001291,STU20260441,Participation,Hackathon,Participant,27.4,2026-2027,No
+Teja Chowdary,ENG001292,STU20260441,Event participation,College Fest,Active Contributor,33.9,2026-2027,Yes
+Teja Chowdary,ENG001293,STU20260441,Research,Research Group,Participant,6.2,2026-2027,No
+Teja Chowdary,ENG001294,STU20260441,Project contribution,Open Source Contribution,Participant,2.1,2026-2027,Yes
+Deepika Sharma,ENG001295,STU20260442,Event participation,College Fest,Participant,10.9,2026-2027,No
+Deepika Sharma,ENG001296,STU20260442,Research,Research Group,Participant,15.9,2026-2027,Yes
+Deepika Sharma,ENG001297,STU20260442,Certification,Certification,Active Contributor,35.5,2026-2027,No
+Deepika Sharma,ENG001298,STU20260442,Workshop,Technical Workshop,Active Contributor,23.5,2026-2027,No
+Deepika Sharma,ENG001299,STU20260442,Volunteering,Volunteer Program,Participant,21.5,2026-2027,No
+Madhavi Iyer,ENG001300,STU20260443,Event participation,College Fest,Organizer,23.0,2026-2027,Yes
+Madhavi Gupta,ENG001301,STU20260445,Participation,Hackathon,Participant,32.7,2026-2027,No
+Madhavi Gupta,ENG001302,STU20260445,Event participation,College Fest,Active Contributor,10.8,2026-2027,No
+Madhavi Gupta,ENG001303,STU20260445,Volunteering,Volunteer Program,Active Contributor,19.8,2026-2027,No
+Madhavi Gupta,ENG001304,STU20260445,Club membership,Technical Club,Active Contributor,16.5,2026-2027,Yes
+Madhavi Gupta,ENG001305,STU20260445,Project contribution,Open Source Contribution,Active Contributor,8.2,2026-2027,Yes
+Madhavi Gupta,ENG001306,STU20260445,Club membership,Sports Club,Participant,20.7,2026-2027,No
+Divya Joshi,ENG001307,STU20260446,Workshop,Technical Workshop,Organizer,24.2,2026-2027,No
+Divya Joshi,ENG001308,STU20260446,Club membership,Sports Club,Organizer,6.0,2026-2027,No
+Divya Joshi,ENG001309,STU20260446,Club membership,Technical Club,Active Contributor,31.4,2026-2027,No
+Divya Joshi,ENG001310,STU20260446,Project contribution,Open Source Contribution,Organizer,30.5,2026-2027,No
+Riya Das,ENG001311,STU20260447,Research,Research Group,Participant,28.1,2026-2027,Yes
+Riya Das,ENG001312,STU20260447,Workshop,Technical Workshop,Organizer,32.3,2026-2027,Yes
+Riya Das,ENG001313,STU20260447,Event participation,College Fest,Organizer,6.0,2026-2027,Yes
+Riya Das,ENG001314,STU20260447,Competition,Coding Contest,Participant,8.1,2026-2027,No
+Aarav Chowdary,ENG001315,STU20260448,Club membership,Sports Club,Participant,7.6,2026-2027,No
+Nikhil Joshi,ENG001316,STU20260450,Research,Research Group,Organizer,15.8,2026-2027,No
+Nikhil Joshi,ENG001317,STU20260450,Participation,Hackathon,Organizer,21.9,2026-2027,Yes
+Nikhil Joshi,ENG001318,STU20260450,Competition,Coding Contest,Participant,20.3,2026-2027,Yes
+Nikhil Joshi,ENG001319,STU20260450,Club membership,Sports Club,Organizer,35.9,2026-2027,No
+Arjun Kumar,ENG001320,STU20260451,Club membership,Technical Club,Active Contributor,4.6,2026-2027,Yes
+Arjun Kumar,ENG001321,STU20260451,Club membership,Sports Club,Active Contributor,34.9,2026-2027,Yes
+Arjun Kumar,ENG001322,STU20260451,Event participation,College Fest,Participant,3.9,2026-2027,Yes
+Arjun Kumar,ENG001323,STU20260451,Project contribution,Open Source Contribution,Organizer,28.6,2026-2027,Yes
+Anil Gupta,ENG001324,STU20260452,Competition,Coding Contest,Organizer,8.2,2026-2027,Yes
+Deepika Prasad,ENG001325,STU20260453,Volunteering,Volunteer Program,Organizer,18.6,2026-2027,No
+Deepika Prasad,ENG001326,STU20260453,Workshop,Technical Workshop,Participant,18.8,2026-2027,Yes
+Deepika Prasad,ENG001327,STU20260453,Certification,Certification,Active Contributor,23.9,2026-2027,Yes
+Deepika Prasad,ENG001328,STU20260453,Event participation,College Fest,Organizer,18.8,2026-2027,No
+Deepika Prasad,ENG001329,STU20260453,Research,Research Group,Participant,14.4,2026-2027,No
+Deepika Prasad,ENG001330,STU20260453,Competition,Coding Contest,Active Contributor,35.4,2026-2027,Yes
+Chaitanya Kashyap,ENG001331,STU20260454,Volunteering,Volunteer Program,Participant,31.9,2026-2027,Yes
+Naveen Goud,ENG001332,STU20260455,Participation,Hackathon,Organizer,13.9,2026-2027,No
+Naveen Goud,ENG001333,STU20260455,Workshop,Technical Workshop,Active Contributor,30.8,2026-2027,No
+Naveen Goud,ENG001334,STU20260455,Event participation,College Fest,Participant,4.0,2026-2027,Yes
+Naveen Goud,ENG001335,STU20260455,Club membership,Sports Club,Participant,35.0,2026-2027,No
+Naveen Goud,ENG001336,STU20260455,Certification,Certification,Organizer,21.1,2026-2027,Yes
+Naveen Goud,ENG001337,STU20260455,Project contribution,Open Source Contribution,Participant,26.8,2026-2027,Yes
+Sanjana Jain,ENG001338,STU20260456,Participation,Hackathon,Active Contributor,10.1,2026-2027,Yes
+Sanjana Jain,ENG001339,STU20260456,Club membership,Technical Club,Participant,6.1,2026-2027,Yes
+Sanjana Jain,ENG001340,STU20260456,Competition,Coding Contest,Active Contributor,27.8,2026-2027,No
+Pranav Jain,ENG001341,STU20260457,Research,Research Group,Participant,23.0,2026-2027,No
+Pranav Jain,ENG001342,STU20260457,Participation,Hackathon,Participant,11.5,2026-2027,No
+Pranav Raju,ENG001343,STU20260458,Participation,Hackathon,Organizer,3.0,2026-2027,No
+Pranav Raju,ENG001344,STU20260458,Project contribution,Open Source Contribution,Organizer,35.9,2026-2027,Yes
+Pranav Raju,ENG001345,STU20260458,Club membership,Sports Club,Participant,21.4,2026-2027,Yes
+Pranav Raju,ENG001346,STU20260458,Workshop,Technical Workshop,Organizer,6.5,2026-2027,No
+Pranav Raju,ENG001347,STU20260458,Competition,Coding Contest,Organizer,33.5,2026-2027,No
+Pranav Raju,ENG001348,STU20260458,Club membership,Technical Club,Organizer,30.4,2026-2027,No
+Anil Nair,ENG001349,STU20260459,Club membership,Sports Club,Participant,34.0,2026-2027,Yes
+Naveen Kashyap,ENG001350,STU20260460,Project contribution,Open Source Contribution,Participant,18.4,2026-2027,No
+Naveen Kashyap,ENG001351,STU20260460,Research,Research Group,Participant,28.7,2026-2027,No
+Naveen Kashyap,ENG001352,STU20260460,Competition,Coding Contest,Organizer,20.8,2026-2027,No
+Aadhya Das,ENG001353,STU20260461,Project contribution,Open Source Contribution,Participant,7.9,2026-2027,Yes
+Aadhya Das,ENG001354,STU20260461,Club membership,Technical Club,Active Contributor,13.7,2026-2027,No
+Aadhya Das,ENG001355,STU20260461,Certification,Certification,Participant,19.4,2026-2027,Yes
+Aadhya Das,ENG001356,STU20260461,Participation,Hackathon,Organizer,9.8,2026-2027,No
+Aadhya Das,ENG001357,STU20260461,Workshop,Technical Workshop,Active Contributor,32.4,2026-2027,No
+Neha Varma,ENG001358,STU20260462,Volunteering,Volunteer Program,Participant,9.7,2026-2027,No
+Neha Varma,ENG001359,STU20260462,Certification,Certification,Organizer,25.7,2026-2027,No
+Krishna Jain,ENG001360,STU20260463,Participation,Hackathon,Active Contributor,30.0,2026-2027,Yes
+Krishna Jain,ENG001361,STU20260463,Workshop,Technical Workshop,Organizer,30.4,2026-2027,Yes
+Krishna Jain,ENG001362,STU20260463,Project contribution,Open Source Contribution,Participant,19.8,2026-2027,No
+Krishna Jain,ENG001363,STU20260463,Research,Research Group,Active Contributor,8.2,2026-2027,No
+Krishna Jain,ENG001364,STU20260463,Club membership,Sports Club,Organizer,7.4,2026-2027,Yes
+Krishna Jain,ENG001365,STU20260463,Certification,Certification,Participant,17.5,2026-2027,Yes
+Manoj Iyer,ENG001366,STU20260464,Project contribution,Open Source Contribution,Participant,9.6,2026-2027,Yes
+Riya Jain,ENG001367,STU20260466,Club membership,Sports Club,Active Contributor,3.3,2026-2027,No
+Riya Jain,ENG001368,STU20260466,Project contribution,Open Source Contribution,Participant,4.2,2026-2027,Yes
+Rahul Babu,ENG001369,STU20260467,Event participation,College Fest,Active Contributor,7.7,2026-2027,No
+Rahul Babu,ENG001370,STU20260467,Competition,Coding Contest,Participant,34.7,2026-2027,Yes
+Priya Gupta,ENG001371,STU20260468,Competition,Coding Contest,Active Contributor,2.2,2026-2027,No
+Priya Gupta,ENG001372,STU20260468,Certification,Certification,Participant,32.9,2026-2027,Yes
+Charan Singh,ENG001373,STU20260469,Event participation,College Fest,Active Contributor,12.1,2026-2027,No
+Charan Singh,ENG001374,STU20260469,Competition,Coding Contest,Organizer,11.9,2026-2027,No
+Charan Singh,ENG001375,STU20260469,Research,Research Group,Active Contributor,16.2,2026-2027,No
+Charan Singh,ENG001376,STU20260469,Participation,Hackathon,Active Contributor,21.5,2026-2027,No
+Charan Singh,ENG001377,STU20260469,Club membership,Sports Club,Active Contributor,15.6,2026-2027,No
+Charan Singh,ENG001378,STU20260469,Workshop,Technical Workshop,Organizer,13.7,2026-2027,No
+Riya Babu,ENG001379,STU20260470,Volunteering,Volunteer Program,Participant,7.8,2026-2027,No
+Riya Babu,ENG001380,STU20260470,Workshop,Technical Workshop,Active Contributor,17.8,2026-2027,No
+Riya Babu,ENG001381,STU20260470,Event participation,College Fest,Participant,30.3,2026-2027,Yes
+Sai Das,ENG001382,STU20260472,Club membership,Technical Club,Participant,35.4,2026-2027,Yes
+Sai Das,ENG001383,STU20260472,Participation,Hackathon,Participant,21.7,2026-2027,No
+Sai Das,ENG001384,STU20260472,Volunteering,Volunteer Program,Active Contributor,8.8,2026-2027,Yes
+Dev Verma,ENG001385,STU20260473,Club membership,Sports Club,Active Contributor,17.4,2026-2027,No
+Dev Verma,ENG001386,STU20260473,Club membership,Technical Club,Active Contributor,10.4,2026-2027,Yes
+Aadhya Chowdary,ENG001387,STU20260474,Event participation,College Fest,Active Contributor,29.9,2026-2027,Yes
+Neha Sharma,ENG001388,STU20260475,Certification,Certification,Organizer,23.8,2026-2027,Yes
+Neha Sharma,ENG001389,STU20260475,Workshop,Technical Workshop,Organizer,20.3,2026-2027,Yes
+Abhinav Varma,ENG001390,STU20260476,Event participation,College Fest,Organizer,35.7,2026-2027,Yes
+Avani Mishra,ENG001391,STU20260477,Competition,Coding Contest,Active Contributor,12.5,2026-2027,No
+Avani Mishra,ENG001392,STU20260477,Project contribution,Open Source Contribution,Organizer,27.3,2026-2027,No
+Avani Mishra,ENG001393,STU20260477,Club membership,Sports Club,Organizer,20.9,2026-2027,No
+Avani Mishra,ENG001394,STU20260477,Research,Research Group,Organizer,10.1,2026-2027,No
+Varun Babu,ENG001395,STU20260478,Club membership,Technical Club,Organizer,29.5,2026-2027,No
+Varun Babu,ENG001396,STU20260478,Volunteering,Volunteer Program,Participant,2.2,2026-2027,Yes
+Varun Babu,ENG001397,STU20260478,Research,Research Group,Active Contributor,2.4,2026-2027,No
+Varun Babu,ENG001398,STU20260478,Participation,Hackathon,Participant,14.4,2026-2027,No
+Varun Babu,ENG001399,STU20260478,Competition,Coding Contest,Active Contributor,5.4,2026-2027,No
+Varun Babu,ENG001400,STU20260478,Certification,Certification,Active Contributor,24.4,2026-2027,No
+Anil Gupta,ENG001401,STU20260479,Event participation,College Fest,Organizer,28.7,2026-2027,No
+Anil Gupta,ENG001402,STU20260479,Volunteering,Volunteer Program,Active Contributor,28.2,2026-2027,No
+Anil Gupta,ENG001403,STU20260479,Participation,Hackathon,Active Contributor,4.6,2026-2027,No
+Anil Gupta,ENG001404,STU20260479,Competition,Coding Contest,Participant,11.9,2026-2027,No
+Anil Gupta,ENG001405,STU20260479,Project contribution,Open Source Contribution,Active Contributor,26.1,2026-2027,No
+Anil Gupta,ENG001406,STU20260479,Club membership,Sports Club,Organizer,8.8,2026-2027,No
+Srinivas Kashyap,ENG001407,STU20260480,Club membership,Technical Club,Participant,10.5,2026-2027,No
+Srinivas Kashyap,ENG001408,STU20260480,Club membership,Sports Club,Active Contributor,6.9,2026-2027,No
+Srinivas Kashyap,ENG001409,STU20260480,Project contribution,Open Source Contribution,Participant,15.3,2026-2027,No
+Gowtham Mohanty,ENG001410,STU20260481,Participation,Hackathon,Organizer,21.7,2026-2027,Yes
+Gowtham Mohanty,ENG001411,STU20260481,Certification,Certification,Organizer,11.5,2026-2027,Yes
+Aadhya Nair,ENG001412,STU20260482,Project contribution,Open Source Contribution,Organizer,34.7,2026-2027,Yes
+Aadhya Nair,ENG001413,STU20260482,Participation,Hackathon,Organizer,6.9,2026-2027,Yes
+Riya Goud,ENG001414,STU20260483,Participation,Hackathon,Active Contributor,18.0,2026-2027,No
+Riya Goud,ENG001415,STU20260483,Project contribution,Open Source Contribution,Organizer,13.0,2026-2027,No
+Riya Goud,ENG001416,STU20260483,Competition,Coding Contest,Organizer,20.7,2026-2027,Yes
+Riya Goud,ENG001417,STU20260483,Club membership,Technical Club,Active Contributor,22.8,2026-2027,No
+Meera Singh,ENG001418,STU20260485,Competition,Coding Contest,Participant,23.8,2026-2027,Yes
+Meera Singh,ENG001419,STU20260485,Club membership,Sports Club,Participant,13.3,2026-2027,No
+Meera Singh,ENG001420,STU20260485,Volunteering,Volunteer Program,Participant,23.5,2026-2027,No
+Meera Singh,ENG001421,STU20260485,Research,Research Group,Active Contributor,32.5,2026-2027,Yes
+Lakshmi Devi,ENG001422,STU20260486,Competition,Coding Contest,Active Contributor,16.6,2026-2027,No
+Lakshmi Devi,ENG001423,STU20260486,Certification,Certification,Organizer,29.1,2026-2027,Yes
+Aditya Patel,ENG001424,STU20260488,Participation,Hackathon,Active Contributor,22.9,2026-2027,No
+Aditya Patel,ENG001425,STU20260488,Research,Research Group,Active Contributor,5.4,2026-2027,No
+Deepika Rao,ENG001426,STU20260489,Club membership,Technical Club,Participant,26.7,2026-2027,No
+Aadhya Varma,ENG001427,STU20260490,Workshop,Technical Workshop,Active Contributor,26.4,2026-2027,No
+Aadhya Varma,ENG001428,STU20260490,Participation,Hackathon,Organizer,31.4,2026-2027,Yes
+Akshara Das,ENG001429,STU20260491,Certification,Certification,Active Contributor,26.2,2026-2027,No
+Akshara Das,ENG001430,STU20260491,Competition,Coding Contest,Organizer,2.9,2026-2027,No
+Rahul Babu,ENG001431,STU20260492,Workshop,Technical Workshop,Active Contributor,10.1,2026-2027,No
+Rahul Babu,ENG001432,STU20260492,Research,Research Group,Organizer,5.3,2026-2027,No
+Rahul Babu,ENG001433,STU20260492,Certification,Certification,Active Contributor,25.7,2026-2027,Yes
+Rahul Babu,ENG001434,STU20260492,Volunteering,Volunteer Program,Participant,29.1,2026-2027,No
+Rahul Babu,ENG001435,STU20260492,Project contribution,Open Source Contribution,Participant,29.5,2026-2027,Yes
+Rahul Babu,ENG001436,STU20260492,Competition,Coding Contest,Active Contributor,20.3,2026-2027,Yes
+Deepika Sahu,ENG001437,STU20260493,Participation,Hackathon,Organizer,20.5,2026-2027,Yes
+Deepika Sahu,ENG001438,STU20260493,Project contribution,Open Source Contribution,Organizer,11.7,2026-2027,No
+Deepika Sahu,ENG001439,STU20260493,Competition,Coding Contest,Participant,17.2,2026-2027,No
+Deepika Sahu,ENG001440,STU20260493,Club membership,Technical Club,Participant,12.2,2026-2027,Yes
+Deepika Sahu,ENG001441,STU20260493,Volunteering,Volunteer Program,Organizer,26.8,2026-2027,No
+Deepika Sahu,ENG001442,STU20260493,Event participation,College Fest,Organizer,25.3,2026-2027,No
+Pooja Goud,ENG001443,STU20260494,Competition,Coding Contest,Active Contributor,2.6,2026-2027,Yes
+Pooja Goud,ENG001444,STU20260494,Club membership,Technical Club,Active Contributor,7.3,2026-2027,No
+Pooja Goud,ENG001445,STU20260494,Research,Research Group,Participant,3.4,2026-2027,Yes
+Pooja Goud,ENG001446,STU20260494,Workshop,Technical Workshop,Active Contributor,11.7,2026-2027,Yes
+Pooja Goud,ENG001447,STU20260494,Event participation,College Fest,Participant,28.2,2026-2027,Yes
+Harsha Khan,ENG001448,STU20260497,Club membership,Sports Club,Participant,26.0,2026-2027,Yes
+Harsha Khan,ENG001449,STU20260497,Event participation,College Fest,Participant,18.4,2026-2027,No
+Harsha Khan,ENG001450,STU20260497,Competition,Coding Contest,Organizer,26.9,2026-2027,No
+Harsha Khan,ENG001451,STU20260497,Workshop,Technical Workshop,Organizer,5.8,2026-2027,Yes
+Harsha Khan,ENG001452,STU20260497,Certification,Certification,Active Contributor,6.7,2026-2027,Yes
+Srinivas Prasad,ENG001453,STU20260498,Project contribution,Open Source Contribution,Active Contributor,35.2,2026-2027,No
+Srinivas Prasad,ENG001454,STU20260498,Club membership,Technical Club,Organizer,13.1,2026-2027,Yes
+Srinivas Prasad,ENG001455,STU20260498,Workshop,Technical Workshop,Participant,32.7,2026-2027,Yes
+Srinivas Prasad,ENG001456,STU20260498,Competition,Coding Contest,Organizer,7.6,2026-2027,Yes
+Aadhya Gupta,ENG001457,STU20260499,Club membership,Technical Club,Active Contributor,23.3,2026-2027,No
+Aadhya Gupta,ENG001458,STU20260499,Event participation,College Fest,Organizer,24.6,2026-2027,No
+Aadhya Gupta,ENG001459,STU20260499,Workshop,Technical Workshop,Organizer,2.1,2026-2027,No
+Aadhya Gupta,ENG001460,STU20260499,Competition,Coding Contest,Organizer,26.4,2026-2027,No
+Aadhya Gupta,ENG001461,STU20260499,Research,Research Group,Participant,30.4,2026-2027,No
+Tarun Pillai,ENG001462,STU20260500,Certification,Certification,Active Contributor,34.9,2026-2027,Yes
+Tarun Pillai,ENG001463,STU20260500,Club membership,Technical Club,Organizer,4.7,2026-2027,No

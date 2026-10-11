@@ -1,0 +1,3 @@
+intervention_id,student_id,intervention_type,assigned_date,status,follow_up_notes
+INT0001,STU20260006,Academic tutoring,2026-10-11,In progress,
+INT0002,STU20260009,Coding practice,2026-10-11,Recommended,

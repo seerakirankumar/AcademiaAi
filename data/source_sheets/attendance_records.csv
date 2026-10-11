@@ -1,0 +1,2501 @@
+Student ID,Student Name,Academic Year,Semester,Subject or Course Name,Total Classes Held,Classes Attended,Attendance Percentage (%)
+STU20260001,Neha Singh,2026-2027,Current,Engineering Mechanics,55,49,89.1
+STU20260001,Neha Singh,2026-2027,Current,Thermodynamics,31,23,74.2
+STU20260001,Neha Singh,2026-2027,Current,Manufacturing Processes,40,39,97.5
+STU20260001,Neha Singh,2026-2027,Current,CAD/CAM,51,38,74.5
+STU20260001,Neha Singh,2026-2027,Current,Materials Science,30,25,83.3
+STU20260002,Aditya Devi,2026-2027,Current,Data Structures,40,27,67.5
+STU20260002,Aditya Devi,2026-2027,Current,Database Management Systems,37,26,70.3
+STU20260002,Aditya Devi,2026-2027,Current,Operating Systems,41,31,75.6
+STU20260002,Aditya Devi,2026-2027,Current,Computer Networks,59,51,86.4
+STU20260002,Aditya Devi,2026-2027,Current,Software Engineering,55,29,52.7
+STU20260003,Naveen Mishra,2026-2027,Current,Python Programming,44,29,65.9
+STU20260003,Naveen Mishra,2026-2027,Current,Statistics for AI,39,23,59.0
+STU20260003,Naveen Mishra,2026-2027,Current,Machine Learning,29,16,55.2
+STU20260003,Naveen Mishra,2026-2027,Current,Deep Learning,45,29,64.4
+STU20260003,Naveen Mishra,2026-2027,Current,Data Mining,38,29,76.3
+STU20260004,Neha Gupta,2026-2027,Current,Digital Electronics,54,20,37.0
+STU20260004,Neha Gupta,2026-2027,Current,Signals and Systems,43,12,27.9
+STU20260004,Neha Gupta,2026-2027,Current,Embedded Systems,49,13,26.5
+STU20260004,Neha Gupta,2026-2027,Current,Computer Networks,56,27,48.2
+STU20260004,Neha Gupta,2026-2027,Current,Microprocessors,56,24,42.9
+STU20260005,Harsha Naidu,2026-2027,Current,Python Programming,53,40,75.5
+STU20260005,Harsha Naidu,2026-2027,Current,Statistics for AI,51,37,72.5
+STU20260005,Harsha Naidu,2026-2027,Current,Machine Learning,47,45,95.7
+STU20260005,Harsha Naidu,2026-2027,Current,Deep Learning,42,30,71.4
+STU20260005,Harsha Naidu,2026-2027,Current,Data Mining,48,32,66.7
+STU20260006,Sandeep Joshi,2026-2027,Current,Web Technologies,60,60,100.0
+STU20260006,Sandeep Joshi,2026-2027,Current,Database Management Systems,43,34,79.1
+STU20260006,Sandeep Joshi,2026-2027,Current,Computer Networks,30,30,100.0
+STU20260006,Sandeep Joshi,2026-2027,Current,Software Engineering,51,51,100.0
+STU20260006,Sandeep Joshi,2026-2027,Current,Cloud Computing,37,37,100.0
+STU20260007,Varun Iyer,2026-2027,Current,Python Programming,34,19,55.9
+STU20260007,Varun Iyer,2026-2027,Current,Statistics for AI,29,17,58.6
+STU20260007,Varun Iyer,2026-2027,Current,Machine Learning,48,34,70.8
+STU20260007,Varun Iyer,2026-2027,Current,Deep Learning,49,33,67.3
+STU20260007,Varun Iyer,2026-2027,Current,Data Mining,49,28,57.1
+STU20260008,Nandini Joshi,2026-2027,Current,Digital Electronics,44,41,93.2
+STU20260008,Nandini Joshi,2026-2027,Current,Signals and Systems,55,45,81.8
+STU20260008,Nandini Joshi,2026-2027,Current,Embedded Systems,59,59,100.0
+STU20260008,Nandini Joshi,2026-2027,Current,Computer Networks,28,24,85.7
+STU20260008,Nandini Joshi,2026-2027,Current,Microprocessors,56,56,100.0
+STU20260009,Diya Varma,2026-2027,Current,Data Structures,29,22,75.9
+STU20260009,Diya Varma,2026-2027,Current,Database Management Systems,45,36,80.0
+STU20260009,Diya Varma,2026-2027,Current,Operating Systems,46,45,97.8
+STU20260009,Diya Varma,2026-2027,Current,Computer Networks,52,39,75.0
+STU20260009,Diya Varma,2026-2027,Current,Software Engineering,51,43,84.3
+STU20260010,Meera Chowdary,2026-2027,Current,Engineering Mechanics,41,39,95.1
+STU20260010,Meera Chowdary,2026-2027,Current,Thermodynamics,57,54,94.7
+STU20260010,Meera Chowdary,2026-2027,Current,Manufacturing Processes,32,27,84.4
+STU20260010,Meera Chowdary,2026-2027,Current,CAD/CAM,57,57,100.0
+STU20260010,Meera Chowdary,2026-2027,Current,Materials Science,41,35,85.4
+STU20260011,Sandeep Rao,2026-2027,Current,Web Technologies,40,29,72.5
+STU20260011,Sandeep Rao,2026-2027,Current,Database Management Systems,54,50,92.6
+STU20260011,Sandeep Rao,2026-2027,Current,Computer Networks,41,30,73.2
+STU20260011,Sandeep Rao,2026-2027,Current,Software Engineering,46,43,93.5
+STU20260011,Sandeep Rao,2026-2027,Current,Cloud Computing,52,36,69.2
+STU20260012,Ananya Rao,2026-2027,Current,Data Structures,58,49,84.5
+STU20260012,Ananya Rao,2026-2027,Current,Database Management Systems,39,39,100.0
+STU20260012,Ananya Rao,2026-2027,Current,Operating Systems,35,35,100.0
+STU20260012,Ananya Rao,2026-2027,Current,Computer Networks,43,41,95.3
+STU20260012,Ananya Rao,2026-2027,Current,Software Engineering,36,36,100.0
+STU20260013,Nandini Jain,2026-2027,Current,Data Structures,51,28,54.9
+STU20260013,Nandini Jain,2026-2027,Current,Database Management Systems,41,27,65.9
+STU20260013,Nandini Jain,2026-2027,Current,Operating Systems,47,36,76.6
+STU20260013,Nandini Jain,2026-2027,Current,Computer Networks,59,32,54.2
+STU20260013,Nandini Jain,2026-2027,Current,Software Engineering,50,30,60.0
+STU20260014,Meera Goud,2026-2027,Current,Electrical Machines,44,33,75.0
+STU20260014,Meera Goud,2026-2027,Current,Power Systems,35,22,62.9
+STU20260014,Meera Goud,2026-2027,Current,Control Systems,33,22,66.7
+STU20260014,Meera Goud,2026-2027,Current,Circuit Theory,32,25,78.1
+STU20260014,Meera Goud,2026-2027,Current,Programming Fundamentals,46,31,67.4
+STU20260015,Rohan Mishra,2026-2027,Current,Digital Electronics,54,43,79.6
+STU20260015,Rohan Mishra,2026-2027,Current,Signals and Systems,60,40,66.7
+STU20260015,Rohan Mishra,2026-2027,Current,Embedded Systems,58,41,70.7
+STU20260015,Rohan Mishra,2026-2027,Current,Computer Networks,51,32,62.7
+STU20260015,Rohan Mishra,2026-2027,Current,Microprocessors,58,48,82.8
+STU20260016,Madhavi Mishra,2026-2027,Current,Digital Electronics,31,20,64.5
+STU20260016,Madhavi Mishra,2026-2027,Current,Signals and Systems,57,46,80.7
+STU20260016,Madhavi Mishra,2026-2027,Current,Embedded Systems,48,38,79.2
+STU20260016,Madhavi Mishra,2026-2027,Current,Computer Networks,41,35,85.4
+STU20260016,Madhavi Mishra,2026-2027,Current,Microprocessors,38,24,63.2
+STU20260017,Srinivas Kumar,2026-2027,Current,Digital Electronics,45,30,66.7
+STU20260017,Srinivas Kumar,2026-2027,Current,Signals and Systems,52,31,59.6
+STU20260017,Srinivas Kumar,2026-2027,Current,Embedded Systems,58,34,58.6
+STU20260017,Srinivas Kumar,2026-2027,Current,Computer Networks,44,27,61.4
+STU20260017,Srinivas Kumar,2026-2027,Current,Microprocessors,34,24,70.6
+STU20260018,Priya Naidu,2026-2027,Current,Web Technologies,45,27,60.0
+STU20260018,Priya Naidu,2026-2027,Current,Database Management Systems,47,32,68.1
+STU20260018,Priya Naidu,2026-2027,Current,Computer Networks,45,22,48.9
+STU20260018,Priya Naidu,2026-2027,Current,Software Engineering,50,34,68.0
+STU20260018,Priya Naidu,2026-2027,Current,Cloud Computing,59,33,55.9
+STU20260019,Kavya Sahu,2026-2027,Current,Digital Electronics,35,30,85.7
+STU20260019,Kavya Sahu,2026-2027,Current,Signals and Systems,59,59,100.0
+STU20260019,Kavya Sahu,2026-2027,Current,Embedded Systems,57,52,91.2
+STU20260019,Kavya Sahu,2026-2027,Current,Computer Networks,49,49,100.0
+STU20260019,Kavya Sahu,2026-2027,Current,Microprocessors,52,41,78.8
+STU20260020,Teja Prasad,2026-2027,Current,Digital Electronics,59,39,66.1
+STU20260020,Teja Prasad,2026-2027,Current,Signals and Systems,29,22,75.9
+STU20260020,Teja Prasad,2026-2027,Current,Embedded Systems,54,42,77.8
+STU20260020,Teja Prasad,2026-2027,Current,Computer Networks,28,27,96.4
+STU20260020,Teja Prasad,2026-2027,Current,Microprocessors,30,21,70.0
+STU20260021,Vijay Khan,2026-2027,Current,Data Structures,44,43,97.7
+STU20260021,Vijay Khan,2026-2027,Current,Database Management Systems,52,43,82.7
+STU20260021,Vijay Khan,2026-2027,Current,Operating Systems,56,47,83.9
+STU20260021,Vijay Khan,2026-2027,Current,Computer Networks,41,35,85.4
+STU20260021,Vijay Khan,2026-2027,Current,Software Engineering,38,38,100.0
+STU20260022,Vijay Yadav,2026-2027,Current,Data Structures,43,43,100.0
+STU20260022,Vijay Yadav,2026-2027,Current,Database Management Systems,44,41,93.2
+STU20260022,Vijay Yadav,2026-2027,Current,Operating Systems,35,32,91.4
+STU20260022,Vijay Yadav,2026-2027,Current,Computer Networks,55,48,87.3
+STU20260022,Vijay Yadav,2026-2027,Current,Software Engineering,49,48,98.0
+STU20260023,Kavya Goud,2026-2027,Current,Data Structures,42,32,76.2
+STU20260023,Kavya Goud,2026-2027,Current,Database Management Systems,55,30,54.5
+STU20260023,Kavya Goud,2026-2027,Current,Operating Systems,58,37,63.8
+STU20260023,Kavya Goud,2026-2027,Current,Computer Networks,53,41,77.4
+STU20260023,Kavya Goud,2026-2027,Current,Software Engineering,53,32,60.4
+STU20260024,Pranav Yadav,2026-2027,Current,Digital Electronics,37,35,94.6
+STU20260024,Pranav Yadav,2026-2027,Current,Signals and Systems,47,39,83.0
+STU20260024,Pranav Yadav,2026-2027,Current,Embedded Systems,30,30,100.0
+STU20260024,Pranav Yadav,2026-2027,Current,Computer Networks,59,34,57.6
+STU20260024,Pranav Yadav,2026-2027,Current,Microprocessors,57,48,84.2
+STU20260025,Nandini Reddy,2026-2027,Current,Python Programming,47,38,80.9
+STU20260025,Nandini Reddy,2026-2027,Current,Statistics for AI,55,47,85.5
+STU20260025,Nandini Reddy,2026-2027,Current,Machine Learning,28,24,85.7
+STU20260025,Nandini Reddy,2026-2027,Current,Deep Learning,37,30,81.1
+STU20260025,Nandini Reddy,2026-2027,Current,Data Mining,46,42,91.3
+STU20260026,Sanjana Shetty,2026-2027,Current,Electrical Machines,45,34,75.6
+STU20260026,Sanjana Shetty,2026-2027,Current,Power Systems,57,42,73.7
+STU20260026,Sanjana Shetty,2026-2027,Current,Control Systems,42,28,66.7
+STU20260026,Sanjana Shetty,2026-2027,Current,Circuit Theory,35,30,85.7
+STU20260026,Sanjana Shetty,2026-2027,Current,Programming Fundamentals,42,42,100.0
+STU20260027,Manoj Naidu,2026-2027,Current,Electrical Machines,37,19,51.4
+STU20260027,Manoj Naidu,2026-2027,Current,Power Systems,49,29,59.2
+STU20260027,Manoj Naidu,2026-2027,Current,Control Systems,53,38,71.7
+STU20260027,Manoj Naidu,2026-2027,Current,Circuit Theory,56,36,64.3
+STU20260027,Manoj Naidu,2026-2027,Current,Programming Fundamentals,47,38,80.9
+STU20260028,Akshara Devi,2026-2027,Current,Data Structures,48,35,72.9
+STU20260028,Akshara Devi,2026-2027,Current,Database Management Systems,54,33,61.1
+STU20260028,Akshara Devi,2026-2027,Current,Operating Systems,58,29,50.0
+STU20260028,Akshara Devi,2026-2027,Current,Computer Networks,45,27,60.0
+STU20260028,Akshara Devi,2026-2027,Current,Software Engineering,53,31,58.5
+STU20260029,Avani Yadav,2026-2027,Current,Engineering Mechanics,33,27,81.8
+STU20260029,Avani Yadav,2026-2027,Current,Thermodynamics,45,42,93.3
+STU20260029,Avani Yadav,2026-2027,Current,Manufacturing Processes,49,39,79.6
+STU20260029,Avani Yadav,2026-2027,Current,CAD/CAM,59,43,72.9
+STU20260029,Avani Yadav,2026-2027,Current,Materials Science,31,25,80.6
+STU20260030,Srinivas Yadav,2026-2027,Current,Python Programming,42,41,97.6
+STU20260030,Srinivas Yadav,2026-2027,Current,Statistics for AI,58,45,77.6
+STU20260030,Srinivas Yadav,2026-2027,Current,Machine Learning,59,59,100.0
+STU20260030,Srinivas Yadav,2026-2027,Current,Deep Learning,53,39,73.6
+STU20260030,Srinivas Yadav,2026-2027,Current,Data Mining,43,35,81.4
+STU20260031,Sanjana Khan,2026-2027,Current,Data Structures,49,45,91.8
+STU20260031,Sanjana Khan,2026-2027,Current,Database Management Systems,57,47,82.5
+STU20260031,Sanjana Khan,2026-2027,Current,Operating Systems,31,30,96.8
+STU20260031,Sanjana Khan,2026-2027,Current,Computer Networks,28,25,89.3
+STU20260031,Sanjana Khan,2026-2027,Current,Software Engineering,56,56,100.0
+STU20260032,Teja Varma,2026-2027,Current,Digital Electronics,54,42,77.8
+STU20260032,Teja Varma,2026-2027,Current,Signals and Systems,60,34,56.7
+STU20260032,Teja Varma,2026-2027,Current,Embedded Systems,34,30,88.2
+STU20260032,Teja Varma,2026-2027,Current,Computer Networks,53,41,77.4
+STU20260032,Teja Varma,2026-2027,Current,Microprocessors,32,29,90.6
+STU20260033,Harsha Yadav,2026-2027,Current,Web Technologies,60,60,100.0
+STU20260033,Harsha Yadav,2026-2027,Current,Database Management Systems,53,39,73.6
+STU20260033,Harsha Yadav,2026-2027,Current,Computer Networks,46,39,84.8
+STU20260033,Harsha Yadav,2026-2027,Current,Software Engineering,39,33,84.6
+STU20260033,Harsha Yadav,2026-2027,Current,Cloud Computing,31,26,83.9
+STU20260034,Mohan Das,2026-2027,Current,Python Programming,36,25,69.4
+STU20260034,Mohan Das,2026-2027,Current,Statistics for AI,35,24,68.6
+STU20260034,Mohan Das,2026-2027,Current,Machine Learning,53,32,60.4
+STU20260034,Mohan Das,2026-2027,Current,Deep Learning,55,40,72.7
+STU20260034,Mohan Das,2026-2027,Current,Data Mining,51,36,70.6
+STU20260035,Arjun Mohanty,2026-2027,Current,Data Structures,38,30,78.9
+STU20260035,Arjun Mohanty,2026-2027,Current,Database Management Systems,41,30,73.2
+STU20260035,Arjun Mohanty,2026-2027,Current,Operating Systems,38,33,86.8
+STU20260035,Arjun Mohanty,2026-2027,Current,Computer Networks,37,31,83.8
+STU20260035,Arjun Mohanty,2026-2027,Current,Software Engineering,52,39,75.0
+STU20260036,Manoj Goud,2026-2027,Current,Web Technologies,47,39,83.0
+STU20260036,Manoj Goud,2026-2027,Current,Database Management Systems,44,44,100.0
+STU20260036,Manoj Goud,2026-2027,Current,Computer Networks,44,44,100.0
+STU20260036,Manoj Goud,2026-2027,Current,Software Engineering,29,18,62.1
+STU20260036,Manoj Goud,2026-2027,Current,Cloud Computing,44,39,88.6
+STU20260037,Ananya Reddy,2026-2027,Current,Digital Electronics,42,29,69.0
+STU20260037,Ananya Reddy,2026-2027,Current,Signals and Systems,52,33,63.5
+STU20260037,Ananya Reddy,2026-2027,Current,Embedded Systems,55,32,58.2
+STU20260037,Ananya Reddy,2026-2027,Current,Computer Networks,42,16,38.1
+STU20260037,Ananya Reddy,2026-2027,Current,Microprocessors,32,20,62.5
+STU20260038,Anil Patel,2026-2027,Current,Python Programming,59,50,84.7
+STU20260038,Anil Patel,2026-2027,Current,Statistics for AI,48,48,100.0
+STU20260038,Anil Patel,2026-2027,Current,Machine Learning,58,58,100.0
+STU20260038,Anil Patel,2026-2027,Current,Deep Learning,29,27,93.1
+STU20260038,Anil Patel,2026-2027,Current,Data Mining,58,58,100.0
+STU20260039,Abhinav Jain,2026-2027,Current,Engineering Mechanics,38,38,100.0
+STU20260039,Abhinav Jain,2026-2027,Current,Thermodynamics,59,49,83.1
+STU20260039,Abhinav Jain,2026-2027,Current,Manufacturing Processes,33,32,97.0
+STU20260039,Abhinav Jain,2026-2027,Current,CAD/CAM,30,29,96.7
+STU20260039,Abhinav Jain,2026-2027,Current,Materials Science,60,55,91.7
+STU20260040,Chaitanya Kumar,2026-2027,Current,Engineering Mechanics,28,14,50.0
+STU20260040,Chaitanya Kumar,2026-2027,Current,Thermodynamics,49,25,51.0
+STU20260040,Chaitanya Kumar,2026-2027,Current,Manufacturing Processes,60,22,36.7
+STU20260040,Chaitanya Kumar,2026-2027,Current,CAD/CAM,41,16,39.0
+STU20260040,Chaitanya Kumar,2026-2027,Current,Materials Science,57,23,40.4
+STU20260041,Kavya Patel,2026-2027,Current,Electrical Machines,39,25,64.1
+STU20260041,Kavya Patel,2026-2027,Current,Power Systems,32,22,68.8
+STU20260041,Kavya Patel,2026-2027,Current,Control Systems,56,52,92.9
+STU20260041,Kavya Patel,2026-2027,Current,Circuit Theory,35,29,82.9
+STU20260041,Kavya Patel,2026-2027,Current,Programming Fundamentals,48,32,66.7
+STU20260042,Varun Jain,2026-2027,Current,Digital Electronics,28,28,100.0
+STU20260042,Varun Jain,2026-2027,Current,Signals and Systems,51,51,100.0
+STU20260042,Varun Jain,2026-2027,Current,Embedded Systems,41,33,80.5
+STU20260042,Varun Jain,2026-2027,Current,Computer Networks,58,52,89.7
+STU20260042,Varun Jain,2026-2027,Current,Microprocessors,31,31,100.0
+STU20260043,Sneha Goud,2026-2027,Current,Structural Analysis,33,26,78.8
+STU20260043,Sneha Goud,2026-2027,Current,Surveying,34,24,70.6
+STU20260043,Sneha Goud,2026-2027,Current,Geotechnical Engineering,30,23,76.7
+STU20260043,Sneha Goud,2026-2027,Current,Transportation Engineering,54,37,68.5
+STU20260043,Sneha Goud,2026-2027,Current,Environmental Engineering,40,26,65.0
+STU20260044,Anil Mohanty,2026-2027,Current,Electrical Machines,58,26,44.8
+STU20260044,Anil Mohanty,2026-2027,Current,Power Systems,59,33,55.9
+STU20260044,Anil Mohanty,2026-2027,Current,Control Systems,30,10,33.3
+STU20260044,Anil Mohanty,2026-2027,Current,Circuit Theory,31,11,35.5
+STU20260044,Anil Mohanty,2026-2027,Current,Programming Fundamentals,33,14,42.4
+STU20260045,Aditya Iyer,2026-2027,Current,Data Structures,46,33,71.7
+STU20260045,Aditya Iyer,2026-2027,Current,Database Management Systems,29,18,62.1
+STU20260045,Aditya Iyer,2026-2027,Current,Operating Systems,32,17,53.1
+STU20260045,Aditya Iyer,2026-2027,Current,Computer Networks,42,29,69.0
+STU20260045,Aditya Iyer,2026-2027,Current,Software Engineering,50,42,84.0
+STU20260046,Kiran Mishra,2026-2027,Current,Structural Analysis,47,31,66.0
+STU20260046,Kiran Mishra,2026-2027,Current,Surveying,42,33,78.6
+STU20260046,Kiran Mishra,2026-2027,Current,Geotechnical Engineering,42,34,81.0
+STU20260046,Kiran Mishra,2026-2027,Current,Transportation Engineering,39,27,69.2
+STU20260046,Kiran Mishra,2026-2027,Current,Environmental Engineering,54,37,68.5
+STU20260047,Tarun Shetty,2026-2027,Current,Digital Electronics,37,24,64.9
+STU20260047,Tarun Shetty,2026-2027,Current,Signals and Systems,57,36,63.2
+STU20260047,Tarun Shetty,2026-2027,Current,Embedded Systems,46,26,56.5
+STU20260047,Tarun Shetty,2026-2027,Current,Computer Networks,59,36,61.0
+STU20260047,Tarun Shetty,2026-2027,Current,Microprocessors,38,24,63.2
+STU20260048,Dev Khan,2026-2027,Current,Engineering Mechanics,35,21,60.0
+STU20260048,Dev Khan,2026-2027,Current,Thermodynamics,37,26,70.3
+STU20260048,Dev Khan,2026-2027,Current,Manufacturing Processes,51,41,80.4
+STU20260048,Dev Khan,2026-2027,Current,CAD/CAM,33,26,78.8
+STU20260048,Dev Khan,2026-2027,Current,Materials Science,60,40,66.7
+STU20260049,Krishna Reddy,2026-2027,Current,Web Technologies,40,31,77.5
+STU20260049,Krishna Reddy,2026-2027,Current,Database Management Systems,33,33,100.0
+STU20260049,Krishna Reddy,2026-2027,Current,Computer Networks,55,53,96.4
+STU20260049,Krishna Reddy,2026-2027,Current,Software Engineering,50,46,92.0
+STU20260049,Krishna Reddy,2026-2027,Current,Cloud Computing,54,48,88.9
+STU20260050,Aadhya Jain,2026-2027,Current,Python Programming,46,33,71.7
+STU20260050,Aadhya Jain,2026-2027,Current,Statistics for AI,59,36,61.0
+STU20260050,Aadhya Jain,2026-2027,Current,Machine Learning,43,31,72.1
+STU20260050,Aadhya Jain,2026-2027,Current,Deep Learning,54,38,70.4
+STU20260050,Aadhya Jain,2026-2027,Current,Data Mining,38,27,71.1
+STU20260051,Teja Pillai,2026-2027,Current,Web Technologies,32,32,100.0
+STU20260051,Teja Pillai,2026-2027,Current,Database Management Systems,34,33,97.1
+STU20260051,Teja Pillai,2026-2027,Current,Computer Networks,56,54,96.4
+STU20260051,Teja Pillai,2026-2027,Current,Software Engineering,60,60,100.0
+STU20260051,Teja Pillai,2026-2027,Current,Cloud Computing,42,38,90.5
+STU20260052,Siddharth Sharma,2026-2027,Current,Data Structures,41,41,100.0
+STU20260052,Siddharth Sharma,2026-2027,Current,Database Management Systems,40,40,100.0
+STU20260052,Siddharth Sharma,2026-2027,Current,Operating Systems,56,56,100.0
+STU20260052,Siddharth Sharma,2026-2027,Current,Computer Networks,56,55,98.2
+STU20260052,Siddharth Sharma,2026-2027,Current,Software Engineering,45,45,100.0
+STU20260053,Dev Patel,2026-2027,Current,Python Programming,31,22,71.0
+STU20260053,Dev Patel,2026-2027,Current,Statistics for AI,32,24,75.0
+STU20260053,Dev Patel,2026-2027,Current,Machine Learning,29,21,72.4
+STU20260053,Dev Patel,2026-2027,Current,Deep Learning,34,28,82.4
+STU20260053,Dev Patel,2026-2027,Current,Data Mining,35,25,71.4
+STU20260054,Aarav Naidu,2026-2027,Current,Digital Electronics,43,34,79.1
+STU20260054,Aarav Naidu,2026-2027,Current,Signals and Systems,39,35,89.7
+STU20260054,Aarav Naidu,2026-2027,Current,Embedded Systems,52,35,67.3
+STU20260054,Aarav Naidu,2026-2027,Current,Computer Networks,46,26,56.5
+STU20260054,Aarav Naidu,2026-2027,Current,Microprocessors,54,28,51.9
+STU20260055,Tarun Jain,2026-2027,Current,Python Programming,54,31,57.4
+STU20260055,Tarun Jain,2026-2027,Current,Statistics for AI,36,24,66.7
+STU20260055,Tarun Jain,2026-2027,Current,Machine Learning,54,36,66.7
+STU20260055,Tarun Jain,2026-2027,Current,Deep Learning,59,36,61.0
+STU20260055,Tarun Jain,2026-2027,Current,Data Mining,44,30,68.2
+STU20260056,Divya Kashyap,2026-2027,Current,Data Structures,37,20,54.1
+STU20260056,Divya Kashyap,2026-2027,Current,Database Management Systems,33,24,72.7
+STU20260056,Divya Kashyap,2026-2027,Current,Operating Systems,53,31,58.5
+STU20260056,Divya Kashyap,2026-2027,Current,Computer Networks,37,23,62.2
+STU20260056,Divya Kashyap,2026-2027,Current,Software Engineering,58,31,53.4
+STU20260057,Sandeep Verma,2026-2027,Current,Data Structures,54,44,81.5
+STU20260057,Sandeep Verma,2026-2027,Current,Database Management Systems,50,35,70.0
+STU20260057,Sandeep Verma,2026-2027,Current,Operating Systems,34,30,88.2
+STU20260057,Sandeep Verma,2026-2027,Current,Computer Networks,46,40,87.0
+STU20260057,Sandeep Verma,2026-2027,Current,Software Engineering,55,38,69.1
+STU20260058,Vijay Khan,2026-2027,Current,Python Programming,36,25,69.4
+STU20260058,Vijay Khan,2026-2027,Current,Statistics for AI,31,23,74.2
+STU20260058,Vijay Khan,2026-2027,Current,Machine Learning,36,25,69.4
+STU20260058,Vijay Khan,2026-2027,Current,Deep Learning,49,28,57.1
+STU20260058,Vijay Khan,2026-2027,Current,Data Mining,57,53,93.0
+STU20260059,Sai Sahu,2026-2027,Current,Python Programming,44,27,61.4
+STU20260059,Sai Sahu,2026-2027,Current,Statistics for AI,55,45,81.8
+STU20260059,Sai Sahu,2026-2027,Current,Machine Learning,38,25,65.8
+STU20260059,Sai Sahu,2026-2027,Current,Deep Learning,60,40,66.7
+STU20260059,Sai Sahu,2026-2027,Current,Data Mining,51,33,64.7
+STU20260060,Kiran Joshi,2026-2027,Current,Web Technologies,30,25,83.3
+STU20260060,Kiran Joshi,2026-2027,Current,Database Management Systems,29,29,100.0
+STU20260060,Kiran Joshi,2026-2027,Current,Computer Networks,54,52,96.3
+STU20260060,Kiran Joshi,2026-2027,Current,Software Engineering,35,30,85.7
+STU20260060,Kiran Joshi,2026-2027,Current,Cloud Computing,28,26,92.9
+STU20260061,Riya Iyer,2026-2027,Current,Data Structures,44,31,70.5
+STU20260061,Riya Iyer,2026-2027,Current,Database Management Systems,50,26,52.0
+STU20260061,Riya Iyer,2026-2027,Current,Operating Systems,44,18,40.9
+STU20260061,Riya Iyer,2026-2027,Current,Computer Networks,53,31,58.5
+STU20260061,Riya Iyer,2026-2027,Current,Software Engineering,57,25,43.9
+STU20260062,Charan Devi,2026-2027,Current,Data Structures,37,34,91.9
+STU20260062,Charan Devi,2026-2027,Current,Database Management Systems,40,33,82.5
+STU20260062,Charan Devi,2026-2027,Current,Operating Systems,37,33,89.2
+STU20260062,Charan Devi,2026-2027,Current,Computer Networks,54,45,83.3
+STU20260062,Charan Devi,2026-2027,Current,Software Engineering,38,36,94.7
+STU20260063,Sneha Shetty,2026-2027,Current,Web Technologies,60,37,61.7
+STU20260063,Sneha Shetty,2026-2027,Current,Database Management Systems,34,25,73.5
+STU20260063,Sneha Shetty,2026-2027,Current,Computer Networks,38,18,47.4
+STU20260063,Sneha Shetty,2026-2027,Current,Software Engineering,43,27,62.8
+STU20260063,Sneha Shetty,2026-2027,Current,Cloud Computing,37,20,54.1
+STU20260064,Divya Babu,2026-2027,Current,Digital Electronics,28,24,85.7
+STU20260064,Divya Babu,2026-2027,Current,Signals and Systems,36,26,72.2
+STU20260064,Divya Babu,2026-2027,Current,Embedded Systems,57,49,86.0
+STU20260064,Divya Babu,2026-2027,Current,Computer Networks,59,45,76.3
+STU20260064,Divya Babu,2026-2027,Current,Microprocessors,51,50,98.0
+STU20260065,Akshara Devi,2026-2027,Current,Digital Electronics,60,58,96.7
+STU20260065,Akshara Devi,2026-2027,Current,Signals and Systems,51,40,78.4
+STU20260065,Akshara Devi,2026-2027,Current,Embedded Systems,45,35,77.8
+STU20260065,Akshara Devi,2026-2027,Current,Computer Networks,29,24,82.8
+STU20260065,Akshara Devi,2026-2027,Current,Microprocessors,52,35,67.3
+STU20260066,Pranav Devi,2026-2027,Current,Python Programming,36,36,100.0
+STU20260066,Pranav Devi,2026-2027,Current,Statistics for AI,32,28,87.5
+STU20260066,Pranav Devi,2026-2027,Current,Machine Learning,33,27,81.8
+STU20260066,Pranav Devi,2026-2027,Current,Deep Learning,58,55,94.8
+STU20260066,Pranav Devi,2026-2027,Current,Data Mining,43,43,100.0
+STU20260067,Gowtham Kashyap,2026-2027,Current,Web Technologies,47,35,74.5
+STU20260067,Gowtham Kashyap,2026-2027,Current,Database Management Systems,45,32,71.1
+STU20260067,Gowtham Kashyap,2026-2027,Current,Computer Networks,53,35,66.0
+STU20260067,Gowtham Kashyap,2026-2027,Current,Software Engineering,47,33,70.2
+STU20260067,Gowtham Kashyap,2026-2027,Current,Cloud Computing,37,25,67.6
+STU20260068,Ananya Chowdary,2026-2027,Current,Electrical Machines,29,23,79.3
+STU20260068,Ananya Chowdary,2026-2027,Current,Power Systems,34,30,88.2
+STU20260068,Ananya Chowdary,2026-2027,Current,Control Systems,57,44,77.2
+STU20260068,Ananya Chowdary,2026-2027,Current,Circuit Theory,54,37,68.5
+STU20260068,Ananya Chowdary,2026-2027,Current,Programming Fundamentals,51,49,96.1
+STU20260069,Pranav Joshi,2026-2027,Current,Python Programming,31,24,77.4
+STU20260069,Pranav Joshi,2026-2027,Current,Statistics for AI,43,27,62.8
+STU20260069,Pranav Joshi,2026-2027,Current,Machine Learning,60,39,65.0
+STU20260069,Pranav Joshi,2026-2027,Current,Deep Learning,60,50,83.3
+STU20260069,Pranav Joshi,2026-2027,Current,Data Mining,54,39,72.2
+STU20260070,Sandeep Singh,2026-2027,Current,Engineering Mechanics,38,27,71.1
+STU20260070,Sandeep Singh,2026-2027,Current,Thermodynamics,28,15,53.6
+STU20260070,Sandeep Singh,2026-2027,Current,Manufacturing Processes,49,37,75.5
+STU20260070,Sandeep Singh,2026-2027,Current,CAD/CAM,36,26,72.2
+STU20260070,Sandeep Singh,2026-2027,Current,Materials Science,40,27,67.5
+STU20260071,Akshara Singh,2026-2027,Current,Electrical Machines,31,27,87.1
+STU20260071,Akshara Singh,2026-2027,Current,Power Systems,30,17,56.7
+STU20260071,Akshara Singh,2026-2027,Current,Control Systems,31,22,71.0
+STU20260071,Akshara Singh,2026-2027,Current,Circuit Theory,44,25,56.8
+STU20260071,Akshara Singh,2026-2027,Current,Programming Fundamentals,56,42,75.0
+STU20260072,Anil Devi,2026-2027,Current,Python Programming,40,23,57.5
+STU20260072,Anil Devi,2026-2027,Current,Statistics for AI,40,36,90.0
+STU20260072,Anil Devi,2026-2027,Current,Machine Learning,41,22,53.7
+STU20260072,Anil Devi,2026-2027,Current,Deep Learning,49,34,69.4
+STU20260072,Anil Devi,2026-2027,Current,Data Mining,46,41,89.1
+STU20260073,Sneha Prasad,2026-2027,Current,Electrical Machines,55,47,85.5
+STU20260073,Sneha Prasad,2026-2027,Current,Power Systems,57,44,77.2
+STU20260073,Sneha Prasad,2026-2027,Current,Control Systems,49,34,69.4
+STU20260073,Sneha Prasad,2026-2027,Current,Circuit Theory,37,31,83.8
+STU20260073,Sneha Prasad,2026-2027,Current,Programming Fundamentals,48,33,68.8
+STU20260074,Nikhil Jain,2026-2027,Current,Digital Electronics,50,39,78.0
+STU20260074,Nikhil Jain,2026-2027,Current,Signals and Systems,43,28,65.1
+STU20260074,Nikhil Jain,2026-2027,Current,Embedded Systems,32,27,84.4
+STU20260074,Nikhil Jain,2026-2027,Current,Computer Networks,35,27,77.1
+STU20260074,Nikhil Jain,2026-2027,Current,Microprocessors,28,21,75.0
+STU20260075,Harsha Joshi,2026-2027,Current,Digital Electronics,36,30,83.3
+STU20260075,Harsha Joshi,2026-2027,Current,Signals and Systems,58,48,82.8
+STU20260075,Harsha Joshi,2026-2027,Current,Embedded Systems,47,45,95.7
+STU20260075,Harsha Joshi,2026-2027,Current,Computer Networks,52,38,73.1
+STU20260075,Harsha Joshi,2026-2027,Current,Microprocessors,37,29,78.4
+STU20260076,Aadhya Babu,2026-2027,Current,Python Programming,32,28,87.5
+STU20260076,Aadhya Babu,2026-2027,Current,Statistics for AI,33,25,75.8
+STU20260076,Aadhya Babu,2026-2027,Current,Machine Learning,59,56,94.9
+STU20260076,Aadhya Babu,2026-2027,Current,Deep Learning,33,23,69.7
+STU20260076,Aadhya Babu,2026-2027,Current,Data Mining,55,45,81.8
+STU20260077,Srinivas Goud,2026-2027,Current,Python Programming,60,57,95.0
+STU20260077,Srinivas Goud,2026-2027,Current,Statistics for AI,37,34,91.9
+STU20260077,Srinivas Goud,2026-2027,Current,Machine Learning,57,53,93.0
+STU20260077,Srinivas Goud,2026-2027,Current,Deep Learning,55,51,92.7
+STU20260077,Srinivas Goud,2026-2027,Current,Data Mining,56,40,71.4
+STU20260078,Gowtham Pillai,2026-2027,Current,Python Programming,46,36,78.3
+STU20260078,Gowtham Pillai,2026-2027,Current,Statistics for AI,55,52,94.5
+STU20260078,Gowtham Pillai,2026-2027,Current,Machine Learning,55,49,89.1
+STU20260078,Gowtham Pillai,2026-2027,Current,Deep Learning,39,33,84.6
+STU20260078,Gowtham Pillai,2026-2027,Current,Data Mining,57,45,78.9
+STU20260079,Avani Singh,2026-2027,Current,Digital Electronics,59,55,93.2
+STU20260079,Avani Singh,2026-2027,Current,Signals and Systems,48,34,70.8
+STU20260079,Avani Singh,2026-2027,Current,Embedded Systems,38,38,100.0
+STU20260079,Avani Singh,2026-2027,Current,Computer Networks,29,21,72.4
+STU20260079,Avani Singh,2026-2027,Current,Microprocessors,57,45,78.9
+STU20260080,Srinivas Verma,2026-2027,Current,Data Structures,36,31,86.1
+STU20260080,Srinivas Verma,2026-2027,Current,Database Management Systems,52,44,84.6
+STU20260080,Srinivas Verma,2026-2027,Current,Operating Systems,43,36,83.7
+STU20260080,Srinivas Verma,2026-2027,Current,Computer Networks,51,39,76.5
+STU20260080,Srinivas Verma,2026-2027,Current,Software Engineering,31,22,71.0
+STU20260081,Naveen Gupta,2026-2027,Current,Python Programming,42,31,73.8
+STU20260081,Naveen Gupta,2026-2027,Current,Statistics for AI,33,28,84.8
+STU20260081,Naveen Gupta,2026-2027,Current,Machine Learning,29,25,86.2
+STU20260081,Naveen Gupta,2026-2027,Current,Deep Learning,49,49,100.0
+STU20260081,Naveen Gupta,2026-2027,Current,Data Mining,33,32,97.0
+STU20260082,Teja Kumar,2026-2027,Current,Python Programming,49,39,79.6
+STU20260082,Teja Kumar,2026-2027,Current,Statistics for AI,33,32,97.0
+STU20260082,Teja Kumar,2026-2027,Current,Machine Learning,36,31,86.1
+STU20260082,Teja Kumar,2026-2027,Current,Deep Learning,36,27,75.0
+STU20260082,Teja Kumar,2026-2027,Current,Data Mining,28,28,100.0
+STU20260083,Krishna Raju,2026-2027,Current,Web Technologies,34,28,82.4
+STU20260083,Krishna Raju,2026-2027,Current,Database Management Systems,50,38,76.0
+STU20260083,Krishna Raju,2026-2027,Current,Computer Networks,37,28,75.7
+STU20260083,Krishna Raju,2026-2027,Current,Software Engineering,38,26,68.4
+STU20260083,Krishna Raju,2026-2027,Current,Cloud Computing,32,28,87.5
+STU20260084,Yamini Sharma,2026-2027,Current,Engineering Mechanics,29,29,100.0
+STU20260084,Yamini Sharma,2026-2027,Current,Thermodynamics,47,42,89.4
+STU20260084,Yamini Sharma,2026-2027,Current,Manufacturing Processes,59,59,100.0
+STU20260084,Yamini Sharma,2026-2027,Current,CAD/CAM,46,46,100.0
+STU20260084,Yamini Sharma,2026-2027,Current,Materials Science,50,50,100.0
+STU20260085,Aadhya Iyer,2026-2027,Current,Python Programming,38,30,78.9
+STU20260085,Aadhya Iyer,2026-2027,Current,Statistics for AI,28,14,50.0
+STU20260085,Aadhya Iyer,2026-2027,Current,Machine Learning,54,42,77.8
+STU20260085,Aadhya Iyer,2026-2027,Current,Deep Learning,54,48,88.9
+STU20260085,Aadhya Iyer,2026-2027,Current,Data Mining,45,37,82.2
+STU20260086,Madhavi Patel,2026-2027,Current,Web Technologies,47,47,100.0
+STU20260086,Madhavi Patel,2026-2027,Current,Database Management Systems,34,30,88.2
+STU20260086,Madhavi Patel,2026-2027,Current,Computer Networks,50,40,80.0
+STU20260086,Madhavi Patel,2026-2027,Current,Software Engineering,39,37,94.9
+STU20260086,Madhavi Patel,2026-2027,Current,Cloud Computing,29,26,89.7
+STU20260087,Varun Das,2026-2027,Current,Engineering Mechanics,57,33,57.9
+STU20260087,Varun Das,2026-2027,Current,Thermodynamics,55,30,54.5
+STU20260087,Varun Das,2026-2027,Current,Manufacturing Processes,39,25,64.1
+STU20260087,Varun Das,2026-2027,Current,CAD/CAM,28,18,64.3
+STU20260087,Varun Das,2026-2027,Current,Materials Science,59,29,49.2
+STU20260088,Aadhya Reddy,2026-2027,Current,Structural Analysis,35,24,68.6
+STU20260088,Aadhya Reddy,2026-2027,Current,Surveying,49,29,59.2
+STU20260088,Aadhya Reddy,2026-2027,Current,Geotechnical Engineering,50,28,56.0
+STU20260088,Aadhya Reddy,2026-2027,Current,Transportation Engineering,35,26,74.3
+STU20260088,Aadhya Reddy,2026-2027,Current,Environmental Engineering,59,40,67.8
+STU20260089,Priya Reddy,2026-2027,Current,Python Programming,49,32,65.3
+STU20260089,Priya Reddy,2026-2027,Current,Statistics for AI,49,39,79.6
+STU20260089,Priya Reddy,2026-2027,Current,Machine Learning,37,29,78.4
+STU20260089,Priya Reddy,2026-2027,Current,Deep Learning,55,44,80.0
+STU20260089,Priya Reddy,2026-2027,Current,Data Mining,52,38,73.1
+STU20260090,Lakshmi Verma,2026-2027,Current,Engineering Mechanics,44,33,75.0
+STU20260090,Lakshmi Verma,2026-2027,Current,Thermodynamics,30,23,76.7
+STU20260090,Lakshmi Verma,2026-2027,Current,Manufacturing Processes,29,20,69.0
+STU20260090,Lakshmi Verma,2026-2027,Current,CAD/CAM,29,22,75.9
+STU20260090,Lakshmi Verma,2026-2027,Current,Materials Science,55,38,69.1
+STU20260091,Teja Murthy,2026-2027,Current,Python Programming,40,33,82.5
+STU20260091,Teja Murthy,2026-2027,Current,Statistics for AI,58,33,56.9
+STU20260091,Teja Murthy,2026-2027,Current,Machine Learning,29,17,58.6
+STU20260091,Teja Murthy,2026-2027,Current,Deep Learning,33,22,66.7
+STU20260091,Teja Murthy,2026-2027,Current,Data Mining,30,21,70.0
+STU20260092,Keerthi Rao,2026-2027,Current,Structural Analysis,37,29,78.4
+STU20260092,Keerthi Rao,2026-2027,Current,Surveying,44,31,70.5
+STU20260092,Keerthi Rao,2026-2027,Current,Geotechnical Engineering,30,27,90.0
+STU20260092,Keerthi Rao,2026-2027,Current,Transportation Engineering,54,28,51.9
+STU20260092,Keerthi Rao,2026-2027,Current,Environmental Engineering,47,34,72.3
+STU20260093,Yamini Kashyap,2026-2027,Current,Digital Electronics,43,35,81.4
+STU20260093,Yamini Kashyap,2026-2027,Current,Signals and Systems,58,38,65.5
+STU20260093,Yamini Kashyap,2026-2027,Current,Embedded Systems,46,38,82.6
+STU20260093,Yamini Kashyap,2026-2027,Current,Computer Networks,48,32,66.7
+STU20260093,Yamini Kashyap,2026-2027,Current,Microprocessors,49,36,73.5
+STU20260094,Madhavi Devi,2026-2027,Current,Python Programming,44,38,86.4
+STU20260094,Madhavi Devi,2026-2027,Current,Statistics for AI,37,36,97.3
+STU20260094,Madhavi Devi,2026-2027,Current,Machine Learning,31,30,96.8
+STU20260094,Madhavi Devi,2026-2027,Current,Deep Learning,32,32,100.0
+STU20260094,Madhavi Devi,2026-2027,Current,Data Mining,34,34,100.0
+STU20260095,Madhavi Sharma,2026-2027,Current,Data Structures,34,15,44.1
+STU20260095,Madhavi Sharma,2026-2027,Current,Database Management Systems,31,20,64.5
+STU20260095,Madhavi Sharma,2026-2027,Current,Operating Systems,43,19,44.2
+STU20260095,Madhavi Sharma,2026-2027,Current,Computer Networks,49,20,40.8
+STU20260095,Madhavi Sharma,2026-2027,Current,Software Engineering,56,42,75.0
+STU20260096,Aditya Shetty,2026-2027,Current,Data Structures,31,23,74.2
+STU20260096,Aditya Shetty,2026-2027,Current,Database Management Systems,50,44,88.0
+STU20260096,Aditya Shetty,2026-2027,Current,Operating Systems,35,26,74.3
+STU20260096,Aditya Shetty,2026-2027,Current,Computer Networks,42,42,100.0
+STU20260096,Aditya Shetty,2026-2027,Current,Software Engineering,55,43,78.2
+STU20260097,Ananya Verma,2026-2027,Current,Python Programming,47,36,76.6
+STU20260097,Ananya Verma,2026-2027,Current,Statistics for AI,52,36,69.2
+STU20260097,Ananya Verma,2026-2027,Current,Machine Learning,52,37,71.2
+STU20260097,Ananya Verma,2026-2027,Current,Deep Learning,54,39,72.2
+STU20260097,Ananya Verma,2026-2027,Current,Data Mining,31,28,90.3
+STU20260098,Aarav Khan,2026-2027,Current,Web Technologies,31,21,67.7
+STU20260098,Aarav Khan,2026-2027,Current,Database Management Systems,47,36,76.6
+STU20260098,Aarav Khan,2026-2027,Current,Computer Networks,57,43,75.4
+STU20260098,Aarav Khan,2026-2027,Current,Software Engineering,53,35,66.0
+STU20260098,Aarav Khan,2026-2027,Current,Cloud Computing,51,39,76.5
+STU20260099,Pooja Goud,2026-2027,Current,Python Programming,32,20,62.5
+STU20260099,Pooja Goud,2026-2027,Current,Statistics for AI,32,23,71.9
+STU20260099,Pooja Goud,2026-2027,Current,Machine Learning,34,24,70.6
+STU20260099,Pooja Goud,2026-2027,Current,Deep Learning,49,40,81.6
+STU20260099,Pooja Goud,2026-2027,Current,Data Mining,60,50,83.3
+STU20260100,Pooja Sharma,2026-2027,Current,Digital Electronics,48,27,56.2
+STU20260100,Pooja Sharma,2026-2027,Current,Signals and Systems,53,46,86.8
+STU20260100,Pooja Sharma,2026-2027,Current,Embedded Systems,33,23,69.7
+STU20260100,Pooja Sharma,2026-2027,Current,Computer Networks,28,17,60.7
+STU20260100,Pooja Sharma,2026-2027,Current,Microprocessors,59,38,64.4
+STU20260101,Riya Rao,2026-2027,Current,Python Programming,36,25,69.4
+STU20260101,Riya Rao,2026-2027,Current,Statistics for AI,30,23,76.7
+STU20260101,Riya Rao,2026-2027,Current,Machine Learning,45,24,53.3
+STU20260101,Riya Rao,2026-2027,Current,Deep Learning,58,40,69.0
+STU20260101,Riya Rao,2026-2027,Current,Data Mining,44,31,70.5
+STU20260102,Akshara Joshi,2026-2027,Current,Web Technologies,37,26,70.3
+STU20260102,Akshara Joshi,2026-2027,Current,Database Management Systems,58,47,81.0
+STU20260102,Akshara Joshi,2026-2027,Current,Computer Networks,49,24,49.0
+STU20260102,Akshara Joshi,2026-2027,Current,Software Engineering,47,39,83.0
+STU20260102,Akshara Joshi,2026-2027,Current,Cloud Computing,48,37,77.1
+STU20260103,Sai Gupta,2026-2027,Current,Web Technologies,37,32,86.5
+STU20260103,Sai Gupta,2026-2027,Current,Database Management Systems,40,34,85.0
+STU20260103,Sai Gupta,2026-2027,Current,Computer Networks,51,45,88.2
+STU20260103,Sai Gupta,2026-2027,Current,Software Engineering,35,30,85.7
+STU20260103,Sai Gupta,2026-2027,Current,Cloud Computing,46,46,100.0
+STU20260104,Kiran Rao,2026-2027,Current,Web Technologies,29,24,82.8
+STU20260104,Kiran Rao,2026-2027,Current,Database Management Systems,46,39,84.8
+STU20260104,Kiran Rao,2026-2027,Current,Computer Networks,57,36,63.2
+STU20260104,Kiran Rao,2026-2027,Current,Software Engineering,47,44,93.6
+STU20260104,Kiran Rao,2026-2027,Current,Cloud Computing,53,45,84.9
+STU20260105,Madhavi Khan,2026-2027,Current,Electrical Machines,28,23,82.1
+STU20260105,Madhavi Khan,2026-2027,Current,Power Systems,51,47,92.2
+STU20260105,Madhavi Khan,2026-2027,Current,Control Systems,57,38,66.7
+STU20260105,Madhavi Khan,2026-2027,Current,Circuit Theory,52,46,88.5
+STU20260105,Madhavi Khan,2026-2027,Current,Programming Fundamentals,38,28,73.7
+STU20260106,Kavya Das,2026-2027,Current,Python Programming,47,31,66.0
+STU20260106,Kavya Das,2026-2027,Current,Statistics for AI,44,34,77.3
+STU20260106,Kavya Das,2026-2027,Current,Machine Learning,41,32,78.0
+STU20260106,Kavya Das,2026-2027,Current,Deep Learning,42,27,64.3
+STU20260106,Kavya Das,2026-2027,Current,Data Mining,31,24,77.4
+STU20260107,Akshara Sharma,2026-2027,Current,Electrical Machines,44,31,70.5
+STU20260107,Akshara Sharma,2026-2027,Current,Power Systems,55,51,92.7
+STU20260107,Akshara Sharma,2026-2027,Current,Control Systems,57,40,70.2
+STU20260107,Akshara Sharma,2026-2027,Current,Circuit Theory,30,24,80.0
+STU20260107,Akshara Sharma,2026-2027,Current,Programming Fundamentals,28,16,57.1
+STU20260108,Krishna Raju,2026-2027,Current,Web Technologies,52,38,73.1
+STU20260108,Krishna Raju,2026-2027,Current,Database Management Systems,50,40,80.0
+STU20260108,Krishna Raju,2026-2027,Current,Computer Networks,31,26,83.9
+STU20260108,Krishna Raju,2026-2027,Current,Software Engineering,39,39,100.0
+STU20260108,Krishna Raju,2026-2027,Current,Cloud Computing,56,50,89.3
+STU20260109,Sneha Singh,2026-2027,Current,Structural Analysis,44,35,79.5
+STU20260109,Sneha Singh,2026-2027,Current,Surveying,45,36,80.0
+STU20260109,Sneha Singh,2026-2027,Current,Geotechnical Engineering,45,28,62.2
+STU20260109,Sneha Singh,2026-2027,Current,Transportation Engineering,46,32,69.6
+STU20260109,Sneha Singh,2026-2027,Current,Environmental Engineering,45,34,75.6
+STU20260110,Meera Devi,2026-2027,Current,Structural Analysis,48,33,68.8
+STU20260110,Meera Devi,2026-2027,Current,Surveying,56,32,57.1
+STU20260110,Meera Devi,2026-2027,Current,Geotechnical Engineering,46,36,78.3
+STU20260110,Meera Devi,2026-2027,Current,Transportation Engineering,42,26,61.9
+STU20260110,Meera Devi,2026-2027,Current,Environmental Engineering,55,36,65.5
+STU20260111,Ishaan Naidu,2026-2027,Current,Data Structures,50,43,86.0
+STU20260111,Ishaan Naidu,2026-2027,Current,Database Management Systems,36,36,100.0
+STU20260111,Ishaan Naidu,2026-2027,Current,Operating Systems,31,26,83.9
+STU20260111,Ishaan Naidu,2026-2027,Current,Computer Networks,54,39,72.2
+STU20260111,Ishaan Naidu,2026-2027,Current,Software Engineering,33,29,87.9
+STU20260112,Pooja Murthy,2026-2027,Current,Digital Electronics,48,39,81.2
+STU20260112,Pooja Murthy,2026-2027,Current,Signals and Systems,34,21,61.8
+STU20260112,Pooja Murthy,2026-2027,Current,Embedded Systems,51,39,76.5
+STU20260112,Pooja Murthy,2026-2027,Current,Computer Networks,59,45,76.3
+STU20260112,Pooja Murthy,2026-2027,Current,Microprocessors,52,39,75.0
+STU20260113,Kavya Rao,2026-2027,Current,Structural Analysis,36,30,83.3
+STU20260113,Kavya Rao,2026-2027,Current,Surveying,56,44,78.6
+STU20260113,Kavya Rao,2026-2027,Current,Geotechnical Engineering,46,39,84.8
+STU20260113,Kavya Rao,2026-2027,Current,Transportation Engineering,40,32,80.0
+STU20260113,Kavya Rao,2026-2027,Current,Environmental Engineering,48,48,100.0
+STU20260114,Abhinav Gupta,2026-2027,Current,Python Programming,59,59,100.0
+STU20260114,Abhinav Gupta,2026-2027,Current,Statistics for AI,39,39,100.0
+STU20260114,Abhinav Gupta,2026-2027,Current,Machine Learning,30,29,96.7
+STU20260114,Abhinav Gupta,2026-2027,Current,Deep Learning,57,57,100.0
+STU20260114,Abhinav Gupta,2026-2027,Current,Data Mining,48,48,100.0
+STU20260115,Kavya Singh,2026-2027,Current,Structural Analysis,48,28,58.3
+STU20260115,Kavya Singh,2026-2027,Current,Surveying,42,34,81.0
+STU20260115,Kavya Singh,2026-2027,Current,Geotechnical Engineering,29,18,62.1
+STU20260115,Kavya Singh,2026-2027,Current,Transportation Engineering,43,36,83.7
+STU20260115,Kavya Singh,2026-2027,Current,Environmental Engineering,35,26,74.3
+STU20260116,Sandeep Shetty,2026-2027,Current,Data Structures,45,38,84.4
+STU20260116,Sandeep Shetty,2026-2027,Current,Database Management Systems,56,40,71.4
+STU20260116,Sandeep Shetty,2026-2027,Current,Operating Systems,44,42,95.5
+STU20260116,Sandeep Shetty,2026-2027,Current,Computer Networks,57,44,77.2
+STU20260116,Sandeep Shetty,2026-2027,Current,Software Engineering,35,25,71.4
+STU20260117,Krishna Jain,2026-2027,Current,Electrical Machines,54,40,74.1
+STU20260117,Krishna Jain,2026-2027,Current,Power Systems,38,19,50.0
+STU20260117,Krishna Jain,2026-2027,Current,Control Systems,41,29,70.7
+STU20260117,Krishna Jain,2026-2027,Current,Circuit Theory,54,36,66.7
+STU20260117,Krishna Jain,2026-2027,Current,Programming Fundamentals,55,32,58.2
+STU20260118,Nikhil Devi,2026-2027,Current,Electrical Machines,29,22,75.9
+STU20260118,Nikhil Devi,2026-2027,Current,Power Systems,60,48,80.0
+STU20260118,Nikhil Devi,2026-2027,Current,Control Systems,36,36,100.0
+STU20260118,Nikhil Devi,2026-2027,Current,Circuit Theory,49,42,85.7
+STU20260118,Nikhil Devi,2026-2027,Current,Programming Fundamentals,56,56,100.0
+STU20260119,Vijay Joshi,2026-2027,Current,Structural Analysis,42,35,83.3
+STU20260119,Vijay Joshi,2026-2027,Current,Surveying,60,29,48.3
+STU20260119,Vijay Joshi,2026-2027,Current,Geotechnical Engineering,55,36,65.5
+STU20260119,Vijay Joshi,2026-2027,Current,Transportation Engineering,42,22,52.4
+STU20260119,Vijay Joshi,2026-2027,Current,Environmental Engineering,28,19,67.9
+STU20260120,Sneha Khan,2026-2027,Current,Engineering Mechanics,54,31,57.4
+STU20260120,Sneha Khan,2026-2027,Current,Thermodynamics,38,24,63.2
+STU20260120,Sneha Khan,2026-2027,Current,Manufacturing Processes,49,30,61.2
+STU20260120,Sneha Khan,2026-2027,Current,CAD/CAM,45,28,62.2
+STU20260120,Sneha Khan,2026-2027,Current,Materials Science,39,29,74.4
+STU20260121,Siddharth Murthy,2026-2027,Current,Python Programming,38,28,73.7
+STU20260121,Siddharth Murthy,2026-2027,Current,Statistics for AI,29,29,100.0
+STU20260121,Siddharth Murthy,2026-2027,Current,Machine Learning,46,41,89.1
+STU20260121,Siddharth Murthy,2026-2027,Current,Deep Learning,34,34,100.0
+STU20260121,Siddharth Murthy,2026-2027,Current,Data Mining,47,43,91.5
+STU20260122,Teja Kashyap,2026-2027,Current,Digital Electronics,34,26,76.5
+STU20260122,Teja Kashyap,2026-2027,Current,Signals and Systems,30,29,96.7
+STU20260122,Teja Kashyap,2026-2027,Current,Embedded Systems,36,31,86.1
+STU20260122,Teja Kashyap,2026-2027,Current,Computer Networks,38,30,78.9
+STU20260122,Teja Kashyap,2026-2027,Current,Microprocessors,47,38,80.9
+STU20260123,Priya Yadav,2026-2027,Current,Engineering Mechanics,56,56,100.0
+STU20260123,Priya Yadav,2026-2027,Current,Thermodynamics,42,42,100.0
+STU20260123,Priya Yadav,2026-2027,Current,Manufacturing Processes,60,60,100.0
+STU20260123,Priya Yadav,2026-2027,Current,CAD/CAM,45,40,88.9
+STU20260123,Priya Yadav,2026-2027,Current,Materials Science,42,42,100.0
+STU20260124,Kavya Naidu,2026-2027,Current,Web Technologies,44,44,100.0
+STU20260124,Kavya Naidu,2026-2027,Current,Database Management Systems,34,26,76.5
+STU20260124,Kavya Naidu,2026-2027,Current,Computer Networks,46,37,80.4
+STU20260124,Kavya Naidu,2026-2027,Current,Software Engineering,51,42,82.4
+STU20260124,Kavya Naidu,2026-2027,Current,Cloud Computing,43,36,83.7
+STU20260125,Kiran Sahu,2026-2027,Current,Python Programming,48,28,58.3
+STU20260125,Kiran Sahu,2026-2027,Current,Statistics for AI,31,20,64.5
+STU20260125,Kiran Sahu,2026-2027,Current,Machine Learning,60,49,81.7
+STU20260125,Kiran Sahu,2026-2027,Current,Deep Learning,50,45,90.0
+STU20260125,Kiran Sahu,2026-2027,Current,Data Mining,31,23,74.2
+STU20260126,Meera Naidu,2026-2027,Current,Python Programming,49,37,75.5
+STU20260126,Meera Naidu,2026-2027,Current,Statistics for AI,51,38,74.5
+STU20260126,Meera Naidu,2026-2027,Current,Machine Learning,60,47,78.3
+STU20260126,Meera Naidu,2026-2027,Current,Deep Learning,49,33,67.3
+STU20260126,Meera Naidu,2026-2027,Current,Data Mining,41,35,85.4
+STU20260127,Harsha Sahu,2026-2027,Current,Data Structures,31,14,45.2
+STU20260127,Harsha Sahu,2026-2027,Current,Database Management Systems,45,21,46.7
+STU20260127,Harsha Sahu,2026-2027,Current,Operating Systems,31,19,61.3
+STU20260127,Harsha Sahu,2026-2027,Current,Computer Networks,36,17,47.2
+STU20260127,Harsha Sahu,2026-2027,Current,Software Engineering,51,31,60.8
+STU20260128,Tarun Mishra,2026-2027,Current,Electrical Machines,28,21,75.0
+STU20260128,Tarun Mishra,2026-2027,Current,Power Systems,34,34,100.0
+STU20260128,Tarun Mishra,2026-2027,Current,Control Systems,32,23,71.9
+STU20260128,Tarun Mishra,2026-2027,Current,Circuit Theory,51,44,86.3
+STU20260128,Tarun Mishra,2026-2027,Current,Programming Fundamentals,28,27,96.4
+STU20260129,Vijay Verma,2026-2027,Current,Digital Electronics,59,52,88.1
+STU20260129,Vijay Verma,2026-2027,Current,Signals and Systems,32,21,65.6
+STU20260129,Vijay Verma,2026-2027,Current,Embedded Systems,29,20,69.0
+STU20260129,Vijay Verma,2026-2027,Current,Computer Networks,54,45,83.3
+STU20260129,Vijay Verma,2026-2027,Current,Microprocessors,38,29,76.3
+STU20260130,Akshara Mohanty,2026-2027,Current,Data Structures,46,46,100.0
+STU20260130,Akshara Mohanty,2026-2027,Current,Database Management Systems,35,24,68.6
+STU20260130,Akshara Mohanty,2026-2027,Current,Operating Systems,53,43,81.1
+STU20260130,Akshara Mohanty,2026-2027,Current,Computer Networks,50,42,84.0
+STU20260130,Akshara Mohanty,2026-2027,Current,Software Engineering,42,27,64.3
+STU20260131,Sandeep Joshi,2026-2027,Current,Python Programming,29,29,100.0
+STU20260131,Sandeep Joshi,2026-2027,Current,Statistics for AI,57,57,100.0
+STU20260131,Sandeep Joshi,2026-2027,Current,Machine Learning,52,45,86.5
+STU20260131,Sandeep Joshi,2026-2027,Current,Deep Learning,52,51,98.1
+STU20260131,Sandeep Joshi,2026-2027,Current,Data Mining,32,28,87.5
+STU20260132,Ananya Sahu,2026-2027,Current,Web Technologies,31,27,87.1
+STU20260132,Ananya Sahu,2026-2027,Current,Database Management Systems,47,35,74.5
+STU20260132,Ananya Sahu,2026-2027,Current,Computer Networks,31,14,45.2
+STU20260132,Ananya Sahu,2026-2027,Current,Software Engineering,57,40,70.2
+STU20260132,Ananya Sahu,2026-2027,Current,Cloud Computing,29,21,72.4
+STU20260133,Nandini Prasad,2026-2027,Current,Structural Analysis,51,47,92.2
+STU20260133,Nandini Prasad,2026-2027,Current,Surveying,44,44,100.0
+STU20260133,Nandini Prasad,2026-2027,Current,Geotechnical Engineering,52,52,100.0
+STU20260133,Nandini Prasad,2026-2027,Current,Transportation Engineering,33,33,100.0
+STU20260133,Nandini Prasad,2026-2027,Current,Environmental Engineering,30,28,93.3
+STU20260134,Krishna Pillai,2026-2027,Current,Electrical Machines,51,51,100.0
+STU20260134,Krishna Pillai,2026-2027,Current,Power Systems,59,59,100.0
+STU20260134,Krishna Pillai,2026-2027,Current,Control Systems,28,26,92.9
+STU20260134,Krishna Pillai,2026-2027,Current,Circuit Theory,59,59,100.0
+STU20260134,Krishna Pillai,2026-2027,Current,Programming Fundamentals,29,27,93.1
+STU20260135,Gowtham Murthy,2026-2027,Current,Data Structures,46,42,91.3
+STU20260135,Gowtham Murthy,2026-2027,Current,Database Management Systems,55,39,70.9
+STU20260135,Gowtham Murthy,2026-2027,Current,Operating Systems,54,38,70.4
+STU20260135,Gowtham Murthy,2026-2027,Current,Computer Networks,28,24,85.7
+STU20260135,Gowtham Murthy,2026-2027,Current,Software Engineering,58,51,87.9
+STU20260136,Chaitanya Das,2026-2027,Current,Data Structures,50,25,50.0
+STU20260136,Chaitanya Das,2026-2027,Current,Database Management Systems,33,15,45.5
+STU20260136,Chaitanya Das,2026-2027,Current,Operating Systems,51,34,66.7
+STU20260136,Chaitanya Das,2026-2027,Current,Computer Networks,49,30,61.2
+STU20260136,Chaitanya Das,2026-2027,Current,Software Engineering,30,19,63.3
+STU20260137,Sanjana Yadav,2026-2027,Current,Python Programming,45,45,100.0
+STU20260137,Sanjana Yadav,2026-2027,Current,Statistics for AI,54,47,87.0
+STU20260137,Sanjana Yadav,2026-2027,Current,Machine Learning,53,52,98.1
+STU20260137,Sanjana Yadav,2026-2027,Current,Deep Learning,56,52,92.9
+STU20260137,Sanjana Yadav,2026-2027,Current,Data Mining,48,48,100.0
+STU20260138,Meera Devi,2026-2027,Current,Data Structures,53,35,66.0
+STU20260138,Meera Devi,2026-2027,Current,Database Management Systems,53,29,54.7
+STU20260138,Meera Devi,2026-2027,Current,Operating Systems,53,35,66.0
+STU20260138,Meera Devi,2026-2027,Current,Computer Networks,37,23,62.2
+STU20260138,Meera Devi,2026-2027,Current,Software Engineering,54,30,55.6
+STU20260139,Aarav Khan,2026-2027,Current,Digital Electronics,51,43,84.3
+STU20260139,Aarav Khan,2026-2027,Current,Signals and Systems,36,34,94.4
+STU20260139,Aarav Khan,2026-2027,Current,Embedded Systems,57,56,98.2
+STU20260139,Aarav Khan,2026-2027,Current,Computer Networks,36,24,66.7
+STU20260139,Aarav Khan,2026-2027,Current,Microprocessors,34,28,82.4
+STU20260140,Kiran Joshi,2026-2027,Current,Data Structures,52,52,100.0
+STU20260140,Kiran Joshi,2026-2027,Current,Database Management Systems,58,57,98.3
+STU20260140,Kiran Joshi,2026-2027,Current,Operating Systems,32,32,100.0
+STU20260140,Kiran Joshi,2026-2027,Current,Computer Networks,33,30,90.9
+STU20260140,Kiran Joshi,2026-2027,Current,Software Engineering,47,39,83.0
+STU20260141,Anil Chowdary,2026-2027,Current,Data Structures,46,38,82.6
+STU20260141,Anil Chowdary,2026-2027,Current,Database Management Systems,59,48,81.4
+STU20260141,Anil Chowdary,2026-2027,Current,Operating Systems,43,37,86.0
+STU20260141,Anil Chowdary,2026-2027,Current,Computer Networks,53,49,92.5
+STU20260141,Anil Chowdary,2026-2027,Current,Software Engineering,56,49,87.5
+STU20260142,Riya Prasad,2026-2027,Current,Python Programming,57,41,71.9
+STU20260142,Riya Prasad,2026-2027,Current,Statistics for AI,35,25,71.4
+STU20260142,Riya Prasad,2026-2027,Current,Machine Learning,56,41,73.2
+STU20260142,Riya Prasad,2026-2027,Current,Deep Learning,55,46,83.6
+STU20260142,Riya Prasad,2026-2027,Current,Data Mining,37,27,73.0
+STU20260143,Chaitanya Varma,2026-2027,Current,Electrical Machines,49,45,91.8
+STU20260143,Chaitanya Varma,2026-2027,Current,Power Systems,45,37,82.2
+STU20260143,Chaitanya Varma,2026-2027,Current,Control Systems,28,20,71.4
+STU20260143,Chaitanya Varma,2026-2027,Current,Circuit Theory,34,28,82.4
+STU20260143,Chaitanya Varma,2026-2027,Current,Programming Fundamentals,43,37,86.0
+STU20260144,Aarav Prasad,2026-2027,Current,Structural Analysis,48,42,87.5
+STU20260144,Aarav Prasad,2026-2027,Current,Surveying,52,34,65.4
+STU20260144,Aarav Prasad,2026-2027,Current,Geotechnical Engineering,39,26,66.7
+STU20260144,Aarav Prasad,2026-2027,Current,Transportation Engineering,40,33,82.5
+STU20260144,Aarav Prasad,2026-2027,Current,Environmental Engineering,32,26,81.2
+STU20260145,Varun Joshi,2026-2027,Current,Web Technologies,52,36,69.2
+STU20260145,Varun Joshi,2026-2027,Current,Database Management Systems,38,26,68.4
+STU20260145,Varun Joshi,2026-2027,Current,Computer Networks,54,41,75.9
+STU20260145,Varun Joshi,2026-2027,Current,Software Engineering,59,52,88.1
+STU20260145,Varun Joshi,2026-2027,Current,Cloud Computing,38,30,78.9
+STU20260146,Pooja Naidu,2026-2027,Current,Engineering Mechanics,43,30,69.8
+STU20260146,Pooja Naidu,2026-2027,Current,Thermodynamics,41,22,53.7
+STU20260146,Pooja Naidu,2026-2027,Current,Manufacturing Processes,32,18,56.2
+STU20260146,Pooja Naidu,2026-2027,Current,CAD/CAM,31,22,71.0
+STU20260146,Pooja Naidu,2026-2027,Current,Materials Science,34,23,67.6
+STU20260147,Diya Gupta,2026-2027,Current,Python Programming,51,39,76.5
+STU20260147,Diya Gupta,2026-2027,Current,Statistics for AI,60,41,68.3
+STU20260147,Diya Gupta,2026-2027,Current,Machine Learning,38,28,73.7
+STU20260147,Diya Gupta,2026-2027,Current,Deep Learning,55,50,90.9
+STU20260147,Diya Gupta,2026-2027,Current,Data Mining,56,48,85.7
+STU20260148,Aadhya Murthy,2026-2027,Current,Python Programming,53,50,94.3
+STU20260148,Aadhya Murthy,2026-2027,Current,Statistics for AI,48,48,100.0
+STU20260148,Aadhya Murthy,2026-2027,Current,Machine Learning,33,31,93.9
+STU20260148,Aadhya Murthy,2026-2027,Current,Deep Learning,55,47,85.5
+STU20260148,Aadhya Murthy,2026-2027,Current,Data Mining,31,29,93.5
+STU20260149,Nikhil Sahu,2026-2027,Current,Python Programming,37,34,91.9
+STU20260149,Nikhil Sahu,2026-2027,Current,Statistics for AI,37,36,97.3
+STU20260149,Nikhil Sahu,2026-2027,Current,Machine Learning,44,36,81.8
+STU20260149,Nikhil Sahu,2026-2027,Current,Deep Learning,52,42,80.8
+STU20260149,Nikhil Sahu,2026-2027,Current,Data Mining,49,39,79.6
+STU20260150,Varun Khan,2026-2027,Current,Electrical Machines,38,35,92.1
+STU20260150,Varun Khan,2026-2027,Current,Power Systems,34,26,76.5
+STU20260150,Varun Khan,2026-2027,Current,Control Systems,53,51,96.2
+STU20260150,Varun Khan,2026-2027,Current,Circuit Theory,56,49,87.5
+STU20260150,Varun Khan,2026-2027,Current,Programming Fundamentals,60,48,80.0
+STU20260151,Chaitanya Prasad,2026-2027,Current,Engineering Mechanics,55,46,83.6
+STU20260151,Chaitanya Prasad,2026-2027,Current,Thermodynamics,41,31,75.6
+STU20260151,Chaitanya Prasad,2026-2027,Current,Manufacturing Processes,55,47,85.5
+STU20260151,Chaitanya Prasad,2026-2027,Current,CAD/CAM,56,44,78.6
+STU20260151,Chaitanya Prasad,2026-2027,Current,Materials Science,35,24,68.6
+STU20260152,Sanjana Kumar,2026-2027,Current,Python Programming,48,48,100.0
+STU20260152,Sanjana Kumar,2026-2027,Current,Statistics for AI,59,59,100.0
+STU20260152,Sanjana Kumar,2026-2027,Current,Machine Learning,58,53,91.4
+STU20260152,Sanjana Kumar,2026-2027,Current,Deep Learning,50,47,94.0
+STU20260152,Sanjana Kumar,2026-2027,Current,Data Mining,56,45,80.4
+STU20260153,Teja Goud,2026-2027,Current,Engineering Mechanics,30,24,80.0
+STU20260153,Teja Goud,2026-2027,Current,Thermodynamics,51,36,70.6
+STU20260153,Teja Goud,2026-2027,Current,Manufacturing Processes,46,38,82.6
+STU20260153,Teja Goud,2026-2027,Current,CAD/CAM,46,25,54.3
+STU20260153,Teja Goud,2026-2027,Current,Materials Science,49,38,77.6
+STU20260154,Riya Yadav,2026-2027,Current,Web Technologies,42,42,100.0
+STU20260154,Riya Yadav,2026-2027,Current,Database Management Systems,43,38,88.4
+STU20260154,Riya Yadav,2026-2027,Current,Computer Networks,55,42,76.4
+STU20260154,Riya Yadav,2026-2027,Current,Software Engineering,39,38,97.4
+STU20260154,Riya Yadav,2026-2027,Current,Cloud Computing,38,36,94.7
+STU20260155,Keerthi Goud,2026-2027,Current,Digital Electronics,38,23,60.5
+STU20260155,Keerthi Goud,2026-2027,Current,Signals and Systems,29,20,69.0
+STU20260155,Keerthi Goud,2026-2027,Current,Embedded Systems,34,28,82.4
+STU20260155,Keerthi Goud,2026-2027,Current,Computer Networks,50,35,70.0
+STU20260155,Keerthi Goud,2026-2027,Current,Microprocessors,43,28,65.1
+STU20260156,Sneha Jain,2026-2027,Current,Python Programming,29,29,100.0
+STU20260156,Sneha Jain,2026-2027,Current,Statistics for AI,36,35,97.2
+STU20260156,Sneha Jain,2026-2027,Current,Machine Learning,37,30,81.1
+STU20260156,Sneha Jain,2026-2027,Current,Deep Learning,42,37,88.1
+STU20260156,Sneha Jain,2026-2027,Current,Data Mining,52,41,78.8
+STU20260157,Kiran Sharma,2026-2027,Current,Digital Electronics,37,29,78.4
+STU20260157,Kiran Sharma,2026-2027,Current,Signals and Systems,35,31,88.6
+STU20260157,Kiran Sharma,2026-2027,Current,Embedded Systems,50,39,78.0
+STU20260157,Kiran Sharma,2026-2027,Current,Computer Networks,37,23,62.2
+STU20260157,Kiran Sharma,2026-2027,Current,Microprocessors,52,40,76.9
+STU20260158,Charan Gupta,2026-2027,Current,Python Programming,31,31,100.0
+STU20260158,Charan Gupta,2026-2027,Current,Statistics for AI,31,22,71.0
+STU20260158,Charan Gupta,2026-2027,Current,Machine Learning,56,48,85.7
+STU20260158,Charan Gupta,2026-2027,Current,Deep Learning,47,47,100.0
+STU20260158,Charan Gupta,2026-2027,Current,Data Mining,30,17,56.7
+STU20260159,Chaitanya Singh,2026-2027,Current,Engineering Mechanics,40,31,77.5
+STU20260159,Chaitanya Singh,2026-2027,Current,Thermodynamics,55,54,98.2
+STU20260159,Chaitanya Singh,2026-2027,Current,Manufacturing Processes,47,44,93.6
+STU20260159,Chaitanya Singh,2026-2027,Current,CAD/CAM,43,40,93.0
+STU20260159,Chaitanya Singh,2026-2027,Current,Materials Science,57,51,89.5
+STU20260160,Abhinav Reddy,2026-2027,Current,Structural Analysis,32,27,84.4
+STU20260160,Abhinav Reddy,2026-2027,Current,Surveying,33,33,100.0
+STU20260160,Abhinav Reddy,2026-2027,Current,Geotechnical Engineering,60,59,98.3
+STU20260160,Abhinav Reddy,2026-2027,Current,Transportation Engineering,39,36,92.3
+STU20260160,Abhinav Reddy,2026-2027,Current,Environmental Engineering,33,31,93.9
+STU20260161,Meera Jain,2026-2027,Current,Python Programming,58,46,79.3
+STU20260161,Meera Jain,2026-2027,Current,Statistics for AI,49,39,79.6
+STU20260161,Meera Jain,2026-2027,Current,Machine Learning,32,32,100.0
+STU20260161,Meera Jain,2026-2027,Current,Deep Learning,60,48,80.0
+STU20260161,Meera Jain,2026-2027,Current,Data Mining,58,46,79.3
+STU20260162,Charan Mishra,2026-2027,Current,Electrical Machines,30,23,76.7
+STU20260162,Charan Mishra,2026-2027,Current,Power Systems,42,29,69.0
+STU20260162,Charan Mishra,2026-2027,Current,Control Systems,50,34,68.0
+STU20260162,Charan Mishra,2026-2027,Current,Circuit Theory,47,30,63.8
+STU20260162,Charan Mishra,2026-2027,Current,Programming Fundamentals,55,43,78.2
+STU20260163,Deepika Rao,2026-2027,Current,Engineering Mechanics,53,41,77.4
+STU20260163,Deepika Rao,2026-2027,Current,Thermodynamics,34,18,52.9
+STU20260163,Deepika Rao,2026-2027,Current,Manufacturing Processes,50,37,74.0
+STU20260163,Deepika Rao,2026-2027,Current,CAD/CAM,58,30,51.7
+STU20260163,Deepika Rao,2026-2027,Current,Materials Science,38,28,73.7
+STU20260164,Nikhil Murthy,2026-2027,Current,Electrical Machines,36,35,97.2
+STU20260164,Nikhil Murthy,2026-2027,Current,Power Systems,29,27,93.1
+STU20260164,Nikhil Murthy,2026-2027,Current,Control Systems,28,22,78.6
+STU20260164,Nikhil Murthy,2026-2027,Current,Circuit Theory,34,34,100.0
+STU20260164,Nikhil Murthy,2026-2027,Current,Programming Fundamentals,32,29,90.6
+STU20260165,Aadhya Patel,2026-2027,Current,Electrical Machines,35,28,80.0
+STU20260165,Aadhya Patel,2026-2027,Current,Power Systems,47,40,85.1
+STU20260165,Aadhya Patel,2026-2027,Current,Control Systems,36,25,69.4
+STU20260165,Aadhya Patel,2026-2027,Current,Circuit Theory,31,24,77.4
+STU20260165,Aadhya Patel,2026-2027,Current,Programming Fundamentals,28,27,96.4
+STU20260166,Avani Pillai,2026-2027,Current,Data Structures,59,38,64.4
+STU20260166,Avani Pillai,2026-2027,Current,Database Management Systems,43,31,72.1
+STU20260166,Avani Pillai,2026-2027,Current,Operating Systems,39,30,76.9
+STU20260166,Avani Pillai,2026-2027,Current,Computer Networks,54,39,72.2
+STU20260166,Avani Pillai,2026-2027,Current,Software Engineering,29,25,86.2
+STU20260167,Manoj Khan,2026-2027,Current,Data Structures,54,50,92.6
+STU20260167,Manoj Khan,2026-2027,Current,Database Management Systems,37,33,89.2
+STU20260167,Manoj Khan,2026-2027,Current,Operating Systems,47,45,95.7
+STU20260167,Manoj Khan,2026-2027,Current,Computer Networks,53,43,81.1
+STU20260167,Manoj Khan,2026-2027,Current,Software Engineering,39,30,76.9
+STU20260168,Riya Joshi,2026-2027,Current,Electrical Machines,35,21,60.0
+STU20260168,Riya Joshi,2026-2027,Current,Power Systems,51,33,64.7
+STU20260168,Riya Joshi,2026-2027,Current,Control Systems,33,18,54.5
+STU20260168,Riya Joshi,2026-2027,Current,Circuit Theory,30,15,50.0
+STU20260168,Riya Joshi,2026-2027,Current,Programming Fundamentals,40,28,70.0
+STU20260169,Pranav Mohanty,2026-2027,Current,Engineering Mechanics,49,45,91.8
+STU20260169,Pranav Mohanty,2026-2027,Current,Thermodynamics,28,28,100.0
+STU20260169,Pranav Mohanty,2026-2027,Current,Manufacturing Processes,38,35,92.1
+STU20260169,Pranav Mohanty,2026-2027,Current,CAD/CAM,34,31,91.2
+STU20260169,Pranav Mohanty,2026-2027,Current,Materials Science,36,28,77.8
+STU20260170,Vijay Reddy,2026-2027,Current,Electrical Machines,39,33,84.6
+STU20260170,Vijay Reddy,2026-2027,Current,Power Systems,40,31,77.5
+STU20260170,Vijay Reddy,2026-2027,Current,Control Systems,34,25,73.5
+STU20260170,Vijay Reddy,2026-2027,Current,Circuit Theory,58,48,82.8
+STU20260170,Vijay Reddy,2026-2027,Current,Programming Fundamentals,37,33,89.2
+STU20260171,Arjun Joshi,2026-2027,Current,Data Structures,44,25,56.8
+STU20260171,Arjun Joshi,2026-2027,Current,Database Management Systems,30,18,60.0
+STU20260171,Arjun Joshi,2026-2027,Current,Operating Systems,43,20,46.5
+STU20260171,Arjun Joshi,2026-2027,Current,Computer Networks,50,39,78.0
+STU20260171,Arjun Joshi,2026-2027,Current,Software Engineering,51,31,60.8
+STU20260172,Priya Gupta,2026-2027,Current,Web Technologies,50,49,98.0
+STU20260172,Priya Gupta,2026-2027,Current,Database Management Systems,30,27,90.0
+STU20260172,Priya Gupta,2026-2027,Current,Computer Networks,44,40,90.9
+STU20260172,Priya Gupta,2026-2027,Current,Software Engineering,52,49,94.2
+STU20260172,Priya Gupta,2026-2027,Current,Cloud Computing,29,22,75.9
+STU20260173,Diya Patel,2026-2027,Current,Digital Electronics,51,47,92.2
+STU20260173,Diya Patel,2026-2027,Current,Signals and Systems,50,50,100.0
+STU20260173,Diya Patel,2026-2027,Current,Embedded Systems,47,42,89.4
+STU20260173,Diya Patel,2026-2027,Current,Computer Networks,34,32,94.1
+STU20260173,Diya Patel,2026-2027,Current,Microprocessors,44,38,86.4
+STU20260174,Charan Nair,2026-2027,Current,Web Technologies,58,39,67.2
+STU20260174,Charan Nair,2026-2027,Current,Database Management Systems,28,15,53.6
+STU20260174,Charan Nair,2026-2027,Current,Computer Networks,56,28,50.0
+STU20260174,Charan Nair,2026-2027,Current,Software Engineering,34,26,76.5
+STU20260174,Charan Nair,2026-2027,Current,Cloud Computing,36,18,50.0
+STU20260175,Sanjana Varma,2026-2027,Current,Digital Electronics,31,24,77.4
+STU20260175,Sanjana Varma,2026-2027,Current,Signals and Systems,38,32,84.2
+STU20260175,Sanjana Varma,2026-2027,Current,Embedded Systems,30,22,73.3
+STU20260175,Sanjana Varma,2026-2027,Current,Computer Networks,38,36,94.7
+STU20260175,Sanjana Varma,2026-2027,Current,Microprocessors,55,37,67.3
+STU20260176,Tarun Naidu,2026-2027,Current,Web Technologies,56,50,89.3
+STU20260176,Tarun Naidu,2026-2027,Current,Database Management Systems,53,49,92.5
+STU20260176,Tarun Naidu,2026-2027,Current,Computer Networks,56,53,94.6
+STU20260176,Tarun Naidu,2026-2027,Current,Software Engineering,31,26,83.9
+STU20260176,Tarun Naidu,2026-2027,Current,Cloud Computing,38,33,86.8
+STU20260177,Sandeep Reddy,2026-2027,Current,Web Technologies,44,38,86.4
+STU20260177,Sandeep Reddy,2026-2027,Current,Database Management Systems,31,28,90.3
+STU20260177,Sandeep Reddy,2026-2027,Current,Computer Networks,31,26,83.9
+STU20260177,Sandeep Reddy,2026-2027,Current,Software Engineering,35,27,77.1
+STU20260177,Sandeep Reddy,2026-2027,Current,Cloud Computing,36,34,94.4
+STU20260178,Kiran Sharma,2026-2027,Current,Data Structures,56,45,80.4
+STU20260178,Kiran Sharma,2026-2027,Current,Database Management Systems,34,34,100.0
+STU20260178,Kiran Sharma,2026-2027,Current,Operating Systems,54,39,72.2
+STU20260178,Kiran Sharma,2026-2027,Current,Computer Networks,41,28,68.3
+STU20260178,Kiran Sharma,2026-2027,Current,Software Engineering,31,26,83.9
+STU20260179,Siddharth Devi,2026-2027,Current,Digital Electronics,44,44,100.0
+STU20260179,Siddharth Devi,2026-2027,Current,Signals and Systems,49,49,100.0
+STU20260179,Siddharth Devi,2026-2027,Current,Embedded Systems,54,47,87.0
+STU20260179,Siddharth Devi,2026-2027,Current,Computer Networks,29,24,82.8
+STU20260179,Siddharth Devi,2026-2027,Current,Microprocessors,56,46,82.1
+STU20260180,Varun Sharma,2026-2027,Current,Data Structures,29,27,93.1
+STU20260180,Varun Sharma,2026-2027,Current,Database Management Systems,54,45,83.3
+STU20260180,Varun Sharma,2026-2027,Current,Operating Systems,60,43,71.7
+STU20260180,Varun Sharma,2026-2027,Current,Computer Networks,40,36,90.0
+STU20260180,Varun Sharma,2026-2027,Current,Software Engineering,29,25,86.2
+STU20260181,Tarun Kashyap,2026-2027,Current,Data Structures,29,22,75.9
+STU20260181,Tarun Kashyap,2026-2027,Current,Database Management Systems,49,49,100.0
+STU20260181,Tarun Kashyap,2026-2027,Current,Operating Systems,31,28,90.3
+STU20260181,Tarun Kashyap,2026-2027,Current,Computer Networks,40,40,100.0
+STU20260181,Tarun Kashyap,2026-2027,Current,Software Engineering,51,51,100.0
+STU20260182,Sneha Reddy,2026-2027,Current,Python Programming,41,30,73.2
+STU20260182,Sneha Reddy,2026-2027,Current,Statistics for AI,54,45,83.3
+STU20260182,Sneha Reddy,2026-2027,Current,Machine Learning,54,52,96.3
+STU20260182,Sneha Reddy,2026-2027,Current,Deep Learning,58,49,84.5
+STU20260182,Sneha Reddy,2026-2027,Current,Data Mining,38,38,100.0
+STU20260183,Pooja Chowdary,2026-2027,Current,Structural Analysis,30,15,50.0
+STU20260183,Pooja Chowdary,2026-2027,Current,Surveying,28,18,64.3
+STU20260183,Pooja Chowdary,2026-2027,Current,Geotechnical Engineering,32,21,65.6
+STU20260183,Pooja Chowdary,2026-2027,Current,Transportation Engineering,41,30,73.2
+STU20260183,Pooja Chowdary,2026-2027,Current,Environmental Engineering,31,19,61.3
+STU20260184,Varun Reddy,2026-2027,Current,Data Structures,55,45,81.8
+STU20260184,Varun Reddy,2026-2027,Current,Database Management Systems,58,46,79.3
+STU20260184,Varun Reddy,2026-2027,Current,Operating Systems,56,50,89.3
+STU20260184,Varun Reddy,2026-2027,Current,Computer Networks,44,39,88.6
+STU20260184,Varun Reddy,2026-2027,Current,Software Engineering,32,21,65.6
+STU20260185,Meera Kashyap,2026-2027,Current,Python Programming,37,34,91.9
+STU20260185,Meera Kashyap,2026-2027,Current,Statistics for AI,43,43,100.0
+STU20260185,Meera Kashyap,2026-2027,Current,Machine Learning,31,25,80.6
+STU20260185,Meera Kashyap,2026-2027,Current,Deep Learning,41,35,85.4
+STU20260185,Meera Kashyap,2026-2027,Current,Data Mining,51,40,78.4
+STU20260186,Ishaan Gupta,2026-2027,Current,Engineering Mechanics,50,41,82.0
+STU20260186,Ishaan Gupta,2026-2027,Current,Thermodynamics,44,41,93.2
+STU20260186,Ishaan Gupta,2026-2027,Current,Manufacturing Processes,51,37,72.5
+STU20260186,Ishaan Gupta,2026-2027,Current,CAD/CAM,52,39,75.0
+STU20260186,Ishaan Gupta,2026-2027,Current,Materials Science,50,36,72.0
+STU20260187,Naveen Reddy,2026-2027,Current,Engineering Mechanics,40,32,80.0
+STU20260187,Naveen Reddy,2026-2027,Current,Thermodynamics,56,54,96.4
+STU20260187,Naveen Reddy,2026-2027,Current,Manufacturing Processes,48,48,100.0
+STU20260187,Naveen Reddy,2026-2027,Current,CAD/CAM,39,39,100.0
+STU20260187,Naveen Reddy,2026-2027,Current,Materials Science,49,41,83.7
+STU20260188,Deepika Verma,2026-2027,Current,Python Programming,51,51,100.0
+STU20260188,Deepika Verma,2026-2027,Current,Statistics for AI,35,35,100.0
+STU20260188,Deepika Verma,2026-2027,Current,Machine Learning,51,51,100.0
+STU20260188,Deepika Verma,2026-2027,Current,Deep Learning,52,52,100.0
+STU20260188,Deepika Verma,2026-2027,Current,Data Mining,48,48,100.0
+STU20260189,Charan Mishra,2026-2027,Current,Data Structures,41,28,68.3
+STU20260189,Charan Mishra,2026-2027,Current,Database Management Systems,35,30,85.7
+STU20260189,Charan Mishra,2026-2027,Current,Operating Systems,30,24,80.0
+STU20260189,Charan Mishra,2026-2027,Current,Computer Networks,56,39,69.6
+STU20260189,Charan Mishra,2026-2027,Current,Software Engineering,48,33,68.8
+STU20260190,Meera Mishra,2026-2027,Current,Digital Electronics,53,42,79.2
+STU20260190,Meera Mishra,2026-2027,Current,Signals and Systems,34,32,94.1
+STU20260190,Meera Mishra,2026-2027,Current,Embedded Systems,42,37,88.1
+STU20260190,Meera Mishra,2026-2027,Current,Computer Networks,39,36,92.3
+STU20260190,Meera Mishra,2026-2027,Current,Microprocessors,35,29,82.9
+STU20260191,Sanjana Goud,2026-2027,Current,Digital Electronics,54,50,92.6
+STU20260191,Sanjana Goud,2026-2027,Current,Signals and Systems,45,43,95.6
+STU20260191,Sanjana Goud,2026-2027,Current,Embedded Systems,55,52,94.5
+STU20260191,Sanjana Goud,2026-2027,Current,Computer Networks,40,35,87.5
+STU20260191,Sanjana Goud,2026-2027,Current,Microprocessors,50,50,100.0
+STU20260192,Pranav Yadav,2026-2027,Current,Python Programming,53,26,49.1
+STU20260192,Pranav Yadav,2026-2027,Current,Statistics for AI,28,14,50.0
+STU20260192,Pranav Yadav,2026-2027,Current,Machine Learning,38,26,68.4
+STU20260192,Pranav Yadav,2026-2027,Current,Deep Learning,42,23,54.8
+STU20260192,Pranav Yadav,2026-2027,Current,Data Mining,41,26,63.4
+STU20260193,Diya Shetty,2026-2027,Current,Python Programming,53,43,81.1
+STU20260193,Diya Shetty,2026-2027,Current,Statistics for AI,30,18,60.0
+STU20260193,Diya Shetty,2026-2027,Current,Machine Learning,29,20,69.0
+STU20260193,Diya Shetty,2026-2027,Current,Deep Learning,43,22,51.2
+STU20260193,Diya Shetty,2026-2027,Current,Data Mining,31,18,58.1
+STU20260194,Riya Murthy,2026-2027,Current,Data Structures,41,38,92.7
+STU20260194,Riya Murthy,2026-2027,Current,Database Management Systems,37,30,81.1
+STU20260194,Riya Murthy,2026-2027,Current,Operating Systems,31,30,96.8
+STU20260194,Riya Murthy,2026-2027,Current,Computer Networks,38,35,92.1
+STU20260194,Riya Murthy,2026-2027,Current,Software Engineering,55,45,81.8
+STU20260195,Ananya Kashyap,2026-2027,Current,Web Technologies,40,23,57.5
+STU20260195,Ananya Kashyap,2026-2027,Current,Database Management Systems,30,23,76.7
+STU20260195,Ananya Kashyap,2026-2027,Current,Computer Networks,59,47,79.7
+STU20260195,Ananya Kashyap,2026-2027,Current,Software Engineering,60,42,70.0
+STU20260195,Ananya Kashyap,2026-2027,Current,Cloud Computing,35,26,74.3
+STU20260196,Tarun Goud,2026-2027,Current,Data Structures,38,23,60.5
+STU20260196,Tarun Goud,2026-2027,Current,Database Management Systems,46,27,58.7
+STU20260196,Tarun Goud,2026-2027,Current,Operating Systems,40,31,77.5
+STU20260196,Tarun Goud,2026-2027,Current,Computer Networks,34,18,52.9
+STU20260196,Tarun Goud,2026-2027,Current,Software Engineering,36,28,77.8
+STU20260197,Keerthi Singh,2026-2027,Current,Web Technologies,28,13,46.4
+STU20260197,Keerthi Singh,2026-2027,Current,Database Management Systems,35,18,51.4
+STU20260197,Keerthi Singh,2026-2027,Current,Computer Networks,42,29,69.0
+STU20260197,Keerthi Singh,2026-2027,Current,Software Engineering,41,28,68.3
+STU20260197,Keerthi Singh,2026-2027,Current,Cloud Computing,30,20,66.7
+STU20260198,Sneha Jain,2026-2027,Current,Data Structures,56,39,69.6
+STU20260198,Sneha Jain,2026-2027,Current,Database Management Systems,46,32,69.6
+STU20260198,Sneha Jain,2026-2027,Current,Operating Systems,40,34,85.0
+STU20260198,Sneha Jain,2026-2027,Current,Computer Networks,44,25,56.8
+STU20260198,Sneha Jain,2026-2027,Current,Software Engineering,53,31,58.5
+STU20260199,Charan Murthy,2026-2027,Current,Python Programming,46,36,78.3
+STU20260199,Charan Murthy,2026-2027,Current,Statistics for AI,51,42,82.4
+STU20260199,Charan Murthy,2026-2027,Current,Machine Learning,28,19,67.9
+STU20260199,Charan Murthy,2026-2027,Current,Deep Learning,57,56,98.2
+STU20260199,Charan Murthy,2026-2027,Current,Data Mining,44,41,93.2
+STU20260200,Ishaan Chowdary,2026-2027,Current,Structural Analysis,33,25,75.8
+STU20260200,Ishaan Chowdary,2026-2027,Current,Surveying,39,30,76.9
+STU20260200,Ishaan Chowdary,2026-2027,Current,Geotechnical Engineering,37,25,67.6
+STU20260200,Ishaan Chowdary,2026-2027,Current,Transportation Engineering,41,30,73.2
+STU20260200,Ishaan Chowdary,2026-2027,Current,Environmental Engineering,42,34,81.0
+STU20260201,Akshara Babu,2026-2027,Current,Python Programming,35,26,74.3
+STU20260201,Akshara Babu,2026-2027,Current,Statistics for AI,49,34,69.4
+STU20260201,Akshara Babu,2026-2027,Current,Machine Learning,45,32,71.1
+STU20260201,Akshara Babu,2026-2027,Current,Deep Learning,47,39,83.0
+STU20260201,Akshara Babu,2026-2027,Current,Data Mining,31,16,51.6
+STU20260202,Abhinav Rao,2026-2027,Current,Web Technologies,38,24,63.2
+STU20260202,Abhinav Rao,2026-2027,Current,Database Management Systems,30,26,86.7
+STU20260202,Abhinav Rao,2026-2027,Current,Computer Networks,58,43,74.1
+STU20260202,Abhinav Rao,2026-2027,Current,Software Engineering,49,31,63.3
+STU20260202,Abhinav Rao,2026-2027,Current,Cloud Computing,58,43,74.1
+STU20260203,Akshara Yadav,2026-2027,Current,Engineering Mechanics,38,29,76.3
+STU20260203,Akshara Yadav,2026-2027,Current,Thermodynamics,35,25,71.4
+STU20260203,Akshara Yadav,2026-2027,Current,Manufacturing Processes,42,33,78.6
+STU20260203,Akshara Yadav,2026-2027,Current,CAD/CAM,56,41,73.2
+STU20260203,Akshara Yadav,2026-2027,Current,Materials Science,42,35,83.3
+STU20260204,Varun Reddy,2026-2027,Current,Digital Electronics,40,32,80.0
+STU20260204,Varun Reddy,2026-2027,Current,Signals and Systems,58,58,100.0
+STU20260204,Varun Reddy,2026-2027,Current,Embedded Systems,34,24,70.6
+STU20260204,Varun Reddy,2026-2027,Current,Computer Networks,53,40,75.5
+STU20260204,Varun Reddy,2026-2027,Current,Microprocessors,52,46,88.5
+STU20260205,Neha Das,2026-2027,Current,Digital Electronics,45,41,91.1
+STU20260205,Neha Das,2026-2027,Current,Signals and Systems,56,50,89.3
+STU20260205,Neha Das,2026-2027,Current,Embedded Systems,44,44,100.0
+STU20260205,Neha Das,2026-2027,Current,Computer Networks,48,39,81.2
+STU20260205,Neha Das,2026-2027,Current,Microprocessors,33,31,93.9
+STU20260206,Avani Raju,2026-2027,Current,Electrical Machines,36,17,47.2
+STU20260206,Avani Raju,2026-2027,Current,Power Systems,53,30,56.6
+STU20260206,Avani Raju,2026-2027,Current,Control Systems,35,20,57.1
+STU20260206,Avani Raju,2026-2027,Current,Circuit Theory,44,21,47.7
+STU20260206,Avani Raju,2026-2027,Current,Programming Fundamentals,55,37,67.3
+STU20260207,Naveen Raju,2026-2027,Current,Electrical Machines,53,31,58.5
+STU20260207,Naveen Raju,2026-2027,Current,Power Systems,36,34,94.4
+STU20260207,Naveen Raju,2026-2027,Current,Control Systems,44,23,52.3
+STU20260207,Naveen Raju,2026-2027,Current,Circuit Theory,47,28,59.6
+STU20260207,Naveen Raju,2026-2027,Current,Programming Fundamentals,43,22,51.2
+STU20260208,Kiran Joshi,2026-2027,Current,Data Structures,41,26,63.4
+STU20260208,Kiran Joshi,2026-2027,Current,Database Management Systems,41,29,70.7
+STU20260208,Kiran Joshi,2026-2027,Current,Operating Systems,35,27,77.1
+STU20260208,Kiran Joshi,2026-2027,Current,Computer Networks,55,44,80.0
+STU20260208,Kiran Joshi,2026-2027,Current,Software Engineering,50,36,72.0
+STU20260209,Diya Das,2026-2027,Current,Python Programming,45,33,73.3
+STU20260209,Diya Das,2026-2027,Current,Statistics for AI,49,45,91.8
+STU20260209,Diya Das,2026-2027,Current,Machine Learning,59,44,74.6
+STU20260209,Diya Das,2026-2027,Current,Deep Learning,53,42,79.2
+STU20260209,Diya Das,2026-2027,Current,Data Mining,55,45,81.8
+STU20260210,Abhinav Verma,2026-2027,Current,Python Programming,31,25,80.6
+STU20260210,Abhinav Verma,2026-2027,Current,Statistics for AI,43,42,97.7
+STU20260210,Abhinav Verma,2026-2027,Current,Machine Learning,38,26,68.4
+STU20260210,Abhinav Verma,2026-2027,Current,Deep Learning,45,41,91.1
+STU20260210,Abhinav Verma,2026-2027,Current,Data Mining,32,20,62.5
+STU20260211,Pranav Chowdary,2026-2027,Current,Data Structures,54,30,55.6
+STU20260211,Pranav Chowdary,2026-2027,Current,Database Management Systems,30,21,70.0
+STU20260211,Pranav Chowdary,2026-2027,Current,Operating Systems,50,27,54.0
+STU20260211,Pranav Chowdary,2026-2027,Current,Computer Networks,59,44,74.6
+STU20260211,Pranav Chowdary,2026-2027,Current,Software Engineering,36,24,66.7
+STU20260212,Nikhil Rao,2026-2027,Current,Electrical Machines,50,33,66.0
+STU20260212,Nikhil Rao,2026-2027,Current,Power Systems,50,43,86.0
+STU20260212,Nikhil Rao,2026-2027,Current,Control Systems,47,37,78.7
+STU20260212,Nikhil Rao,2026-2027,Current,Circuit Theory,37,29,78.4
+STU20260212,Nikhil Rao,2026-2027,Current,Programming Fundamentals,58,44,75.9
+STU20260213,Rahul Jain,2026-2027,Current,Web Technologies,44,41,93.2
+STU20260213,Rahul Jain,2026-2027,Current,Database Management Systems,45,29,64.4
+STU20260213,Rahul Jain,2026-2027,Current,Computer Networks,36,27,75.0
+STU20260213,Rahul Jain,2026-2027,Current,Software Engineering,48,37,77.1
+STU20260213,Rahul Jain,2026-2027,Current,Cloud Computing,54,35,64.8
+STU20260214,Meera Sharma,2026-2027,Current,Digital Electronics,46,28,60.9
+STU20260214,Meera Sharma,2026-2027,Current,Signals and Systems,34,28,82.4
+STU20260214,Meera Sharma,2026-2027,Current,Embedded Systems,33,22,66.7
+STU20260214,Meera Sharma,2026-2027,Current,Computer Networks,37,28,75.7
+STU20260214,Meera Sharma,2026-2027,Current,Microprocessors,53,41,77.4
+STU20260215,Keerthi Pillai,2026-2027,Current,Engineering Mechanics,33,26,78.8
+STU20260215,Keerthi Pillai,2026-2027,Current,Thermodynamics,44,37,84.1
+STU20260215,Keerthi Pillai,2026-2027,Current,Manufacturing Processes,31,27,87.1
+STU20260215,Keerthi Pillai,2026-2027,Current,CAD/CAM,57,47,82.5
+STU20260215,Keerthi Pillai,2026-2027,Current,Materials Science,57,38,66.7
+STU20260216,Mohan Goud,2026-2027,Current,Web Technologies,59,42,71.2
+STU20260216,Mohan Goud,2026-2027,Current,Database Management Systems,30,28,93.3
+STU20260216,Mohan Goud,2026-2027,Current,Computer Networks,51,32,62.7
+STU20260216,Mohan Goud,2026-2027,Current,Software Engineering,59,50,84.7
+STU20260216,Mohan Goud,2026-2027,Current,Cloud Computing,45,32,71.1
+STU20260217,Pooja Gupta,2026-2027,Current,Python Programming,48,37,77.1
+STU20260217,Pooja Gupta,2026-2027,Current,Statistics for AI,45,37,82.2
+STU20260217,Pooja Gupta,2026-2027,Current,Machine Learning,33,28,84.8
+STU20260217,Pooja Gupta,2026-2027,Current,Deep Learning,32,27,84.4
+STU20260217,Pooja Gupta,2026-2027,Current,Data Mining,47,45,95.7
+STU20260218,Nikhil Mishra,2026-2027,Current,Electrical Machines,31,25,80.6
+STU20260218,Nikhil Mishra,2026-2027,Current,Power Systems,46,26,56.5
+STU20260218,Nikhil Mishra,2026-2027,Current,Control Systems,45,34,75.6
+STU20260218,Nikhil Mishra,2026-2027,Current,Circuit Theory,29,25,86.2
+STU20260218,Nikhil Mishra,2026-2027,Current,Programming Fundamentals,29,21,72.4
+STU20260219,Madhavi Joshi,2026-2027,Current,Engineering Mechanics,57,49,86.0
+STU20260219,Madhavi Joshi,2026-2027,Current,Thermodynamics,35,24,68.6
+STU20260219,Madhavi Joshi,2026-2027,Current,Manufacturing Processes,58,43,74.1
+STU20260219,Madhavi Joshi,2026-2027,Current,CAD/CAM,54,33,61.1
+STU20260219,Madhavi Joshi,2026-2027,Current,Materials Science,40,34,85.0
+STU20260220,Aditya Prasad,2026-2027,Current,Electrical Machines,40,30,75.0
+STU20260220,Aditya Prasad,2026-2027,Current,Power Systems,48,31,64.6
+STU20260220,Aditya Prasad,2026-2027,Current,Control Systems,31,21,67.7
+STU20260220,Aditya Prasad,2026-2027,Current,Circuit Theory,59,38,64.4
+STU20260220,Aditya Prasad,2026-2027,Current,Programming Fundamentals,45,26,57.8
+STU20260221,Neha Varma,2026-2027,Current,Python Programming,41,39,95.1
+STU20260221,Neha Varma,2026-2027,Current,Statistics for AI,51,45,88.2
+STU20260221,Neha Varma,2026-2027,Current,Machine Learning,40,32,80.0
+STU20260221,Neha Varma,2026-2027,Current,Deep Learning,32,27,84.4
+STU20260221,Neha Varma,2026-2027,Current,Data Mining,49,49,100.0
+STU20260222,Ishaan Reddy,2026-2027,Current,Python Programming,47,29,61.7
+STU20260222,Ishaan Reddy,2026-2027,Current,Statistics for AI,43,26,60.5
+STU20260222,Ishaan Reddy,2026-2027,Current,Machine Learning,31,22,71.0
+STU20260222,Ishaan Reddy,2026-2027,Current,Deep Learning,34,29,85.3
+STU20260222,Ishaan Reddy,2026-2027,Current,Data Mining,57,39,68.4
+STU20260223,Aarav Iyer,2026-2027,Current,Digital Electronics,50,33,66.0
+STU20260223,Aarav Iyer,2026-2027,Current,Signals and Systems,42,29,69.0
+STU20260223,Aarav Iyer,2026-2027,Current,Embedded Systems,35,35,100.0
+STU20260223,Aarav Iyer,2026-2027,Current,Computer Networks,28,20,71.4
+STU20260223,Aarav Iyer,2026-2027,Current,Microprocessors,41,37,90.2
+STU20260224,Ishaan Patel,2026-2027,Current,Python Programming,56,36,64.3
+STU20260224,Ishaan Patel,2026-2027,Current,Statistics for AI,41,31,75.6
+STU20260224,Ishaan Patel,2026-2027,Current,Machine Learning,34,28,82.4
+STU20260224,Ishaan Patel,2026-2027,Current,Deep Learning,57,46,80.7
+STU20260224,Ishaan Patel,2026-2027,Current,Data Mining,52,42,80.8
+STU20260225,Harsha Yadav,2026-2027,Current,Data Structures,33,24,72.7
+STU20260225,Harsha Yadav,2026-2027,Current,Database Management Systems,29,17,58.6
+STU20260225,Harsha Yadav,2026-2027,Current,Operating Systems,37,27,73.0
+STU20260225,Harsha Yadav,2026-2027,Current,Computer Networks,47,27,57.4
+STU20260225,Harsha Yadav,2026-2027,Current,Software Engineering,46,33,71.7
+STU20260226,Nandini Murthy,2026-2027,Current,Web Technologies,32,24,75.0
+STU20260226,Nandini Murthy,2026-2027,Current,Database Management Systems,55,43,78.2
+STU20260226,Nandini Murthy,2026-2027,Current,Computer Networks,54,41,75.9
+STU20260226,Nandini Murthy,2026-2027,Current,Software Engineering,35,24,68.6
+STU20260226,Nandini Murthy,2026-2027,Current,Cloud Computing,59,38,64.4
+STU20260227,Teja Singh,2026-2027,Current,Digital Electronics,51,42,82.4
+STU20260227,Teja Singh,2026-2027,Current,Signals and Systems,55,51,92.7
+STU20260227,Teja Singh,2026-2027,Current,Embedded Systems,29,23,79.3
+STU20260227,Teja Singh,2026-2027,Current,Computer Networks,36,26,72.2
+STU20260227,Teja Singh,2026-2027,Current,Microprocessors,35,24,68.6
+STU20260228,Mohan Mohanty,2026-2027,Current,Python Programming,48,41,85.4
+STU20260228,Mohan Mohanty,2026-2027,Current,Statistics for AI,43,43,100.0
+STU20260228,Mohan Mohanty,2026-2027,Current,Machine Learning,56,55,98.2
+STU20260228,Mohan Mohanty,2026-2027,Current,Deep Learning,37,28,75.7
+STU20260228,Mohan Mohanty,2026-2027,Current,Data Mining,33,30,90.9
+STU20260229,Aadhya Iyer,2026-2027,Current,Python Programming,34,21,61.8
+STU20260229,Aadhya Iyer,2026-2027,Current,Statistics for AI,47,39,83.0
+STU20260229,Aadhya Iyer,2026-2027,Current,Machine Learning,33,25,75.8
+STU20260229,Aadhya Iyer,2026-2027,Current,Deep Learning,28,25,89.3
+STU20260229,Aadhya Iyer,2026-2027,Current,Data Mining,30,26,86.7
+STU20260230,Divya Das,2026-2027,Current,Web Technologies,51,48,94.1
+STU20260230,Divya Das,2026-2027,Current,Database Management Systems,49,49,100.0
+STU20260230,Divya Das,2026-2027,Current,Computer Networks,32,32,100.0
+STU20260230,Divya Das,2026-2027,Current,Software Engineering,56,56,100.0
+STU20260230,Divya Das,2026-2027,Current,Cloud Computing,43,43,100.0
+STU20260231,Dev Nair,2026-2027,Current,Web Technologies,60,38,63.3
+STU20260231,Dev Nair,2026-2027,Current,Database Management Systems,55,41,74.5
+STU20260231,Dev Nair,2026-2027,Current,Computer Networks,51,44,86.3
+STU20260231,Dev Nair,2026-2027,Current,Software Engineering,29,23,79.3
+STU20260231,Dev Nair,2026-2027,Current,Cloud Computing,33,23,69.7
+STU20260232,Divya Shetty,2026-2027,Current,Data Structures,30,30,100.0
+STU20260232,Divya Shetty,2026-2027,Current,Database Management Systems,60,60,100.0
+STU20260232,Divya Shetty,2026-2027,Current,Operating Systems,50,50,100.0
+STU20260232,Divya Shetty,2026-2027,Current,Computer Networks,52,52,100.0
+STU20260232,Divya Shetty,2026-2027,Current,Software Engineering,53,53,100.0
+STU20260233,Gowtham Shetty,2026-2027,Current,Digital Electronics,58,54,93.1
+STU20260233,Gowtham Shetty,2026-2027,Current,Signals and Systems,39,25,64.1
+STU20260233,Gowtham Shetty,2026-2027,Current,Embedded Systems,38,22,57.9
+STU20260233,Gowtham Shetty,2026-2027,Current,Computer Networks,56,35,62.5
+STU20260233,Gowtham Shetty,2026-2027,Current,Microprocessors,58,44,75.9
+STU20260234,Naveen Mohanty,2026-2027,Current,Data Structures,48,37,77.1
+STU20260234,Naveen Mohanty,2026-2027,Current,Database Management Systems,44,23,52.3
+STU20260234,Naveen Mohanty,2026-2027,Current,Operating Systems,29,21,72.4
+STU20260234,Naveen Mohanty,2026-2027,Current,Computer Networks,59,41,69.5
+STU20260234,Naveen Mohanty,2026-2027,Current,Software Engineering,58,41,70.7
+STU20260235,Priya Mohanty,2026-2027,Current,Engineering Mechanics,50,32,64.0
+STU20260235,Priya Mohanty,2026-2027,Current,Thermodynamics,45,24,53.3
+STU20260235,Priya Mohanty,2026-2027,Current,Manufacturing Processes,41,26,63.4
+STU20260235,Priya Mohanty,2026-2027,Current,CAD/CAM,34,24,70.6
+STU20260235,Priya Mohanty,2026-2027,Current,Materials Science,48,22,45.8
+STU20260236,Siddharth Chowdary,2026-2027,Current,Electrical Machines,49,24,49.0
+STU20260236,Siddharth Chowdary,2026-2027,Current,Power Systems,47,25,53.2
+STU20260236,Siddharth Chowdary,2026-2027,Current,Control Systems,33,18,54.5
+STU20260236,Siddharth Chowdary,2026-2027,Current,Circuit Theory,36,15,41.7
+STU20260236,Siddharth Chowdary,2026-2027,Current,Programming Fundamentals,57,32,56.1
+STU20260237,Deepika Joshi,2026-2027,Current,Engineering Mechanics,36,29,80.6
+STU20260237,Deepika Joshi,2026-2027,Current,Thermodynamics,58,43,74.1
+STU20260237,Deepika Joshi,2026-2027,Current,Manufacturing Processes,42,30,71.4
+STU20260237,Deepika Joshi,2026-2027,Current,CAD/CAM,52,42,80.8
+STU20260237,Deepika Joshi,2026-2027,Current,Materials Science,33,21,63.6
+STU20260238,Yamini Varma,2026-2027,Current,Data Structures,36,33,91.7
+STU20260238,Yamini Varma,2026-2027,Current,Database Management Systems,58,39,67.2
+STU20260238,Yamini Varma,2026-2027,Current,Operating Systems,36,35,97.2
+STU20260238,Yamini Varma,2026-2027,Current,Computer Networks,33,28,84.8
+STU20260238,Yamini Varma,2026-2027,Current,Software Engineering,41,33,80.5
+STU20260239,Sanjana Gupta,2026-2027,Current,Web Technologies,55,47,85.5
+STU20260239,Sanjana Gupta,2026-2027,Current,Database Management Systems,29,25,86.2
+STU20260239,Sanjana Gupta,2026-2027,Current,Computer Networks,55,45,81.8
+STU20260239,Sanjana Gupta,2026-2027,Current,Software Engineering,55,54,98.2
+STU20260239,Sanjana Gupta,2026-2027,Current,Cloud Computing,60,52,86.7
+STU20260240,Manoj Mishra,2026-2027,Current,Data Structures,43,24,55.8
+STU20260240,Manoj Mishra,2026-2027,Current,Database Management Systems,38,29,76.3
+STU20260240,Manoj Mishra,2026-2027,Current,Operating Systems,60,46,76.7
+STU20260240,Manoj Mishra,2026-2027,Current,Computer Networks,39,24,61.5
+STU20260240,Manoj Mishra,2026-2027,Current,Software Engineering,39,27,69.2
+STU20260241,Vijay Khan,2026-2027,Current,Python Programming,50,35,70.0
+STU20260241,Vijay Khan,2026-2027,Current,Statistics for AI,28,23,82.1
+STU20260241,Vijay Khan,2026-2027,Current,Machine Learning,57,47,82.5
+STU20260241,Vijay Khan,2026-2027,Current,Deep Learning,54,43,79.6
+STU20260241,Vijay Khan,2026-2027,Current,Data Mining,53,47,88.7
+STU20260242,Sneha Murthy,2026-2027,Current,Python Programming,32,25,78.1
+STU20260242,Sneha Murthy,2026-2027,Current,Statistics for AI,29,23,79.3
+STU20260242,Sneha Murthy,2026-2027,Current,Machine Learning,39,32,82.1
+STU20260242,Sneha Murthy,2026-2027,Current,Deep Learning,29,21,72.4
+STU20260242,Sneha Murthy,2026-2027,Current,Data Mining,60,60,100.0
+STU20260243,Rohan Khan,2026-2027,Current,Data Structures,32,22,68.8
+STU20260243,Rohan Khan,2026-2027,Current,Database Management Systems,60,40,66.7
+STU20260243,Rohan Khan,2026-2027,Current,Operating Systems,50,32,64.0
+STU20260243,Rohan Khan,2026-2027,Current,Computer Networks,51,27,52.9
+STU20260243,Rohan Khan,2026-2027,Current,Software Engineering,60,40,66.7
+STU20260244,Manoj Babu,2026-2027,Current,Engineering Mechanics,30,29,96.7
+STU20260244,Manoj Babu,2026-2027,Current,Thermodynamics,49,44,89.8
+STU20260244,Manoj Babu,2026-2027,Current,Manufacturing Processes,28,20,71.4
+STU20260244,Manoj Babu,2026-2027,Current,CAD/CAM,39,39,100.0
+STU20260244,Manoj Babu,2026-2027,Current,Materials Science,49,43,87.8
+STU20260245,Teja Sharma,2026-2027,Current,Python Programming,58,40,69.0
+STU20260245,Teja Sharma,2026-2027,Current,Statistics for AI,33,24,72.7
+STU20260245,Teja Sharma,2026-2027,Current,Machine Learning,55,40,72.7
+STU20260245,Teja Sharma,2026-2027,Current,Deep Learning,39,27,69.2
+STU20260245,Teja Sharma,2026-2027,Current,Data Mining,46,36,78.3
+STU20260246,Sneha Mohanty,2026-2027,Current,Data Structures,57,57,100.0
+STU20260246,Sneha Mohanty,2026-2027,Current,Database Management Systems,30,25,83.3
+STU20260246,Sneha Mohanty,2026-2027,Current,Operating Systems,34,24,70.6
+STU20260246,Sneha Mohanty,2026-2027,Current,Computer Networks,43,43,100.0
+STU20260246,Sneha Mohanty,2026-2027,Current,Software Engineering,44,44,100.0
+STU20260247,Divya Mohanty,2026-2027,Current,Data Structures,31,21,67.7
+STU20260247,Divya Mohanty,2026-2027,Current,Database Management Systems,41,26,63.4
+STU20260247,Divya Mohanty,2026-2027,Current,Operating Systems,40,27,67.5
+STU20260247,Divya Mohanty,2026-2027,Current,Computer Networks,35,29,82.9
+STU20260247,Divya Mohanty,2026-2027,Current,Software Engineering,41,26,63.4
+STU20260248,Yamini Singh,2026-2027,Current,Electrical Machines,32,23,71.9
+STU20260248,Yamini Singh,2026-2027,Current,Power Systems,57,56,98.2
+STU20260248,Yamini Singh,2026-2027,Current,Control Systems,55,52,94.5
+STU20260248,Yamini Singh,2026-2027,Current,Circuit Theory,55,47,85.5
+STU20260248,Yamini Singh,2026-2027,Current,Programming Fundamentals,51,38,74.5
+STU20260249,Madhavi Mishra,2026-2027,Current,Web Technologies,55,34,61.8
+STU20260249,Madhavi Mishra,2026-2027,Current,Database Management Systems,29,25,86.2
+STU20260249,Madhavi Mishra,2026-2027,Current,Computer Networks,29,23,79.3
+STU20260249,Madhavi Mishra,2026-2027,Current,Software Engineering,48,42,87.5
+STU20260249,Madhavi Mishra,2026-2027,Current,Cloud Computing,48,36,75.0
+STU20260250,Madhavi Reddy,2026-2027,Current,Engineering Mechanics,54,43,79.6
+STU20260250,Madhavi Reddy,2026-2027,Current,Thermodynamics,28,27,96.4
+STU20260250,Madhavi Reddy,2026-2027,Current,Manufacturing Processes,50,49,98.0
+STU20260250,Madhavi Reddy,2026-2027,Current,CAD/CAM,39,39,100.0
+STU20260250,Madhavi Reddy,2026-2027,Current,Materials Science,58,52,89.7
+STU20260251,Sai Prasad,2026-2027,Current,Digital Electronics,29,22,75.9
+STU20260251,Sai Prasad,2026-2027,Current,Signals and Systems,41,38,92.7
+STU20260251,Sai Prasad,2026-2027,Current,Embedded Systems,35,25,71.4
+STU20260251,Sai Prasad,2026-2027,Current,Computer Networks,55,32,58.2
+STU20260251,Sai Prasad,2026-2027,Current,Microprocessors,44,30,68.2
+STU20260252,Nikhil Jain,2026-2027,Current,Electrical Machines,50,32,64.0
+STU20260252,Nikhil Jain,2026-2027,Current,Power Systems,34,19,55.9
+STU20260252,Nikhil Jain,2026-2027,Current,Control Systems,31,17,54.8
+STU20260252,Nikhil Jain,2026-2027,Current,Circuit Theory,51,30,58.8
+STU20260252,Nikhil Jain,2026-2027,Current,Programming Fundamentals,54,28,51.9
+STU20260253,Rahul Sahu,2026-2027,Current,Data Structures,59,59,100.0
+STU20260253,Rahul Sahu,2026-2027,Current,Database Management Systems,45,38,84.4
+STU20260253,Rahul Sahu,2026-2027,Current,Operating Systems,48,48,100.0
+STU20260253,Rahul Sahu,2026-2027,Current,Computer Networks,40,40,100.0
+STU20260253,Rahul Sahu,2026-2027,Current,Software Engineering,39,39,100.0
+STU20260254,Kavya Babu,2026-2027,Current,Structural Analysis,60,59,98.3
+STU20260254,Kavya Babu,2026-2027,Current,Surveying,33,25,75.8
+STU20260254,Kavya Babu,2026-2027,Current,Geotechnical Engineering,44,30,68.2
+STU20260254,Kavya Babu,2026-2027,Current,Transportation Engineering,52,37,71.2
+STU20260254,Kavya Babu,2026-2027,Current,Environmental Engineering,47,44,93.6
+STU20260255,Lakshmi Gupta,2026-2027,Current,Web Technologies,51,46,90.2
+STU20260255,Lakshmi Gupta,2026-2027,Current,Database Management Systems,57,48,84.2
+STU20260255,Lakshmi Gupta,2026-2027,Current,Computer Networks,50,50,100.0
+STU20260255,Lakshmi Gupta,2026-2027,Current,Software Engineering,34,34,100.0
+STU20260255,Lakshmi Gupta,2026-2027,Current,Cloud Computing,48,43,89.6
+STU20260256,Harsha Goud,2026-2027,Current,Digital Electronics,45,25,55.6
+STU20260256,Harsha Goud,2026-2027,Current,Signals and Systems,34,24,70.6
+STU20260256,Harsha Goud,2026-2027,Current,Embedded Systems,57,36,63.2
+STU20260256,Harsha Goud,2026-2027,Current,Computer Networks,41,18,43.9
+STU20260256,Harsha Goud,2026-2027,Current,Microprocessors,46,27,58.7
+STU20260257,Anil Verma,2026-2027,Current,Digital Electronics,37,35,94.6
+STU20260257,Anil Verma,2026-2027,Current,Signals and Systems,52,46,88.5
+STU20260257,Anil Verma,2026-2027,Current,Embedded Systems,50,39,78.0
+STU20260257,Anil Verma,2026-2027,Current,Computer Networks,46,36,78.3
+STU20260257,Anil Verma,2026-2027,Current,Microprocessors,38,31,81.6
+STU20260258,Meera Devi,2026-2027,Current,Electrical Machines,29,12,41.4
+STU20260258,Meera Devi,2026-2027,Current,Power Systems,46,30,65.2
+STU20260258,Meera Devi,2026-2027,Current,Control Systems,56,25,44.6
+STU20260258,Meera Devi,2026-2027,Current,Circuit Theory,35,16,45.7
+STU20260258,Meera Devi,2026-2027,Current,Programming Fundamentals,34,18,52.9
+STU20260259,Sandeep Kashyap,2026-2027,Current,Data Structures,42,31,73.8
+STU20260259,Sandeep Kashyap,2026-2027,Current,Database Management Systems,29,22,75.9
+STU20260259,Sandeep Kashyap,2026-2027,Current,Operating Systems,47,36,76.6
+STU20260259,Sandeep Kashyap,2026-2027,Current,Computer Networks,51,38,74.5
+STU20260259,Sandeep Kashyap,2026-2027,Current,Software Engineering,59,44,74.6
+STU20260260,Kavya Devi,2026-2027,Current,Data Structures,32,24,75.0
+STU20260260,Kavya Devi,2026-2027,Current,Database Management Systems,49,29,59.2
+STU20260260,Kavya Devi,2026-2027,Current,Operating Systems,32,24,75.0
+STU20260260,Kavya Devi,2026-2027,Current,Computer Networks,48,38,79.2
+STU20260260,Kavya Devi,2026-2027,Current,Software Engineering,49,38,77.6
+STU20260261,Abhinav Rao,2026-2027,Current,Electrical Machines,43,27,62.8
+STU20260261,Abhinav Rao,2026-2027,Current,Power Systems,52,37,71.2
+STU20260261,Abhinav Rao,2026-2027,Current,Control Systems,51,30,58.8
+STU20260261,Abhinav Rao,2026-2027,Current,Circuit Theory,56,29,51.8
+STU20260261,Abhinav Rao,2026-2027,Current,Programming Fundamentals,37,25,67.6
+STU20260262,Sandeep Khan,2026-2027,Current,Electrical Machines,37,27,73.0
+STU20260262,Sandeep Khan,2026-2027,Current,Power Systems,28,28,100.0
+STU20260262,Sandeep Khan,2026-2027,Current,Control Systems,50,46,92.0
+STU20260262,Sandeep Khan,2026-2027,Current,Circuit Theory,59,50,84.7
+STU20260262,Sandeep Khan,2026-2027,Current,Programming Fundamentals,42,38,90.5
+STU20260263,Pooja Nair,2026-2027,Current,Structural Analysis,29,22,75.9
+STU20260263,Pooja Nair,2026-2027,Current,Surveying,57,50,87.7
+STU20260263,Pooja Nair,2026-2027,Current,Geotechnical Engineering,46,38,82.6
+STU20260263,Pooja Nair,2026-2027,Current,Transportation Engineering,60,43,71.7
+STU20260263,Pooja Nair,2026-2027,Current,Environmental Engineering,53,36,67.9
+STU20260264,Veda Shetty,2026-2027,Current,Web Technologies,33,33,100.0
+STU20260264,Veda Shetty,2026-2027,Current,Database Management Systems,37,37,100.0
+STU20260264,Veda Shetty,2026-2027,Current,Computer Networks,42,42,100.0
+STU20260264,Veda Shetty,2026-2027,Current,Software Engineering,39,39,100.0
+STU20260264,Veda Shetty,2026-2027,Current,Cloud Computing,32,32,100.0
+STU20260265,Neha Das,2026-2027,Current,Data Structures,36,29,80.6
+STU20260265,Neha Das,2026-2027,Current,Database Management Systems,47,28,59.6
+STU20260265,Neha Das,2026-2027,Current,Operating Systems,60,47,78.3
+STU20260265,Neha Das,2026-2027,Current,Computer Networks,28,22,78.6
+STU20260265,Neha Das,2026-2027,Current,Software Engineering,28,23,82.1
+STU20260266,Aarav Shetty,2026-2027,Current,Electrical Machines,41,30,73.2
+STU20260266,Aarav Shetty,2026-2027,Current,Power Systems,55,36,65.5
+STU20260266,Aarav Shetty,2026-2027,Current,Control Systems,56,42,75.0
+STU20260266,Aarav Shetty,2026-2027,Current,Circuit Theory,38,26,68.4
+STU20260266,Aarav Shetty,2026-2027,Current,Programming Fundamentals,53,37,69.8
+STU20260267,Sai Singh,2026-2027,Current,Web Technologies,47,45,95.7
+STU20260267,Sai Singh,2026-2027,Current,Database Management Systems,33,31,93.9
+STU20260267,Sai Singh,2026-2027,Current,Computer Networks,34,34,100.0
+STU20260267,Sai Singh,2026-2027,Current,Software Engineering,37,32,86.5
+STU20260267,Sai Singh,2026-2027,Current,Cloud Computing,35,31,88.6
+STU20260268,Meera Rao,2026-2027,Current,Data Structures,47,44,93.6
+STU20260268,Meera Rao,2026-2027,Current,Database Management Systems,59,41,69.5
+STU20260268,Meera Rao,2026-2027,Current,Operating Systems,31,31,100.0
+STU20260268,Meera Rao,2026-2027,Current,Computer Networks,31,28,90.3
+STU20260268,Meera Rao,2026-2027,Current,Software Engineering,32,26,81.2
+STU20260269,Manoj Shetty,2026-2027,Current,Python Programming,52,35,67.3
+STU20260269,Manoj Shetty,2026-2027,Current,Statistics for AI,37,27,73.0
+STU20260269,Manoj Shetty,2026-2027,Current,Machine Learning,56,46,82.1
+STU20260269,Manoj Shetty,2026-2027,Current,Deep Learning,28,23,82.1
+STU20260269,Manoj Shetty,2026-2027,Current,Data Mining,44,32,72.7
+STU20260270,Srinivas Goud,2026-2027,Current,Data Structures,36,28,77.8
+STU20260270,Srinivas Goud,2026-2027,Current,Database Management Systems,46,25,54.3
+STU20260270,Srinivas Goud,2026-2027,Current,Operating Systems,32,24,75.0
+STU20260270,Srinivas Goud,2026-2027,Current,Computer Networks,43,38,88.4
+STU20260270,Srinivas Goud,2026-2027,Current,Software Engineering,44,32,72.7
+STU20260271,Pranav Babu,2026-2027,Current,Digital Electronics,31,26,83.9
+STU20260271,Pranav Babu,2026-2027,Current,Signals and Systems,56,37,66.1
+STU20260271,Pranav Babu,2026-2027,Current,Embedded Systems,28,23,82.1
+STU20260271,Pranav Babu,2026-2027,Current,Computer Networks,55,47,85.5
+STU20260271,Pranav Babu,2026-2027,Current,Microprocessors,38,20,52.6
+STU20260272,Harsha Jain,2026-2027,Current,Digital Electronics,36,28,77.8
+STU20260272,Harsha Jain,2026-2027,Current,Signals and Systems,41,39,95.1
+STU20260272,Harsha Jain,2026-2027,Current,Embedded Systems,29,26,89.7
+STU20260272,Harsha Jain,2026-2027,Current,Computer Networks,60,50,83.3
+STU20260272,Harsha Jain,2026-2027,Current,Microprocessors,44,42,95.5
+STU20260273,Deepika Patel,2026-2027,Current,Python Programming,30,28,93.3
+STU20260273,Deepika Patel,2026-2027,Current,Statistics for AI,36,27,75.0
+STU20260273,Deepika Patel,2026-2027,Current,Machine Learning,54,49,90.7
+STU20260273,Deepika Patel,2026-2027,Current,Deep Learning,51,49,96.1
+STU20260273,Deepika Patel,2026-2027,Current,Data Mining,36,36,100.0
+STU20260274,Aadhya Singh,2026-2027,Current,Electrical Machines,29,14,48.3
+STU20260274,Aadhya Singh,2026-2027,Current,Power Systems,53,28,52.8
+STU20260274,Aadhya Singh,2026-2027,Current,Control Systems,36,24,66.7
+STU20260274,Aadhya Singh,2026-2027,Current,Circuit Theory,30,21,70.0
+STU20260274,Aadhya Singh,2026-2027,Current,Programming Fundamentals,39,27,69.2
+STU20260275,Siddharth Jain,2026-2027,Current,Python Programming,30,27,90.0
+STU20260275,Siddharth Jain,2026-2027,Current,Statistics for AI,28,23,82.1
+STU20260275,Siddharth Jain,2026-2027,Current,Machine Learning,43,38,88.4
+STU20260275,Siddharth Jain,2026-2027,Current,Deep Learning,51,51,100.0
+STU20260275,Siddharth Jain,2026-2027,Current,Data Mining,54,44,81.5
+STU20260276,Avani Joshi,2026-2027,Current,Web Technologies,45,28,62.2
+STU20260276,Avani Joshi,2026-2027,Current,Database Management Systems,28,15,53.6
+STU20260276,Avani Joshi,2026-2027,Current,Computer Networks,54,34,63.0
+STU20260276,Avani Joshi,2026-2027,Current,Software Engineering,58,35,60.3
+STU20260276,Avani Joshi,2026-2027,Current,Cloud Computing,40,16,40.0
+STU20260277,Arjun Kashyap,2026-2027,Current,Data Structures,50,30,60.0
+STU20260277,Arjun Kashyap,2026-2027,Current,Database Management Systems,29,17,58.6
+STU20260277,Arjun Kashyap,2026-2027,Current,Operating Systems,46,28,60.9
+STU20260277,Arjun Kashyap,2026-2027,Current,Computer Networks,60,34,56.7
+STU20260277,Arjun Kashyap,2026-2027,Current,Software Engineering,43,31,72.1
+STU20260278,Avani Joshi,2026-2027,Current,Digital Electronics,43,31,72.1
+STU20260278,Avani Joshi,2026-2027,Current,Signals and Systems,49,38,77.6
+STU20260278,Avani Joshi,2026-2027,Current,Embedded Systems,44,24,54.5
+STU20260278,Avani Joshi,2026-2027,Current,Computer Networks,55,41,74.5
+STU20260278,Avani Joshi,2026-2027,Current,Microprocessors,46,33,71.7
+STU20260279,Teja Mohanty,2026-2027,Current,Electrical Machines,36,18,50.0
+STU20260279,Teja Mohanty,2026-2027,Current,Power Systems,34,19,55.9
+STU20260279,Teja Mohanty,2026-2027,Current,Control Systems,48,31,64.6
+STU20260279,Teja Mohanty,2026-2027,Current,Circuit Theory,52,24,46.2
+STU20260279,Teja Mohanty,2026-2027,Current,Programming Fundamentals,46,29,63.0
+STU20260280,Tarun Devi,2026-2027,Current,Python Programming,59,37,62.7
+STU20260280,Tarun Devi,2026-2027,Current,Statistics for AI,53,31,58.5
+STU20260280,Tarun Devi,2026-2027,Current,Machine Learning,29,22,75.9
+STU20260280,Tarun Devi,2026-2027,Current,Deep Learning,33,24,72.7
+STU20260280,Tarun Devi,2026-2027,Current,Data Mining,33,20,60.6
+STU20260281,Vijay Singh,2026-2027,Current,Data Structures,45,31,68.9
+STU20260281,Vijay Singh,2026-2027,Current,Database Management Systems,42,33,78.6
+STU20260281,Vijay Singh,2026-2027,Current,Operating Systems,31,28,90.3
+STU20260281,Vijay Singh,2026-2027,Current,Computer Networks,43,39,90.7
+STU20260281,Vijay Singh,2026-2027,Current,Software Engineering,55,45,81.8
+STU20260282,Charan Kashyap,2026-2027,Current,Web Technologies,38,30,78.9
+STU20260282,Charan Kashyap,2026-2027,Current,Database Management Systems,59,49,83.1
+STU20260282,Charan Kashyap,2026-2027,Current,Computer Networks,56,44,78.6
+STU20260282,Charan Kashyap,2026-2027,Current,Software Engineering,47,36,76.6
+STU20260282,Charan Kashyap,2026-2027,Current,Cloud Computing,53,41,77.4
+STU20260283,Sanjana Jain,2026-2027,Current,Digital Electronics,59,43,72.9
+STU20260283,Sanjana Jain,2026-2027,Current,Signals and Systems,28,20,71.4
+STU20260283,Sanjana Jain,2026-2027,Current,Embedded Systems,54,36,66.7
+STU20260283,Sanjana Jain,2026-2027,Current,Computer Networks,44,32,72.7
+STU20260283,Sanjana Jain,2026-2027,Current,Microprocessors,49,37,75.5
+STU20260284,Ananya Prasad,2026-2027,Current,Web Technologies,45,39,86.7
+STU20260284,Ananya Prasad,2026-2027,Current,Database Management Systems,56,49,87.5
+STU20260284,Ananya Prasad,2026-2027,Current,Computer Networks,33,24,72.7
+STU20260284,Ananya Prasad,2026-2027,Current,Software Engineering,53,49,92.5
+STU20260284,Ananya Prasad,2026-2027,Current,Cloud Computing,37,35,94.6
+STU20260285,Divya Varma,2026-2027,Current,Engineering Mechanics,42,31,73.8
+STU20260285,Divya Varma,2026-2027,Current,Thermodynamics,57,34,59.6
+STU20260285,Divya Varma,2026-2027,Current,Manufacturing Processes,30,20,66.7
+STU20260285,Divya Varma,2026-2027,Current,CAD/CAM,60,36,60.0
+STU20260285,Divya Varma,2026-2027,Current,Materials Science,31,18,58.1
+STU20260286,Rohan Jain,2026-2027,Current,Data Structures,41,36,87.8
+STU20260286,Rohan Jain,2026-2027,Current,Database Management Systems,34,34,100.0
+STU20260286,Rohan Jain,2026-2027,Current,Operating Systems,59,47,79.7
+STU20260286,Rohan Jain,2026-2027,Current,Computer Networks,31,27,87.1
+STU20260286,Rohan Jain,2026-2027,Current,Software Engineering,60,44,73.3
+STU20260287,Srinivas Rao,2026-2027,Current,Digital Electronics,60,37,61.7
+STU20260287,Srinivas Rao,2026-2027,Current,Signals and Systems,48,34,70.8
+STU20260287,Srinivas Rao,2026-2027,Current,Embedded Systems,43,31,72.1
+STU20260287,Srinivas Rao,2026-2027,Current,Computer Networks,37,30,81.1
+STU20260287,Srinivas Rao,2026-2027,Current,Microprocessors,49,38,77.6
+STU20260288,Naveen Das,2026-2027,Current,Data Structures,28,23,82.1
+STU20260288,Naveen Das,2026-2027,Current,Database Management Systems,30,29,96.7
+STU20260288,Naveen Das,2026-2027,Current,Operating Systems,48,42,87.5
+STU20260288,Naveen Das,2026-2027,Current,Computer Networks,45,41,91.1
+STU20260288,Naveen Das,2026-2027,Current,Software Engineering,45,38,84.4
+STU20260289,Harsha Joshi,2026-2027,Current,Data Structures,28,18,64.3
+STU20260289,Harsha Joshi,2026-2027,Current,Database Management Systems,49,21,42.9
+STU20260289,Harsha Joshi,2026-2027,Current,Operating Systems,41,30,73.2
+STU20260289,Harsha Joshi,2026-2027,Current,Computer Networks,31,20,64.5
+STU20260289,Harsha Joshi,2026-2027,Current,Software Engineering,32,25,78.1
+STU20260290,Bhavana Raju,2026-2027,Current,Electrical Machines,43,29,67.4
+STU20260290,Bhavana Raju,2026-2027,Current,Power Systems,38,17,44.7
+STU20260290,Bhavana Raju,2026-2027,Current,Control Systems,38,22,57.9
+STU20260290,Bhavana Raju,2026-2027,Current,Circuit Theory,36,18,50.0
+STU20260290,Bhavana Raju,2026-2027,Current,Programming Fundamentals,45,28,62.2
+STU20260291,Sneha Das,2026-2027,Current,Data Structures,40,37,92.5
+STU20260291,Sneha Das,2026-2027,Current,Database Management Systems,57,46,80.7
+STU20260291,Sneha Das,2026-2027,Current,Operating Systems,32,28,87.5
+STU20260291,Sneha Das,2026-2027,Current,Computer Networks,42,42,100.0
+STU20260291,Sneha Das,2026-2027,Current,Software Engineering,42,42,100.0
+STU20260292,Harsha Gupta,2026-2027,Current,Data Structures,39,37,94.9
+STU20260292,Harsha Gupta,2026-2027,Current,Database Management Systems,35,32,91.4
+STU20260292,Harsha Gupta,2026-2027,Current,Operating Systems,45,43,95.6
+STU20260292,Harsha Gupta,2026-2027,Current,Computer Networks,41,41,100.0
+STU20260292,Harsha Gupta,2026-2027,Current,Software Engineering,40,37,92.5
+STU20260293,Keerthi Rao,2026-2027,Current,Data Structures,49,23,46.9
+STU20260293,Keerthi Rao,2026-2027,Current,Database Management Systems,39,28,71.8
+STU20260293,Keerthi Rao,2026-2027,Current,Operating Systems,47,35,74.5
+STU20260293,Keerthi Rao,2026-2027,Current,Computer Networks,54,34,63.0
+STU20260293,Keerthi Rao,2026-2027,Current,Software Engineering,59,42,71.2
+STU20260294,Aadhya Chowdary,2026-2027,Current,Python Programming,51,32,62.7
+STU20260294,Aadhya Chowdary,2026-2027,Current,Statistics for AI,35,28,80.0
+STU20260294,Aadhya Chowdary,2026-2027,Current,Machine Learning,51,46,90.2
+STU20260294,Aadhya Chowdary,2026-2027,Current,Deep Learning,54,42,77.8
+STU20260294,Aadhya Chowdary,2026-2027,Current,Data Mining,37,31,83.8
+STU20260295,Avani Khan,2026-2027,Current,Engineering Mechanics,32,22,68.8
+STU20260295,Avani Khan,2026-2027,Current,Thermodynamics,49,49,100.0
+STU20260295,Avani Khan,2026-2027,Current,Manufacturing Processes,37,32,86.5
+STU20260295,Avani Khan,2026-2027,Current,CAD/CAM,34,26,76.5
+STU20260295,Avani Khan,2026-2027,Current,Materials Science,57,41,71.9
+STU20260296,Pranav Rao,2026-2027,Current,Data Structures,59,45,76.3
+STU20260296,Pranav Rao,2026-2027,Current,Database Management Systems,44,34,77.3
+STU20260296,Pranav Rao,2026-2027,Current,Operating Systems,59,56,94.9
+STU20260296,Pranav Rao,2026-2027,Current,Computer Networks,30,26,86.7
+STU20260296,Pranav Rao,2026-2027,Current,Software Engineering,60,51,85.0
+STU20260297,Nandini Verma,2026-2027,Current,Python Programming,43,32,74.4
+STU20260297,Nandini Verma,2026-2027,Current,Statistics for AI,48,35,72.9
+STU20260297,Nandini Verma,2026-2027,Current,Machine Learning,43,33,76.7
+STU20260297,Nandini Verma,2026-2027,Current,Deep Learning,50,32,64.0
+STU20260297,Nandini Verma,2026-2027,Current,Data Mining,35,25,71.4
+STU20260298,Neha Das,2026-2027,Current,Engineering Mechanics,50,48,96.0
+STU20260298,Neha Das,2026-2027,Current,Thermodynamics,40,31,77.5
+STU20260298,Neha Das,2026-2027,Current,Manufacturing Processes,33,26,78.8
+STU20260298,Neha Das,2026-2027,Current,CAD/CAM,59,58,98.3
+STU20260298,Neha Das,2026-2027,Current,Materials Science,52,42,80.8
+STU20260299,Veda Mishra,2026-2027,Current,Engineering Mechanics,37,28,75.7
+STU20260299,Veda Mishra,2026-2027,Current,Thermodynamics,54,31,57.4
+STU20260299,Veda Mishra,2026-2027,Current,Manufacturing Processes,55,42,76.4
+STU20260299,Veda Mishra,2026-2027,Current,CAD/CAM,57,39,68.4
+STU20260299,Veda Mishra,2026-2027,Current,Materials Science,41,36,87.8
+STU20260300,Dev Sahu,2026-2027,Current,Python Programming,43,39,90.7
+STU20260300,Dev Sahu,2026-2027,Current,Statistics for AI,41,30,73.2
+STU20260300,Dev Sahu,2026-2027,Current,Machine Learning,40,29,72.5
+STU20260300,Dev Sahu,2026-2027,Current,Deep Learning,29,26,89.7
+STU20260300,Dev Sahu,2026-2027,Current,Data Mining,44,44,100.0
+STU20260301,Keerthi Yadav,2026-2027,Current,Engineering Mechanics,53,39,73.6
+STU20260301,Keerthi Yadav,2026-2027,Current,Thermodynamics,46,32,69.6
+STU20260301,Keerthi Yadav,2026-2027,Current,Manufacturing Processes,34,24,70.6
+STU20260301,Keerthi Yadav,2026-2027,Current,CAD/CAM,29,23,79.3
+STU20260301,Keerthi Yadav,2026-2027,Current,Materials Science,28,19,67.9
+STU20260302,Riya Patel,2026-2027,Current,Data Structures,41,41,100.0
+STU20260302,Riya Patel,2026-2027,Current,Database Management Systems,36,36,100.0
+STU20260302,Riya Patel,2026-2027,Current,Operating Systems,59,59,100.0
+STU20260302,Riya Patel,2026-2027,Current,Computer Networks,34,34,100.0
+STU20260302,Riya Patel,2026-2027,Current,Software Engineering,52,50,96.2
+STU20260303,Vijay Gupta,2026-2027,Current,Web Technologies,60,60,100.0
+STU20260303,Vijay Gupta,2026-2027,Current,Database Management Systems,42,28,66.7
+STU20260303,Vijay Gupta,2026-2027,Current,Computer Networks,57,45,78.9
+STU20260303,Vijay Gupta,2026-2027,Current,Software Engineering,50,39,78.0
+STU20260303,Vijay Gupta,2026-2027,Current,Cloud Computing,52,43,82.7
+STU20260304,Naveen Iyer,2026-2027,Current,Python Programming,47,37,78.7
+STU20260304,Naveen Iyer,2026-2027,Current,Statistics for AI,45,45,100.0
+STU20260304,Naveen Iyer,2026-2027,Current,Machine Learning,33,31,93.9
+STU20260304,Naveen Iyer,2026-2027,Current,Deep Learning,28,28,100.0
+STU20260304,Naveen Iyer,2026-2027,Current,Data Mining,38,31,81.6
+STU20260305,Neha Nair,2026-2027,Current,Data Structures,56,47,83.9
+STU20260305,Neha Nair,2026-2027,Current,Database Management Systems,52,43,82.7
+STU20260305,Neha Nair,2026-2027,Current,Operating Systems,51,34,66.7
+STU20260305,Neha Nair,2026-2027,Current,Computer Networks,50,39,78.0
+STU20260305,Neha Nair,2026-2027,Current,Software Engineering,55,39,70.9
+STU20260306,Pranav Nair,2026-2027,Current,Python Programming,39,35,89.7
+STU20260306,Pranav Nair,2026-2027,Current,Statistics for AI,57,42,73.7
+STU20260306,Pranav Nair,2026-2027,Current,Machine Learning,29,22,75.9
+STU20260306,Pranav Nair,2026-2027,Current,Deep Learning,35,24,68.6
+STU20260306,Pranav Nair,2026-2027,Current,Data Mining,35,28,80.0
+STU20260307,Chaitanya Reddy,2026-2027,Current,Digital Electronics,36,36,100.0
+STU20260307,Chaitanya Reddy,2026-2027,Current,Signals and Systems,55,53,96.4
+STU20260307,Chaitanya Reddy,2026-2027,Current,Embedded Systems,58,38,65.5
+STU20260307,Chaitanya Reddy,2026-2027,Current,Computer Networks,52,48,92.3
+STU20260307,Chaitanya Reddy,2026-2027,Current,Microprocessors,32,32,100.0
+STU20260308,Veda Gupta,2026-2027,Current,Python Programming,42,32,76.2
+STU20260308,Veda Gupta,2026-2027,Current,Statistics for AI,37,22,59.5
+STU20260308,Veda Gupta,2026-2027,Current,Machine Learning,38,26,68.4
+STU20260308,Veda Gupta,2026-2027,Current,Deep Learning,43,30,69.8
+STU20260308,Veda Gupta,2026-2027,Current,Data Mining,50,24,48.0
+STU20260309,Ananya Murthy,2026-2027,Current,Web Technologies,40,40,100.0
+STU20260309,Ananya Murthy,2026-2027,Current,Database Management Systems,55,46,83.6
+STU20260309,Ananya Murthy,2026-2027,Current,Computer Networks,33,25,75.8
+STU20260309,Ananya Murthy,2026-2027,Current,Software Engineering,46,46,100.0
+STU20260309,Ananya Murthy,2026-2027,Current,Cloud Computing,57,54,94.7
+STU20260310,Kavya Prasad,2026-2027,Current,Python Programming,30,22,73.3
+STU20260310,Kavya Prasad,2026-2027,Current,Statistics for AI,32,15,46.9
+STU20260310,Kavya Prasad,2026-2027,Current,Machine Learning,33,26,78.8
+STU20260310,Kavya Prasad,2026-2027,Current,Deep Learning,55,38,69.1
+STU20260310,Kavya Prasad,2026-2027,Current,Data Mining,40,25,62.5
+STU20260311,Keerthi Naidu,2026-2027,Current,Data Structures,41,17,41.5
+STU20260311,Keerthi Naidu,2026-2027,Current,Database Management Systems,30,15,50.0
+STU20260311,Keerthi Naidu,2026-2027,Current,Operating Systems,46,24,52.2
+STU20260311,Keerthi Naidu,2026-2027,Current,Computer Networks,53,32,60.4
+STU20260311,Keerthi Naidu,2026-2027,Current,Software Engineering,38,27,71.1
+STU20260312,Kavya Joshi,2026-2027,Current,Web Technologies,56,51,91.1
+STU20260312,Kavya Joshi,2026-2027,Current,Database Management Systems,37,32,86.5
+STU20260312,Kavya Joshi,2026-2027,Current,Computer Networks,53,33,62.3
+STU20260312,Kavya Joshi,2026-2027,Current,Software Engineering,44,34,77.3
+STU20260312,Kavya Joshi,2026-2027,Current,Cloud Computing,38,32,84.2
+STU20260313,Krishna Sahu,2026-2027,Current,Data Structures,50,43,86.0
+STU20260313,Krishna Sahu,2026-2027,Current,Database Management Systems,56,42,75.0
+STU20260313,Krishna Sahu,2026-2027,Current,Operating Systems,41,26,63.4
+STU20260313,Krishna Sahu,2026-2027,Current,Computer Networks,60,45,75.0
+STU20260313,Krishna Sahu,2026-2027,Current,Software Engineering,50,39,78.0
+STU20260314,Naveen Goud,2026-2027,Current,Web Technologies,35,25,71.4
+STU20260314,Naveen Goud,2026-2027,Current,Database Management Systems,50,43,86.0
+STU20260314,Naveen Goud,2026-2027,Current,Computer Networks,57,33,57.9
+STU20260314,Naveen Goud,2026-2027,Current,Software Engineering,45,31,68.9
+STU20260314,Naveen Goud,2026-2027,Current,Cloud Computing,45,30,66.7
+STU20260315,Krishna Reddy,2026-2027,Current,Engineering Mechanics,54,54,100.0
+STU20260315,Krishna Reddy,2026-2027,Current,Thermodynamics,60,53,88.3
+STU20260315,Krishna Reddy,2026-2027,Current,Manufacturing Processes,59,52,88.1
+STU20260315,Krishna Reddy,2026-2027,Current,CAD/CAM,60,57,95.0
+STU20260315,Krishna Reddy,2026-2027,Current,Materials Science,36,31,86.1
+STU20260316,Siddharth Babu,2026-2027,Current,Python Programming,48,31,64.6
+STU20260316,Siddharth Babu,2026-2027,Current,Statistics for AI,46,33,71.7
+STU20260316,Siddharth Babu,2026-2027,Current,Machine Learning,40,27,67.5
+STU20260316,Siddharth Babu,2026-2027,Current,Deep Learning,29,22,75.9
+STU20260316,Siddharth Babu,2026-2027,Current,Data Mining,48,34,70.8
+STU20260317,Varun Chowdary,2026-2027,Current,Python Programming,40,26,65.0
+STU20260317,Varun Chowdary,2026-2027,Current,Statistics for AI,40,24,60.0
+STU20260317,Varun Chowdary,2026-2027,Current,Machine Learning,31,18,58.1
+STU20260317,Varun Chowdary,2026-2027,Current,Deep Learning,30,17,56.7
+STU20260317,Varun Chowdary,2026-2027,Current,Data Mining,47,29,61.7
+STU20260318,Keerthi Kashyap,2026-2027,Current,Web Technologies,42,32,76.2
+STU20260318,Keerthi Kashyap,2026-2027,Current,Database Management Systems,48,37,77.1
+STU20260318,Keerthi Kashyap,2026-2027,Current,Computer Networks,57,54,94.7
+STU20260318,Keerthi Kashyap,2026-2027,Current,Software Engineering,31,23,74.2
+STU20260318,Keerthi Kashyap,2026-2027,Current,Cloud Computing,45,41,91.1
+STU20260319,Aditya Babu,2026-2027,Current,Electrical Machines,52,43,82.7
+STU20260319,Aditya Babu,2026-2027,Current,Power Systems,36,31,86.1
+STU20260319,Aditya Babu,2026-2027,Current,Control Systems,39,34,87.2
+STU20260319,Aditya Babu,2026-2027,Current,Circuit Theory,44,37,84.1
+STU20260319,Aditya Babu,2026-2027,Current,Programming Fundamentals,44,33,75.0
+STU20260320,Lakshmi Prasad,2026-2027,Current,Data Structures,42,39,92.9
+STU20260320,Lakshmi Prasad,2026-2027,Current,Database Management Systems,36,34,94.4
+STU20260320,Lakshmi Prasad,2026-2027,Current,Operating Systems,51,51,100.0
+STU20260320,Lakshmi Prasad,2026-2027,Current,Computer Networks,41,41,100.0
+STU20260320,Lakshmi Prasad,2026-2027,Current,Software Engineering,32,22,68.8
+STU20260321,Manoj Patel,2026-2027,Current,Python Programming,37,29,78.4
+STU20260321,Manoj Patel,2026-2027,Current,Statistics for AI,53,44,83.0
+STU20260321,Manoj Patel,2026-2027,Current,Machine Learning,30,23,76.7
+STU20260321,Manoj Patel,2026-2027,Current,Deep Learning,40,26,65.0
+STU20260321,Manoj Patel,2026-2027,Current,Data Mining,29,22,75.9
+STU20260322,Srinivas Joshi,2026-2027,Current,Data Structures,52,29,55.8
+STU20260322,Srinivas Joshi,2026-2027,Current,Database Management Systems,42,35,83.3
+STU20260322,Srinivas Joshi,2026-2027,Current,Operating Systems,48,33,68.8
+STU20260322,Srinivas Joshi,2026-2027,Current,Computer Networks,48,34,70.8
+STU20260322,Srinivas Joshi,2026-2027,Current,Software Engineering,38,33,86.8
+STU20260323,Arjun Devi,2026-2027,Current,Electrical Machines,44,29,65.9
+STU20260323,Arjun Devi,2026-2027,Current,Power Systems,40,19,47.5
+STU20260323,Arjun Devi,2026-2027,Current,Control Systems,34,24,70.6
+STU20260323,Arjun Devi,2026-2027,Current,Circuit Theory,50,31,62.0
+STU20260323,Arjun Devi,2026-2027,Current,Programming Fundamentals,42,25,59.5
+STU20260324,Deepika Jain,2026-2027,Current,Data Structures,40,28,70.0
+STU20260324,Deepika Jain,2026-2027,Current,Database Management Systems,33,25,75.8
+STU20260324,Deepika Jain,2026-2027,Current,Operating Systems,38,27,71.1
+STU20260324,Deepika Jain,2026-2027,Current,Computer Networks,56,47,83.9
+STU20260324,Deepika Jain,2026-2027,Current,Software Engineering,38,25,65.8
+STU20260325,Gowtham Pillai,2026-2027,Current,Digital Electronics,33,21,63.6
+STU20260325,Gowtham Pillai,2026-2027,Current,Signals and Systems,41,30,73.2
+STU20260325,Gowtham Pillai,2026-2027,Current,Embedded Systems,42,26,61.9
+STU20260325,Gowtham Pillai,2026-2027,Current,Computer Networks,55,44,80.0
+STU20260325,Gowtham Pillai,2026-2027,Current,Microprocessors,31,23,74.2
+STU20260326,Riya Jain,2026-2027,Current,Python Programming,37,35,94.6
+STU20260326,Riya Jain,2026-2027,Current,Statistics for AI,58,49,84.5
+STU20260326,Riya Jain,2026-2027,Current,Machine Learning,59,58,98.3
+STU20260326,Riya Jain,2026-2027,Current,Deep Learning,55,49,89.1
+STU20260326,Riya Jain,2026-2027,Current,Data Mining,28,25,89.3
+STU20260327,Sneha Jain,2026-2027,Current,Data Structures,48,28,58.3
+STU20260327,Sneha Jain,2026-2027,Current,Database Management Systems,37,20,54.1
+STU20260327,Sneha Jain,2026-2027,Current,Operating Systems,53,34,64.2
+STU20260327,Sneha Jain,2026-2027,Current,Computer Networks,40,21,52.5
+STU20260327,Sneha Jain,2026-2027,Current,Software Engineering,45,30,66.7
+STU20260328,Kavya Khan,2026-2027,Current,Engineering Mechanics,47,41,87.2
+STU20260328,Kavya Khan,2026-2027,Current,Thermodynamics,36,31,86.1
+STU20260328,Kavya Khan,2026-2027,Current,Manufacturing Processes,41,31,75.6
+STU20260328,Kavya Khan,2026-2027,Current,CAD/CAM,42,25,59.5
+STU20260328,Kavya Khan,2026-2027,Current,Materials Science,43,36,83.7
+STU20260329,Diya Verma,2026-2027,Current,Web Technologies,47,38,80.9
+STU20260329,Diya Verma,2026-2027,Current,Database Management Systems,48,33,68.8
+STU20260329,Diya Verma,2026-2027,Current,Computer Networks,48,28,58.3
+STU20260329,Diya Verma,2026-2027,Current,Software Engineering,37,24,64.9
+STU20260329,Diya Verma,2026-2027,Current,Cloud Computing,53,37,69.8
+STU20260330,Divya Naidu,2026-2027,Current,Digital Electronics,55,45,81.8
+STU20260330,Divya Naidu,2026-2027,Current,Signals and Systems,42,36,85.7
+STU20260330,Divya Naidu,2026-2027,Current,Embedded Systems,30,25,83.3
+STU20260330,Divya Naidu,2026-2027,Current,Computer Networks,43,31,72.1
+STU20260330,Divya Naidu,2026-2027,Current,Microprocessors,39,28,71.8
+STU20260331,Kiran Gupta,2026-2027,Current,Digital Electronics,45,33,73.3
+STU20260331,Kiran Gupta,2026-2027,Current,Signals and Systems,58,50,86.2
+STU20260331,Kiran Gupta,2026-2027,Current,Embedded Systems,55,54,98.2
+STU20260331,Kiran Gupta,2026-2027,Current,Computer Networks,59,44,74.6
+STU20260331,Kiran Gupta,2026-2027,Current,Microprocessors,39,36,92.3
+STU20260332,Neha Kumar,2026-2027,Current,Digital Electronics,34,17,50.0
+STU20260332,Neha Kumar,2026-2027,Current,Signals and Systems,53,40,75.5
+STU20260332,Neha Kumar,2026-2027,Current,Embedded Systems,57,37,64.9
+STU20260332,Neha Kumar,2026-2027,Current,Computer Networks,38,23,60.5
+STU20260332,Neha Kumar,2026-2027,Current,Microprocessors,55,41,74.5
+STU20260333,Naveen Kashyap,2026-2027,Current,Data Structures,50,23,46.0
+STU20260333,Naveen Kashyap,2026-2027,Current,Database Management Systems,51,23,45.1
+STU20260333,Naveen Kashyap,2026-2027,Current,Operating Systems,58,31,53.4
+STU20260333,Naveen Kashyap,2026-2027,Current,Computer Networks,43,25,58.1
+STU20260333,Naveen Kashyap,2026-2027,Current,Software Engineering,38,16,42.1
+STU20260334,Kavya Rao,2026-2027,Current,Data Structures,60,48,80.0
+STU20260334,Kavya Rao,2026-2027,Current,Database Management Systems,30,30,100.0
+STU20260334,Kavya Rao,2026-2027,Current,Operating Systems,47,43,91.5
+STU20260334,Kavya Rao,2026-2027,Current,Computer Networks,51,42,82.4
+STU20260334,Kavya Rao,2026-2027,Current,Software Engineering,52,50,96.2
+STU20260335,Madhavi Verma,2026-2027,Current,Digital Electronics,50,42,84.0
+STU20260335,Madhavi Verma,2026-2027,Current,Signals and Systems,57,39,68.4
+STU20260335,Madhavi Verma,2026-2027,Current,Embedded Systems,43,33,76.7
+STU20260335,Madhavi Verma,2026-2027,Current,Computer Networks,56,51,91.1
+STU20260335,Madhavi Verma,2026-2027,Current,Microprocessors,51,38,74.5
+STU20260336,Pranav Babu,2026-2027,Current,Web Technologies,29,13,44.8
+STU20260336,Pranav Babu,2026-2027,Current,Database Management Systems,39,25,64.1
+STU20260336,Pranav Babu,2026-2027,Current,Computer Networks,28,23,82.1
+STU20260336,Pranav Babu,2026-2027,Current,Software Engineering,36,18,50.0
+STU20260336,Pranav Babu,2026-2027,Current,Cloud Computing,36,20,55.6
+STU20260337,Anil Reddy,2026-2027,Current,Python Programming,41,32,78.0
+STU20260337,Anil Reddy,2026-2027,Current,Statistics for AI,38,24,63.2
+STU20260337,Anil Reddy,2026-2027,Current,Machine Learning,37,27,73.0
+STU20260337,Anil Reddy,2026-2027,Current,Deep Learning,33,27,81.8
+STU20260337,Anil Reddy,2026-2027,Current,Data Mining,29,21,72.4
+STU20260338,Naveen Babu,2026-2027,Current,Python Programming,30,22,73.3
+STU20260338,Naveen Babu,2026-2027,Current,Statistics for AI,55,47,85.5
+STU20260338,Naveen Babu,2026-2027,Current,Machine Learning,56,52,92.9
+STU20260338,Naveen Babu,2026-2027,Current,Deep Learning,33,31,93.9
+STU20260338,Naveen Babu,2026-2027,Current,Data Mining,33,29,87.9
+STU20260339,Veda Babu,2026-2027,Current,Python Programming,59,42,71.2
+STU20260339,Veda Babu,2026-2027,Current,Statistics for AI,37,31,83.8
+STU20260339,Veda Babu,2026-2027,Current,Machine Learning,52,29,55.8
+STU20260339,Veda Babu,2026-2027,Current,Deep Learning,34,30,88.2
+STU20260339,Veda Babu,2026-2027,Current,Data Mining,37,24,64.9
+STU20260340,Ananya Murthy,2026-2027,Current,Web Technologies,57,51,89.5
+STU20260340,Ananya Murthy,2026-2027,Current,Database Management Systems,55,48,87.3
+STU20260340,Ananya Murthy,2026-2027,Current,Computer Networks,52,43,82.7
+STU20260340,Ananya Murthy,2026-2027,Current,Software Engineering,59,51,86.4
+STU20260340,Ananya Murthy,2026-2027,Current,Cloud Computing,52,52,100.0
+STU20260341,Veda Babu,2026-2027,Current,Python Programming,29,26,89.7
+STU20260341,Veda Babu,2026-2027,Current,Statistics for AI,35,25,71.4
+STU20260341,Veda Babu,2026-2027,Current,Machine Learning,56,42,75.0
+STU20260341,Veda Babu,2026-2027,Current,Deep Learning,40,22,55.0
+STU20260341,Veda Babu,2026-2027,Current,Data Mining,40,40,100.0
+STU20260342,Pranav Mishra,2026-2027,Current,Data Structures,32,17,53.1
+STU20260342,Pranav Mishra,2026-2027,Current,Database Management Systems,42,29,69.0
+STU20260342,Pranav Mishra,2026-2027,Current,Operating Systems,53,46,86.8
+STU20260342,Pranav Mishra,2026-2027,Current,Computer Networks,38,29,76.3
+STU20260342,Pranav Mishra,2026-2027,Current,Software Engineering,44,29,65.9
+STU20260343,Sandeep Sahu,2026-2027,Current,Digital Electronics,40,27,67.5
+STU20260343,Sandeep Sahu,2026-2027,Current,Signals and Systems,43,29,67.4
+STU20260343,Sandeep Sahu,2026-2027,Current,Embedded Systems,60,54,90.0
+STU20260343,Sandeep Sahu,2026-2027,Current,Computer Networks,42,29,69.0
+STU20260343,Sandeep Sahu,2026-2027,Current,Microprocessors,38,20,52.6
+STU20260344,Riya Murthy,2026-2027,Current,Python Programming,50,50,100.0
+STU20260344,Riya Murthy,2026-2027,Current,Statistics for AI,28,25,89.3
+STU20260344,Riya Murthy,2026-2027,Current,Machine Learning,52,40,76.9
+STU20260344,Riya Murthy,2026-2027,Current,Deep Learning,41,41,100.0
+STU20260344,Riya Murthy,2026-2027,Current,Data Mining,32,30,93.8
+STU20260345,Mohan Khan,2026-2027,Current,Electrical Machines,39,20,51.3
+STU20260345,Mohan Khan,2026-2027,Current,Power Systems,55,30,54.5
+STU20260345,Mohan Khan,2026-2027,Current,Control Systems,57,34,59.6
+STU20260345,Mohan Khan,2026-2027,Current,Circuit Theory,46,34,73.9
+STU20260345,Mohan Khan,2026-2027,Current,Programming Fundamentals,43,26,60.5
+STU20260346,Krishna Shetty,2026-2027,Current,Structural Analysis,41,31,75.6
+STU20260346,Krishna Shetty,2026-2027,Current,Surveying,36,26,72.2
+STU20260346,Krishna Shetty,2026-2027,Current,Geotechnical Engineering,53,53,100.0
+STU20260346,Krishna Shetty,2026-2027,Current,Transportation Engineering,42,34,81.0
+STU20260346,Krishna Shetty,2026-2027,Current,Environmental Engineering,47,40,85.1
+STU20260347,Aarav Sahu,2026-2027,Current,Digital Electronics,48,23,47.9
+STU20260347,Aarav Sahu,2026-2027,Current,Signals and Systems,36,30,83.3
+STU20260347,Aarav Sahu,2026-2027,Current,Embedded Systems,60,40,66.7
+STU20260347,Aarav Sahu,2026-2027,Current,Computer Networks,38,21,55.3
+STU20260347,Aarav Sahu,2026-2027,Current,Microprocessors,54,36,66.7
+STU20260348,Avani Kumar,2026-2027,Current,Python Programming,58,47,81.0
+STU20260348,Avani Kumar,2026-2027,Current,Statistics for AI,29,21,72.4
+STU20260348,Avani Kumar,2026-2027,Current,Machine Learning,52,32,61.5
+STU20260348,Avani Kumar,2026-2027,Current,Deep Learning,39,28,71.8
+STU20260348,Avani Kumar,2026-2027,Current,Data Mining,32,29,90.6
+STU20260349,Rahul Mishra,2026-2027,Current,Web Technologies,28,13,46.4
+STU20260349,Rahul Mishra,2026-2027,Current,Database Management Systems,30,22,73.3
+STU20260349,Rahul Mishra,2026-2027,Current,Computer Networks,39,20,51.3
+STU20260349,Rahul Mishra,2026-2027,Current,Software Engineering,53,42,79.2
+STU20260349,Rahul Mishra,2026-2027,Current,Cloud Computing,30,16,53.3
+STU20260350,Anil Iyer,2026-2027,Current,Python Programming,56,47,83.9
+STU20260350,Anil Iyer,2026-2027,Current,Statistics for AI,59,58,98.3
+STU20260350,Anil Iyer,2026-2027,Current,Machine Learning,60,44,73.3
+STU20260350,Anil Iyer,2026-2027,Current,Deep Learning,60,45,75.0
+STU20260350,Anil Iyer,2026-2027,Current,Data Mining,30,21,70.0
+STU20260351,Meera Raju,2026-2027,Current,Engineering Mechanics,45,43,95.6
+STU20260351,Meera Raju,2026-2027,Current,Thermodynamics,35,35,100.0
+STU20260351,Meera Raju,2026-2027,Current,Manufacturing Processes,50,45,90.0
+STU20260351,Meera Raju,2026-2027,Current,CAD/CAM,41,34,82.9
+STU20260351,Meera Raju,2026-2027,Current,Materials Science,36,25,69.4
+STU20260352,Chaitanya Sharma,2026-2027,Current,Engineering Mechanics,50,37,74.0
+STU20260352,Chaitanya Sharma,2026-2027,Current,Thermodynamics,42,33,78.6
+STU20260352,Chaitanya Sharma,2026-2027,Current,Manufacturing Processes,51,32,62.7
+STU20260352,Chaitanya Sharma,2026-2027,Current,CAD/CAM,39,18,46.2
+STU20260352,Chaitanya Sharma,2026-2027,Current,Materials Science,32,22,68.8
+STU20260353,Ananya Kashyap,2026-2027,Current,Web Technologies,39,36,92.3
+STU20260353,Ananya Kashyap,2026-2027,Current,Database Management Systems,52,36,69.2
+STU20260353,Ananya Kashyap,2026-2027,Current,Computer Networks,44,38,86.4
+STU20260353,Ananya Kashyap,2026-2027,Current,Software Engineering,58,46,79.3
+STU20260353,Ananya Kashyap,2026-2027,Current,Cloud Computing,49,40,81.6
+STU20260354,Keerthi Sahu,2026-2027,Current,Python Programming,28,22,78.6
+STU20260354,Keerthi Sahu,2026-2027,Current,Statistics for AI,45,31,68.9
+STU20260354,Keerthi Sahu,2026-2027,Current,Machine Learning,59,44,74.6
+STU20260354,Keerthi Sahu,2026-2027,Current,Deep Learning,60,47,78.3
+STU20260354,Keerthi Sahu,2026-2027,Current,Data Mining,39,36,92.3
+STU20260355,Dev Patel,2026-2027,Current,Python Programming,48,24,50.0
+STU20260355,Dev Patel,2026-2027,Current,Statistics for AI,36,22,61.1
+STU20260355,Dev Patel,2026-2027,Current,Machine Learning,44,31,70.5
+STU20260355,Dev Patel,2026-2027,Current,Deep Learning,45,32,71.1
+STU20260355,Dev Patel,2026-2027,Current,Data Mining,41,31,75.6
+STU20260356,Sai Pillai,2026-2027,Current,Digital Electronics,35,23,65.7
+STU20260356,Sai Pillai,2026-2027,Current,Signals and Systems,34,27,79.4
+STU20260356,Sai Pillai,2026-2027,Current,Embedded Systems,36,31,86.1
+STU20260356,Sai Pillai,2026-2027,Current,Computer Networks,57,48,84.2
+STU20260356,Sai Pillai,2026-2027,Current,Microprocessors,60,36,60.0
+STU20260357,Bhavana Kumar,2026-2027,Current,Electrical Machines,46,26,56.5
+STU20260357,Bhavana Kumar,2026-2027,Current,Power Systems,58,46,79.3
+STU20260357,Bhavana Kumar,2026-2027,Current,Control Systems,32,22,68.8
+STU20260357,Bhavana Kumar,2026-2027,Current,Circuit Theory,55,41,74.5
+STU20260357,Bhavana Kumar,2026-2027,Current,Programming Fundamentals,38,33,86.8
+STU20260358,Teja Naidu,2026-2027,Current,Data Structures,29,20,69.0
+STU20260358,Teja Naidu,2026-2027,Current,Database Management Systems,37,33,89.2
+STU20260358,Teja Naidu,2026-2027,Current,Operating Systems,57,47,82.5
+STU20260358,Teja Naidu,2026-2027,Current,Computer Networks,34,30,88.2
+STU20260358,Teja Naidu,2026-2027,Current,Software Engineering,43,42,97.7
+STU20260359,Chaitanya Sahu,2026-2027,Current,Python Programming,45,42,93.3
+STU20260359,Chaitanya Sahu,2026-2027,Current,Statistics for AI,52,40,76.9
+STU20260359,Chaitanya Sahu,2026-2027,Current,Machine Learning,42,26,61.9
+STU20260359,Chaitanya Sahu,2026-2027,Current,Deep Learning,32,27,84.4
+STU20260359,Chaitanya Sahu,2026-2027,Current,Data Mining,48,33,68.8
+STU20260360,Avani Joshi,2026-2027,Current,Data Structures,37,28,75.7
+STU20260360,Avani Joshi,2026-2027,Current,Database Management Systems,59,49,83.1
+STU20260360,Avani Joshi,2026-2027,Current,Operating Systems,50,46,92.0
+STU20260360,Avani Joshi,2026-2027,Current,Computer Networks,42,35,83.3
+STU20260360,Avani Joshi,2026-2027,Current,Software Engineering,47,45,95.7
+STU20260361,Akshara Khan,2026-2027,Current,Electrical Machines,58,24,41.4
+STU20260361,Akshara Khan,2026-2027,Current,Power Systems,40,24,60.0
+STU20260361,Akshara Khan,2026-2027,Current,Control Systems,39,20,51.3
+STU20260361,Akshara Khan,2026-2027,Current,Circuit Theory,41,20,48.8
+STU20260361,Akshara Khan,2026-2027,Current,Programming Fundamentals,43,21,48.8
+STU20260362,Arjun Devi,2026-2027,Current,Structural Analysis,36,36,100.0
+STU20260362,Arjun Devi,2026-2027,Current,Surveying,30,29,96.7
+STU20260362,Arjun Devi,2026-2027,Current,Geotechnical Engineering,60,52,86.7
+STU20260362,Arjun Devi,2026-2027,Current,Transportation Engineering,53,47,88.7
+STU20260362,Arjun Devi,2026-2027,Current,Environmental Engineering,48,46,95.8
+STU20260363,Anil Sahu,2026-2027,Current,Data Structures,39,38,97.4
+STU20260363,Anil Sahu,2026-2027,Current,Database Management Systems,40,34,85.0
+STU20260363,Anil Sahu,2026-2027,Current,Operating Systems,31,31,100.0
+STU20260363,Anil Sahu,2026-2027,Current,Computer Networks,47,40,85.1
+STU20260363,Anil Sahu,2026-2027,Current,Software Engineering,59,52,88.1
+STU20260364,Harsha Khan,2026-2027,Current,Web Technologies,32,31,96.9
+STU20260364,Harsha Khan,2026-2027,Current,Database Management Systems,59,51,86.4
+STU20260364,Harsha Khan,2026-2027,Current,Computer Networks,49,42,85.7
+STU20260364,Harsha Khan,2026-2027,Current,Software Engineering,60,48,80.0
+STU20260364,Harsha Khan,2026-2027,Current,Cloud Computing,46,34,73.9
+STU20260365,Kavya Rao,2026-2027,Current,Engineering Mechanics,36,33,91.7
+STU20260365,Kavya Rao,2026-2027,Current,Thermodynamics,30,29,96.7
+STU20260365,Kavya Rao,2026-2027,Current,Manufacturing Processes,39,37,94.9
+STU20260365,Kavya Rao,2026-2027,Current,CAD/CAM,28,23,82.1
+STU20260365,Kavya Rao,2026-2027,Current,Materials Science,60,46,76.7
+STU20260366,Pooja Gupta,2026-2027,Current,Electrical Machines,46,39,84.8
+STU20260366,Pooja Gupta,2026-2027,Current,Power Systems,60,60,100.0
+STU20260366,Pooja Gupta,2026-2027,Current,Control Systems,29,28,96.6
+STU20260366,Pooja Gupta,2026-2027,Current,Circuit Theory,42,37,88.1
+STU20260366,Pooja Gupta,2026-2027,Current,Programming Fundamentals,51,47,92.2
+STU20260367,Teja Naidu,2026-2027,Current,Web Technologies,35,25,71.4
+STU20260367,Teja Naidu,2026-2027,Current,Database Management Systems,35,21,60.0
+STU20260367,Teja Naidu,2026-2027,Current,Computer Networks,31,26,83.9
+STU20260367,Teja Naidu,2026-2027,Current,Software Engineering,29,15,51.7
+STU20260367,Teja Naidu,2026-2027,Current,Cloud Computing,45,31,68.9
+STU20260368,Krishna Gupta,2026-2027,Current,Web Technologies,44,36,81.8
+STU20260368,Krishna Gupta,2026-2027,Current,Database Management Systems,60,51,85.0
+STU20260368,Krishna Gupta,2026-2027,Current,Computer Networks,59,53,89.8
+STU20260368,Krishna Gupta,2026-2027,Current,Software Engineering,37,29,78.4
+STU20260368,Krishna Gupta,2026-2027,Current,Cloud Computing,41,35,85.4
+STU20260369,Aarav Verma,2026-2027,Current,Web Technologies,33,22,66.7
+STU20260369,Aarav Verma,2026-2027,Current,Database Management Systems,56,30,53.6
+STU20260369,Aarav Verma,2026-2027,Current,Computer Networks,37,15,40.5
+STU20260369,Aarav Verma,2026-2027,Current,Software Engineering,51,28,54.9
+STU20260369,Aarav Verma,2026-2027,Current,Cloud Computing,56,41,73.2
+STU20260370,Srinivas Verma,2026-2027,Current,Data Structures,42,31,73.8
+STU20260370,Srinivas Verma,2026-2027,Current,Database Management Systems,36,32,88.9
+STU20260370,Srinivas Verma,2026-2027,Current,Operating Systems,55,48,87.3
+STU20260370,Srinivas Verma,2026-2027,Current,Computer Networks,49,48,98.0
+STU20260370,Srinivas Verma,2026-2027,Current,Software Engineering,37,31,83.8
+STU20260371,Naveen Iyer,2026-2027,Current,Electrical Machines,46,44,95.7
+STU20260371,Naveen Iyer,2026-2027,Current,Power Systems,32,17,53.1
+STU20260371,Naveen Iyer,2026-2027,Current,Control Systems,53,43,81.1
+STU20260371,Naveen Iyer,2026-2027,Current,Circuit Theory,51,36,70.6
+STU20260371,Naveen Iyer,2026-2027,Current,Programming Fundamentals,49,35,71.4
+STU20260372,Akshara Murthy,2026-2027,Current,Data Structures,42,28,66.7
+STU20260372,Akshara Murthy,2026-2027,Current,Database Management Systems,38,35,92.1
+STU20260372,Akshara Murthy,2026-2027,Current,Operating Systems,57,56,98.2
+STU20260372,Akshara Murthy,2026-2027,Current,Computer Networks,39,26,66.7
+STU20260372,Akshara Murthy,2026-2027,Current,Software Engineering,39,39,100.0
+STU20260373,Kavya Verma,2026-2027,Current,Data Structures,32,17,53.1
+STU20260373,Kavya Verma,2026-2027,Current,Database Management Systems,29,22,75.9
+STU20260373,Kavya Verma,2026-2027,Current,Operating Systems,52,28,53.8
+STU20260373,Kavya Verma,2026-2027,Current,Computer Networks,41,25,61.0
+STU20260373,Kavya Verma,2026-2027,Current,Software Engineering,42,19,45.2
+STU20260374,Harsha Naidu,2026-2027,Current,Data Structures,34,22,64.7
+STU20260374,Harsha Naidu,2026-2027,Current,Database Management Systems,36,28,77.8
+STU20260374,Harsha Naidu,2026-2027,Current,Operating Systems,36,27,75.0
+STU20260374,Harsha Naidu,2026-2027,Current,Computer Networks,38,24,63.2
+STU20260374,Harsha Naidu,2026-2027,Current,Software Engineering,31,21,67.7
+STU20260375,Vijay Naidu,2026-2027,Current,Python Programming,53,41,77.4
+STU20260375,Vijay Naidu,2026-2027,Current,Statistics for AI,48,41,85.4
+STU20260375,Vijay Naidu,2026-2027,Current,Machine Learning,56,56,100.0
+STU20260375,Vijay Naidu,2026-2027,Current,Deep Learning,44,38,86.4
+STU20260375,Vijay Naidu,2026-2027,Current,Data Mining,50,39,78.0
+STU20260376,Srinivas Mohanty,2026-2027,Current,Web Technologies,57,46,80.7
+STU20260376,Srinivas Mohanty,2026-2027,Current,Database Management Systems,28,16,57.1
+STU20260376,Srinivas Mohanty,2026-2027,Current,Computer Networks,32,23,71.9
+STU20260376,Srinivas Mohanty,2026-2027,Current,Software Engineering,48,39,81.2
+STU20260376,Srinivas Mohanty,2026-2027,Current,Cloud Computing,38,23,60.5
+STU20260377,Kavya Das,2026-2027,Current,Web Technologies,32,29,90.6
+STU20260377,Kavya Das,2026-2027,Current,Database Management Systems,31,27,87.1
+STU20260377,Kavya Das,2026-2027,Current,Computer Networks,53,46,86.8
+STU20260377,Kavya Das,2026-2027,Current,Software Engineering,52,46,88.5
+STU20260377,Kavya Das,2026-2027,Current,Cloud Computing,56,42,75.0
+STU20260378,Sanjana Babu,2026-2027,Current,Python Programming,32,21,65.6
+STU20260378,Sanjana Babu,2026-2027,Current,Statistics for AI,60,48,80.0
+STU20260378,Sanjana Babu,2026-2027,Current,Machine Learning,38,29,76.3
+STU20260378,Sanjana Babu,2026-2027,Current,Deep Learning,29,23,79.3
+STU20260378,Sanjana Babu,2026-2027,Current,Data Mining,57,35,61.4
+STU20260379,Keerthi Prasad,2026-2027,Current,Python Programming,53,34,64.2
+STU20260379,Keerthi Prasad,2026-2027,Current,Statistics for AI,41,37,90.2
+STU20260379,Keerthi Prasad,2026-2027,Current,Machine Learning,60,38,63.3
+STU20260379,Keerthi Prasad,2026-2027,Current,Deep Learning,31,25,80.6
+STU20260379,Keerthi Prasad,2026-2027,Current,Data Mining,38,34,89.5
+STU20260380,Sneha Khan,2026-2027,Current,Digital Electronics,47,38,80.9
+STU20260380,Sneha Khan,2026-2027,Current,Signals and Systems,29,20,69.0
+STU20260380,Sneha Khan,2026-2027,Current,Embedded Systems,55,37,67.3
+STU20260380,Sneha Khan,2026-2027,Current,Computer Networks,55,37,67.3
+STU20260380,Sneha Khan,2026-2027,Current,Microprocessors,57,33,57.9
+STU20260381,Charan Singh,2026-2027,Current,Structural Analysis,52,40,76.9
+STU20260381,Charan Singh,2026-2027,Current,Surveying,34,25,73.5
+STU20260381,Charan Singh,2026-2027,Current,Geotechnical Engineering,46,29,63.0
+STU20260381,Charan Singh,2026-2027,Current,Transportation Engineering,36,29,80.6
+STU20260381,Charan Singh,2026-2027,Current,Environmental Engineering,35,26,74.3
+STU20260382,Nandini Raju,2026-2027,Current,Web Technologies,43,36,83.7
+STU20260382,Nandini Raju,2026-2027,Current,Database Management Systems,54,33,61.1
+STU20260382,Nandini Raju,2026-2027,Current,Computer Networks,48,33,68.8
+STU20260382,Nandini Raju,2026-2027,Current,Software Engineering,51,34,66.7
+STU20260382,Nandini Raju,2026-2027,Current,Cloud Computing,31,18,58.1
+STU20260383,Krishna Rao,2026-2027,Current,Web Technologies,29,23,79.3
+STU20260383,Krishna Rao,2026-2027,Current,Database Management Systems,31,25,80.6
+STU20260383,Krishna Rao,2026-2027,Current,Computer Networks,42,34,81.0
+STU20260383,Krishna Rao,2026-2027,Current,Software Engineering,41,40,97.6
+STU20260383,Krishna Rao,2026-2027,Current,Cloud Computing,47,37,78.7
+STU20260384,Mohan Murthy,2026-2027,Current,Web Technologies,35,27,77.1
+STU20260384,Mohan Murthy,2026-2027,Current,Database Management Systems,46,42,91.3
+STU20260384,Mohan Murthy,2026-2027,Current,Computer Networks,34,27,79.4
+STU20260384,Mohan Murthy,2026-2027,Current,Software Engineering,40,35,87.5
+STU20260384,Mohan Murthy,2026-2027,Current,Cloud Computing,58,50,86.2
+STU20260385,Arjun Gupta,2026-2027,Current,Digital Electronics,60,36,60.0
+STU20260385,Arjun Gupta,2026-2027,Current,Signals and Systems,56,27,48.2
+STU20260385,Arjun Gupta,2026-2027,Current,Embedded Systems,50,30,60.0
+STU20260385,Arjun Gupta,2026-2027,Current,Computer Networks,38,27,71.1
+STU20260385,Arjun Gupta,2026-2027,Current,Microprocessors,36,20,55.6
+STU20260386,Akshara Iyer,2026-2027,Current,Web Technologies,30,26,86.7
+STU20260386,Akshara Iyer,2026-2027,Current,Database Management Systems,42,38,90.5
+STU20260386,Akshara Iyer,2026-2027,Current,Computer Networks,37,33,89.2
+STU20260386,Akshara Iyer,2026-2027,Current,Software Engineering,38,37,97.4
+STU20260386,Akshara Iyer,2026-2027,Current,Cloud Computing,40,30,75.0
+STU20260387,Charan Reddy,2026-2027,Current,Data Structures,52,38,73.1
+STU20260387,Charan Reddy,2026-2027,Current,Database Management Systems,54,43,79.6
+STU20260387,Charan Reddy,2026-2027,Current,Operating Systems,58,49,84.5
+STU20260387,Charan Reddy,2026-2027,Current,Computer Networks,60,41,68.3
+STU20260387,Charan Reddy,2026-2027,Current,Software Engineering,34,28,82.4
+STU20260388,Ananya Devi,2026-2027,Current,Digital Electronics,28,21,75.0
+STU20260388,Ananya Devi,2026-2027,Current,Signals and Systems,51,27,52.9
+STU20260388,Ananya Devi,2026-2027,Current,Embedded Systems,58,45,77.6
+STU20260388,Ananya Devi,2026-2027,Current,Computer Networks,33,18,54.5
+STU20260388,Ananya Devi,2026-2027,Current,Microprocessors,48,33,68.8
+STU20260389,Meera Rao,2026-2027,Current,Python Programming,50,50,100.0
+STU20260389,Meera Rao,2026-2027,Current,Statistics for AI,48,40,83.3
+STU20260389,Meera Rao,2026-2027,Current,Machine Learning,60,60,100.0
+STU20260389,Meera Rao,2026-2027,Current,Deep Learning,51,48,94.1
+STU20260389,Meera Rao,2026-2027,Current,Data Mining,28,28,100.0
+STU20260390,Meera Yadav,2026-2027,Current,Python Programming,56,44,78.6
+STU20260390,Meera Yadav,2026-2027,Current,Statistics for AI,53,50,94.3
+STU20260390,Meera Yadav,2026-2027,Current,Machine Learning,57,49,86.0
+STU20260390,Meera Yadav,2026-2027,Current,Deep Learning,29,27,93.1
+STU20260390,Meera Yadav,2026-2027,Current,Data Mining,60,52,86.7
+STU20260391,Yamini Singh,2026-2027,Current,Python Programming,35,25,71.4
+STU20260391,Yamini Singh,2026-2027,Current,Statistics for AI,42,38,90.5
+STU20260391,Yamini Singh,2026-2027,Current,Machine Learning,50,43,86.0
+STU20260391,Yamini Singh,2026-2027,Current,Deep Learning,40,29,72.5
+STU20260391,Yamini Singh,2026-2027,Current,Data Mining,42,32,76.2
+STU20260392,Ananya Kumar,2026-2027,Current,Data Structures,29,21,72.4
+STU20260392,Ananya Kumar,2026-2027,Current,Database Management Systems,42,35,83.3
+STU20260392,Ananya Kumar,2026-2027,Current,Operating Systems,43,27,62.8
+STU20260392,Ananya Kumar,2026-2027,Current,Computer Networks,47,33,70.2
+STU20260392,Ananya Kumar,2026-2027,Current,Software Engineering,47,34,72.3
+STU20260393,Tarun Khan,2026-2027,Current,Python Programming,60,58,96.7
+STU20260393,Tarun Khan,2026-2027,Current,Statistics for AI,57,50,87.7
+STU20260393,Tarun Khan,2026-2027,Current,Machine Learning,54,32,59.3
+STU20260393,Tarun Khan,2026-2027,Current,Deep Learning,36,34,94.4
+STU20260393,Tarun Khan,2026-2027,Current,Data Mining,51,38,74.5
+STU20260394,Rohan Kashyap,2026-2027,Current,Data Structures,47,42,89.4
+STU20260394,Rohan Kashyap,2026-2027,Current,Database Management Systems,50,50,100.0
+STU20260394,Rohan Kashyap,2026-2027,Current,Operating Systems,48,46,95.8
+STU20260394,Rohan Kashyap,2026-2027,Current,Computer Networks,58,50,86.2
+STU20260394,Rohan Kashyap,2026-2027,Current,Software Engineering,59,53,89.8
+STU20260395,Akshara Goud,2026-2027,Current,Electrical Machines,48,32,66.7
+STU20260395,Akshara Goud,2026-2027,Current,Power Systems,37,27,73.0
+STU20260395,Akshara Goud,2026-2027,Current,Control Systems,51,41,80.4
+STU20260395,Akshara Goud,2026-2027,Current,Circuit Theory,54,34,63.0
+STU20260395,Akshara Goud,2026-2027,Current,Programming Fundamentals,33,28,84.8
+STU20260396,Aadhya Sharma,2026-2027,Current,Web Technologies,42,28,66.7
+STU20260396,Aadhya Sharma,2026-2027,Current,Database Management Systems,37,25,67.6
+STU20260396,Aadhya Sharma,2026-2027,Current,Computer Networks,37,31,83.8
+STU20260396,Aadhya Sharma,2026-2027,Current,Software Engineering,41,30,73.2
+STU20260396,Aadhya Sharma,2026-2027,Current,Cloud Computing,48,38,79.2
+STU20260397,Priya Sharma,2026-2027,Current,Engineering Mechanics,44,38,86.4
+STU20260397,Priya Sharma,2026-2027,Current,Thermodynamics,34,26,76.5
+STU20260397,Priya Sharma,2026-2027,Current,Manufacturing Processes,34,30,88.2
+STU20260397,Priya Sharma,2026-2027,Current,CAD/CAM,54,40,74.1
+STU20260397,Priya Sharma,2026-2027,Current,Materials Science,58,41,70.7
+STU20260398,Madhavi Pillai,2026-2027,Current,Python Programming,28,25,89.3
+STU20260398,Madhavi Pillai,2026-2027,Current,Statistics for AI,33,31,93.9
+STU20260398,Madhavi Pillai,2026-2027,Current,Machine Learning,53,53,100.0
+STU20260398,Madhavi Pillai,2026-2027,Current,Deep Learning,51,51,100.0
+STU20260398,Madhavi Pillai,2026-2027,Current,Data Mining,39,39,100.0
+STU20260399,Keerthi Goud,2026-2027,Current,Structural Analysis,50,44,88.0
+STU20260399,Keerthi Goud,2026-2027,Current,Surveying,34,29,85.3
+STU20260399,Keerthi Goud,2026-2027,Current,Geotechnical Engineering,59,45,76.3
+STU20260399,Keerthi Goud,2026-2027,Current,Transportation Engineering,54,43,79.6
+STU20260399,Keerthi Goud,2026-2027,Current,Environmental Engineering,59,40,67.8
+STU20260400,Dev Joshi,2026-2027,Current,Digital Electronics,46,36,78.3
+STU20260400,Dev Joshi,2026-2027,Current,Signals and Systems,38,25,65.8
+STU20260400,Dev Joshi,2026-2027,Current,Embedded Systems,28,25,89.3
+STU20260400,Dev Joshi,2026-2027,Current,Computer Networks,40,24,60.0
+STU20260400,Dev Joshi,2026-2027,Current,Microprocessors,36,24,66.7
+STU20260401,Naveen Naidu,2026-2027,Current,Python Programming,37,25,67.6
+STU20260401,Naveen Naidu,2026-2027,Current,Statistics for AI,44,39,88.6
+STU20260401,Naveen Naidu,2026-2027,Current,Machine Learning,32,27,84.4
+STU20260401,Naveen Naidu,2026-2027,Current,Deep Learning,60,53,88.3
+STU20260401,Naveen Naidu,2026-2027,Current,Data Mining,58,50,86.2
+STU20260402,Aditya Rao,2026-2027,Current,Data Structures,32,18,56.2
+STU20260402,Aditya Rao,2026-2027,Current,Database Management Systems,51,30,58.8
+STU20260402,Aditya Rao,2026-2027,Current,Operating Systems,42,33,78.6
+STU20260402,Aditya Rao,2026-2027,Current,Computer Networks,48,44,91.7
+STU20260402,Aditya Rao,2026-2027,Current,Software Engineering,59,50,84.7
+STU20260403,Aditya Jain,2026-2027,Current,Structural Analysis,30,20,66.7
+STU20260403,Aditya Jain,2026-2027,Current,Surveying,52,34,65.4
+STU20260403,Aditya Jain,2026-2027,Current,Geotechnical Engineering,53,41,77.4
+STU20260403,Aditya Jain,2026-2027,Current,Transportation Engineering,39,27,69.2
+STU20260403,Aditya Jain,2026-2027,Current,Environmental Engineering,42,21,50.0
+STU20260404,Krishna Murthy,2026-2027,Current,Python Programming,34,26,76.5
+STU20260404,Krishna Murthy,2026-2027,Current,Statistics for AI,54,49,90.7
+STU20260404,Krishna Murthy,2026-2027,Current,Machine Learning,55,55,100.0
+STU20260404,Krishna Murthy,2026-2027,Current,Deep Learning,36,27,75.0
+STU20260404,Krishna Murthy,2026-2027,Current,Data Mining,54,42,77.8
+STU20260405,Nikhil Naidu,2026-2027,Current,Data Structures,34,19,55.9
+STU20260405,Nikhil Naidu,2026-2027,Current,Database Management Systems,29,17,58.6
+STU20260405,Nikhil Naidu,2026-2027,Current,Operating Systems,30,20,66.7
+STU20260405,Nikhil Naidu,2026-2027,Current,Computer Networks,36,27,75.0
+STU20260405,Nikhil Naidu,2026-2027,Current,Software Engineering,45,38,84.4
+STU20260406,Avani Shetty,2026-2027,Current,Data Structures,44,34,77.3
+STU20260406,Avani Shetty,2026-2027,Current,Database Management Systems,52,44,84.6
+STU20260406,Avani Shetty,2026-2027,Current,Operating Systems,56,37,66.1
+STU20260406,Avani Shetty,2026-2027,Current,Computer Networks,35,25,71.4
+STU20260406,Avani Shetty,2026-2027,Current,Software Engineering,38,26,68.4
+STU20260407,Srinivas Kashyap,2026-2027,Current,Python Programming,58,33,56.9
+STU20260407,Srinivas Kashyap,2026-2027,Current,Statistics for AI,44,17,38.6
+STU20260407,Srinivas Kashyap,2026-2027,Current,Machine Learning,34,19,55.9
+STU20260407,Srinivas Kashyap,2026-2027,Current,Deep Learning,41,27,65.9
+STU20260407,Srinivas Kashyap,2026-2027,Current,Data Mining,40,28,70.0
+STU20260408,Chaitanya Murthy,2026-2027,Current,Python Programming,46,30,65.2
+STU20260408,Chaitanya Murthy,2026-2027,Current,Statistics for AI,57,42,73.7
+STU20260408,Chaitanya Murthy,2026-2027,Current,Machine Learning,54,41,75.9
+STU20260408,Chaitanya Murthy,2026-2027,Current,Deep Learning,44,30,68.2
+STU20260408,Chaitanya Murthy,2026-2027,Current,Data Mining,30,22,73.3
+STU20260409,Yamini Kashyap,2026-2027,Current,Digital Electronics,35,30,85.7
+STU20260409,Yamini Kashyap,2026-2027,Current,Signals and Systems,32,30,93.8
+STU20260409,Yamini Kashyap,2026-2027,Current,Embedded Systems,30,28,93.3
+STU20260409,Yamini Kashyap,2026-2027,Current,Computer Networks,47,36,76.6
+STU20260409,Yamini Kashyap,2026-2027,Current,Microprocessors,28,27,96.4
+STU20260410,Meera Joshi,2026-2027,Current,Electrical Machines,49,33,67.3
+STU20260410,Meera Joshi,2026-2027,Current,Power Systems,49,24,49.0
+STU20260410,Meera Joshi,2026-2027,Current,Control Systems,53,35,66.0
+STU20260410,Meera Joshi,2026-2027,Current,Circuit Theory,47,28,59.6
+STU20260410,Meera Joshi,2026-2027,Current,Programming Fundamentals,57,48,84.2
+STU20260411,Aditya Varma,2026-2027,Current,Web Technologies,36,29,80.6
+STU20260411,Aditya Varma,2026-2027,Current,Database Management Systems,49,32,65.3
+STU20260411,Aditya Varma,2026-2027,Current,Computer Networks,60,43,71.7
+STU20260411,Aditya Varma,2026-2027,Current,Software Engineering,48,39,81.2
+STU20260411,Aditya Varma,2026-2027,Current,Cloud Computing,50,37,74.0
+STU20260412,Srinivas Verma,2026-2027,Current,Python Programming,28,26,92.9
+STU20260412,Srinivas Verma,2026-2027,Current,Statistics for AI,53,50,94.3
+STU20260412,Srinivas Verma,2026-2027,Current,Machine Learning,36,28,77.8
+STU20260412,Srinivas Verma,2026-2027,Current,Deep Learning,60,57,95.0
+STU20260412,Srinivas Verma,2026-2027,Current,Data Mining,29,24,82.8
+STU20260413,Rohan Jain,2026-2027,Current,Engineering Mechanics,58,18,31.0
+STU20260413,Rohan Jain,2026-2027,Current,Thermodynamics,55,41,74.5
+STU20260413,Rohan Jain,2026-2027,Current,Manufacturing Processes,39,24,61.5
+STU20260413,Rohan Jain,2026-2027,Current,CAD/CAM,48,33,68.8
+STU20260413,Rohan Jain,2026-2027,Current,Materials Science,59,23,39.0
+STU20260414,Nandini Naidu,2026-2027,Current,Engineering Mechanics,32,25,78.1
+STU20260414,Nandini Naidu,2026-2027,Current,Thermodynamics,31,25,80.6
+STU20260414,Nandini Naidu,2026-2027,Current,Manufacturing Processes,52,48,92.3
+STU20260414,Nandini Naidu,2026-2027,Current,CAD/CAM,55,55,100.0
+STU20260414,Nandini Naidu,2026-2027,Current,Materials Science,31,29,93.5
+STU20260415,Dev Yadav,2026-2027,Current,Web Technologies,53,32,60.4
+STU20260415,Dev Yadav,2026-2027,Current,Database Management Systems,39,17,43.6
+STU20260415,Dev Yadav,2026-2027,Current,Computer Networks,60,33,55.0
+STU20260415,Dev Yadav,2026-2027,Current,Software Engineering,37,28,75.7
+STU20260415,Dev Yadav,2026-2027,Current,Cloud Computing,32,24,75.0
+STU20260416,Harsha Naidu,2026-2027,Current,Python Programming,53,40,75.5
+STU20260416,Harsha Naidu,2026-2027,Current,Statistics for AI,57,47,82.5
+STU20260416,Harsha Naidu,2026-2027,Current,Machine Learning,59,46,78.0
+STU20260416,Harsha Naidu,2026-2027,Current,Deep Learning,55,45,81.8
+STU20260416,Harsha Naidu,2026-2027,Current,Data Mining,35,30,85.7
+STU20260417,Aditya Yadav,2026-2027,Current,Data Structures,48,38,79.2
+STU20260417,Aditya Yadav,2026-2027,Current,Database Management Systems,42,36,85.7
+STU20260417,Aditya Yadav,2026-2027,Current,Operating Systems,54,52,96.3
+STU20260417,Aditya Yadav,2026-2027,Current,Computer Networks,52,40,76.9
+STU20260417,Aditya Yadav,2026-2027,Current,Software Engineering,34,34,100.0
+STU20260418,Naveen Devi,2026-2027,Current,Electrical Machines,47,20,42.6
+STU20260418,Naveen Devi,2026-2027,Current,Power Systems,46,28,60.9
+STU20260418,Naveen Devi,2026-2027,Current,Control Systems,37,19,51.4
+STU20260418,Naveen Devi,2026-2027,Current,Circuit Theory,36,20,55.6
+STU20260418,Naveen Devi,2026-2027,Current,Programming Fundamentals,46,22,47.8
+STU20260419,Ananya Jain,2026-2027,Current,Web Technologies,48,43,89.6
+STU20260419,Ananya Jain,2026-2027,Current,Database Management Systems,40,37,92.5
+STU20260419,Ananya Jain,2026-2027,Current,Computer Networks,52,38,73.1
+STU20260419,Ananya Jain,2026-2027,Current,Software Engineering,29,22,75.9
+STU20260419,Ananya Jain,2026-2027,Current,Cloud Computing,37,37,100.0
+STU20260420,Manoj Gupta,2026-2027,Current,Data Structures,57,35,61.4
+STU20260420,Manoj Gupta,2026-2027,Current,Database Management Systems,36,18,50.0
+STU20260420,Manoj Gupta,2026-2027,Current,Operating Systems,43,24,55.8
+STU20260420,Manoj Gupta,2026-2027,Current,Computer Networks,50,28,56.0
+STU20260420,Manoj Gupta,2026-2027,Current,Software Engineering,52,27,51.9
+STU20260421,Sneha Varma,2026-2027,Current,Python Programming,39,27,69.2
+STU20260421,Sneha Varma,2026-2027,Current,Statistics for AI,59,45,76.3
+STU20260421,Sneha Varma,2026-2027,Current,Machine Learning,53,42,79.2
+STU20260421,Sneha Varma,2026-2027,Current,Deep Learning,44,43,97.7
+STU20260421,Sneha Varma,2026-2027,Current,Data Mining,40,36,90.0
+STU20260422,Kavya Devi,2026-2027,Current,Web Technologies,43,33,76.7
+STU20260422,Kavya Devi,2026-2027,Current,Database Management Systems,55,37,67.3
+STU20260422,Kavya Devi,2026-2027,Current,Computer Networks,54,41,75.9
+STU20260422,Kavya Devi,2026-2027,Current,Software Engineering,35,24,68.6
+STU20260422,Kavya Devi,2026-2027,Current,Cloud Computing,42,40,95.2
+STU20260423,Naveen Raju,2026-2027,Current,Data Structures,41,33,80.5
+STU20260423,Naveen Raju,2026-2027,Current,Database Management Systems,40,30,75.0
+STU20260423,Naveen Raju,2026-2027,Current,Operating Systems,34,28,82.4
+STU20260423,Naveen Raju,2026-2027,Current,Computer Networks,32,22,68.8
+STU20260423,Naveen Raju,2026-2027,Current,Software Engineering,49,28,57.1
+STU20260424,Rohan Patel,2026-2027,Current,Digital Electronics,30,19,63.3
+STU20260424,Rohan Patel,2026-2027,Current,Signals and Systems,33,18,54.5
+STU20260424,Rohan Patel,2026-2027,Current,Embedded Systems,47,29,61.7
+STU20260424,Rohan Patel,2026-2027,Current,Computer Networks,46,34,73.9
+STU20260424,Rohan Patel,2026-2027,Current,Microprocessors,56,33,58.9
+STU20260425,Lakshmi Nair,2026-2027,Current,Electrical Machines,45,37,82.2
+STU20260425,Lakshmi Nair,2026-2027,Current,Power Systems,32,32,100.0
+STU20260425,Lakshmi Nair,2026-2027,Current,Control Systems,53,50,94.3
+STU20260425,Lakshmi Nair,2026-2027,Current,Circuit Theory,31,30,96.8
+STU20260425,Lakshmi Nair,2026-2027,Current,Programming Fundamentals,46,39,84.8
+STU20260426,Srinivas Das,2026-2027,Current,Engineering Mechanics,30,23,76.7
+STU20260426,Srinivas Das,2026-2027,Current,Thermodynamics,42,21,50.0
+STU20260426,Srinivas Das,2026-2027,Current,Manufacturing Processes,60,33,55.0
+STU20260426,Srinivas Das,2026-2027,Current,CAD/CAM,48,24,50.0
+STU20260426,Srinivas Das,2026-2027,Current,Materials Science,40,25,62.5
+STU20260427,Srinivas Joshi,2026-2027,Current,Digital Electronics,44,31,70.5
+STU20260427,Srinivas Joshi,2026-2027,Current,Signals and Systems,32,20,62.5
+STU20260427,Srinivas Joshi,2026-2027,Current,Embedded Systems,54,42,77.8
+STU20260427,Srinivas Joshi,2026-2027,Current,Computer Networks,47,33,70.2
+STU20260427,Srinivas Joshi,2026-2027,Current,Microprocessors,60,39,65.0
+STU20260428,Srinivas Yadav,2026-2027,Current,Web Technologies,32,29,90.6
+STU20260428,Srinivas Yadav,2026-2027,Current,Database Management Systems,39,24,61.5
+STU20260428,Srinivas Yadav,2026-2027,Current,Computer Networks,42,28,66.7
+STU20260428,Srinivas Yadav,2026-2027,Current,Software Engineering,36,30,83.3
+STU20260428,Srinivas Yadav,2026-2027,Current,Cloud Computing,56,41,73.2
+STU20260429,Sneha Jain,2026-2027,Current,Structural Analysis,49,45,91.8
+STU20260429,Sneha Jain,2026-2027,Current,Surveying,40,35,87.5
+STU20260429,Sneha Jain,2026-2027,Current,Geotechnical Engineering,42,25,59.5
+STU20260429,Sneha Jain,2026-2027,Current,Transportation Engineering,33,22,66.7
+STU20260429,Sneha Jain,2026-2027,Current,Environmental Engineering,30,25,83.3
+STU20260430,Varun Murthy,2026-2027,Current,Engineering Mechanics,31,17,54.8
+STU20260430,Varun Murthy,2026-2027,Current,Thermodynamics,32,19,59.4
+STU20260430,Varun Murthy,2026-2027,Current,Manufacturing Processes,33,19,57.6
+STU20260430,Varun Murthy,2026-2027,Current,CAD/CAM,46,27,58.7
+STU20260430,Varun Murthy,2026-2027,Current,Materials Science,59,29,49.2
+STU20260431,Siddharth Rao,2026-2027,Current,Python Programming,34,33,97.1
+STU20260431,Siddharth Rao,2026-2027,Current,Statistics for AI,48,34,70.8
+STU20260431,Siddharth Rao,2026-2027,Current,Machine Learning,38,33,86.8
+STU20260431,Siddharth Rao,2026-2027,Current,Deep Learning,58,43,74.1
+STU20260431,Siddharth Rao,2026-2027,Current,Data Mining,60,53,88.3
+STU20260432,Varun Iyer,2026-2027,Current,Python Programming,47,35,74.5
+STU20260432,Varun Iyer,2026-2027,Current,Statistics for AI,34,27,79.4
+STU20260432,Varun Iyer,2026-2027,Current,Machine Learning,50,37,74.0
+STU20260432,Varun Iyer,2026-2027,Current,Deep Learning,44,42,95.5
+STU20260432,Varun Iyer,2026-2027,Current,Data Mining,54,42,77.8
+STU20260433,Nandini Joshi,2026-2027,Current,Digital Electronics,34,32,94.1
+STU20260433,Nandini Joshi,2026-2027,Current,Signals and Systems,38,38,100.0
+STU20260433,Nandini Joshi,2026-2027,Current,Embedded Systems,43,36,83.7
+STU20260433,Nandini Joshi,2026-2027,Current,Computer Networks,50,45,90.0
+STU20260433,Nandini Joshi,2026-2027,Current,Microprocessors,43,43,100.0
+STU20260434,Madhavi Mishra,2026-2027,Current,Electrical Machines,32,22,68.8
+STU20260434,Madhavi Mishra,2026-2027,Current,Power Systems,57,43,75.4
+STU20260434,Madhavi Mishra,2026-2027,Current,Control Systems,51,30,58.8
+STU20260434,Madhavi Mishra,2026-2027,Current,Circuit Theory,52,33,63.5
+STU20260434,Madhavi Mishra,2026-2027,Current,Programming Fundamentals,33,23,69.7
+STU20260435,Kiran Reddy,2026-2027,Current,Electrical Machines,50,42,84.0
+STU20260435,Kiran Reddy,2026-2027,Current,Power Systems,36,32,88.9
+STU20260435,Kiran Reddy,2026-2027,Current,Control Systems,56,33,58.9
+STU20260435,Kiran Reddy,2026-2027,Current,Circuit Theory,49,46,93.9
+STU20260435,Kiran Reddy,2026-2027,Current,Programming Fundamentals,39,29,74.4
+STU20260436,Ishaan Devi,2026-2027,Current,Electrical Machines,46,31,67.4
+STU20260436,Ishaan Devi,2026-2027,Current,Power Systems,47,35,74.5
+STU20260436,Ishaan Devi,2026-2027,Current,Control Systems,55,54,98.2
+STU20260436,Ishaan Devi,2026-2027,Current,Circuit Theory,57,53,93.0
+STU20260436,Ishaan Devi,2026-2027,Current,Programming Fundamentals,49,49,100.0
+STU20260437,Priya Verma,2026-2027,Current,Data Structures,59,34,57.6
+STU20260437,Priya Verma,2026-2027,Current,Database Management Systems,53,52,98.1
+STU20260437,Priya Verma,2026-2027,Current,Operating Systems,50,38,76.0
+STU20260437,Priya Verma,2026-2027,Current,Computer Networks,50,42,84.0
+STU20260437,Priya Verma,2026-2027,Current,Software Engineering,53,33,62.3
+STU20260438,Srinivas Pillai,2026-2027,Current,Web Technologies,29,29,100.0
+STU20260438,Srinivas Pillai,2026-2027,Current,Database Management Systems,35,35,100.0
+STU20260438,Srinivas Pillai,2026-2027,Current,Computer Networks,34,33,97.1
+STU20260438,Srinivas Pillai,2026-2027,Current,Software Engineering,43,33,76.7
+STU20260438,Srinivas Pillai,2026-2027,Current,Cloud Computing,56,55,98.2
+STU20260439,Meera Jain,2026-2027,Current,Data Structures,45,38,84.4
+STU20260439,Meera Jain,2026-2027,Current,Database Management Systems,41,33,80.5
+STU20260439,Meera Jain,2026-2027,Current,Operating Systems,42,27,64.3
+STU20260439,Meera Jain,2026-2027,Current,Computer Networks,29,21,72.4
+STU20260439,Meera Jain,2026-2027,Current,Software Engineering,48,40,83.3
+STU20260440,Arjun Nair,2026-2027,Current,Data Structures,41,25,61.0
+STU20260440,Arjun Nair,2026-2027,Current,Database Management Systems,35,24,68.6
+STU20260440,Arjun Nair,2026-2027,Current,Operating Systems,59,40,67.8
+STU20260440,Arjun Nair,2026-2027,Current,Computer Networks,29,19,65.5
+STU20260440,Arjun Nair,2026-2027,Current,Software Engineering,28,16,57.1
+STU20260441,Teja Chowdary,2026-2027,Current,Digital Electronics,45,33,73.3
+STU20260441,Teja Chowdary,2026-2027,Current,Signals and Systems,45,39,86.7
+STU20260441,Teja Chowdary,2026-2027,Current,Embedded Systems,35,25,71.4
+STU20260441,Teja Chowdary,2026-2027,Current,Computer Networks,34,31,91.2
+STU20260441,Teja Chowdary,2026-2027,Current,Microprocessors,47,38,80.9
+STU20260442,Deepika Sharma,2026-2027,Current,Engineering Mechanics,32,30,93.8
+STU20260442,Deepika Sharma,2026-2027,Current,Thermodynamics,55,55,100.0
+STU20260442,Deepika Sharma,2026-2027,Current,Manufacturing Processes,48,35,72.9
+STU20260442,Deepika Sharma,2026-2027,Current,CAD/CAM,50,40,80.0
+STU20260442,Deepika Sharma,2026-2027,Current,Materials Science,59,49,83.1
+STU20260443,Madhavi Iyer,2026-2027,Current,Electrical Machines,54,42,77.8
+STU20260443,Madhavi Iyer,2026-2027,Current,Power Systems,55,40,72.7
+STU20260443,Madhavi Iyer,2026-2027,Current,Control Systems,46,30,65.2
+STU20260443,Madhavi Iyer,2026-2027,Current,Circuit Theory,36,27,75.0
+STU20260443,Madhavi Iyer,2026-2027,Current,Programming Fundamentals,54,30,55.6
+STU20260444,Arjun Pillai,2026-2027,Current,Python Programming,38,21,55.3
+STU20260444,Arjun Pillai,2026-2027,Current,Statistics for AI,55,30,54.5
+STU20260444,Arjun Pillai,2026-2027,Current,Machine Learning,35,15,42.9
+STU20260444,Arjun Pillai,2026-2027,Current,Deep Learning,42,21,50.0
+STU20260444,Arjun Pillai,2026-2027,Current,Data Mining,32,15,46.9
+STU20260445,Madhavi Gupta,2026-2027,Current,Digital Electronics,53,40,75.5
+STU20260445,Madhavi Gupta,2026-2027,Current,Signals and Systems,51,42,82.4
+STU20260445,Madhavi Gupta,2026-2027,Current,Embedded Systems,43,31,72.1
+STU20260445,Madhavi Gupta,2026-2027,Current,Computer Networks,45,38,84.4
+STU20260445,Madhavi Gupta,2026-2027,Current,Microprocessors,49,39,79.6
+STU20260446,Divya Joshi,2026-2027,Current,Structural Analysis,38,29,76.3
+STU20260446,Divya Joshi,2026-2027,Current,Surveying,51,39,76.5
+STU20260446,Divya Joshi,2026-2027,Current,Geotechnical Engineering,42,41,97.6
+STU20260446,Divya Joshi,2026-2027,Current,Transportation Engineering,58,40,69.0
+STU20260446,Divya Joshi,2026-2027,Current,Environmental Engineering,57,47,82.5
+STU20260447,Riya Das,2026-2027,Current,Digital Electronics,60,19,31.7
+STU20260447,Riya Das,2026-2027,Current,Signals and Systems,55,27,49.1
+STU20260447,Riya Das,2026-2027,Current,Embedded Systems,41,22,53.7
+STU20260447,Riya Das,2026-2027,Current,Computer Networks,38,21,55.3
+STU20260447,Riya Das,2026-2027,Current,Microprocessors,39,21,53.8
+STU20260448,Aarav Chowdary,2026-2027,Current,Web Technologies,31,27,87.1
+STU20260448,Aarav Chowdary,2026-2027,Current,Database Management Systems,57,47,82.5
+STU20260448,Aarav Chowdary,2026-2027,Current,Computer Networks,56,36,64.3
+STU20260448,Aarav Chowdary,2026-2027,Current,Software Engineering,57,35,61.4
+STU20260448,Aarav Chowdary,2026-2027,Current,Cloud Computing,41,34,82.9
+STU20260449,Manoj Joshi,2026-2027,Current,Digital Electronics,39,24,61.5
+STU20260449,Manoj Joshi,2026-2027,Current,Signals and Systems,37,18,48.6
+STU20260449,Manoj Joshi,2026-2027,Current,Embedded Systems,60,42,70.0
+STU20260449,Manoj Joshi,2026-2027,Current,Computer Networks,28,21,75.0
+STU20260449,Manoj Joshi,2026-2027,Current,Microprocessors,34,33,97.1
+STU20260450,Nikhil Joshi,2026-2027,Current,Python Programming,39,39,100.0
+STU20260450,Nikhil Joshi,2026-2027,Current,Statistics for AI,49,45,91.8
+STU20260450,Nikhil Joshi,2026-2027,Current,Machine Learning,42,37,88.1
+STU20260450,Nikhil Joshi,2026-2027,Current,Deep Learning,51,38,74.5
+STU20260450,Nikhil Joshi,2026-2027,Current,Data Mining,40,34,85.0
+STU20260451,Arjun Kumar,2026-2027,Current,Data Structures,57,25,43.9
+STU20260451,Arjun Kumar,2026-2027,Current,Database Management Systems,44,18,40.9
+STU20260451,Arjun Kumar,2026-2027,Current,Operating Systems,31,14,45.2
+STU20260451,Arjun Kumar,2026-2027,Current,Computer Networks,51,17,33.3
+STU20260451,Arjun Kumar,2026-2027,Current,Software Engineering,39,18,46.2
+STU20260452,Anil Gupta,2026-2027,Current,Data Structures,32,28,87.5
+STU20260452,Anil Gupta,2026-2027,Current,Database Management Systems,54,35,64.8
+STU20260452,Anil Gupta,2026-2027,Current,Operating Systems,29,26,89.7
+STU20260452,Anil Gupta,2026-2027,Current,Computer Networks,56,41,73.2
+STU20260452,Anil Gupta,2026-2027,Current,Software Engineering,49,43,87.8
+STU20260453,Deepika Prasad,2026-2027,Current,Python Programming,41,36,87.8
+STU20260453,Deepika Prasad,2026-2027,Current,Statistics for AI,42,42,100.0
+STU20260453,Deepika Prasad,2026-2027,Current,Machine Learning,31,31,100.0
+STU20260453,Deepika Prasad,2026-2027,Current,Deep Learning,53,52,98.1
+STU20260453,Deepika Prasad,2026-2027,Current,Data Mining,47,43,91.5
+STU20260454,Chaitanya Kashyap,2026-2027,Current,Electrical Machines,52,52,100.0
+STU20260454,Chaitanya Kashyap,2026-2027,Current,Power Systems,40,38,95.0
+STU20260454,Chaitanya Kashyap,2026-2027,Current,Control Systems,29,28,96.6
+STU20260454,Chaitanya Kashyap,2026-2027,Current,Circuit Theory,41,39,95.1
+STU20260454,Chaitanya Kashyap,2026-2027,Current,Programming Fundamentals,35,35,100.0
+STU20260455,Naveen Goud,2026-2027,Current,Python Programming,30,12,40.0
+STU20260455,Naveen Goud,2026-2027,Current,Statistics for AI,54,25,46.3
+STU20260455,Naveen Goud,2026-2027,Current,Machine Learning,32,8,25.0
+STU20260455,Naveen Goud,2026-2027,Current,Deep Learning,35,15,42.9
+STU20260455,Naveen Goud,2026-2027,Current,Data Mining,39,20,51.3
+STU20260456,Sanjana Jain,2026-2027,Current,Electrical Machines,40,35,87.5
+STU20260456,Sanjana Jain,2026-2027,Current,Power Systems,57,42,73.7
+STU20260456,Sanjana Jain,2026-2027,Current,Control Systems,32,21,65.6
+STU20260456,Sanjana Jain,2026-2027,Current,Circuit Theory,49,30,61.2
+STU20260456,Sanjana Jain,2026-2027,Current,Programming Fundamentals,58,46,79.3
+STU20260457,Pranav Jain,2026-2027,Current,Python Programming,50,45,90.0
+STU20260457,Pranav Jain,2026-2027,Current,Statistics for AI,33,21,63.6
+STU20260457,Pranav Jain,2026-2027,Current,Machine Learning,52,36,69.2
+STU20260457,Pranav Jain,2026-2027,Current,Deep Learning,30,20,66.7
+STU20260457,Pranav Jain,2026-2027,Current,Data Mining,31,28,90.3
+STU20260458,Pranav Raju,2026-2027,Current,Data Structures,52,37,71.2
+STU20260458,Pranav Raju,2026-2027,Current,Database Management Systems,55,43,78.2
+STU20260458,Pranav Raju,2026-2027,Current,Operating Systems,58,52,89.7
+STU20260458,Pranav Raju,2026-2027,Current,Computer Networks,43,36,83.7
+STU20260458,Pranav Raju,2026-2027,Current,Software Engineering,58,51,87.9
+STU20260459,Anil Nair,2026-2027,Current,Digital Electronics,28,18,64.3
+STU20260459,Anil Nair,2026-2027,Current,Signals and Systems,53,37,69.8
+STU20260459,Anil Nair,2026-2027,Current,Embedded Systems,54,33,61.1
+STU20260459,Anil Nair,2026-2027,Current,Computer Networks,52,30,57.7
+STU20260459,Anil Nair,2026-2027,Current,Microprocessors,57,57,100.0
+STU20260460,Naveen Kashyap,2026-2027,Current,Web Technologies,35,32,91.4
+STU20260460,Naveen Kashyap,2026-2027,Current,Database Management Systems,28,28,100.0
+STU20260460,Naveen Kashyap,2026-2027,Current,Computer Networks,49,33,67.3
+STU20260460,Naveen Kashyap,2026-2027,Current,Software Engineering,41,30,73.2
+STU20260460,Naveen Kashyap,2026-2027,Current,Cloud Computing,42,31,73.8
+STU20260461,Aadhya Das,2026-2027,Current,Python Programming,44,32,72.7
+STU20260461,Aadhya Das,2026-2027,Current,Statistics for AI,36,31,86.1
+STU20260461,Aadhya Das,2026-2027,Current,Machine Learning,52,35,67.3
+STU20260461,Aadhya Das,2026-2027,Current,Deep Learning,33,29,87.9
+STU20260461,Aadhya Das,2026-2027,Current,Data Mining,50,45,90.0
+STU20260462,Neha Varma,2026-2027,Current,Structural Analysis,44,35,79.5
+STU20260462,Neha Varma,2026-2027,Current,Surveying,57,50,87.7
+STU20260462,Neha Varma,2026-2027,Current,Geotechnical Engineering,43,42,97.7
+STU20260462,Neha Varma,2026-2027,Current,Transportation Engineering,35,34,97.1
+STU20260462,Neha Varma,2026-2027,Current,Environmental Engineering,46,41,89.1
+STU20260463,Krishna Jain,2026-2027,Current,Electrical Machines,51,34,66.7
+STU20260463,Krishna Jain,2026-2027,Current,Power Systems,56,52,92.9
+STU20260463,Krishna Jain,2026-2027,Current,Control Systems,30,26,86.7
+STU20260463,Krishna Jain,2026-2027,Current,Circuit Theory,50,41,82.0
+STU20260463,Krishna Jain,2026-2027,Current,Programming Fundamentals,46,40,87.0
+STU20260464,Manoj Iyer,2026-2027,Current,Engineering Mechanics,31,26,83.9
+STU20260464,Manoj Iyer,2026-2027,Current,Thermodynamics,41,37,90.2
+STU20260464,Manoj Iyer,2026-2027,Current,Manufacturing Processes,33,27,81.8
+STU20260464,Manoj Iyer,2026-2027,Current,CAD/CAM,48,38,79.2
+STU20260464,Manoj Iyer,2026-2027,Current,Materials Science,35,32,91.4
+STU20260465,Teja Babu,2026-2027,Current,Engineering Mechanics,45,27,60.0
+STU20260465,Teja Babu,2026-2027,Current,Thermodynamics,45,31,68.9
+STU20260465,Teja Babu,2026-2027,Current,Manufacturing Processes,42,30,71.4
+STU20260465,Teja Babu,2026-2027,Current,CAD/CAM,43,28,65.1
+STU20260465,Teja Babu,2026-2027,Current,Materials Science,44,35,79.5
+STU20260466,Riya Jain,2026-2027,Current,Data Structures,54,37,68.5
+STU20260466,Riya Jain,2026-2027,Current,Database Management Systems,57,37,64.9
+STU20260466,Riya Jain,2026-2027,Current,Operating Systems,52,25,48.1
+STU20260466,Riya Jain,2026-2027,Current,Computer Networks,29,22,75.9
+STU20260466,Riya Jain,2026-2027,Current,Software Engineering,52,35,67.3
+STU20260467,Rahul Babu,2026-2027,Current,Web Technologies,48,43,89.6
+STU20260467,Rahul Babu,2026-2027,Current,Database Management Systems,53,53,100.0
+STU20260467,Rahul Babu,2026-2027,Current,Computer Networks,50,36,72.0
+STU20260467,Rahul Babu,2026-2027,Current,Software Engineering,50,38,76.0
+STU20260467,Rahul Babu,2026-2027,Current,Cloud Computing,60,51,85.0
+STU20260468,Priya Gupta,2026-2027,Current,Structural Analysis,56,47,83.9
+STU20260468,Priya Gupta,2026-2027,Current,Surveying,60,54,90.0
+STU20260468,Priya Gupta,2026-2027,Current,Geotechnical Engineering,55,49,89.1
+STU20260468,Priya Gupta,2026-2027,Current,Transportation Engineering,47,37,78.7
+STU20260468,Priya Gupta,2026-2027,Current,Environmental Engineering,39,38,97.4
+STU20260469,Charan Singh,2026-2027,Current,Engineering Mechanics,46,27,58.7
+STU20260469,Charan Singh,2026-2027,Current,Thermodynamics,57,38,66.7
+STU20260469,Charan Singh,2026-2027,Current,Manufacturing Processes,31,22,71.0
+STU20260469,Charan Singh,2026-2027,Current,CAD/CAM,30,26,86.7
+STU20260469,Charan Singh,2026-2027,Current,Materials Science,43,35,81.4
+STU20260470,Riya Babu,2026-2027,Current,Digital Electronics,33,28,84.8
+STU20260470,Riya Babu,2026-2027,Current,Signals and Systems,31,22,71.0
+STU20260470,Riya Babu,2026-2027,Current,Embedded Systems,30,21,70.0
+STU20260470,Riya Babu,2026-2027,Current,Computer Networks,35,27,77.1
+STU20260470,Riya Babu,2026-2027,Current,Microprocessors,56,45,80.4
+STU20260471,Dev Raju,2026-2027,Current,Data Structures,52,52,100.0
+STU20260471,Dev Raju,2026-2027,Current,Database Management Systems,32,31,96.9
+STU20260471,Dev Raju,2026-2027,Current,Operating Systems,36,34,94.4
+STU20260471,Dev Raju,2026-2027,Current,Computer Networks,52,49,94.2
+STU20260471,Dev Raju,2026-2027,Current,Software Engineering,52,52,100.0
+STU20260472,Sai Das,2026-2027,Current,Digital Electronics,50,37,74.0
+STU20260472,Sai Das,2026-2027,Current,Signals and Systems,59,42,71.2
+STU20260472,Sai Das,2026-2027,Current,Embedded Systems,30,21,70.0
+STU20260472,Sai Das,2026-2027,Current,Computer Networks,31,27,87.1
+STU20260472,Sai Das,2026-2027,Current,Microprocessors,31,30,96.8
+STU20260473,Dev Verma,2026-2027,Current,Python Programming,35,31,88.6
+STU20260473,Dev Verma,2026-2027,Current,Statistics for AI,41,28,68.3
+STU20260473,Dev Verma,2026-2027,Current,Machine Learning,49,39,79.6
+STU20260473,Dev Verma,2026-2027,Current,Deep Learning,37,24,64.9
+STU20260473,Dev Verma,2026-2027,Current,Data Mining,58,42,72.4
+STU20260474,Aadhya Chowdary,2026-2027,Current,Python Programming,56,49,87.5
+STU20260474,Aadhya Chowdary,2026-2027,Current,Statistics for AI,51,42,82.4
+STU20260474,Aadhya Chowdary,2026-2027,Current,Machine Learning,42,35,83.3
+STU20260474,Aadhya Chowdary,2026-2027,Current,Deep Learning,31,24,77.4
+STU20260474,Aadhya Chowdary,2026-2027,Current,Data Mining,50,49,98.0
+STU20260475,Neha Sharma,2026-2027,Current,Web Technologies,43,34,79.1
+STU20260475,Neha Sharma,2026-2027,Current,Database Management Systems,52,40,76.9
+STU20260475,Neha Sharma,2026-2027,Current,Computer Networks,37,32,86.5
+STU20260475,Neha Sharma,2026-2027,Current,Software Engineering,49,44,89.8
+STU20260475,Neha Sharma,2026-2027,Current,Cloud Computing,49,37,75.5
+STU20260476,Abhinav Varma,2026-2027,Current,Digital Electronics,52,40,76.9
+STU20260476,Abhinav Varma,2026-2027,Current,Signals and Systems,34,31,91.2
+STU20260476,Abhinav Varma,2026-2027,Current,Embedded Systems,37,29,78.4
+STU20260476,Abhinav Varma,2026-2027,Current,Computer Networks,49,44,89.8
+STU20260476,Abhinav Varma,2026-2027,Current,Microprocessors,47,33,70.2
+STU20260477,Avani Mishra,2026-2027,Current,Python Programming,46,32,69.6
+STU20260477,Avani Mishra,2026-2027,Current,Statistics for AI,35,21,60.0
+STU20260477,Avani Mishra,2026-2027,Current,Machine Learning,57,30,52.6
+STU20260477,Avani Mishra,2026-2027,Current,Deep Learning,45,38,84.4
+STU20260477,Avani Mishra,2026-2027,Current,Data Mining,31,20,64.5
+STU20260478,Varun Babu,2026-2027,Current,Python Programming,40,38,95.0
+STU20260478,Varun Babu,2026-2027,Current,Statistics for AI,30,29,96.7
+STU20260478,Varun Babu,2026-2027,Current,Machine Learning,32,26,81.2
+STU20260478,Varun Babu,2026-2027,Current,Deep Learning,32,30,93.8
+STU20260478,Varun Babu,2026-2027,Current,Data Mining,43,43,100.0
+STU20260479,Anil Gupta,2026-2027,Current,Web Technologies,28,24,85.7
+STU20260479,Anil Gupta,2026-2027,Current,Database Management Systems,58,55,94.8
+STU20260479,Anil Gupta,2026-2027,Current,Computer Networks,49,36,73.5
+STU20260479,Anil Gupta,2026-2027,Current,Software Engineering,31,31,100.0
+STU20260479,Anil Gupta,2026-2027,Current,Cloud Computing,59,54,91.5
+STU20260480,Srinivas Kashyap,2026-2027,Current,Data Structures,58,48,82.8
+STU20260480,Srinivas Kashyap,2026-2027,Current,Database Management Systems,38,28,73.7
+STU20260480,Srinivas Kashyap,2026-2027,Current,Operating Systems,30,20,66.7
+STU20260480,Srinivas Kashyap,2026-2027,Current,Computer Networks,49,34,69.4
+STU20260480,Srinivas Kashyap,2026-2027,Current,Software Engineering,30,26,86.7
+STU20260481,Gowtham Mohanty,2026-2027,Current,Data Structures,45,21,46.7
+STU20260481,Gowtham Mohanty,2026-2027,Current,Database Management Systems,59,39,66.1
+STU20260481,Gowtham Mohanty,2026-2027,Current,Operating Systems,57,26,45.6
+STU20260481,Gowtham Mohanty,2026-2027,Current,Computer Networks,44,27,61.4
+STU20260481,Gowtham Mohanty,2026-2027,Current,Software Engineering,32,24,75.0
+STU20260482,Aadhya Nair,2026-2027,Current,Engineering Mechanics,60,46,76.7
+STU20260482,Aadhya Nair,2026-2027,Current,Thermodynamics,51,40,78.4
+STU20260482,Aadhya Nair,2026-2027,Current,Manufacturing Processes,53,42,79.2
+STU20260482,Aadhya Nair,2026-2027,Current,CAD/CAM,39,23,59.0
+STU20260482,Aadhya Nair,2026-2027,Current,Materials Science,56,41,73.2
+STU20260483,Riya Goud,2026-2027,Current,Digital Electronics,30,22,73.3
+STU20260483,Riya Goud,2026-2027,Current,Signals and Systems,48,31,64.6
+STU20260483,Riya Goud,2026-2027,Current,Embedded Systems,53,45,84.9
+STU20260483,Riya Goud,2026-2027,Current,Computer Networks,45,40,88.9
+STU20260483,Riya Goud,2026-2027,Current,Microprocessors,57,46,80.7
+STU20260484,Riya Prasad,2026-2027,Current,Data Structures,36,23,63.9
+STU20260484,Riya Prasad,2026-2027,Current,Database Management Systems,46,26,56.5
+STU20260484,Riya Prasad,2026-2027,Current,Operating Systems,50,39,78.0
+STU20260484,Riya Prasad,2026-2027,Current,Computer Networks,44,27,61.4
+STU20260484,Riya Prasad,2026-2027,Current,Software Engineering,29,14,48.3
+STU20260485,Meera Singh,2026-2027,Current,Python Programming,39,39,100.0
+STU20260485,Meera Singh,2026-2027,Current,Statistics for AI,43,42,97.7
+STU20260485,Meera Singh,2026-2027,Current,Machine Learning,59,54,91.5
+STU20260485,Meera Singh,2026-2027,Current,Deep Learning,45,43,95.6
+STU20260485,Meera Singh,2026-2027,Current,Data Mining,44,44,100.0
+STU20260486,Lakshmi Devi,2026-2027,Current,Python Programming,32,23,71.9
+STU20260486,Lakshmi Devi,2026-2027,Current,Statistics for AI,43,30,69.8
+STU20260486,Lakshmi Devi,2026-2027,Current,Machine Learning,43,28,65.1
+STU20260486,Lakshmi Devi,2026-2027,Current,Deep Learning,32,27,84.4
+STU20260486,Lakshmi Devi,2026-2027,Current,Data Mining,50,24,48.0
+STU20260487,Teja Mishra,2026-2027,Current,Structural Analysis,48,44,91.7
+STU20260487,Teja Mishra,2026-2027,Current,Surveying,50,50,100.0
+STU20260487,Teja Mishra,2026-2027,Current,Geotechnical Engineering,28,24,85.7
+STU20260487,Teja Mishra,2026-2027,Current,Transportation Engineering,43,42,97.7
+STU20260487,Teja Mishra,2026-2027,Current,Environmental Engineering,42,41,97.6
+STU20260488,Aditya Patel,2026-2027,Current,Digital Electronics,47,38,80.9
+STU20260488,Aditya Patel,2026-2027,Current,Signals and Systems,57,39,68.4
+STU20260488,Aditya Patel,2026-2027,Current,Embedded Systems,28,20,71.4
+STU20260488,Aditya Patel,2026-2027,Current,Computer Networks,49,41,83.7
+STU20260488,Aditya Patel,2026-2027,Current,Microprocessors,48,39,81.2
+STU20260489,Deepika Rao,2026-2027,Current,Data Structures,55,51,92.7
+STU20260489,Deepika Rao,2026-2027,Current,Database Management Systems,38,29,76.3
+STU20260489,Deepika Rao,2026-2027,Current,Operating Systems,56,52,92.9
+STU20260489,Deepika Rao,2026-2027,Current,Computer Networks,34,32,94.1
+STU20260489,Deepika Rao,2026-2027,Current,Software Engineering,40,40,100.0
+STU20260490,Aadhya Varma,2026-2027,Current,Electrical Machines,44,29,65.9
+STU20260490,Aadhya Varma,2026-2027,Current,Power Systems,36,24,66.7
+STU20260490,Aadhya Varma,2026-2027,Current,Control Systems,43,40,93.0
+STU20260490,Aadhya Varma,2026-2027,Current,Circuit Theory,28,24,85.7
+STU20260490,Aadhya Varma,2026-2027,Current,Programming Fundamentals,35,27,77.1
+STU20260491,Akshara Das,2026-2027,Current,Data Structures,47,42,89.4
+STU20260491,Akshara Das,2026-2027,Current,Database Management Systems,46,28,60.9
+STU20260491,Akshara Das,2026-2027,Current,Operating Systems,58,32,55.2
+STU20260491,Akshara Das,2026-2027,Current,Computer Networks,45,31,68.9
+STU20260491,Akshara Das,2026-2027,Current,Software Engineering,50,34,68.0
+STU20260492,Rahul Babu,2026-2027,Current,Web Technologies,56,29,51.8
+STU20260492,Rahul Babu,2026-2027,Current,Database Management Systems,44,27,61.4
+STU20260492,Rahul Babu,2026-2027,Current,Computer Networks,51,31,60.8
+STU20260492,Rahul Babu,2026-2027,Current,Software Engineering,57,35,61.4
+STU20260492,Rahul Babu,2026-2027,Current,Cloud Computing,45,31,68.9
+STU20260493,Deepika Sahu,2026-2027,Current,Digital Electronics,47,43,91.5
+STU20260493,Deepika Sahu,2026-2027,Current,Signals and Systems,46,34,73.9
+STU20260493,Deepika Sahu,2026-2027,Current,Embedded Systems,29,24,82.8
+STU20260493,Deepika Sahu,2026-2027,Current,Computer Networks,34,28,82.4
+STU20260493,Deepika Sahu,2026-2027,Current,Microprocessors,44,30,68.2
+STU20260494,Pooja Goud,2026-2027,Current,Web Technologies,33,27,81.8
+STU20260494,Pooja Goud,2026-2027,Current,Database Management Systems,35,24,68.6
+STU20260494,Pooja Goud,2026-2027,Current,Computer Networks,29,23,79.3
+STU20260494,Pooja Goud,2026-2027,Current,Software Engineering,35,27,77.1
+STU20260494,Pooja Goud,2026-2027,Current,Cloud Computing,47,30,63.8
+STU20260495,Sanjana Murthy,2026-2027,Current,Data Structures,59,43,72.9
+STU20260495,Sanjana Murthy,2026-2027,Current,Database Management Systems,37,23,62.2
+STU20260495,Sanjana Murthy,2026-2027,Current,Operating Systems,36,27,75.0
+STU20260495,Sanjana Murthy,2026-2027,Current,Computer Networks,48,38,79.2
+STU20260495,Sanjana Murthy,2026-2027,Current,Software Engineering,57,48,84.2
+STU20260496,Meera Prasad,2026-2027,Current,Engineering Mechanics,50,34,68.0
+STU20260496,Meera Prasad,2026-2027,Current,Thermodynamics,36,35,97.2
+STU20260496,Meera Prasad,2026-2027,Current,Manufacturing Processes,55,43,78.2
+STU20260496,Meera Prasad,2026-2027,Current,CAD/CAM,54,46,85.2
+STU20260496,Meera Prasad,2026-2027,Current,Materials Science,60,51,85.0
+STU20260497,Harsha Khan,2026-2027,Current,Digital Electronics,44,36,81.8
+STU20260497,Harsha Khan,2026-2027,Current,Signals and Systems,53,53,100.0
+STU20260497,Harsha Khan,2026-2027,Current,Embedded Systems,51,48,94.1
+STU20260497,Harsha Khan,2026-2027,Current,Computer Networks,40,36,90.0
+STU20260497,Harsha Khan,2026-2027,Current,Microprocessors,39,35,89.7
+STU20260498,Srinivas Prasad,2026-2027,Current,Data Structures,60,36,60.0
+STU20260498,Srinivas Prasad,2026-2027,Current,Database Management Systems,41,30,73.2
+STU20260498,Srinivas Prasad,2026-2027,Current,Operating Systems,35,18,51.4
+STU20260498,Srinivas Prasad,2026-2027,Current,Computer Networks,57,38,66.7
+STU20260498,Srinivas Prasad,2026-2027,Current,Software Engineering,43,26,60.5
+STU20260499,Aadhya Gupta,2026-2027,Current,Digital Electronics,55,40,72.7
+STU20260499,Aadhya Gupta,2026-2027,Current,Signals and Systems,33,27,81.8
+STU20260499,Aadhya Gupta,2026-2027,Current,Embedded Systems,47,40,85.1
+STU20260499,Aadhya Gupta,2026-2027,Current,Computer Networks,44,44,100.0
+STU20260499,Aadhya Gupta,2026-2027,Current,Microprocessors,31,26,83.9
+STU20260500,Tarun Pillai,2026-2027,Current,Data Structures,47,47,100.0
+STU20260500,Tarun Pillai,2026-2027,Current,Database Management Systems,35,29,82.9
+STU20260500,Tarun Pillai,2026-2027,Current,Operating Systems,41,41,100.0
+STU20260500,Tarun Pillai,2026-2027,Current,Computer Networks,40,40,100.0
+STU20260500,Tarun Pillai,2026-2027,Current,Software Engineering,35,27,77.1

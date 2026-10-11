@@ -1,0 +1,1001 @@
+Student Name,Feedback Record ID,Student ID,Feedback Topic,Student Satisfaction Rating (1–5),Faculty Support Rating (1–5),Feedback Summary,Academic Year
+Neha Singh,FDB000001,STU20260001,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Neha Singh,FDB000002,STU20260001,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Aditya Devi,FDB000003,STU20260002,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Aditya Devi,FDB000004,STU20260002,Career Guidance,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Mishra,FDB000005,STU20260003,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Mishra,FDB000006,STU20260003,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Gupta,FDB000007,STU20260004,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Gupta,FDB000008,STU20260004,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Naidu,FDB000009,STU20260005,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Harsha Naidu,FDB000010,STU20260005,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Sandeep Joshi,FDB000011,STU20260006,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Joshi,FDB000012,STU20260006,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Iyer,FDB000013,STU20260007,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Varun Iyer,FDB000014,STU20260007,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Joshi,FDB000015,STU20260008,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Joshi,FDB000016,STU20260008,Course Delivery,4,1,Reports a generally positive experience.,2026-2027
+Diya Varma,FDB000017,STU20260009,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Diya Varma,FDB000018,STU20260009,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Meera Chowdary,FDB000019,STU20260010,Learning Support,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Chowdary,FDB000020,STU20260010,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Sandeep Rao,FDB000021,STU20260011,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Sandeep Rao,FDB000022,STU20260011,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Rao,FDB000023,STU20260012,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Ananya Rao,FDB000024,STU20260012,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Nandini Jain,FDB000025,STU20260013,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Jain,FDB000026,STU20260013,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Meera Goud,FDB000027,STU20260014,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Goud,FDB000028,STU20260014,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Rohan Mishra,FDB000029,STU20260015,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Rohan Mishra,FDB000030,STU20260015,Learning Support,2,5,Would benefit from more structured support.,2026-2027
+Madhavi Mishra,FDB000031,STU20260016,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Madhavi Mishra,FDB000032,STU20260016,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Srinivas Kumar,FDB000033,STU20260017,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Kumar,FDB000034,STU20260017,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Priya Naidu,FDB000035,STU20260018,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Priya Naidu,FDB000036,STU20260018,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Kavya Sahu,FDB000037,STU20260019,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Kavya Sahu,FDB000038,STU20260019,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Teja Prasad,FDB000039,STU20260020,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Teja Prasad,FDB000040,STU20260020,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Khan,FDB000041,STU20260021,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Vijay Khan,FDB000042,STU20260021,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Yadav,FDB000043,STU20260022,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Vijay Yadav,FDB000044,STU20260022,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Goud,FDB000045,STU20260023,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Kavya Goud,FDB000046,STU20260023,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Yadav,FDB000047,STU20260024,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Yadav,FDB000048,STU20260024,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Nandini Reddy,FDB000049,STU20260025,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Nandini Reddy,FDB000050,STU20260025,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Shetty,FDB000051,STU20260026,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Sanjana Shetty,FDB000052,STU20260026,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Manoj Naidu,FDB000053,STU20260027,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Naidu,FDB000054,STU20260027,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Devi,FDB000055,STU20260028,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Akshara Devi,FDB000056,STU20260028,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Avani Yadav,FDB000057,STU20260029,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Avani Yadav,FDB000058,STU20260029,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Yadav,FDB000059,STU20260030,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Srinivas Yadav,FDB000060,STU20260030,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Sanjana Khan,FDB000061,STU20260031,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Sanjana Khan,FDB000062,STU20260031,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Varma,FDB000063,STU20260032,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Varma,FDB000064,STU20260032,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Harsha Yadav,FDB000065,STU20260033,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Yadav,FDB000066,STU20260033,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Mohan Das,FDB000067,STU20260034,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Mohan Das,FDB000068,STU20260034,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Arjun Mohanty,FDB000069,STU20260035,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Arjun Mohanty,FDB000070,STU20260035,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Manoj Goud,FDB000071,STU20260036,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Manoj Goud,FDB000072,STU20260036,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Reddy,FDB000073,STU20260037,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Reddy,FDB000074,STU20260037,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Patel,FDB000075,STU20260038,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Anil Patel,FDB000076,STU20260038,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Abhinav Jain,FDB000077,STU20260039,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Abhinav Jain,FDB000078,STU20260039,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Chaitanya Kumar,FDB000079,STU20260040,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Chaitanya Kumar,FDB000080,STU20260040,Campus Engagement,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Patel,FDB000081,STU20260041,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Kavya Patel,FDB000082,STU20260041,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Varun Jain,FDB000083,STU20260042,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Jain,FDB000084,STU20260042,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Sneha Goud,FDB000085,STU20260043,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Sneha Goud,FDB000086,STU20260043,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Anil Mohanty,FDB000087,STU20260044,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Anil Mohanty,FDB000088,STU20260044,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Aditya Iyer,FDB000089,STU20260045,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Aditya Iyer,FDB000090,STU20260045,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Mishra,FDB000091,STU20260046,Career Guidance,2,5,Would benefit from more structured support.,2026-2027
+Kiran Mishra,FDB000092,STU20260046,Learning Support,2,1,Would benefit from more structured support.,2026-2027
+Tarun Shetty,FDB000093,STU20260047,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Tarun Shetty,FDB000094,STU20260047,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Dev Khan,FDB000095,STU20260048,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Dev Khan,FDB000096,STU20260048,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Krishna Reddy,FDB000097,STU20260049,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Reddy,FDB000098,STU20260049,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Jain,FDB000099,STU20260050,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Aadhya Jain,FDB000100,STU20260050,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Pillai,FDB000101,STU20260051,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Teja Pillai,FDB000102,STU20260051,Learning Support,1,2,Requests additional support and clearer guidance.,2026-2027
+Siddharth Sharma,FDB000103,STU20260052,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Siddharth Sharma,FDB000104,STU20260052,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Patel,FDB000105,STU20260053,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Dev Patel,FDB000106,STU20260053,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Aarav Naidu,FDB000107,STU20260054,LMS Experience,5,2,Reports a very positive experience.,2026-2027
+Aarav Naidu,FDB000108,STU20260054,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Tarun Jain,FDB000109,STU20260055,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Tarun Jain,FDB000110,STU20260055,LMS Experience,5,2,Reports a very positive experience.,2026-2027
+Divya Kashyap,FDB000111,STU20260056,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Divya Kashyap,FDB000112,STU20260056,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Sandeep Verma,FDB000113,STU20260057,Career Guidance,1,3,Requests additional support and clearer guidance.,2026-2027
+Sandeep Verma,FDB000114,STU20260057,Course Delivery,5,2,Reports a very positive experience.,2026-2027
+Vijay Khan,FDB000115,STU20260058,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Khan,FDB000116,STU20260058,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Sai Sahu,FDB000117,STU20260059,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Sai Sahu,FDB000118,STU20260059,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Kiran Joshi,FDB000119,STU20260060,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Kiran Joshi,FDB000120,STU20260060,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Iyer,FDB000121,STU20260061,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Riya Iyer,FDB000122,STU20260061,Campus Engagement,1,2,Requests additional support and clearer guidance.,2026-2027
+Charan Devi,FDB000123,STU20260062,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Charan Devi,FDB000124,STU20260062,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Shetty,FDB000125,STU20260063,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Sneha Shetty,FDB000126,STU20260063,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Divya Babu,FDB000127,STU20260064,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Babu,FDB000128,STU20260064,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Akshara Devi,FDB000129,STU20260065,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Devi,FDB000130,STU20260065,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Devi,FDB000131,STU20260066,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Pranav Devi,FDB000132,STU20260066,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Gowtham Kashyap,FDB000133,STU20260067,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Gowtham Kashyap,FDB000134,STU20260067,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Ananya Chowdary,FDB000135,STU20260068,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Chowdary,FDB000136,STU20260068,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Joshi,FDB000137,STU20260069,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Pranav Joshi,FDB000138,STU20260069,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Sandeep Singh,FDB000139,STU20260070,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Sandeep Singh,FDB000140,STU20260070,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Akshara Singh,FDB000141,STU20260071,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Singh,FDB000142,STU20260071,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Anil Devi,FDB000143,STU20260072,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Anil Devi,FDB000144,STU20260072,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Sneha Prasad,FDB000145,STU20260073,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Prasad,FDB000146,STU20260073,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Jain,FDB000147,STU20260074,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Nikhil Jain,FDB000148,STU20260074,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Harsha Joshi,FDB000149,STU20260075,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Joshi,FDB000150,STU20260075,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Aadhya Babu,FDB000151,STU20260076,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Aadhya Babu,FDB000152,STU20260076,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Srinivas Goud,FDB000153,STU20260077,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Srinivas Goud,FDB000154,STU20260077,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Gowtham Pillai,FDB000155,STU20260078,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Gowtham Pillai,FDB000156,STU20260078,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Avani Singh,FDB000157,STU20260079,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Avani Singh,FDB000158,STU20260079,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Verma,FDB000159,STU20260080,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Srinivas Verma,FDB000160,STU20260080,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Gupta,FDB000161,STU20260081,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Gupta,FDB000162,STU20260081,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Teja Kumar,FDB000163,STU20260082,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Teja Kumar,FDB000164,STU20260082,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Krishna Raju,FDB000165,STU20260083,Career Guidance,5,5,Reports a very positive experience.,2026-2027
+Krishna Raju,FDB000166,STU20260083,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Yamini Sharma,FDB000167,STU20260084,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Yamini Sharma,FDB000168,STU20260084,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Aadhya Iyer,FDB000169,STU20260085,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Aadhya Iyer,FDB000170,STU20260085,Learning Support,4,1,Reports a generally positive experience.,2026-2027
+Madhavi Patel,FDB000171,STU20260086,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Patel,FDB000172,STU20260086,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Das,FDB000173,STU20260087,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Varun Das,FDB000174,STU20260087,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Aadhya Reddy,FDB000175,STU20260088,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Reddy,FDB000176,STU20260088,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Priya Reddy,FDB000177,STU20260089,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Priya Reddy,FDB000178,STU20260089,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Lakshmi Verma,FDB000179,STU20260090,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Lakshmi Verma,FDB000180,STU20260090,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Teja Murthy,FDB000181,STU20260091,Career Guidance,2,5,Would benefit from more structured support.,2026-2027
+Teja Murthy,FDB000182,STU20260091,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Keerthi Rao,FDB000183,STU20260092,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Keerthi Rao,FDB000184,STU20260092,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Yamini Kashyap,FDB000185,STU20260093,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Yamini Kashyap,FDB000186,STU20260093,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Madhavi Devi,FDB000187,STU20260094,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Madhavi Devi,FDB000188,STU20260094,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Sharma,FDB000189,STU20260095,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Sharma,FDB000190,STU20260095,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Aditya Shetty,FDB000191,STU20260096,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Shetty,FDB000192,STU20260096,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Verma,FDB000193,STU20260097,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Ananya Verma,FDB000194,STU20260097,Career Guidance,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Khan,FDB000195,STU20260098,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Aarav Khan,FDB000196,STU20260098,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Pooja Goud,FDB000197,STU20260099,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Pooja Goud,FDB000198,STU20260099,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pooja Sharma,FDB000199,STU20260100,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pooja Sharma,FDB000200,STU20260100,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Riya Rao,FDB000201,STU20260101,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Riya Rao,FDB000202,STU20260101,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Joshi,FDB000203,STU20260102,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Akshara Joshi,FDB000204,STU20260102,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Sai Gupta,FDB000205,STU20260103,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sai Gupta,FDB000206,STU20260103,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Rao,FDB000207,STU20260104,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Kiran Rao,FDB000208,STU20260104,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Khan,FDB000209,STU20260105,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Khan,FDB000210,STU20260105,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Das,FDB000211,STU20260106,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Das,FDB000212,STU20260106,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Akshara Sharma,FDB000213,STU20260107,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Sharma,FDB000214,STU20260107,Learning Support,5,2,Reports a very positive experience.,2026-2027
+Krishna Raju,FDB000215,STU20260108,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Raju,FDB000216,STU20260108,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Sneha Singh,FDB000217,STU20260109,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Singh,FDB000218,STU20260109,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Meera Devi,FDB000219,STU20260110,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Devi,FDB000220,STU20260110,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Ishaan Naidu,FDB000221,STU20260111,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ishaan Naidu,FDB000222,STU20260111,Career Guidance,5,5,Reports a very positive experience.,2026-2027
+Pooja Murthy,FDB000223,STU20260112,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Pooja Murthy,FDB000224,STU20260112,Course Delivery,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Rao,FDB000225,STU20260113,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Kavya Rao,FDB000226,STU20260113,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Abhinav Gupta,FDB000227,STU20260114,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Abhinav Gupta,FDB000228,STU20260114,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Kavya Singh,FDB000229,STU20260115,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Kavya Singh,FDB000230,STU20260115,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Sandeep Shetty,FDB000231,STU20260116,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Shetty,FDB000232,STU20260116,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Jain,FDB000233,STU20260117,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Jain,FDB000234,STU20260117,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Devi,FDB000235,STU20260118,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Nikhil Devi,FDB000236,STU20260118,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Vijay Joshi,FDB000237,STU20260119,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Joshi,FDB000238,STU20260119,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Khan,FDB000239,STU20260120,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Sneha Khan,FDB000240,STU20260120,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Siddharth Murthy,FDB000241,STU20260121,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Siddharth Murthy,FDB000242,STU20260121,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Kashyap,FDB000243,STU20260122,LMS Experience,2,5,Would benefit from more structured support.,2026-2027
+Teja Kashyap,FDB000244,STU20260122,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Priya Yadav,FDB000245,STU20260123,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Priya Yadav,FDB000246,STU20260123,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Naidu,FDB000247,STU20260124,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Naidu,FDB000248,STU20260124,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Kiran Sahu,FDB000249,STU20260125,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Kiran Sahu,FDB000250,STU20260125,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Meera Naidu,FDB000251,STU20260126,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Meera Naidu,FDB000252,STU20260126,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Sahu,FDB000253,STU20260127,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Harsha Sahu,FDB000254,STU20260127,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Tarun Mishra,FDB000255,STU20260128,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Tarun Mishra,FDB000256,STU20260128,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Vijay Verma,FDB000257,STU20260129,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Verma,FDB000258,STU20260129,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Mohanty,FDB000259,STU20260130,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Mohanty,FDB000260,STU20260130,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Joshi,FDB000261,STU20260131,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Sandeep Joshi,FDB000262,STU20260131,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Sahu,FDB000263,STU20260132,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Ananya Sahu,FDB000264,STU20260132,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Nandini Prasad,FDB000265,STU20260133,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Prasad,FDB000266,STU20260133,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Pillai,FDB000267,STU20260134,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Pillai,FDB000268,STU20260134,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Gowtham Murthy,FDB000269,STU20260135,Learning Support,4,1,Reports a generally positive experience.,2026-2027
+Gowtham Murthy,FDB000270,STU20260135,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Das,FDB000271,STU20260136,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Chaitanya Das,FDB000272,STU20260136,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Sanjana Yadav,FDB000273,STU20260137,LMS Experience,5,2,Reports a very positive experience.,2026-2027
+Sanjana Yadav,FDB000274,STU20260137,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Meera Devi,FDB000275,STU20260138,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Meera Devi,FDB000276,STU20260138,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Aarav Khan,FDB000277,STU20260139,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Aarav Khan,FDB000278,STU20260139,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Kiran Joshi,FDB000279,STU20260140,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Joshi,FDB000280,STU20260140,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Chowdary,FDB000281,STU20260141,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Chowdary,FDB000282,STU20260141,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Prasad,FDB000283,STU20260142,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Riya Prasad,FDB000284,STU20260142,Career Guidance,5,2,Reports a very positive experience.,2026-2027
+Chaitanya Varma,FDB000285,STU20260143,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Varma,FDB000286,STU20260143,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Prasad,FDB000287,STU20260144,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Prasad,FDB000288,STU20260144,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Varun Joshi,FDB000289,STU20260145,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Varun Joshi,FDB000290,STU20260145,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pooja Naidu,FDB000291,STU20260146,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Pooja Naidu,FDB000292,STU20260146,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Diya Gupta,FDB000293,STU20260147,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Diya Gupta,FDB000294,STU20260147,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Aadhya Murthy,FDB000295,STU20260148,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Aadhya Murthy,FDB000296,STU20260148,LMS Experience,5,5,Reports a very positive experience.,2026-2027
+Nikhil Sahu,FDB000297,STU20260149,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Sahu,FDB000298,STU20260149,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Varun Khan,FDB000299,STU20260150,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Varun Khan,FDB000300,STU20260150,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Chaitanya Prasad,FDB000301,STU20260151,Career Guidance,5,5,Reports a very positive experience.,2026-2027
+Chaitanya Prasad,FDB000302,STU20260151,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Kumar,FDB000303,STU20260152,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Sanjana Kumar,FDB000304,STU20260152,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Teja Goud,FDB000305,STU20260153,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Goud,FDB000306,STU20260153,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Riya Yadav,FDB000307,STU20260154,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Yadav,FDB000308,STU20260154,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Keerthi Goud,FDB000309,STU20260155,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Keerthi Goud,FDB000310,STU20260155,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Sneha Jain,FDB000311,STU20260156,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Jain,FDB000312,STU20260156,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Kiran Sharma,FDB000313,STU20260157,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Kiran Sharma,FDB000314,STU20260157,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Charan Gupta,FDB000315,STU20260158,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Gupta,FDB000316,STU20260158,Course Delivery,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Singh,FDB000317,STU20260159,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Chaitanya Singh,FDB000318,STU20260159,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Abhinav Reddy,FDB000319,STU20260160,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Abhinav Reddy,FDB000320,STU20260160,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Meera Jain,FDB000321,STU20260161,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Meera Jain,FDB000322,STU20260161,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Charan Mishra,FDB000323,STU20260162,Learning Support,1,3,Requests additional support and clearer guidance.,2026-2027
+Charan Mishra,FDB000324,STU20260162,Campus Engagement,5,2,Reports a very positive experience.,2026-2027
+Deepika Rao,FDB000325,STU20260163,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Rao,FDB000326,STU20260163,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Murthy,FDB000327,STU20260164,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Nikhil Murthy,FDB000328,STU20260164,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Aadhya Patel,FDB000329,STU20260165,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Aadhya Patel,FDB000330,STU20260165,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Avani Pillai,FDB000331,STU20260166,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Avani Pillai,FDB000332,STU20260166,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Khan,FDB000333,STU20260167,Course Delivery,5,1,Reports a very positive experience.,2026-2027
+Manoj Khan,FDB000334,STU20260167,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Riya Joshi,FDB000335,STU20260168,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Riya Joshi,FDB000336,STU20260168,Campus Engagement,1,3,Requests additional support and clearer guidance.,2026-2027
+Pranav Mohanty,FDB000337,STU20260169,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Pranav Mohanty,FDB000338,STU20260169,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Vijay Reddy,FDB000339,STU20260170,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Vijay Reddy,FDB000340,STU20260170,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Joshi,FDB000341,STU20260171,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Arjun Joshi,FDB000342,STU20260171,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Priya Gupta,FDB000343,STU20260172,Course Delivery,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Priya Gupta,FDB000344,STU20260172,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Diya Patel,FDB000345,STU20260173,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Diya Patel,FDB000346,STU20260173,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Charan Nair,FDB000347,STU20260174,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Charan Nair,FDB000348,STU20260174,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Sanjana Varma,FDB000349,STU20260175,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Sanjana Varma,FDB000350,STU20260175,Career Guidance,2,1,Would benefit from more structured support.,2026-2027
+Tarun Naidu,FDB000351,STU20260176,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Tarun Naidu,FDB000352,STU20260176,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Reddy,FDB000353,STU20260177,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Reddy,FDB000354,STU20260177,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Sharma,FDB000355,STU20260178,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Sharma,FDB000356,STU20260178,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Siddharth Devi,FDB000357,STU20260179,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Siddharth Devi,FDB000358,STU20260179,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Sharma,FDB000359,STU20260180,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Varun Sharma,FDB000360,STU20260180,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Tarun Kashyap,FDB000361,STU20260181,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Tarun Kashyap,FDB000362,STU20260181,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Reddy,FDB000363,STU20260182,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Sneha Reddy,FDB000364,STU20260182,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Pooja Chowdary,FDB000365,STU20260183,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Pooja Chowdary,FDB000366,STU20260183,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Varun Reddy,FDB000367,STU20260184,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Reddy,FDB000368,STU20260184,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Meera Kashyap,FDB000369,STU20260185,Campus Engagement,5,5,Reports a very positive experience.,2026-2027
+Meera Kashyap,FDB000370,STU20260185,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ishaan Gupta,FDB000371,STU20260186,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Ishaan Gupta,FDB000372,STU20260186,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Naveen Reddy,FDB000373,STU20260187,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Naveen Reddy,FDB000374,STU20260187,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Verma,FDB000375,STU20260188,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Verma,FDB000376,STU20260188,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Mishra,FDB000377,STU20260189,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Charan Mishra,FDB000378,STU20260189,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Mishra,FDB000379,STU20260190,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Meera Mishra,FDB000380,STU20260190,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Sanjana Goud,FDB000381,STU20260191,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Sanjana Goud,FDB000382,STU20260191,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Yadav,FDB000383,STU20260192,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Pranav Yadav,FDB000384,STU20260192,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Diya Shetty,FDB000385,STU20260193,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Diya Shetty,FDB000386,STU20260193,Career Guidance,5,2,Reports a very positive experience.,2026-2027
+Riya Murthy,FDB000387,STU20260194,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Murthy,FDB000388,STU20260194,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Kashyap,FDB000389,STU20260195,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Ananya Kashyap,FDB000390,STU20260195,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Tarun Goud,FDB000391,STU20260196,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Tarun Goud,FDB000392,STU20260196,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Keerthi Singh,FDB000393,STU20260197,Learning Support,4,1,Reports a generally positive experience.,2026-2027
+Keerthi Singh,FDB000394,STU20260197,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Jain,FDB000395,STU20260198,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Sneha Jain,FDB000396,STU20260198,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Murthy,FDB000397,STU20260199,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Charan Murthy,FDB000398,STU20260199,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Ishaan Chowdary,FDB000399,STU20260200,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Ishaan Chowdary,FDB000400,STU20260200,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Akshara Babu,FDB000401,STU20260201,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Akshara Babu,FDB000402,STU20260201,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Abhinav Rao,FDB000403,STU20260202,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Abhinav Rao,FDB000404,STU20260202,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Akshara Yadav,FDB000405,STU20260203,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Akshara Yadav,FDB000406,STU20260203,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Varun Reddy,FDB000407,STU20260204,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Reddy,FDB000408,STU20260204,Career Guidance,2,5,Would benefit from more structured support.,2026-2027
+Neha Das,FDB000409,STU20260205,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Neha Das,FDB000410,STU20260205,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Avani Raju,FDB000411,STU20260206,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Avani Raju,FDB000412,STU20260206,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Naveen Raju,FDB000413,STU20260207,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Raju,FDB000414,STU20260207,Course Delivery,1,4,Requests additional support and clearer guidance.,2026-2027
+Kiran Joshi,FDB000415,STU20260208,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Kiran Joshi,FDB000416,STU20260208,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Diya Das,FDB000417,STU20260209,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Diya Das,FDB000418,STU20260209,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Abhinav Verma,FDB000419,STU20260210,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Abhinav Verma,FDB000420,STU20260210,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Pranav Chowdary,FDB000421,STU20260211,Career Guidance,5,2,Reports a very positive experience.,2026-2027
+Pranav Chowdary,FDB000422,STU20260211,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Rao,FDB000423,STU20260212,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Rao,FDB000424,STU20260212,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rahul Jain,FDB000425,STU20260213,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rahul Jain,FDB000426,STU20260213,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Sharma,FDB000427,STU20260214,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Sharma,FDB000428,STU20260214,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Keerthi Pillai,FDB000429,STU20260215,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Keerthi Pillai,FDB000430,STU20260215,Learning Support,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Mohan Goud,FDB000431,STU20260216,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Mohan Goud,FDB000432,STU20260216,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pooja Gupta,FDB000433,STU20260217,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Pooja Gupta,FDB000434,STU20260217,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Mishra,FDB000435,STU20260218,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Nikhil Mishra,FDB000436,STU20260218,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Madhavi Joshi,FDB000437,STU20260219,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Joshi,FDB000438,STU20260219,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Prasad,FDB000439,STU20260220,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Prasad,FDB000440,STU20260220,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Varma,FDB000441,STU20260221,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Varma,FDB000442,STU20260221,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Ishaan Reddy,FDB000443,STU20260222,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Ishaan Reddy,FDB000444,STU20260222,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Iyer,FDB000445,STU20260223,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Iyer,FDB000446,STU20260223,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Ishaan Patel,FDB000447,STU20260224,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Ishaan Patel,FDB000448,STU20260224,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Harsha Yadav,FDB000449,STU20260225,Learning Support,1,3,Requests additional support and clearer guidance.,2026-2027
+Harsha Yadav,FDB000450,STU20260225,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Nandini Murthy,FDB000451,STU20260226,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Murthy,FDB000452,STU20260226,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Teja Singh,FDB000453,STU20260227,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Teja Singh,FDB000454,STU20260227,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Mohan Mohanty,FDB000455,STU20260228,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Mohan Mohanty,FDB000456,STU20260228,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Aadhya Iyer,FDB000457,STU20260229,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Aadhya Iyer,FDB000458,STU20260229,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Divya Das,FDB000459,STU20260230,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Das,FDB000460,STU20260230,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Nair,FDB000461,STU20260231,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Nair,FDB000462,STU20260231,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Divya Shetty,FDB000463,STU20260232,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Divya Shetty,FDB000464,STU20260232,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Gowtham Shetty,FDB000465,STU20260233,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Gowtham Shetty,FDB000466,STU20260233,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Naveen Mohanty,FDB000467,STU20260234,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Naveen Mohanty,FDB000468,STU20260234,Learning Support,2,5,Would benefit from more structured support.,2026-2027
+Priya Mohanty,FDB000469,STU20260235,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Priya Mohanty,FDB000470,STU20260235,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Siddharth Chowdary,FDB000471,STU20260236,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Siddharth Chowdary,FDB000472,STU20260236,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Joshi,FDB000473,STU20260237,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Joshi,FDB000474,STU20260237,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Yamini Varma,FDB000475,STU20260238,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Yamini Varma,FDB000476,STU20260238,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Gupta,FDB000477,STU20260239,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Gupta,FDB000478,STU20260239,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Mishra,FDB000479,STU20260240,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Manoj Mishra,FDB000480,STU20260240,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Vijay Khan,FDB000481,STU20260241,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Vijay Khan,FDB000482,STU20260241,Course Delivery,5,5,Reports a very positive experience.,2026-2027
+Sneha Murthy,FDB000483,STU20260242,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Sneha Murthy,FDB000484,STU20260242,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rohan Khan,FDB000485,STU20260243,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rohan Khan,FDB000486,STU20260243,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Babu,FDB000487,STU20260244,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Manoj Babu,FDB000488,STU20260244,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Teja Sharma,FDB000489,STU20260245,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Teja Sharma,FDB000490,STU20260245,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Sneha Mohanty,FDB000491,STU20260246,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Sneha Mohanty,FDB000492,STU20260246,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Divya Mohanty,FDB000493,STU20260247,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Mohanty,FDB000494,STU20260247,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Yamini Singh,FDB000495,STU20260248,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Yamini Singh,FDB000496,STU20260248,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Madhavi Mishra,FDB000497,STU20260249,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Mishra,FDB000498,STU20260249,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Madhavi Reddy,FDB000499,STU20260250,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Reddy,FDB000500,STU20260250,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sai Prasad,FDB000501,STU20260251,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sai Prasad,FDB000502,STU20260251,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Nikhil Jain,FDB000503,STU20260252,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Nikhil Jain,FDB000504,STU20260252,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Rahul Sahu,FDB000505,STU20260253,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Rahul Sahu,FDB000506,STU20260253,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Kavya Babu,FDB000507,STU20260254,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Babu,FDB000508,STU20260254,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Lakshmi Gupta,FDB000509,STU20260255,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Lakshmi Gupta,FDB000510,STU20260255,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Harsha Goud,FDB000511,STU20260256,Campus Engagement,5,2,Reports a very positive experience.,2026-2027
+Harsha Goud,FDB000512,STU20260256,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Verma,FDB000513,STU20260257,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Verma,FDB000514,STU20260257,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Devi,FDB000515,STU20260258,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Devi,FDB000516,STU20260258,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Kashyap,FDB000517,STU20260259,LMS Experience,1,2,Requests additional support and clearer guidance.,2026-2027
+Sandeep Kashyap,FDB000518,STU20260259,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Kavya Devi,FDB000519,STU20260260,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Devi,FDB000520,STU20260260,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Abhinav Rao,FDB000521,STU20260261,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Abhinav Rao,FDB000522,STU20260261,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Khan,FDB000523,STU20260262,Learning Support,1,4,Requests additional support and clearer guidance.,2026-2027
+Sandeep Khan,FDB000524,STU20260262,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Pooja Nair,FDB000525,STU20260263,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Pooja Nair,FDB000526,STU20260263,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Veda Shetty,FDB000527,STU20260264,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Veda Shetty,FDB000528,STU20260264,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Das,FDB000529,STU20260265,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Das,FDB000530,STU20260265,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Aarav Shetty,FDB000531,STU20260266,Campus Engagement,1,4,Requests additional support and clearer guidance.,2026-2027
+Aarav Shetty,FDB000532,STU20260266,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sai Singh,FDB000533,STU20260267,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sai Singh,FDB000534,STU20260267,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Meera Rao,FDB000535,STU20260268,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Meera Rao,FDB000536,STU20260268,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Shetty,FDB000537,STU20260269,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Manoj Shetty,FDB000538,STU20260269,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Srinivas Goud,FDB000539,STU20260270,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Srinivas Goud,FDB000540,STU20260270,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Pranav Babu,FDB000541,STU20260271,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Pranav Babu,FDB000542,STU20260271,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Harsha Jain,FDB000543,STU20260272,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Harsha Jain,FDB000544,STU20260272,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Patel,FDB000545,STU20260273,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Patel,FDB000546,STU20260273,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Aadhya Singh,FDB000547,STU20260274,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Aadhya Singh,FDB000548,STU20260274,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Siddharth Jain,FDB000549,STU20260275,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Siddharth Jain,FDB000550,STU20260275,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Avani Joshi,FDB000551,STU20260276,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Avani Joshi,FDB000552,STU20260276,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Arjun Kashyap,FDB000553,STU20260277,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Arjun Kashyap,FDB000554,STU20260277,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Avani Joshi,FDB000555,STU20260278,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Avani Joshi,FDB000556,STU20260278,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Teja Mohanty,FDB000557,STU20260279,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Teja Mohanty,FDB000558,STU20260279,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Tarun Devi,FDB000559,STU20260280,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Tarun Devi,FDB000560,STU20260280,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Vijay Singh,FDB000561,STU20260281,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Vijay Singh,FDB000562,STU20260281,LMS Experience,1,5,Requests additional support and clearer guidance.,2026-2027
+Charan Kashyap,FDB000563,STU20260282,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Charan Kashyap,FDB000564,STU20260282,Course Delivery,1,3,Requests additional support and clearer guidance.,2026-2027
+Sanjana Jain,FDB000565,STU20260283,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Sanjana Jain,FDB000566,STU20260283,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Ananya Prasad,FDB000567,STU20260284,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Prasad,FDB000568,STU20260284,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Divya Varma,FDB000569,STU20260285,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Varma,FDB000570,STU20260285,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Rohan Jain,FDB000571,STU20260286,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rohan Jain,FDB000572,STU20260286,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Srinivas Rao,FDB000573,STU20260287,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Srinivas Rao,FDB000574,STU20260287,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Das,FDB000575,STU20260288,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Naveen Das,FDB000576,STU20260288,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Harsha Joshi,FDB000577,STU20260289,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Harsha Joshi,FDB000578,STU20260289,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Bhavana Raju,FDB000579,STU20260290,Campus Engagement,5,2,Reports a very positive experience.,2026-2027
+Bhavana Raju,FDB000580,STU20260290,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Sneha Das,FDB000581,STU20260291,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Das,FDB000582,STU20260291,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Harsha Gupta,FDB000583,STU20260292,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Harsha Gupta,FDB000584,STU20260292,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Rao,FDB000585,STU20260293,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Keerthi Rao,FDB000586,STU20260293,LMS Experience,5,5,Reports a very positive experience.,2026-2027
+Aadhya Chowdary,FDB000587,STU20260294,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Chowdary,FDB000588,STU20260294,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Avani Khan,FDB000589,STU20260295,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Avani Khan,FDB000590,STU20260295,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Pranav Rao,FDB000591,STU20260296,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Pranav Rao,FDB000592,STU20260296,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Verma,FDB000593,STU20260297,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Verma,FDB000594,STU20260297,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Das,FDB000595,STU20260298,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Neha Das,FDB000596,STU20260298,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Veda Mishra,FDB000597,STU20260299,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Veda Mishra,FDB000598,STU20260299,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Sahu,FDB000599,STU20260300,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Dev Sahu,FDB000600,STU20260300,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Yadav,FDB000601,STU20260301,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Yadav,FDB000602,STU20260301,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Riya Patel,FDB000603,STU20260302,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Patel,FDB000604,STU20260302,Course Delivery,5,2,Reports a very positive experience.,2026-2027
+Vijay Gupta,FDB000605,STU20260303,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Vijay Gupta,FDB000606,STU20260303,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Naveen Iyer,FDB000607,STU20260304,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Iyer,FDB000608,STU20260304,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Neha Nair,FDB000609,STU20260305,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Neha Nair,FDB000610,STU20260305,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Pranav Nair,FDB000611,STU20260306,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Pranav Nair,FDB000612,STU20260306,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Chaitanya Reddy,FDB000613,STU20260307,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Reddy,FDB000614,STU20260307,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Veda Gupta,FDB000615,STU20260308,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Veda Gupta,FDB000616,STU20260308,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Ananya Murthy,FDB000617,STU20260309,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Ananya Murthy,FDB000618,STU20260309,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Kavya Prasad,FDB000619,STU20260310,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Kavya Prasad,FDB000620,STU20260310,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Naidu,FDB000621,STU20260311,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Keerthi Naidu,FDB000622,STU20260311,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Joshi,FDB000623,STU20260312,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Kavya Joshi,FDB000624,STU20260312,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Krishna Sahu,FDB000625,STU20260313,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Krishna Sahu,FDB000626,STU20260313,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Naveen Goud,FDB000627,STU20260314,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Naveen Goud,FDB000628,STU20260314,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Krishna Reddy,FDB000629,STU20260315,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Krishna Reddy,FDB000630,STU20260315,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Siddharth Babu,FDB000631,STU20260316,Campus Engagement,2,4,Would benefit from more structured support.,2026-2027
+Siddharth Babu,FDB000632,STU20260316,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Varun Chowdary,FDB000633,STU20260317,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Varun Chowdary,FDB000634,STU20260317,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Kashyap,FDB000635,STU20260318,Campus Engagement,2,4,Would benefit from more structured support.,2026-2027
+Keerthi Kashyap,FDB000636,STU20260318,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Babu,FDB000637,STU20260319,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Aditya Babu,FDB000638,STU20260319,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Lakshmi Prasad,FDB000639,STU20260320,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Lakshmi Prasad,FDB000640,STU20260320,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Manoj Patel,FDB000641,STU20260321,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Manoj Patel,FDB000642,STU20260321,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Srinivas Joshi,FDB000643,STU20260322,Career Guidance,2,2,Would benefit from more structured support.,2026-2027
+Srinivas Joshi,FDB000644,STU20260322,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Devi,FDB000645,STU20260323,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Arjun Devi,FDB000646,STU20260323,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Jain,FDB000647,STU20260324,Career Guidance,2,1,Would benefit from more structured support.,2026-2027
+Deepika Jain,FDB000648,STU20260324,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Gowtham Pillai,FDB000649,STU20260325,Career Guidance,2,5,Would benefit from more structured support.,2026-2027
+Gowtham Pillai,FDB000650,STU20260325,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Riya Jain,FDB000651,STU20260326,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Jain,FDB000652,STU20260326,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Jain,FDB000653,STU20260327,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Jain,FDB000654,STU20260327,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Kavya Khan,FDB000655,STU20260328,Course Delivery,5,3,Reports a very positive experience.,2026-2027
+Kavya Khan,FDB000656,STU20260328,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Diya Verma,FDB000657,STU20260329,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Diya Verma,FDB000658,STU20260329,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Naidu,FDB000659,STU20260330,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Divya Naidu,FDB000660,STU20260330,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Kiran Gupta,FDB000661,STU20260331,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Gupta,FDB000662,STU20260331,Course Delivery,5,5,Reports a very positive experience.,2026-2027
+Neha Kumar,FDB000663,STU20260332,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Neha Kumar,FDB000664,STU20260332,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Naveen Kashyap,FDB000665,STU20260333,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Naveen Kashyap,FDB000666,STU20260333,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Kavya Rao,FDB000667,STU20260334,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Rao,FDB000668,STU20260334,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Verma,FDB000669,STU20260335,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Verma,FDB000670,STU20260335,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Pranav Babu,FDB000671,STU20260336,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Babu,FDB000672,STU20260336,Course Delivery,5,2,Reports a very positive experience.,2026-2027
+Anil Reddy,FDB000673,STU20260337,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Anil Reddy,FDB000674,STU20260337,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Naveen Babu,FDB000675,STU20260338,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Babu,FDB000676,STU20260338,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Veda Babu,FDB000677,STU20260339,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Veda Babu,FDB000678,STU20260339,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Ananya Murthy,FDB000679,STU20260340,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Ananya Murthy,FDB000680,STU20260340,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Veda Babu,FDB000681,STU20260341,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Veda Babu,FDB000682,STU20260341,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Pranav Mishra,FDB000683,STU20260342,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Pranav Mishra,FDB000684,STU20260342,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sandeep Sahu,FDB000685,STU20260343,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Sandeep Sahu,FDB000686,STU20260343,LMS Experience,2,5,Would benefit from more structured support.,2026-2027
+Riya Murthy,FDB000687,STU20260344,Learning Support,2,3,Would benefit from more structured support.,2026-2027
+Riya Murthy,FDB000688,STU20260344,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Mohan Khan,FDB000689,STU20260345,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Mohan Khan,FDB000690,STU20260345,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Krishna Shetty,FDB000691,STU20260346,LMS Experience,2,3,Would benefit from more structured support.,2026-2027
+Krishna Shetty,FDB000692,STU20260346,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Aarav Sahu,FDB000693,STU20260347,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Aarav Sahu,FDB000694,STU20260347,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Avani Kumar,FDB000695,STU20260348,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Avani Kumar,FDB000696,STU20260348,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rahul Mishra,FDB000697,STU20260349,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Rahul Mishra,FDB000698,STU20260349,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Anil Iyer,FDB000699,STU20260350,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Anil Iyer,FDB000700,STU20260350,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Meera Raju,FDB000701,STU20260351,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Meera Raju,FDB000702,STU20260351,Career Guidance,5,2,Reports a very positive experience.,2026-2027
+Chaitanya Sharma,FDB000703,STU20260352,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Chaitanya Sharma,FDB000704,STU20260352,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Ananya Kashyap,FDB000705,STU20260353,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Ananya Kashyap,FDB000706,STU20260353,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Keerthi Sahu,FDB000707,STU20260354,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Keerthi Sahu,FDB000708,STU20260354,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Patel,FDB000709,STU20260355,LMS Experience,5,2,Reports a very positive experience.,2026-2027
+Dev Patel,FDB000710,STU20260355,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Sai Pillai,FDB000711,STU20260356,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Sai Pillai,FDB000712,STU20260356,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Bhavana Kumar,FDB000713,STU20260357,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Bhavana Kumar,FDB000714,STU20260357,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Naidu,FDB000715,STU20260358,Learning Support,2,5,Would benefit from more structured support.,2026-2027
+Teja Naidu,FDB000716,STU20260358,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Sahu,FDB000717,STU20260359,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Chaitanya Sahu,FDB000718,STU20260359,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Avani Joshi,FDB000719,STU20260360,Course Delivery,2,4,Would benefit from more structured support.,2026-2027
+Avani Joshi,FDB000720,STU20260360,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Khan,FDB000721,STU20260361,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Akshara Khan,FDB000722,STU20260361,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Devi,FDB000723,STU20260362,Campus Engagement,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Devi,FDB000724,STU20260362,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Anil Sahu,FDB000725,STU20260363,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Anil Sahu,FDB000726,STU20260363,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Khan,FDB000727,STU20260364,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Khan,FDB000728,STU20260364,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Kavya Rao,FDB000729,STU20260365,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Kavya Rao,FDB000730,STU20260365,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Pooja Gupta,FDB000731,STU20260366,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Pooja Gupta,FDB000732,STU20260366,Campus Engagement,5,1,Reports a very positive experience.,2026-2027
+Teja Naidu,FDB000733,STU20260367,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Teja Naidu,FDB000734,STU20260367,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Krishna Gupta,FDB000735,STU20260368,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Krishna Gupta,FDB000736,STU20260368,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Aarav Verma,FDB000737,STU20260369,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aarav Verma,FDB000738,STU20260369,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Srinivas Verma,FDB000739,STU20260370,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Srinivas Verma,FDB000740,STU20260370,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Naveen Iyer,FDB000741,STU20260371,LMS Experience,2,2,Would benefit from more structured support.,2026-2027
+Naveen Iyer,FDB000742,STU20260371,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Akshara Murthy,FDB000743,STU20260372,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Murthy,FDB000744,STU20260372,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Kavya Verma,FDB000745,STU20260373,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Verma,FDB000746,STU20260373,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Harsha Naidu,FDB000747,STU20260374,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Harsha Naidu,FDB000748,STU20260374,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Vijay Naidu,FDB000749,STU20260375,Career Guidance,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Vijay Naidu,FDB000750,STU20260375,LMS Experience,5,4,Reports a very positive experience.,2026-2027
+Srinivas Mohanty,FDB000751,STU20260376,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Mohanty,FDB000752,STU20260376,Course Delivery,1,3,Requests additional support and clearer guidance.,2026-2027
+Kavya Das,FDB000753,STU20260377,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Das,FDB000754,STU20260377,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Babu,FDB000755,STU20260378,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Sanjana Babu,FDB000756,STU20260378,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Prasad,FDB000757,STU20260379,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Keerthi Prasad,FDB000758,STU20260379,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Khan,FDB000759,STU20260380,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Sneha Khan,FDB000760,STU20260380,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Singh,FDB000761,STU20260381,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Charan Singh,FDB000762,STU20260381,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Nandini Raju,FDB000763,STU20260382,Learning Support,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Raju,FDB000764,STU20260382,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Rao,FDB000765,STU20260383,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Krishna Rao,FDB000766,STU20260383,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Mohan Murthy,FDB000767,STU20260384,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Mohan Murthy,FDB000768,STU20260384,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Arjun Gupta,FDB000769,STU20260385,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Arjun Gupta,FDB000770,STU20260385,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Akshara Iyer,FDB000771,STU20260386,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Akshara Iyer,FDB000772,STU20260386,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Reddy,FDB000773,STU20260387,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Charan Reddy,FDB000774,STU20260387,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Ananya Devi,FDB000775,STU20260388,Career Guidance,5,2,Reports a very positive experience.,2026-2027
+Ananya Devi,FDB000776,STU20260388,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Meera Rao,FDB000777,STU20260389,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Meera Rao,FDB000778,STU20260389,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Yadav,FDB000779,STU20260390,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Yadav,FDB000780,STU20260390,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Yamini Singh,FDB000781,STU20260391,LMS Experience,5,5,Reports a very positive experience.,2026-2027
+Yamini Singh,FDB000782,STU20260391,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Kumar,FDB000783,STU20260392,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Kumar,FDB000784,STU20260392,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Tarun Khan,FDB000785,STU20260393,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Tarun Khan,FDB000786,STU20260393,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Rohan Kashyap,FDB000787,STU20260394,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Rohan Kashyap,FDB000788,STU20260394,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Goud,FDB000789,STU20260395,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Akshara Goud,FDB000790,STU20260395,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Sharma,FDB000791,STU20260396,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Sharma,FDB000792,STU20260396,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Priya Sharma,FDB000793,STU20260397,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Priya Sharma,FDB000794,STU20260397,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Madhavi Pillai,FDB000795,STU20260398,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Madhavi Pillai,FDB000796,STU20260398,LMS Experience,4,5,Reports a generally positive experience.,2026-2027
+Keerthi Goud,FDB000797,STU20260399,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Keerthi Goud,FDB000798,STU20260399,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Dev Joshi,FDB000799,STU20260400,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Dev Joshi,FDB000800,STU20260400,Career Guidance,1,2,Requests additional support and clearer guidance.,2026-2027
+Naveen Naidu,FDB000801,STU20260401,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Naveen Naidu,FDB000802,STU20260401,Course Delivery,5,5,Reports a very positive experience.,2026-2027
+Aditya Rao,FDB000803,STU20260402,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Rao,FDB000804,STU20260402,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Aditya Jain,FDB000805,STU20260403,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Jain,FDB000806,STU20260403,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Murthy,FDB000807,STU20260404,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Krishna Murthy,FDB000808,STU20260404,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Naidu,FDB000809,STU20260405,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Nikhil Naidu,FDB000810,STU20260405,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Avani Shetty,FDB000811,STU20260406,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Avani Shetty,FDB000812,STU20260406,Career Guidance,2,2,Would benefit from more structured support.,2026-2027
+Srinivas Kashyap,FDB000813,STU20260407,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Kashyap,FDB000814,STU20260407,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Chaitanya Murthy,FDB000815,STU20260408,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Chaitanya Murthy,FDB000816,STU20260408,Course Delivery,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Yamini Kashyap,FDB000817,STU20260409,Learning Support,2,4,Would benefit from more structured support.,2026-2027
+Yamini Kashyap,FDB000818,STU20260409,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Meera Joshi,FDB000819,STU20260410,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Meera Joshi,FDB000820,STU20260410,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Aditya Varma,FDB000821,STU20260411,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Aditya Varma,FDB000822,STU20260411,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Srinivas Verma,FDB000823,STU20260412,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Srinivas Verma,FDB000824,STU20260412,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Rohan Jain,FDB000825,STU20260413,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Rohan Jain,FDB000826,STU20260413,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Nandini Naidu,FDB000827,STU20260414,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Naidu,FDB000828,STU20260414,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Yadav,FDB000829,STU20260415,LMS Experience,4,4,Reports a generally positive experience.,2026-2027
+Dev Yadav,FDB000830,STU20260415,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Harsha Naidu,FDB000831,STU20260416,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Harsha Naidu,FDB000832,STU20260416,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Aditya Yadav,FDB000833,STU20260417,Campus Engagement,4,2,Reports a generally positive experience.,2026-2027
+Aditya Yadav,FDB000834,STU20260417,Learning Support,5,4,Reports a very positive experience.,2026-2027
+Naveen Devi,FDB000835,STU20260418,Learning Support,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Devi,FDB000836,STU20260418,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ananya Jain,FDB000837,STU20260419,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Ananya Jain,FDB000838,STU20260419,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Gupta,FDB000839,STU20260420,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Manoj Gupta,FDB000840,STU20260420,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Sneha Varma,FDB000841,STU20260421,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Varma,FDB000842,STU20260421,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kavya Devi,FDB000843,STU20260422,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Kavya Devi,FDB000844,STU20260422,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Naveen Raju,FDB000845,STU20260423,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Naveen Raju,FDB000846,STU20260423,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Rohan Patel,FDB000847,STU20260424,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Rohan Patel,FDB000848,STU20260424,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Lakshmi Nair,FDB000849,STU20260425,Campus Engagement,2,4,Would benefit from more structured support.,2026-2027
+Lakshmi Nair,FDB000850,STU20260425,Course Delivery,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Das,FDB000851,STU20260426,Campus Engagement,2,5,Would benefit from more structured support.,2026-2027
+Srinivas Das,FDB000852,STU20260426,Career Guidance,4,5,Reports a generally positive experience.,2026-2027
+Srinivas Joshi,FDB000853,STU20260427,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Joshi,FDB000854,STU20260427,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Srinivas Yadav,FDB000855,STU20260428,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Srinivas Yadav,FDB000856,STU20260428,Campus Engagement,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sneha Jain,FDB000857,STU20260429,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Sneha Jain,FDB000858,STU20260429,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Varun Murthy,FDB000859,STU20260430,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Varun Murthy,FDB000860,STU20260430,Career Guidance,2,4,Would benefit from more structured support.,2026-2027
+Siddharth Rao,FDB000861,STU20260431,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Siddharth Rao,FDB000862,STU20260431,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Varun Iyer,FDB000863,STU20260432,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Varun Iyer,FDB000864,STU20260432,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Nandini Joshi,FDB000865,STU20260433,Career Guidance,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nandini Joshi,FDB000866,STU20260433,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Madhavi Mishra,FDB000867,STU20260434,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Mishra,FDB000868,STU20260434,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Reddy,FDB000869,STU20260435,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Kiran Reddy,FDB000870,STU20260435,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Ishaan Devi,FDB000871,STU20260436,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Ishaan Devi,FDB000872,STU20260436,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Priya Verma,FDB000873,STU20260437,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Priya Verma,FDB000874,STU20260437,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Pillai,FDB000875,STU20260438,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Srinivas Pillai,FDB000876,STU20260438,Campus Engagement,2,4,Would benefit from more structured support.,2026-2027
+Meera Jain,FDB000877,STU20260439,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Meera Jain,FDB000878,STU20260439,Career Guidance,5,3,Reports a very positive experience.,2026-2027
+Arjun Nair,FDB000879,STU20260440,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Nair,FDB000880,STU20260440,Course Delivery,4,5,Reports a generally positive experience.,2026-2027
+Teja Chowdary,FDB000881,STU20260441,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Teja Chowdary,FDB000882,STU20260441,Career Guidance,5,1,Reports a very positive experience.,2026-2027
+Deepika Sharma,FDB000883,STU20260442,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Sharma,FDB000884,STU20260442,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Iyer,FDB000885,STU20260443,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Iyer,FDB000886,STU20260443,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Arjun Pillai,FDB000887,STU20260444,Career Guidance,1,3,Requests additional support and clearer guidance.,2026-2027
+Arjun Pillai,FDB000888,STU20260444,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Madhavi Gupta,FDB000889,STU20260445,LMS Experience,3,1,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Madhavi Gupta,FDB000890,STU20260445,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Divya Joshi,FDB000891,STU20260446,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Divya Joshi,FDB000892,STU20260446,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Das,FDB000893,STU20260447,Learning Support,2,2,Would benefit from more structured support.,2026-2027
+Riya Das,FDB000894,STU20260447,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Aarav Chowdary,FDB000895,STU20260448,Career Guidance,5,5,Reports a very positive experience.,2026-2027
+Aarav Chowdary,FDB000896,STU20260448,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Manoj Joshi,FDB000897,STU20260449,Learning Support,5,5,Reports a very positive experience.,2026-2027
+Manoj Joshi,FDB000898,STU20260449,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Nikhil Joshi,FDB000899,STU20260450,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Nikhil Joshi,FDB000900,STU20260450,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Arjun Kumar,FDB000901,STU20260451,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Arjun Kumar,FDB000902,STU20260451,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Anil Gupta,FDB000903,STU20260452,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Anil Gupta,FDB000904,STU20260452,LMS Experience,5,5,Reports a very positive experience.,2026-2027
+Deepika Prasad,FDB000905,STU20260453,Campus Engagement,4,5,Reports a generally positive experience.,2026-2027
+Deepika Prasad,FDB000906,STU20260453,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Chaitanya Kashyap,FDB000907,STU20260454,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Chaitanya Kashyap,FDB000908,STU20260454,Career Guidance,4,2,Reports a generally positive experience.,2026-2027
+Naveen Goud,FDB000909,STU20260455,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Naveen Goud,FDB000910,STU20260455,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Sanjana Jain,FDB000911,STU20260456,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Sanjana Jain,FDB000912,STU20260456,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Pranav Jain,FDB000913,STU20260457,LMS Experience,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Jain,FDB000914,STU20260457,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Pranav Raju,FDB000915,STU20260458,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Pranav Raju,FDB000916,STU20260458,LMS Experience,2,4,Would benefit from more structured support.,2026-2027
+Anil Nair,FDB000917,STU20260459,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Anil Nair,FDB000918,STU20260459,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Kashyap,FDB000919,STU20260460,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Naveen Kashyap,FDB000920,STU20260460,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Aadhya Das,FDB000921,STU20260461,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Das,FDB000922,STU20260461,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Neha Varma,FDB000923,STU20260462,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Varma,FDB000924,STU20260462,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Krishna Jain,FDB000925,STU20260463,Campus Engagement,4,3,Reports a generally positive experience.,2026-2027
+Krishna Jain,FDB000926,STU20260463,Course Delivery,2,3,Would benefit from more structured support.,2026-2027
+Manoj Iyer,FDB000927,STU20260464,Learning Support,4,4,Reports a generally positive experience.,2026-2027
+Manoj Iyer,FDB000928,STU20260464,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Babu,FDB000929,STU20260465,LMS Experience,5,3,Reports a very positive experience.,2026-2027
+Teja Babu,FDB000930,STU20260465,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Riya Jain,FDB000931,STU20260466,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Riya Jain,FDB000932,STU20260466,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Rahul Babu,FDB000933,STU20260467,Course Delivery,2,2,Would benefit from more structured support.,2026-2027
+Rahul Babu,FDB000934,STU20260467,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Priya Gupta,FDB000935,STU20260468,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Priya Gupta,FDB000936,STU20260468,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Charan Singh,FDB000937,STU20260469,Campus Engagement,2,2,Would benefit from more structured support.,2026-2027
+Charan Singh,FDB000938,STU20260469,LMS Experience,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Babu,FDB000939,STU20260470,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Babu,FDB000940,STU20260470,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Dev Raju,FDB000941,STU20260471,Campus Engagement,4,1,Reports a generally positive experience.,2026-2027
+Dev Raju,FDB000942,STU20260471,Career Guidance,2,5,Would benefit from more structured support.,2026-2027
+Sai Das,FDB000943,STU20260472,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Sai Das,FDB000944,STU20260472,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Dev Verma,FDB000945,STU20260473,Campus Engagement,2,4,Would benefit from more structured support.,2026-2027
+Dev Verma,FDB000946,STU20260473,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Chowdary,FDB000947,STU20260474,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Aadhya Chowdary,FDB000948,STU20260474,Course Delivery,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Neha Sharma,FDB000949,STU20260475,Campus Engagement,2,2,Would benefit from more structured support.,2026-2027
+Neha Sharma,FDB000950,STU20260475,Course Delivery,1,3,Requests additional support and clearer guidance.,2026-2027
+Abhinav Varma,FDB000951,STU20260476,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Abhinav Varma,FDB000952,STU20260476,Learning Support,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Avani Mishra,FDB000953,STU20260477,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Avani Mishra,FDB000954,STU20260477,Learning Support,5,3,Reports a very positive experience.,2026-2027
+Varun Babu,FDB000955,STU20260478,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Varun Babu,FDB000956,STU20260478,Career Guidance,4,3,Reports a generally positive experience.,2026-2027
+Anil Gupta,FDB000957,STU20260479,Campus Engagement,4,4,Reports a generally positive experience.,2026-2027
+Anil Gupta,FDB000958,STU20260479,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Kashyap,FDB000959,STU20260480,Career Guidance,2,3,Would benefit from more structured support.,2026-2027
+Srinivas Kashyap,FDB000960,STU20260480,LMS Experience,4,2,Reports a generally positive experience.,2026-2027
+Gowtham Mohanty,FDB000961,STU20260481,Learning Support,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Gowtham Mohanty,FDB000962,STU20260481,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Nair,FDB000963,STU20260482,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Aadhya Nair,FDB000964,STU20260482,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Goud,FDB000965,STU20260483,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Goud,FDB000966,STU20260483,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Prasad,FDB000967,STU20260484,Campus Engagement,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Riya Prasad,FDB000968,STU20260484,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Meera Singh,FDB000969,STU20260485,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Meera Singh,FDB000970,STU20260485,Career Guidance,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Lakshmi Devi,FDB000971,STU20260486,Learning Support,2,5,Would benefit from more structured support.,2026-2027
+Lakshmi Devi,FDB000972,STU20260486,Career Guidance,5,4,Reports a very positive experience.,2026-2027
+Teja Mishra,FDB000973,STU20260487,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Teja Mishra,FDB000974,STU20260487,Learning Support,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Patel,FDB000975,STU20260488,Learning Support,3,5,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aditya Patel,FDB000976,STU20260488,Career Guidance,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Rao,FDB000977,STU20260489,Campus Engagement,2,3,Would benefit from more structured support.,2026-2027
+Deepika Rao,FDB000978,STU20260489,Course Delivery,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Varma,FDB000979,STU20260490,Campus Engagement,5,4,Reports a very positive experience.,2026-2027
+Aadhya Varma,FDB000980,STU20260490,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Akshara Das,FDB000981,STU20260491,Course Delivery,1,2,Requests additional support and clearer guidance.,2026-2027
+Akshara Das,FDB000982,STU20260491,LMS Experience,2,2,Would benefit from more structured support.,2026-2027
+Rahul Babu,FDB000983,STU20260492,Campus Engagement,5,3,Reports a very positive experience.,2026-2027
+Rahul Babu,FDB000984,STU20260492,LMS Experience,3,3,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Deepika Sahu,FDB000985,STU20260493,Learning Support,4,2,Reports a generally positive experience.,2026-2027
+Deepika Sahu,FDB000986,STU20260493,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Pooja Goud,FDB000987,STU20260494,Learning Support,4,5,Reports a generally positive experience.,2026-2027
+Pooja Goud,FDB000988,STU20260494,Course Delivery,4,3,Reports a generally positive experience.,2026-2027
+Sanjana Murthy,FDB000989,STU20260495,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Sanjana Murthy,FDB000990,STU20260495,Learning Support,4,3,Reports a generally positive experience.,2026-2027
+Meera Prasad,FDB000991,STU20260496,Course Delivery,5,4,Reports a very positive experience.,2026-2027
+Meera Prasad,FDB000992,STU20260496,LMS Experience,3,4,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Harsha Khan,FDB000993,STU20260497,Course Delivery,4,4,Reports a generally positive experience.,2026-2027
+Harsha Khan,FDB000994,STU20260497,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Srinivas Prasad,FDB000995,STU20260498,Career Guidance,2,2,Would benefit from more structured support.,2026-2027
+Srinivas Prasad,FDB000996,STU20260498,Campus Engagement,3,2,Feedback is mixed; review if other indicators also show concern.,2026-2027
+Aadhya Gupta,FDB000997,STU20260499,LMS Experience,4,3,Reports a generally positive experience.,2026-2027
+Aadhya Gupta,FDB000998,STU20260499,Career Guidance,4,4,Reports a generally positive experience.,2026-2027
+Tarun Pillai,FDB000999,STU20260500,Course Delivery,4,2,Reports a generally positive experience.,2026-2027
+Tarun Pillai,FDB001000,STU20260500,Learning Support,2,3,Would benefit from more structured support.,2026-2027
