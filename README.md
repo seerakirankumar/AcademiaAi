@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Campus Analytics — CSV-backed full project
 
 A React/Vite/TypeScript frontend (the Academia redesign) and FastAPI backend for a student analytics dashboard. It loads the supplied Excel dataset converted to CSV, computes a transparent student success score and rule-based support indicators, and lets an administrator add students or edit student records. **No SQL database is required.** Student and intervention changes are written back to CSV files; authentication users are stored as password hashes in `data/users.json`.
@@ -111,3 +112,7 @@ The authenticated **AI data assistant** is available from the left navigation. I
 3. Sign in to the app and choose **AI data assistant**.
 
 The assistant uses the Groq API and therefore requires internet access and a valid key. Answers are grounded to the provided context but can still be imperfect; verify important figures against the dashboard/CSV files. Risk indicators are support prompts, not probabilities or final decisions.
+=======
+# AcademiaAi
+Academia AI is an AI-powered student analytics platform that analyzes academic performance, attendance, engagement, skills, and placement readiness through interactive dashboards, risk insights, and an AI assistant to support data-driven decisions and improve student success.
+>>>>>>> ded523df7ed8155e67253772fa74ba751a7d80d4
