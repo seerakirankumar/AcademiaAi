@@ -1,0 +1,223 @@
+{
+  "status": "success",
+  "data": {
+    "student_id": "STU20260001",
+    "student_name": "Neha Singh",
+    "success_score": 66.66,
+    "score_coverage": 1.0,
+    "components": {
+      "academic": {
+        "label": "Academic",
+        "score": 70.02,
+        "weight": 0.4,
+        "effective_weight": 0.4,
+        "points_contributed": 28.01,
+        "input_coverage": 1.0,
+        "inputs": [
+          {
+            "name": "cgpa",
+            "raw_values": {
+              "cgpa": 7.55
+            },
+            "normalized_score": 75.5,
+            "weight_within_component": 0.4,
+            "formula": "cgpa / 10 x 100  (CGPA scale assumed 0-10)"
+          },
+          {
+            "name": "semester_score",
+            "raw_values": {
+              "semester_score_pct": 63.1
+            },
+            "normalized_score": 63.1,
+            "weight_within_component": 0.25,
+            "formula": "semester_score_pct (already 0-100)"
+          },
+          {
+            "name": "internal_score",
+            "raw_values": {
+              "internal_score_pct": 60.2
+            },
+            "normalized_score": 60.2,
+            "weight_within_component": 0.2,
+            "formula": "internal_score_pct (already 0-100)"
+          },
+          {
+            "name": "backlogs",
+            "raw_values": {
+              "backlogs": 1
+            },
+            "normalized_score": 80.0,
+            "weight_within_component": 0.15,
+            "formula": "100 - backlogs x 20  (minimum 0)"
+          }
+        ]
+      },
+      "attendance": {
+        "label": "Attendance",
+        "score": 73.7,
+        "weight": 0.2,
+        "effective_weight": 0.2,
+        "points_contributed": 14.74,
+        "input_coverage": 1.0,
+        "inputs": [
+          {
+            "name": "attendance",
+            "raw_values": {
+              "overall_attendance_pct": 83.7,
+              "subjects_below_attendance_threshold": 2
+            },
+            "normalized_score": 73.7,
+            "weight_within_component": 1.0,
+            "formula": "overall_attendance_pct - subjects_below_attendance_threshold x 5  (clipped to 0-100)"
+          }
+        ]
+      },
+      "lms": {
+        "label": "LMS activity",
+        "score": 65.86,
+        "weight": 0.15,
+        "effective_weight": 0.15,
+        "points_contributed": 9.88,
+        "input_coverage": 1.0,
+        "inputs": [
+          {
+            "name": "assignment_completion",
+            "raw_values": {
+              "assignment_completion_pct": 58.3
+            },
+            "normalized_score": 58.3,
+            "weight_within_component": 0.5,
+            "formula": "assignment_completion_pct (already 0-100)"
+          },
+          {
+            "name": "logins",
+            "raw_values": {
+              "logins_last_30_days": 20
+            },
+            "normalized_score": 100.0,
+            "weight_within_component": 0.25,
+            "formula": "logins_last_30_days / 20 x 100  (capped at 100)"
+          },
+          {
+            "name": "learning_hours",
+            "raw_values": {
+              "avg_weekly_learning_hours": 2.81
+            },
+            "normalized_score": 46.83,
+            "weight_within_component": 0.25,
+            "formula": "avg_weekly_learning_hours / 6 x 100  (capped at 100)"
+          }
+        ]
+      },
+      "placement_readiness": {
+        "label": "Placement readiness",
+        "score": 56.14,
+        "weight": 0.25,
+        "effective_weight": 0.25,
+        "points_contributed": 14.04,
+        "input_coverage": 1.0,
+        "inputs": [
+          {
+            "name": "aptitude",
+            "raw_values": {
+              "aptitude_score": 77.1
+            },
+            "normalized_score": 77.1,
+            "weight_within_component": 0.2,
+            "formula": "aptitude_score (0-100)"
+          },
+          {
+            "name": "coding",
+            "raw_values": {
+              "coding_score": 68.1
+            },
+            "normalized_score": 68.1,
+            "weight_within_component": 0.2,
+            "formula": "coding_score (0-100)"
+          },
+          {
+            "name": "mock_interview",
+            "raw_values": {
+              "mock_interview_score": 60.7
+            },
+            "normalized_score": 60.7,
+            "weight_within_component": 0.15,
+            "formula": "mock_interview_score (0-100)"
+          },
+          {
+            "name": "resume",
+            "raw_values": {
+              "resume_readiness_pct": 43.4
+            },
+            "normalized_score": 43.4,
+            "weight_within_component": 0.15,
+            "formula": "resume_readiness_pct (0-100)"
+          },
+          {
+            "name": "technical_skills",
+            "raw_values": {
+              "technical_skill_score": 39.7
+            },
+            "normalized_score": 39.7,
+            "weight_within_component": 0.2,
+            "formula": "technical_skill_score (0-100)"
+          },
+          {
+            "name": "soft_skills",
+            "raw_values": {
+              "soft_skill_score": 35.5
+            },
+            "normalized_score": 35.5,
+            "weight_within_component": 0.1,
+            "formula": "soft_skill_score (0-100)"
+          }
+        ]
+      }
+    },
+    "formula": {
+      "overall": "success_score = sum(component_score x weight) / sum(weights of available components)",
+      "components": {
+        "academic": {
+          "cgpa": "cgpa / 10 x 100  (CGPA scale assumed 0-10)",
+          "semester_score": "semester_score_pct (already 0-100)",
+          "internal_score": "internal_score_pct (already 0-100)",
+          "backlogs": "100 - backlogs x 20  (minimum 0)"
+        },
+        "attendance": {
+          "attendance": "overall_attendance_pct - subjects_below_attendance_threshold x 5  (clipped to 0-100)"
+        },
+        "lms": {
+          "assignment_completion": "assignment_completion_pct (already 0-100)",
+          "logins": "logins_last_30_days / 20 x 100  (capped at 100)",
+          "learning_hours": "avg_weekly_learning_hours / 6 x 100  (capped at 100)"
+        },
+        "placement_readiness": {
+          "aptitude": "aptitude_score (0-100)",
+          "coding": "coding_score (0-100)",
+          "mock_interview": "mock_interview_score (0-100)",
+          "resume": "resume_readiness_pct (0-100)",
+          "technical_skills": "technical_skill_score (0-100)",
+          "soft_skills": "soft_skill_score (0-100)"
+        }
+      },
+      "missing_data_rule": "Missing inputs are never counted as zero. Remaining inputs are re-weighted; a component needs at least 50% of its input weight and the overall score at least 50% of the total weight, otherwise it is null."
+    },
+    "assumptions": {
+      "overall_weights": {
+        "academic": 0.4,
+        "attendance": 0.2,
+        "lms": 0.15,
+        "placement_readiness": 0.25
+      },
+      "cgpa_scale_max": 10.0,
+      "lms_targets": {
+        "logins_30_days": 20,
+        "weekly_learning_hours": 6
+      },
+      "configured_in": "app/config.py (SCORE_CONFIG)"
+    },
+    "note": "Prototype score from preliminary weights; it needs faculty validation and is not an official institutional measurement.",
+    "is_official_measure": false
+  },
+  "meta": {}
+}

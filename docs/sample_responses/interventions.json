@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": [],
+  "meta": {
+    "total": 0,
+    "count": 0,
+    "limit": 50,
+    "offset": 0,
+    "has_more": false,
+    "status_counts": {}
+  }
+}

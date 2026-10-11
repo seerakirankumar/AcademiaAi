@@ -1,0 +1,133 @@
+{
+  "status": "success",
+  "data": {
+    "service": "healthy",
+    "datasets_loaded": true,
+    "datasets": {
+      "students": {
+        "loaded": true,
+        "file": "students.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "student_name",
+          "department",
+          "year_of_study",
+          "section",
+          "admission_year",
+          "student_email"
+        ],
+        "role": "student features"
+      },
+      "academics": {
+        "loaded": true,
+        "file": "academics.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "cgpa",
+          "backlogs",
+          "internal_score_pct",
+          "semester_score_pct"
+        ],
+        "role": "student features"
+      },
+      "attendance": {
+        "loaded": true,
+        "file": "attendance.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "overall_attendance_pct",
+          "subjects_below_attendance_threshold"
+        ],
+        "role": "student features"
+      },
+      "lms": {
+        "loaded": true,
+        "file": "lms.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "logins_last_30_days",
+          "assignment_completion_pct",
+          "avg_weekly_learning_hours"
+        ],
+        "role": "student features"
+      },
+      "engagement": {
+        "loaded": true,
+        "file": "engagement.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "events_attended",
+          "hackathons_participated",
+          "club_participation",
+          "volunteer_hours"
+        ],
+        "role": "student features"
+      },
+      "placements": {
+        "loaded": true,
+        "file": "placements.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "aptitude_score",
+          "coding_score",
+          "mock_interview_score",
+          "resume_readiness_pct",
+          "placement_status"
+        ],
+        "role": "student features"
+      },
+      "skills": {
+        "loaded": true,
+        "file": "skills.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "technical_skill_score",
+          "soft_skill_score",
+          "certifications_count",
+          "projects_count"
+        ],
+        "role": "student features"
+      },
+      "feedback": {
+        "loaded": true,
+        "file": "feedback.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "student_satisfaction_1_to_5",
+          "faculty_feedback_1_to_5",
+          "support_requested",
+          "feedback_topic"
+        ],
+        "role": "student features"
+      },
+      "interventions": {
+        "loaded": true,
+        "file": "interventions.csv",
+        "rows": 0,
+        "columns": [
+          "intervention_id",
+          "student_id",
+          "intervention_type",
+          "assigned_date",
+          "status",
+          "follow_up_notes"
+        ],
+        "role": "separate history table"
+      }
+    },
+    "student_count": 500,
+    "intervention_count": 0,
+    "warning_count": 0,
+    "warnings": [],
+    "loaded_at": "2026-10-10T15:26:39+00:00"
+  },
+  "meta": {}
+}

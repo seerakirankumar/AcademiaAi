@@ -1,0 +1,148 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "department": "Artificial Intelligence and Machine Learning",
+      "students": 114,
+      "average_success_score": 66.93,
+      "average_cgpa": 7.53,
+      "average_attendance_pct": 79.33,
+      "average_lms_score": 65.85,
+      "average_placement_readiness": 50.82,
+      "flagged_academic_support": 37,
+      "flagged_placement_support": 92,
+      "priority_support": 7,
+      "strong_placement_readiness": 0,
+      "placed_students": 1,
+      "segments": {
+        "High readiness": 16,
+        "Developing": 46,
+        "Needs support": 45,
+        "Priority support": 7
+      }
+    },
+    {
+      "department": "Civil Engineering",
+      "students": 26,
+      "average_success_score": 63.94,
+      "average_cgpa": 7.18,
+      "average_attendance_pct": 78.18,
+      "average_lms_score": 60.25,
+      "average_placement_readiness": 48.72,
+      "flagged_academic_support": 11,
+      "flagged_placement_support": 20,
+      "priority_support": 3,
+      "strong_placement_readiness": 0,
+      "placed_students": 0,
+      "segments": {
+        "High readiness": 2,
+        "Developing": 11,
+        "Needs support": 10,
+        "Priority support": 3
+      }
+    },
+    {
+      "department": "Computer Science and Engineering",
+      "students": 107,
+      "average_success_score": 65.27,
+      "average_cgpa": 7.42,
+      "average_attendance_pct": 76.25,
+      "average_lms_score": 66.25,
+      "average_placement_readiness": 49.84,
+      "flagged_academic_support": 45,
+      "flagged_placement_support": 82,
+      "priority_support": 8,
+      "strong_placement_readiness": 2,
+      "placed_students": 2,
+      "segments": {
+        "High readiness": 12,
+        "Developing": 33,
+        "Needs support": 54,
+        "Priority support": 8
+      }
+    },
+    {
+      "department": "Electrical and Electronics Engineering",
+      "students": 55,
+      "average_success_score": 61.6,
+      "average_cgpa": 7.05,
+      "average_attendance_pct": 72.56,
+      "average_lms_score": 65.51,
+      "average_placement_readiness": 46.3,
+      "flagged_academic_support": 28,
+      "flagged_placement_support": 49,
+      "priority_support": 13,
+      "strong_placement_readiness": 0,
+      "placed_students": 0,
+      "segments": {
+        "High readiness": 3,
+        "Developing": 17,
+        "Needs support": 22,
+        "Priority support": 13
+      }
+    },
+    {
+      "department": "Electronics and Communication Engineering",
+      "students": 75,
+      "average_success_score": 65.26,
+      "average_cgpa": 7.33,
+      "average_attendance_pct": 76.44,
+      "average_lms_score": 69.37,
+      "average_placement_readiness": 48.89,
+      "flagged_academic_support": 22,
+      "flagged_placement_support": 61,
+      "priority_support": 7,
+      "strong_placement_readiness": 0,
+      "placed_students": 0,
+      "segments": {
+        "High readiness": 11,
+        "Developing": 27,
+        "Needs support": 30,
+        "Priority support": 7
+      }
+    },
+    {
+      "department": "Information Technology",
+      "students": 75,
+      "average_success_score": 66.47,
+      "average_cgpa": 7.43,
+      "average_attendance_pct": 79.15,
+      "average_lms_score": 67.15,
+      "average_placement_readiness": 50.01,
+      "flagged_academic_support": 27,
+      "flagged_placement_support": 58,
+      "priority_support": 11,
+      "strong_placement_readiness": 2,
+      "placed_students": 0,
+      "segments": {
+        "High readiness": 13,
+        "Developing": 28,
+        "Needs support": 23,
+        "Priority support": 11
+      }
+    },
+    {
+      "department": "Mechanical Engineering",
+      "students": 48,
+      "average_success_score": 66.9,
+      "average_cgpa": 7.58,
+      "average_attendance_pct": 77.05,
+      "average_lms_score": 70.08,
+      "average_placement_readiness": 51.03,
+      "flagged_academic_support": 18,
+      "flagged_placement_support": 39,
+      "priority_support": 3,
+      "strong_placement_readiness": 1,
+      "placed_students": 0,
+      "segments": {
+        "High readiness": 8,
+        "Developing": 15,
+        "Needs support": 22,
+        "Priority support": 3
+      }
+    }
+  ],
+  "meta": {
+    "count": 7
+  }
+}

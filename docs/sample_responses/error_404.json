@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "error": {
+    "code": 404,
+    "type": "not_found",
+    "message": "Student 'STU99999999' was not found.",
+    "details": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "error",
+  "error": {
+    "code": 422,
+    "type": "validation_error",
+    "message": "The request is invalid. Check the 'details' list.",
+    "details": [
+      {
+        "field": "limit",
+        "message": "Input should be greater than or equal to 1"
+      }
+    ]
+  }
+}

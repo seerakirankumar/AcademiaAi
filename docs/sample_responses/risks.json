@@ -1,0 +1,331 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "student_id": "STU20260154",
+      "student_name": "Riya Yadav",
+      "department": "Information Technology",
+      "year_of_study": 3,
+      "section": "C",
+      "success_score": 47.25,
+      "segment": "Priority support",
+      "academic_risk": {
+        "level": "High",
+        "points": 13,
+        "max_points": 17,
+        "reasons": [
+          "CGPA is 4.57 (below 5.5 on the 0-10 scale)",
+          "Semester score is 35.0% (below 40%)",
+          "Internal assessment score is 35.4% (below 40%)",
+          "3 backlog(s) recorded (3 or more)",
+          "Assignment completion is 31.6% (below 50%)",
+          "Student asked for support (feedback topic: Campus Engagement)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Arrange academic tutoring or a meeting with the faculty mentor",
+          "Plan a structured revision schedule for upcoming exams",
+          "Review internal assessment feedback with the course faculty",
+          "Build a backlog-clearing plan with exam dates and tutoring support",
+          "Set up a weekly assignment checklist with a mentor check-in",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      },
+      "placement_risk": {
+        "level": "High",
+        "points": 12,
+        "max_points": 13,
+        "reasons": [
+          "Aptitude score is 22.9 (below 40)",
+          "Coding score is 12.3 (below 40)",
+          "Mock interview score is 35.0 (below 40)",
+          "Resume readiness is 29.5% (below 40%)",
+          "Technical skill score is 29.0 (below 40)",
+          "Soft skill score is 21.0 (below 50)",
+          "Student asked for support (feedback topic: Campus Engagement)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Start a daily aptitude practice routine (quantitative, logical, verbal)",
+          "Follow a graded coding practice plan with regular problem-solving sessions",
+          "Schedule mock interviews with feedback from the placement team",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      }
+    },
+    {
+      "student_id": "STU20260256",
+      "student_name": "Harsha Goud",
+      "department": "Electronics and Communication Engineering",
+      "year_of_study": 3,
+      "section": "B",
+      "success_score": 39.64,
+      "segment": "Priority support",
+      "academic_risk": {
+        "level": "High",
+        "points": 15,
+        "max_points": 17,
+        "reasons": [
+          "CGPA is 5.12 (below 5.5 on the 0-10 scale)",
+          "Semester score is 43.7% (below 55%)",
+          "Internal assessment score is 38.8% (below 40%)",
+          "4 backlog(s) recorded (3 or more)",
+          "Overall attendance is 58.4% (below 65%)",
+          "Attendance is below the required threshold in 5 subjects",
+          "Assignment completion is 50.0% (below 70%)",
+          "Student asked for support (feedback topic: Campus Engagement)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Arrange academic tutoring or a meeting with the faculty mentor",
+          "Plan a structured revision schedule for upcoming exams",
+          "Review internal assessment feedback with the course faculty",
+          "Build a backlog-clearing plan with exam dates and tutoring support",
+          "Offer attendance counselling and find out what is blocking attendance",
+          "Prioritise catching up on the subjects with short attendance",
+          "Set up a weekly assignment checklist with a mentor check-in",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      },
+      "placement_risk": {
+        "level": "High",
+        "points": 10,
+        "max_points": 13,
+        "reasons": [
+          "Aptitude score is 46.7 (below 55)",
+          "Coding score is 14.9 (below 40)",
+          "Mock interview score is 45.0 (below 55)",
+          "Resume readiness is 25.8% (below 40%)",
+          "Technical skill score is 19.5 (below 40)",
+          "Soft skill score is 19.0 (below 50)",
+          "Student asked for support (feedback topic: Campus Engagement)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Start a daily aptitude practice routine (quantitative, logical, verbal)",
+          "Follow a graded coding practice plan with regular problem-solving sessions",
+          "Schedule mock interviews with feedback from the placement team",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      }
+    },
+    {
+      "student_id": "STU20260279",
+      "student_name": "Teja Mohanty",
+      "department": "Electrical and Electronics Engineering",
+      "year_of_study": 2,
+      "section": "C",
+      "success_score": 41.78,
+      "segment": "Priority support",
+      "academic_risk": {
+        "level": "High",
+        "points": 13,
+        "max_points": 17,
+        "reasons": [
+          "CGPA is 4.55 (below 5.5 on the 0-10 scale)",
+          "Semester score is 39.9% (below 40%)",
+          "Internal assessment score is 43.5% (below 55%)",
+          "2 backlog(s) recorded (1 or more)",
+          "Overall attendance is 55.9% (below 65%)",
+          "Attendance is below the required threshold in 5 subjects",
+          "Assignment completion is 54.5% (below 70%)",
+          "Student asked for support (feedback topic: Course Delivery)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Arrange academic tutoring or a meeting with the faculty mentor",
+          "Plan a structured revision schedule for upcoming exams",
+          "Review internal assessment feedback with the course faculty",
+          "Build a backlog-clearing plan with exam dates and tutoring support",
+          "Offer attendance counselling and find out what is blocking attendance",
+          "Prioritise catching up on the subjects with short attendance",
+          "Set up a weekly assignment checklist with a mentor check-in",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      },
+      "placement_risk": {
+        "level": "High",
+        "points": 12,
+        "max_points": 13,
+        "reasons": [
+          "Aptitude score is 46.6 (below 55)",
+          "Coding score is 25.7 (below 40)",
+          "Mock interview score is 16.0 (below 40)",
+          "Resume readiness is 38.6% (below 40%)",
+          "Technical skill score is 28.8 (below 40)",
+          "Soft skill score is 41.0 (below 50)",
+          "No projects recorded yet",
+          "Student asked for support (feedback topic: Course Delivery)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Start a daily aptitude practice routine (quantitative, logical, verbal)",
+          "Follow a graded coding practice plan with regular problem-solving sessions",
+          "Schedule mock interviews with feedback from the placement team",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop",
+          "Start one small portfolio project (guided by a mentor)",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      }
+    },
+    {
+      "student_id": "STU20260192",
+      "student_name": "Pranav Yadav",
+      "department": "Artificial Intelligence and Machine Learning",
+      "year_of_study": 3,
+      "section": "C",
+      "success_score": 40.65,
+      "segment": "Priority support",
+      "academic_risk": {
+        "level": "High",
+        "points": 15,
+        "max_points": 17,
+        "reasons": [
+          "CGPA is 5.03 (below 5.5 on the 0-10 scale)",
+          "Semester score is 43.1% (below 55%)",
+          "Internal assessment score is 43.2% (below 55%)",
+          "3 backlog(s) recorded (3 or more)",
+          "Overall attendance is 57.1% (below 65%)",
+          "Attendance is below the required threshold in 5 subjects",
+          "Assignment completion is 37.5% (below 50%)",
+          "Student asked for support (feedback topic: Course Delivery)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Arrange academic tutoring or a meeting with the faculty mentor",
+          "Plan a structured revision schedule for upcoming exams",
+          "Review internal assessment feedback with the course faculty",
+          "Build a backlog-clearing plan with exam dates and tutoring support",
+          "Offer attendance counselling and find out what is blocking attendance",
+          "Prioritise catching up on the subjects with short attendance",
+          "Set up a weekly assignment checklist with a mentor check-in",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      },
+      "placement_risk": {
+        "level": "High",
+        "points": 9,
+        "max_points": 13,
+        "reasons": [
+          "Aptitude score is 29.4 (below 40)",
+          "Coding score is 42.4 (below 55)",
+          "Resume readiness is 8.3% (below 40%)",
+          "Technical skill score is 29.8 (below 40)",
+          "Soft skill score is 33.0 (below 50)",
+          "Student asked for support (feedback topic: Course Delivery)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Start a daily aptitude practice routine (quantitative, logical, verbal)",
+          "Follow a graded coding practice plan with regular problem-solving sessions",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      }
+    },
+    {
+      "student_id": "STU20260170",
+      "student_name": "Vijay Reddy",
+      "department": "Electrical and Electronics Engineering",
+      "year_of_study": 3,
+      "section": "B",
+      "success_score": 47.45,
+      "segment": "Priority support",
+      "academic_risk": {
+        "level": "High",
+        "points": 10,
+        "max_points": 17,
+        "reasons": [
+          "CGPA is 5.35 (below 5.5 on the 0-10 scale)",
+          "Semester score is 47.0% (below 55%)",
+          "Internal assessment score is 45.4% (below 55%)",
+          "3 backlog(s) recorded (3 or more)",
+          "Assignment completion is 50.0% (below 70%)",
+          "Student asked for support (feedback topic: LMS Experience)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Arrange academic tutoring or a meeting with the faculty mentor",
+          "Plan a structured revision schedule for upcoming exams",
+          "Review internal assessment feedback with the course faculty",
+          "Build a backlog-clearing plan with exam dates and tutoring support",
+          "Set up a weekly assignment checklist with a mentor check-in",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      },
+      "placement_risk": {
+        "level": "High",
+        "points": 12,
+        "max_points": 13,
+        "reasons": [
+          "Aptitude score is 19.1 (below 40)",
+          "Coding score is 37.1 (below 40)",
+          "Mock interview score is 27.5 (below 40)",
+          "Resume readiness is 6.4% (below 40%)",
+          "Technical skill score is 25.2 (below 40)",
+          "Soft skill score is 37.0 (below 50)",
+          "Student asked for support (feedback topic: LMS Experience)"
+        ],
+        "suggested_actions": [
+          "Offer a supportive one-to-one conversation with a faculty or placement mentor soon",
+          "Start a daily aptitude practice routine (quantitative, logical, verbal)",
+          "Follow a graded coding practice plan with regular problem-solving sessions",
+          "Schedule mock interviews with feedback from the placement team",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop",
+          "Follow up on the student's own request for support"
+        ],
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false
+      }
+    }
+  ],
+  "meta": {
+    "total": 500,
+    "count": 5,
+    "limit": 5,
+    "offset": 0,
+    "has_more": true,
+    "sorted_by": "academic + placement risk points, highest first",
+    "disclaimer": "Rule-based indicators, not probabilities. Use only to offer support."
+  }
+}

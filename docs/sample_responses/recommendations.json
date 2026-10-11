@@ -1,0 +1,170 @@
+{
+  "status": "success",
+  "data": {
+    "student_id": "STU20260001",
+    "student_name": "Neha Singh",
+    "recommendations": [
+      {
+        "id": "technical_skills",
+        "category": "Placement readiness",
+        "priority": "High",
+        "title": "Strengthen technical skills",
+        "description": "Technical skills are below the level expected for most placement roles.",
+        "suggested_steps": [
+          "Pick one core technology for the target role and follow a guided course",
+          "Apply it in a small hands-on project"
+        ],
+        "based_on": [
+          {
+            "indicator": "technical_skill_score",
+            "label": "Technical skill score",
+            "value": 39.7
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "attendance_support",
+        "category": "Attendance",
+        "priority": "Medium",
+        "title": "Attendance improvement support",
+        "description": "Attendance is below the expected level in 2 subject(s). A short conversation to understand the reasons (health, travel, timetable, motivation) is the best first step.",
+        "suggested_steps": [
+          "Meet the class mentor to identify which subjects are short and why",
+          "Agree on a realistic weekly attendance target",
+          "Ask faculty about make-up classes or notes for missed sessions"
+        ],
+        "based_on": [
+          {
+            "indicator": "overall_attendance_pct",
+            "label": "Overall attendance %",
+            "value": 83.7
+          },
+          {
+            "indicator": "subjects_below_attendance_threshold",
+            "label": "Subjects below threshold",
+            "value": 2
+          }
+        ],
+        "related_intervention_type": "Attendance counselling",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "backlog_preparation",
+        "category": "Academics",
+        "priority": "Medium",
+        "title": "Backlog preparation plan",
+        "description": "1 backlog(s) recorded. Clearing them one at a time with a dated plan is usually more manageable than trying to do everything at once.",
+        "suggested_steps": [
+          "Note the upcoming backlog exam dates",
+          "Clear the backlog with the best chance of passing first",
+          "Join tutoring or peer-study sessions for those subjects"
+        ],
+        "based_on": [
+          {
+            "indicator": "backlogs",
+            "label": "Backlogs",
+            "value": 1
+          }
+        ],
+        "related_intervention_type": "Academic tutoring",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "assignment_completion",
+        "category": "Learning habits",
+        "priority": "Medium",
+        "title": "Assignment completion plan",
+        "description": "A good share of assignments is still pending. A small weekly routine can help catch up.",
+        "suggested_steps": [
+          "List all pending assignments with their deadlines",
+          "Finish one pending assignment every two days, oldest first",
+          "Ask the faculty about extensions for assignments that are already overdue"
+        ],
+        "based_on": [
+          {
+            "indicator": "assignment_completion_pct",
+            "label": "Assignment completion %",
+            "value": 58.3
+          }
+        ],
+        "related_intervention_type": "Mentoring",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "resume_improvement",
+        "category": "Placement readiness",
+        "priority": "Medium",
+        "title": "Resume improvement",
+        "description": "A clear, well-structured resume improves shortlisting chances.",
+        "suggested_steps": [
+          "Get the resume reviewed by the placement team",
+          "Add measurable details to projects and internships",
+          "Keep it to one page with a consistent format"
+        ],
+        "based_on": [
+          {
+            "indicator": "resume_readiness_pct",
+            "label": "Resume readiness %",
+            "value": 43.4
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "soft_skills",
+        "category": "Placement readiness",
+        "priority": "Medium",
+        "title": "Communication and soft-skills practice",
+        "description": "Communication and teamwork matter in interviews and on the job.",
+        "suggested_steps": [
+          "Join a communication or group-discussion workshop",
+          "Practise a 2-minute self-introduction with a friend or mentor"
+        ],
+        "based_on": [
+          {
+            "indicator": "soft_skill_score",
+            "label": "Soft skill score",
+            "value": 35.5
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "lms_engagement",
+        "category": "Learning habits",
+        "priority": "Low",
+        "title": "Increase regular learning time",
+        "description": "LMS activity or weekly learning hours are low. Short, regular study sessions work better than rare long ones.",
+        "suggested_steps": [
+          "Set fixed study slots in the weekly timetable",
+          "Log in to the LMS at least every other day to check new material",
+          "Share a weekly learning-hours goal with the mentor"
+        ],
+        "based_on": [
+          {
+            "indicator": "logins_last_30_days",
+            "label": "Logins in last 30 days",
+            "value": 20
+          },
+          {
+            "indicator": "avg_weekly_learning_hours",
+            "label": "Average weekly learning hours",
+            "value": 2.81
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      }
+    ],
+    "count": 7,
+    "note": "Supportive suggestions generated from the student's recorded indicators. They are for discussion with a mentor, not automatic decisions.",
+    "data_limitations": [
+      "No subject-wise marks are available, so revision plans cannot name subjects."
+    ]
+  },
+  "meta": {}
+}

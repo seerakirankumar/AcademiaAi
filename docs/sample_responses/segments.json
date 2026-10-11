@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "segment": "High readiness",
+      "description": "Success score of 70 or more and no Medium/High risk.",
+      "students": 65,
+      "percentage": 13.0,
+      "average_success_score": 75.9,
+      "average_attendance_pct": 83.19,
+      "average_placement_readiness": 61.25,
+      "by_department": {
+        "Artificial Intelligence and Machine Learning": 16,
+        "Civil Engineering": 2,
+        "Computer Science and Engineering": 12,
+        "Electrical and Electronics Engineering": 3,
+        "Electronics and Communication Engineering": 11,
+        "Information Technology": 13,
+        "Mechanical Engineering": 8
+      }
+    },
+    {
+      "segment": "Developing",
+      "description": "Everyone else: no High risk, a success score of at least 55, and either a score below 70 or one Medium risk flag.",
+      "students": 177,
+      "percentage": 35.4,
+      "average_success_score": 69.72,
+      "average_attendance_pct": 80.38,
+      "average_placement_readiness": 54.01,
+      "by_department": {
+        "Artificial Intelligence and Machine Learning": 46,
+        "Civil Engineering": 11,
+        "Computer Science and Engineering": 33,
+        "Electrical and Electronics Engineering": 17,
+        "Electronics and Communication Engineering": 27,
+        "Information Technology": 28,
+        "Mechanical Engineering": 15
+      }
+    },
+    {
+      "segment": "Needs support",
+      "description": "Not Priority, but success score below 55, or a High risk level, or Medium/High risk in BOTH academic and placement areas.",
+      "students": 206,
+      "percentage": 41.2,
+      "average_success_score": 62.4,
+      "average_attendance_pct": 74.88,
+      "average_placement_readiness": 45.11,
+      "by_department": {
+        "Artificial Intelligence and Machine Learning": 45,
+        "Civil Engineering": 10,
+        "Computer Science and Engineering": 54,
+        "Electrical and Electronics Engineering": 22,
+        "Electronics and Communication Engineering": 30,
+        "Information Technology": 23,
+        "Mechanical Engineering": 22
+      }
+    },
+    {
+      "segment": "Priority support",
+      "description": "Success score below 45, or a High risk level together with a success score below 55.",
+      "students": 52,
+      "percentage": 10.4,
+      "average_success_score": 50.53,
+      "average_attendance_pct": 67.95,
+      "average_placement_readiness": 37.96,
+      "by_department": {
+        "Artificial Intelligence and Machine Learning": 7,
+        "Civil Engineering": 3,
+        "Computer Science and Engineering": 8,
+        "Electrical and Electronics Engineering": 13,
+        "Electronics and Communication Engineering": 7,
+        "Information Technology": 11,
+        "Mechanical Engineering": 3
+      }
+    }
+  ],
+  "meta": {
+    "count": 4,
+    "total_students": 500
+  }
+}

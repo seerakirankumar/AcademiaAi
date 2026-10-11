@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "data": {
+    "total_students": 500,
+    "average_success_score": 65.51,
+    "average_attendance_pct": 77.19,
+    "students_flagged_academic_support": 188,
+    "students_flagged_placement_support": 401,
+    "students_high_priority_support": 52,
+    "students_strong_placement_readiness": 5,
+    "high_risk_academic": 44,
+    "high_risk_placement": 190,
+    "students_with_incomplete_data": 39,
+    "segments": {
+      "High readiness": 65,
+      "Developing": 177,
+      "Needs support": 206,
+      "Priority support": 52
+    },
+    "placement_status_counts": {
+      "Not started": 496,
+      "Placed": 3,
+      "Training": 1
+    },
+    "open_interventions": 0,
+    "total_interventions": 0,
+    "definitions": {
+      "flagged_support": "Risk level in ['Medium', 'High'] (rule-based indicator, not a probability)",
+      "high_priority_support": "Segment 'Priority support': Success score below 45, or a High risk level together with a success score below 55.",
+      "strong_placement_readiness": "Placement readiness score >= 70",
+      "placed_students": "Students with placement_status = 'Placed' have placement risk 'Not applicable' and are not counted as needing placement support."
+    },
+    "disclaimer": "Prototype indicators from preliminary rules; synthetic demo data."
+  },
+  "meta": {}
+}

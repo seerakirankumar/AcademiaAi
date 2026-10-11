@@ -1,0 +1,292 @@
+{
+  "status": "success",
+  "data": {
+    "student_id": "STU20260001",
+    "personal": {
+      "student_name": "Neha Singh",
+      "department": "Mechanical Engineering",
+      "year_of_study": 1,
+      "section": "C",
+      "admission_year": 2026,
+      "student_email": "acd20260001@students.academia-demo.edu"
+    },
+    "academics": {
+      "cgpa": 7.55,
+      "backlogs": 1,
+      "internal_score_pct": 60.2,
+      "semester_score_pct": 63.1,
+      "cgpa_scale_max": 10.0
+    },
+    "attendance": {
+      "overall_attendance_pct": 83.7,
+      "subjects_below_attendance_threshold": 2
+    },
+    "lms": {
+      "logins_last_30_days": 20,
+      "assignment_completion_pct": 58.3,
+      "avg_weekly_learning_hours": 2.81
+    },
+    "engagement": {
+      "events_attended": 1,
+      "hackathons_participated": 1,
+      "club_participation": "None",
+      "volunteer_hours": 0.0
+    },
+    "feedback": {
+      "student_satisfaction_1_to_5": 4.0,
+      "faculty_feedback_1_to_5": 3.5,
+      "support_requested": "No",
+      "feedback_topic": "Campus Engagement"
+    },
+    "skills": {
+      "technical_skill_score": 39.7,
+      "soft_skill_score": 35.5,
+      "certifications_count": 0,
+      "projects_count": 1
+    },
+    "placement": {
+      "aptitude_score": 77.1,
+      "coding_score": 68.1,
+      "mock_interview_score": 60.7,
+      "resume_readiness_pct": 43.4,
+      "placement_status": "Not started"
+    },
+    "success_score": {
+      "score": 66.66,
+      "coverage": 1.0,
+      "components": {
+        "academic": {
+          "score": 70.02,
+          "weight": 0.4
+        },
+        "attendance": {
+          "score": 73.7,
+          "weight": 0.2
+        },
+        "lms": {
+          "score": 65.86,
+          "weight": 0.15
+        },
+        "placement_readiness": {
+          "score": 56.14,
+          "weight": 0.25
+        }
+      },
+      "details_endpoint": "/api/students/STU20260001/score",
+      "note": "Prototype score from preliminary weights; it needs faculty validation and is not an official institutional measurement."
+    },
+    "segment": {
+      "name": "Developing",
+      "description": "Everyone else: no High risk, a success score of at least 55, and either a score below 70 or one Medium risk flag."
+    },
+    "risk": {
+      "academic": {
+        "risk_type": "academic",
+        "level": "Low",
+        "points": 3,
+        "max_points": 17,
+        "reasons": [
+          "1 backlog(s) recorded (1 or more)",
+          "Attendance is below the required threshold in 2 subjects",
+          "Assignment completion is 58.3% (below 70%)"
+        ],
+        "suggested_actions": [
+          "No specific support indicated by these rules; continue routine monitoring"
+        ],
+        "evaluated_indicators": 8,
+        "total_indicators": 8,
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false,
+        "disclaimer": "Rule-based indicator, not a probability or a prediction. Intended only to help faculty offer support; never use it to make automatic adverse decisions."
+      },
+      "placement": {
+        "risk_type": "placement",
+        "level": "Medium",
+        "points": 4,
+        "max_points": 13,
+        "reasons": [
+          "Resume readiness is 43.4% (below 55%)",
+          "Technical skill score is 39.7 (below 40)",
+          "Soft skill score is 35.5 (below 50)"
+        ],
+        "suggested_actions": [
+          "Check in with the student and agree on one or two small improvement goals",
+          "Get the resume reviewed and improved with the placement team",
+          "Strengthen core technical skills through a guided course or lab practice",
+          "Join a communication or group-discussion workshop"
+        ],
+        "evaluated_indicators": 8,
+        "total_indicators": 8,
+        "missing_inputs": [],
+        "note": null,
+        "is_probability": false,
+        "disclaimer": "Rule-based indicator, not a probability or a prediction. Intended only to help faculty offer support; never use it to make automatic adverse decisions."
+      },
+      "disclaimer": "Rule-based indicator, not a probability or a prediction. Intended only to help faculty offer support; never use it to make automatic adverse decisions."
+    },
+    "recommendations": [
+      {
+        "id": "technical_skills",
+        "category": "Placement readiness",
+        "priority": "High",
+        "title": "Strengthen technical skills",
+        "description": "Technical skills are below the level expected for most placement roles.",
+        "suggested_steps": [
+          "Pick one core technology for the target role and follow a guided course",
+          "Apply it in a small hands-on project"
+        ],
+        "based_on": [
+          {
+            "indicator": "technical_skill_score",
+            "label": "Technical skill score",
+            "value": 39.7
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "attendance_support",
+        "category": "Attendance",
+        "priority": "Medium",
+        "title": "Attendance improvement support",
+        "description": "Attendance is below the expected level in 2 subject(s). A short conversation to understand the reasons (health, travel, timetable, motivation) is the best first step.",
+        "suggested_steps": [
+          "Meet the class mentor to identify which subjects are short and why",
+          "Agree on a realistic weekly attendance target",
+          "Ask faculty about make-up classes or notes for missed sessions"
+        ],
+        "based_on": [
+          {
+            "indicator": "overall_attendance_pct",
+            "label": "Overall attendance %",
+            "value": 83.7
+          },
+          {
+            "indicator": "subjects_below_attendance_threshold",
+            "label": "Subjects below threshold",
+            "value": 2
+          }
+        ],
+        "related_intervention_type": "Attendance counselling",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "backlog_preparation",
+        "category": "Academics",
+        "priority": "Medium",
+        "title": "Backlog preparation plan",
+        "description": "1 backlog(s) recorded. Clearing them one at a time with a dated plan is usually more manageable than trying to do everything at once.",
+        "suggested_steps": [
+          "Note the upcoming backlog exam dates",
+          "Clear the backlog with the best chance of passing first",
+          "Join tutoring or peer-study sessions for those subjects"
+        ],
+        "based_on": [
+          {
+            "indicator": "backlogs",
+            "label": "Backlogs",
+            "value": 1
+          }
+        ],
+        "related_intervention_type": "Academic tutoring",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "assignment_completion",
+        "category": "Learning habits",
+        "priority": "Medium",
+        "title": "Assignment completion plan",
+        "description": "A good share of assignments is still pending. A small weekly routine can help catch up.",
+        "suggested_steps": [
+          "List all pending assignments with their deadlines",
+          "Finish one pending assignment every two days, oldest first",
+          "Ask the faculty about extensions for assignments that are already overdue"
+        ],
+        "based_on": [
+          {
+            "indicator": "assignment_completion_pct",
+            "label": "Assignment completion %",
+            "value": 58.3
+          }
+        ],
+        "related_intervention_type": "Mentoring",
+        "existing_open_intervention": null
+      },
+      {
+        "id": "resume_improvement",
+        "category": "Placement readiness",
+        "priority": "Medium",
+        "title": "Resume improvement",
+        "description": "A clear, well-structured resume improves shortlisting chances.",
+        "suggested_steps": [
+          "Get the resume reviewed by the placement team",
+          "Add measurable details to projects and internships",
+          "Keep it to one page with a consistent format"
+        ],
+        "based_on": [
+          {
+            "indicator": "resume_readiness_pct",
+            "label": "Resume readiness %",
+            "value": 43.4
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "soft_skills",
+        "category": "Placement readiness",
+        "priority": "Medium",
+        "title": "Communication and soft-skills practice",
+        "description": "Communication and teamwork matter in interviews and on the job.",
+        "suggested_steps": [
+          "Join a communication or group-discussion workshop",
+          "Practise a 2-minute self-introduction with a friend or mentor"
+        ],
+        "based_on": [
+          {
+            "indicator": "soft_skill_score",
+            "label": "Soft skill score",
+            "value": 35.5
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      },
+      {
+        "id": "lms_engagement",
+        "category": "Learning habits",
+        "priority": "Low",
+        "title": "Increase regular learning time",
+        "description": "LMS activity or weekly learning hours are low. Short, regular study sessions work better than rare long ones.",
+        "suggested_steps": [
+          "Set fixed study slots in the weekly timetable",
+          "Log in to the LMS at least every other day to check new material",
+          "Share a weekly learning-hours goal with the mentor"
+        ],
+        "based_on": [
+          {
+            "indicator": "logins_last_30_days",
+            "label": "Logins in last 30 days",
+            "value": 20
+          },
+          {
+            "indicator": "avg_weekly_learning_hours",
+            "label": "Average weekly learning hours",
+            "value": 2.81
+          }
+        ],
+        "related_intervention_type": null,
+        "existing_open_intervention": null
+      }
+    ],
+    "interventions": [],
+    "data_quality": {
+      "completeness_pct": 100.0,
+      "missing_fields": []
+    }
+  },
+  "meta": {}
+}

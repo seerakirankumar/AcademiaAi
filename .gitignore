@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+frontend/node_modules/
+frontend/dist/
+data/users.json
+data/*.tmp
+# Student-level records may contain personal data; provision approved data privately.
+data/*.csv
+data/source_sheets/*.csv

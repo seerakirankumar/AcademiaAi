@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "data": {
+    "available": false,
+    "reason": "Trend analysis is unavailable: every student dataset holds a single snapshot per student (one row per student_id, no dates or repeated measurements), so changes over time cannot be calculated. No trend values have been generated.",
+    "datasets_checked": [
+      {
+        "dataset": "academics",
+        "file": "academics.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "attendance",
+        "file": "attendance.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "lms",
+        "file": "lms.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "engagement",
+        "file": "engagement.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "placements",
+        "file": "placements.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "skills",
+        "file": "skills.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "feedback",
+        "file": "feedback.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      },
+      {
+        "dataset": "students",
+        "file": "students.csv",
+        "date_like_columns": [],
+        "max_rows_per_student": 1
+      }
+    ],
+    "student_trends": [],
+    "intervention_activity": {
+      "note": "Only the intervention log has dates. This shows how many interventions were assigned per week; it says NOTHING about student performance trends.",
+      "date_range": {
+        "first": null,
+        "last": null
+      },
+      "weekly_counts": []
+    },
+    "how_to_enable": "Provide repeated measurements (e.g. attendance or scores per month/semester with a date column) and extend this endpoint."
+  },
+  "meta": {}
+}

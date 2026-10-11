@@ -1,0 +1,198 @@
+{
+  "status": "success",
+  "data": {
+    "departments": [
+      "Artificial Intelligence and Machine Learning",
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Electrical and Electronics Engineering",
+      "Electronics and Communication Engineering",
+      "Information Technology",
+      "Mechanical Engineering"
+    ],
+    "years_of_study": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "admission_years": [
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "sections": [
+      "A",
+      "B",
+      "C"
+    ],
+    "placement_statuses": [
+      "Not started",
+      "Placed",
+      "Training"
+    ],
+    "risk_levels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "all_risk_level_values": [
+      "Low",
+      "Medium",
+      "High",
+      "Not applicable",
+      "Insufficient data"
+    ],
+    "segments": [
+      "High readiness",
+      "Developing",
+      "Needs support",
+      "Priority support"
+    ],
+    "intervention_types": [
+      "Academic tutoring",
+      "Aptitude training",
+      "Attendance counselling",
+      "Coding practice",
+      "Mentoring",
+      "Mock interview"
+    ],
+    "intervention_statuses": [
+      "Recommended",
+      "Assigned",
+      "In progress",
+      "Completed"
+    ],
+    "score_weights": {
+      "academic": 0.4,
+      "attendance": 0.2,
+      "lms": 0.15,
+      "placement_readiness": 0.25
+    },
+    "segment_rules": {
+      "priority_score_below": 45,
+      "priority_high_risk_score_below": 55,
+      "needs_support_score_below": 55,
+      "high_readiness_min_score": 70
+    },
+    "datasets": {
+      "students": {
+        "file": "students.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "student_name",
+          "department",
+          "year_of_study",
+          "section",
+          "admission_year",
+          "student_email"
+        ],
+        "role": "student features"
+      },
+      "academics": {
+        "file": "academics.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "cgpa",
+          "backlogs",
+          "internal_score_pct",
+          "semester_score_pct"
+        ],
+        "role": "student features"
+      },
+      "attendance": {
+        "file": "attendance.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "overall_attendance_pct",
+          "subjects_below_attendance_threshold"
+        ],
+        "role": "student features"
+      },
+      "lms": {
+        "file": "lms.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "logins_last_30_days",
+          "assignment_completion_pct",
+          "avg_weekly_learning_hours"
+        ],
+        "role": "student features"
+      },
+      "engagement": {
+        "file": "engagement.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "events_attended",
+          "hackathons_participated",
+          "club_participation",
+          "volunteer_hours"
+        ],
+        "role": "student features"
+      },
+      "placements": {
+        "file": "placements.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "aptitude_score",
+          "coding_score",
+          "mock_interview_score",
+          "resume_readiness_pct",
+          "placement_status"
+        ],
+        "role": "student features"
+      },
+      "skills": {
+        "file": "skills.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "technical_skill_score",
+          "soft_skill_score",
+          "certifications_count",
+          "projects_count"
+        ],
+        "role": "student features"
+      },
+      "feedback": {
+        "file": "feedback.csv",
+        "rows": 500,
+        "columns": [
+          "student_id",
+          "student_satisfaction_1_to_5",
+          "faculty_feedback_1_to_5",
+          "support_requested",
+          "feedback_topic"
+        ],
+        "role": "student features"
+      },
+      "interventions": {
+        "file": "interventions.csv",
+        "rows": 0,
+        "columns": [
+          "intervention_id",
+          "student_id",
+          "intervention_type",
+          "assigned_date",
+          "status",
+          "follow_up_notes"
+        ],
+        "role": "separate history table"
+      }
+    },
+    "data_notes": [
+      "Dataset imported from the supplied workbook and transformed into working CSV tables.",
+      "Scores and support indicators use preliminary rule-based assumptions; they are not probabilities.",
+      "CSV files in the data folder are the source of truth; admin changes are written to these files."
+    ],
+    "warnings": []
+  },
+  "meta": {}
+}

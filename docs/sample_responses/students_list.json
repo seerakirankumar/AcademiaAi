@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "student_id": "STU20260001",
+      "student_name": "Neha Singh",
+      "department": "Mechanical Engineering",
+      "year_of_study": 1,
+      "section": "C",
+      "cgpa": 7.55,
+      "overall_attendance_pct": 83.7,
+      "placement_status": "Not started",
+      "success_score": 66.66,
+      "academic_risk_level": "Low",
+      "placement_risk_level": "Medium",
+      "segment": "Developing"
+    },
+    {
+      "student_id": "STU20260002",
+      "student_name": "Aditya Devi",
+      "department": "Computer Science and Engineering",
+      "year_of_study": 2,
+      "section": "B",
+      "cgpa": 7.43,
+      "overall_attendance_pct": 70.5,
+      "placement_status": "Not started",
+      "success_score": 54.58,
+      "academic_risk_level": "Medium",
+      "placement_risk_level": "High",
+      "segment": "Priority support"
+    },
+    {
+      "student_id": "STU20260003",
+      "student_name": "Naveen Mishra",
+      "department": "Artificial Intelligence and Machine Learning",
+      "year_of_study": 3,
+      "section": "B",
+      "cgpa": 7.66,
+      "overall_attendance_pct": 64.2,
+      "placement_status": "Not started",
+      "success_score": 65.65,
+      "academic_risk_level": "Medium",
+      "placement_risk_level": "Medium",
+      "segment": "Needs support"
+    },
+    {
+      "student_id": "STU20260004",
+      "student_name": "Neha Gupta",
+      "department": "Electronics and Communication Engineering",
+      "year_of_study": 1,
+      "section": "C",
+      "cgpa": 9.86,
+      "overall_attendance_pct": 36.5,
+      "placement_status": "Not started",
+      "success_score": 70.03,
+      "academic_risk_level": "Medium",
+      "placement_risk_level": "Medium",
+      "segment": "Needs support"
+    },
+    {
+      "student_id": "STU20260005",
+      "student_name": "Harsha Naidu",
+      "department": "Artificial Intelligence and Machine Learning",
+      "year_of_study": 3,
+      "section": "B",
+      "cgpa": 6.5,
+      "overall_attendance_pct": 76.4,
+      "placement_status": "Not started",
+      "success_score": 56.92,
+      "academic_risk_level": "Medium",
+      "placement_risk_level": "Medium",
+      "segment": "Needs support"
+    }
+  ],
+  "meta": {
+    "total": 500,
+    "count": 5,
+    "limit": 5,
+    "offset": 0,
+    "has_more": true
+  }
+}
