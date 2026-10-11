@@ -156,7 +156,7 @@ Users can ask questions instead of manually navigating datasets and filtering re
 
 Example questions include:
 
-- "Give me 10 students who have Git skills."
+- "Give me 10 students who have java skills."
 - "Which students may need academic support?"
 - "Summarize student attendance and academic performance."
 - "Find students who need placement preparation."
